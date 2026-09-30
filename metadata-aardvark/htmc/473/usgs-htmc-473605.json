@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-473605",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Charlotte, NC 1905",
+  "dct_alternative_sm": [
+    "Charlotte"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1905 edition of the Charlotte, North Carolina, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1905.",
+    "Sheet size: 21.89 x 27.29 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5eb3ed7682ce25b5135a820c",
+    "urn:uuid:7b0b7d4a-944a-e3ea-f119-cd75b6bcdb86"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.75 35,-80.75 35.25,-81 35.25,-81 35,-80.75 35))",
+  "dcat_bbox": "ENVELOPE(-81, -80.75, 35.25, 35)",
+  "dcat_centroid": "35.125,-80.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161722",
+    "usgs-htmc-161726",
+    "usgs-htmc-164178",
+    "usgs-htmc-164180",
+    "usgs-htmc-473604"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Charlotte_473605_1905_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/48000/NC_Charlotte_473605_1905_48000_geo.pdf\",\"label\":\"GeoPDF (14.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Charlotte_473605_1905_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/48000/NC_Charlotte_473605_1905_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5eb3ed7682ce25b5135a820c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/48000/NC_Charlotte_473605_1905_48000_tn.jpg\"}"
+}

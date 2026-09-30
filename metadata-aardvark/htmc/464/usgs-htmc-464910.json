@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-464910",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for White Horse Hills, AZ 1966 (printed 1978)",
+  "dct_alternative_sm": [
+    "White Horse Hills"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the White Horse Hills, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1964; field checked in 1966; photo inspected in 1974; photo revised in 1974; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 21.26 x 26.66 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Coconino County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ca4f907e4b0b8a7f6358881",
+    "urn:uuid:27d954c7-ef7f-802b-3136-1460c94e4e0e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.625 35.375,-111.625 35.5,-111.75 35.5,-111.75 35.375,-111.625 35.375))",
+  "dcat_bbox": "ENVELOPE(-111.75, -111.625, 35.5, 35.375)",
+  "dcat_centroid": "35.4375,-111.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-314050",
+    "usgs-htmc-314051",
+    "usgs-htmc-314052",
+    "usgs-htmc-464912"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_White%20Horse%20Hills_464910_1966_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_White%20Horse%20Hills_464910_1966_24000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_White%20Horse%20Hills_464910_1966_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_White_Horse_Hills_464910_1966_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ca4f907e4b0b8a7f6358881\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_White%20Horse%20Hills_464910_1966_24000_tn.jpg\"}"
+}

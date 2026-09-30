@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-188262",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Lawrenceville, VA 1921",
+  "dct_alternative_sm": [
+    "Lawrenceville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Lawrenceville, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1918.",
+    "Variations: woodland tint. Sheet size: 16.42 x 19.79 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Brunswick County, Virginia",
+    "Dinwiddie County, Virginia",
+    "Nottoway County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e3be4b00f54eb4056b5",
+    "urn:uuid:ee146491-748e-02a1-a655-ec6a035ddcd6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.75 36.75,-77.75 37,-78 37,-78 36.75,-77.75 36.75))",
+  "dcat_bbox": "ENVELOPE(-78, -77.75, 37, 36.75)",
+  "dcat_centroid": "36.875,-77.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-187708",
+    "usgs-htmc-188258",
+    "usgs-htmc-188259",
+    "usgs-htmc-188267"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Lawrenceville_188262_1921_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Lawrenceville_188262_1921_62500_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Lawrenceville_188262_1921_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/62500/VA_Lawrenceville_188262_1921_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e3be4b00f54eb4056b5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Lawrenceville_188262_1921_62500_tn.jpg\"}"
+}

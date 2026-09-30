@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-282837",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Ritter, OR 1950 (printed 1964)",
+  "dct_alternative_sm": [
+    "Ritter"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Ritter, Oregon, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1946; field checked in 1950; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 16.8 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Grant County, Oregon",
+    "Umatilla County, Oregon",
+    "Morrow County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a398be4b00f54eb3e2145",
+    "urn:uuid:83fceeda-da7c-bf60-cf82-5af60ccd8055"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119 44.75,-119 45,-119.25 45,-119.25 44.75,-119 44.75))",
+  "dcat_bbox": "ENVELOPE(-119.25, -119, 45, 44.75)",
+  "dcat_centroid": "44.875,-119.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-282836",
+    "usgs-htmc-282838",
+    "usgs-htmc-282839"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Ritter_282837_1950_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Ritter_282837_1950_62500_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Ritter_282837_1950_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/62500/OR_Ritter_282837_1950_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a398be4b00f54eb3e2145\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Ritter_282837_1950_62500_tn.jpg\"}"
+}

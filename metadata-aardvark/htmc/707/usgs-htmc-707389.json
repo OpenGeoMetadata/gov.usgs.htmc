@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-707389",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Harrison, AR 1949",
+  "dct_alternative_sm": [
+    "Harrison"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Harrison, Arkansas, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Surveyed in 1946; aerial photographs from 1945; printed in 1949.",
+    "Variations: woodland tint, shaded relief. Sheet size: 31.8 x 23.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2a5de4b00f54eb3c8618",
+    "urn:uuid:80b51ec0-c7d0-d274-5be9-cb3ac100b83b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 36,-92 37,-94 37,-94 36,-92 36))",
+  "dcat_bbox": "ENVELOPE(-94, -92, 37, 36)",
+  "dcat_centroid": "36.5,-93",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260591",
+    "usgs-htmc-260592",
+    "usgs-htmc-260593",
+    "usgs-htmc-260595",
+    "usgs-htmc-465106"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Harrison_707389_1949_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/250000/AR_Harrison_707389_1949_250000_geo.pdf\",\"label\":\"GeoPDF (19.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Harrison_707389_1949_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/250000/AR_Harrison_707389_1949_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2a5de4b00f54eb3c8618\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/250000/AR_Harrison_707389_1949_250000_tn.jpg\"}"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-164350",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pinnacle, NC 1964 (printed 1965)",
+  "dct_alternative_sm": [
+    "Pinnacle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Pinnacle, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1962; field checked in 1964; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 21.8 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Stokes County, North Carolina",
+    "Surry County, North Carolina",
+    "Forsyth County, North Carolina",
+    "Yadkin County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5358e4b00f54eb40f5f3",
+    "urn:uuid:1de78563-c414-57e2-249f-067ee96ec190"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.375 36.25,-80.375 36.375,-80.5 36.375,-80.5 36.25,-80.375 36.25))",
+  "dcat_bbox": "ENVELOPE(-80.5, -80.375, 36.375, 36.25)",
+  "dcat_centroid": "36.3125,-80.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-163009",
+    "usgs-htmc-163010",
+    "usgs-htmc-164351"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Pinnacle_164350_1964_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Pinnacle_164350_1964_24000_geo.pdf\",\"label\":\"GeoPDF (14.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Pinnacle_164350_1964_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Pinnacle_164350_1964_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5358e4b00f54eb40f5f3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Pinnacle_164350_1964_24000_tn.jpg\"}"
+}

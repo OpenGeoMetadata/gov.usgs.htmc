@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-321481",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Carson Sink, NV 1979",
+  "dct_alternative_sm": [
+    "Carson Sink"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Carson Sink, Nevada, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1974; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 40.8 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Churchill County, Nevada",
+    "Pershing County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bc7e4b00f54eb3e58fa",
+    "urn:uuid:1f047f57-7eff-842f-4c35-c4fd8d4ef26a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 39.5,-118 40,-119 40,-119 39.5,-118 39.5))",
+  "dcat_bbox": "ENVELOPE(-119, -118, 40, 39.5)",
+  "dcat_centroid": "39.75,-118.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-318352"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Carson%20Sink_321481_1979_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Carson%20Sink_321481_1979_100000_geo.pdf\",\"label\":\"GeoPDF (24.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Carson%20Sink_321481_1979_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/100000/NV_Carson_Sink_321481_1979_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bc7e4b00f54eb3e58fa\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Carson%20Sink_321481_1979_100000_tn.jpg\"}"
+}

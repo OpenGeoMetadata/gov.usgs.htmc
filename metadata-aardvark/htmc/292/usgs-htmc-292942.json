@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-292942",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Midway, CA 1953 (printed 1981)",
+  "dct_alternative_sm": [
+    "Midway"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Midway, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1912; aerial photographs from 1978; field checked in 1953; photo revised in 1980; last revised in 1980; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Alameda County, California",
+    "San Joaquin County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3151e4b00f54eb3d3a0c",
+    "urn:uuid:bea6b12b-fb82-54d5-6a36-da1eb5e764cd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.5 37.625,-121.5 37.75,-121.625 37.75,-121.625 37.625,-121.5 37.625))",
+  "dcat_bbox": "ENVELOPE(-121.625, -121.5, 37.75, 37.625)",
+  "dcat_centroid": "37.6875,-121.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-101589",
+    "usgs-htmc-292938",
+    "usgs-htmc-292939",
+    "usgs-htmc-292940",
+    "usgs-htmc-292941",
+    "usgs-htmc-296312",
+    "usgs-htmc-296313",
+    "usgs-htmc-296314"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Midway_292942_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Midway_292942_1953_24000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Midway_292942_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Midway_292942_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3151e4b00f54eb3d3a0c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Midway_292942_1953_24000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-310835",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cherry Spring Peak, AZ 1996 (printed 2003)",
+  "dct_alternative_sm": [
+    "Cherry Spring Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1996 edition of the Cherry Spring Peak, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1975; aerial photographs from 1996; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Cochise County, Arizona",
+    "Graham County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b9fe4b00f54eb400cd2",
+    "urn:uuid:b10a75c8-0963-63b7-6511-14206f11d24f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.25 32.375,-110.25 32.5,-110.375 32.5,-110.375 32.375,-110.25 32.375))",
+  "dcat_bbox": "ENVELOPE(-110.375, -110.25, 32.5, 32.375)",
+  "dcat_centroid": "32.4375,-110.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310832",
+    "usgs-htmc-310833",
+    "usgs-htmc-310834"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Cherry%20Spring%20Peak_310835_1996_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Cherry%20Spring%20Peak_310835_1996_24000_geo.pdf\",\"label\":\"GeoPDF (17.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Cherry%20Spring%20Peak_310835_1996_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_Cherry_Spring_Peak_310835_1996_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b9fe4b00f54eb400cd2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Cherry%20Spring%20Peak_310835_1996_24000_tn.jpg\"}"
+}

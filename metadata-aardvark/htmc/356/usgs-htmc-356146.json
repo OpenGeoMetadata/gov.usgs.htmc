@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-356146",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Icy Bay D-2 and D-3, AK 1951",
+  "dct_alternative_sm": [
+    "Icy Bay D-2 and D-3"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Icy Bay D-2 and D-3, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1948; field checked in 1948.",
+    "Variations: woodland tint. Sheet size: 19 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Yakutat, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a525be4b00f54eb40d822",
+    "urn:uuid:f13827d9-12a3-20ee-a0c5-31528a1119f0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-141.375 59.75,-141.375 60,-141.875 60,-141.875 59.75,-141.375 59.75))",
+  "dcat_bbox": "ENVELOPE(-141.875, -141.375, 60, 59.75)",
+  "dcat_centroid": "59.875,-141.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-356144",
+    "usgs-htmc-356145",
+    "usgs-htmc-356147",
+    "usgs-htmc-356148",
+    "usgs-htmc-463805"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Icy%20Bay%20D-2%20and%20D-3_356146_1951_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Icy%20Bay%20D-2%20and%20D-3_356146_1951_63360_geo.pdf\",\"label\":\"GeoPDF (7.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Icy%20Bay%20D-2%20and%20D-3_356146_1951_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Icy_Bay_D2_and_D3_356146_1951_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a525be4b00f54eb40d822\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Icy%20Bay%20D-2%20and%20D-3_356146_1951_63360_tn.jpg\"}"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-306845",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Wesley, ME 1941 (printed 1968)",
+  "dct_alternative_sm": [
+    "Wesley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Wesley, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1941; printed in 1968.",
+    "Variations: woodland tint. Sheet size: 16.5 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1968]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d7ce4b00f54eb404082",
+    "urn:uuid:88c2456e-cf6d-515e-7e0d-c97fb2ff9fd2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-67.5 44.75,-67.5 45,-67.75 45,-67.75 44.75,-67.5 44.75))",
+  "dcat_bbox": "ENVELOPE(-67.75, -67.5, 45, 44.75)",
+  "dcat_centroid": "44.875,-67.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306846",
+    "usgs-htmc-306847",
+    "usgs-htmc-461018",
+    "usgs-htmc-461019"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Wesley_306845_1941_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Wesley_306845_1941_62500_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Wesley_306845_1941_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Wesley_306845_1941_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d7ce4b00f54eb404082\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Wesley_306845_1941_62500_tn.jpg\"}"
+}

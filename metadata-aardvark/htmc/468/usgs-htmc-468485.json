@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-468485",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Herscher, IL 1925",
+  "dct_alternative_sm": [
+    "Herscher"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1925 edition of the Herscher, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1923.",
+    "Sheet size: 16.22 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Kankakee County, Illinois",
+    "Will County, Illinois",
+    "Grundy County, Illinois",
+    "Livingston County, Illinois",
+    "Iroquois County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ea40de382cefae35a1d54dd",
+    "urn:uuid:2a3e4c34-07d8-d1cf-e698-3cbadbf01e74"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 41,-88 41.25,-88.25 41.25,-88.25 41,-88 41))",
+  "dcat_bbox": "ENVELOPE(-88.25, -88, 41.25, 41)",
+  "dcat_centroid": "41.125,-88.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309564",
+    "usgs-htmc-309565",
+    "usgs-htmc-309566"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Herscher_468485_1925_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Herscher_468485_1925_62500_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Herscher_468485_1925_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Herscher_468485_1925_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ea40de382cefae35a1d54dd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Herscher_468485_1925_62500_tn.jpg\"}"
+}

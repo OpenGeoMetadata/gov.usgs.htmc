@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-147574",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Enville, TN 1950 (printed 1973)",
+  "dct_alternative_sm": [
+    "Enville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Enville, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Aerial photographs from 1972; field checked in 1950; photo revised in 1972; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 22 x 27.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Chester County, Tennessee",
+    "Henderson County, Tennessee",
+    "McNairy County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40a9e4b00f54eb3edafb",
+    "urn:uuid:61106910-f670-503a-7c1f-c0d7b442bd10"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.375 35.375,-88.375 35.5,-88.5 35.5,-88.5 35.375,-88.375 35.375))",
+  "dcat_bbox": "ENVELOPE(-88.5, -88.375, 35.5, 35.375)",
+  "dcat_centroid": "35.4375,-88.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-147570",
+    "usgs-htmc-147572",
+    "usgs-htmc-147573"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Enville_147574_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Enville_147574_1950_24000_geo.pdf\",\"label\":\"GeoPDF (13.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Enville_147574_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Enville_147574_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40a9e4b00f54eb3edafb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Enville_147574_1950_24000_tn.jpg\"}"
+}

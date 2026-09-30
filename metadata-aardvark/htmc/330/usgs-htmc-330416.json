@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-330416",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Portland, ME 1963",
+  "dct_alternative_sm": [
+    "Portland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the Portland, Maine, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Field checked in 1956.",
+    "Variations: woodland tint. Sheet size: 27.8 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3787e4b00f54eb3debe9",
+    "urn:uuid:da71ff64-3847-ee58-f987-e0acb3f88dfd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70 43,-70 44,-72 44,-72 43,-70 43))",
+  "dcat_bbox": "ENVELOPE(-72, -70, 44, 43)",
+  "dcat_centroid": "43.5,-71",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330414",
+    "usgs-htmc-330415",
+    "usgs-htmc-460769",
+    "usgs-htmc-461064",
+    "usgs-htmc-707527",
+    "usgs-htmc-707528",
+    "usgs-htmc-807046",
+    "usgs-htmc-807047",
+    "usgs-htmc-807048",
+    "usgs-htmc-807049",
+    "usgs-htmc-807050"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Portland_330416_1963_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Portland_330416_1963_250000_geo.pdf\",\"label\":\"GeoPDF (24.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Portland_330416_1963_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/250000/ME_Portland_330416_1963_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3787e4b00f54eb3debe9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Portland_330416_1963_250000_tn.jpg\"}"
+}

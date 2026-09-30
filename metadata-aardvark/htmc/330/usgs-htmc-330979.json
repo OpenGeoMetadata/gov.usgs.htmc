@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-330979",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bridgeport, CT 1893",
+  "dct_alternative_sm": [
+    "Bridgeport"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Bridgeport, Connecticut, topographic map at 1:62,500 scale (15 x 15 minute series). Surveyed in 1889.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e60e4b00f54eb3ea464",
+    "urn:uuid:62e20908-32c5-aecb-04f2-04a52890fdd0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73 41,-73 41.25,-73.25 41.25,-73.25 41,-73 41))",
+  "dcat_bbox": "ENVELOPE(-73.25, -73, 41.25, 41)",
+  "dcat_centroid": "41.125,-73.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330978",
+    "usgs-htmc-330980",
+    "usgs-htmc-330981",
+    "usgs-htmc-330982",
+    "usgs-htmc-330983",
+    "usgs-htmc-330984",
+    "usgs-htmc-330985",
+    "usgs-htmc-330986",
+    "usgs-htmc-330987"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Bridgeport_330979_1893_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/62500/CT_Bridgeport_330979_1893_62500_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Bridgeport_330979_1893_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/62500/CT_Bridgeport_330979_1893_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e60e4b00f54eb3ea464\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/62500/CT_Bridgeport_330979_1893_62500_tn.jpg\"}"
+}

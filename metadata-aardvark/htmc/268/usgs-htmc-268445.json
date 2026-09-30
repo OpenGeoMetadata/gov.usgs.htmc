@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-268445",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Missoula West, MT 1981",
+  "dct_alternative_sm": [
+    "Missoula West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1981 edition of the Missoula West, Montana, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1979; last revised in 1980; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 36.9 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1981",
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a381ce4b00f54eb3df8f5",
+    "urn:uuid:c9efa9e0-8cdd-ffa0-76e1-787a9fc0b830"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114 46.5,-114 47,-115 47,-115 46.5,-114 46.5))",
+  "dcat_bbox": "ENVELOPE(-115, -114, 47, 46.5)",
+  "dcat_centroid": "46.75,-114.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-239396"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Missoula%20West_268445_1981_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/100000/MT_Missoula%20West_268445_1981_100000_geo.pdf\",\"label\":\"GeoPDF (36.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Missoula%20West_268445_1981_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/100000/MT_Missoula_West_268445_1981_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a381ce4b00f54eb3df8f5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/100000/MT_Missoula%20West_268445_1981_100000_tn.jpg\"}"
+}

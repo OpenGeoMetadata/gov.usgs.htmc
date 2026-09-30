@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-233059",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Gateway, CO 1960 (printed 1966)",
+  "dct_alternative_sm": [
+    "Gateway"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Gateway, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Mesa County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a38c4e4b00f54eb3e0ba7",
+    "urn:uuid:4412c8a8-3b64-592c-d30c-6fa74b9f426c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.875 38.625,-108.875 38.75,-109 38.75,-109 38.625,-108.875 38.625))",
+  "dcat_bbox": "ENVELOPE(-109, -108.875, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-108.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233062",
+    "usgs-htmc-401023",
+    "usgs-htmc-401024",
+    "usgs-htmc-401025",
+    "usgs-htmc-401026",
+    "usgs-htmc-401027",
+    "usgs-htmc-401028"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Gateway_233059_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Gateway_233059_1960_24000_geo.pdf\",\"label\":\"GeoPDF (17.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Gateway_233059_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Gateway_233059_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a38c4e4b00f54eb3e0ba7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Gateway_233059_1960_24000_tn.jpg\"}"
+}

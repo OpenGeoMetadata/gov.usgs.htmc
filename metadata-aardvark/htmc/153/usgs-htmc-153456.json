@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-153456",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Knoxville, TN 1895",
+  "dct_alternative_sm": [
+    "Knoxville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1895 edition of the Knoxville, Tennessee, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1890.",
+    "Sheet size: 16.79 x 19.94 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1895]"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a27e4e4b00f54eb3c47b1",
+    "urn:uuid:95ecf719-e6c0-85ac-502b-d97381b5c605"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.5 35.5,-83.5 36,-84 36,-84 35.5,-83.5 35.5))",
+  "dcat_bbox": "ENVELOPE(-84, -83.5, 36, 35.5)",
+  "dcat_centroid": "35.75,-83.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-148003",
+    "usgs-htmc-153452",
+    "usgs-htmc-153453",
+    "usgs-htmc-153454",
+    "usgs-htmc-153455",
+    "usgs-htmc-153508",
+    "usgs-htmc-153509",
+    "usgs-htmc-153510",
+    "usgs-htmc-153511"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Knoxville_153456_1895_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/125000/TN_Knoxville_153456_1895_125000_geo.pdf\",\"label\":\"GeoPDF (11.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Knoxville_153456_1895_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/125000/TN_Knoxville_153456_1895_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a27e4e4b00f54eb3c47b1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/125000/TN_Knoxville_153456_1895_125000_tn.jpg\"}"
+}

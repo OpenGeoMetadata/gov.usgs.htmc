@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-322562",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Eldon, MO 1959 (printed 1960)",
+  "dct_alternative_sm": [
+    "Eldon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Eldon, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1935; aerial photographs from 1958; last revised in 1959; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Miller County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a250be4b00f54eb3bff78",
+    "urn:uuid:6087a759-b6f5-1277-8f27-971b92580af0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.5 38.25,-92.5 38.375,-92.625 38.375,-92.625 38.25,-92.5 38.25))",
+  "dcat_bbox": "ENVELOPE(-92.625, -92.5, 38.375, 38.25)",
+  "dcat_centroid": "38.3125,-92.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-322561",
+    "usgs-htmc-322563",
+    "usgs-htmc-322564",
+    "usgs-htmc-322565",
+    "usgs-htmc-472152"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Eldon_322562_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Eldon_322562_1959_24000_geo.pdf\",\"label\":\"GeoPDF (12.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Eldon_322562_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Eldon_322562_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a250be4b00f54eb3bff78\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Eldon_322562_1959_24000_tn.jpg\"}"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-292065",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Lake Elsinore, CA 1997 (printed 2000)",
+  "dct_alternative_sm": [
+    "Lake Elsinore"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1997 edition of the Lake Elsinore, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Surveyed in 1951; aerial photographs from 1994; last revised in 1997; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Riverside County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ffde4b00f54eb3d19c9",
+    "urn:uuid:10fbedbb-65dd-72a1-c5cb-c96e2746ebc6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.25 33.625,-117.25 33.75,-117.375 33.75,-117.375 33.625,-117.25 33.625))",
+  "dcat_bbox": "ENVELOPE(-117.375, -117.25, 33.75, 33.625)",
+  "dcat_centroid": "33.6875,-117.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-290325",
+    "usgs-htmc-290326",
+    "usgs-htmc-290327",
+    "usgs-htmc-290328",
+    "usgs-htmc-290329",
+    "usgs-htmc-292063",
+    "usgs-htmc-292064",
+    "usgs-htmc-292066",
+    "usgs-htmc-303020",
+    "usgs-htmc-303021"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Lake%20Elsinore_292065_1997_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Lake%20Elsinore_292065_1997_24000_geo.pdf\",\"label\":\"GeoPDF (19.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Lake%20Elsinore_292065_1997_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Lake_Elsinore_292065_1997_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ffde4b00f54eb3d19c9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Lake%20Elsinore_292065_1997_24000_tn.jpg\"}"
+}

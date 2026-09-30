@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-336940",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Iuka, MS 1914 (printed 1941)",
+  "dct_alternative_sm": [
+    "Iuka"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1914 edition of the Iuka, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1911; printed in 1941.",
+    "Sheet size: 16.4 x 19.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Alabama",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a424be4b00f54eb3f08fe",
+    "urn:uuid:4ff44855-546e-7a33-bbd0-ed5b575f0e0d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 34.75,-88 35,-88.25 35,-88.25 34.75,-88 34.75))",
+  "dcat_bbox": "ENVELOPE(-88.25, -88, 35, 34.75)",
+  "dcat_centroid": "34.875,-88.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-305462",
+    "usgs-htmc-336935",
+    "usgs-htmc-336937",
+    "usgs-htmc-336938",
+    "usgs-htmc-336939"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Iuka_336940_1914_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Iuka_336940_1914_62500_geo.pdf\",\"label\":\"GeoPDF (11.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Iuka_336940_1914_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/62500/MS_Iuka_336940_1914_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a424be4b00f54eb3f08fe\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Iuka_336940_1914_62500_tn.jpg\"}"
+}

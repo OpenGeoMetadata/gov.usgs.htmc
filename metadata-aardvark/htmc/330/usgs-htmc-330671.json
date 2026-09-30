@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-330671",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Montville, CT 1935",
+  "dct_alternative_sm": [
+    "Montville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Montville, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1935.",
+    "Release: Advance. Sheet size: 20.3 x 26.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "dct_spatial_sm": [
+    "New London County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5080e4b00f54eb409e8f",
+    "urn:uuid:ad9eb9c8-51ea-899d-c8d0-72c289503c58"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.125 41.375,-72.125 41.5,-72.25 41.5,-72.25 41.375,-72.125 41.375))",
+  "dcat_bbox": "ENVELOPE(-72.25, -72.125, 41.5, 41.375)",
+  "dcat_centroid": "41.4375,-72.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330672",
+    "usgs-htmc-330673",
+    "usgs-htmc-330674",
+    "usgs-htmc-330675",
+    "usgs-htmc-330676",
+    "usgs-htmc-330928",
+    "usgs-htmc-330929",
+    "usgs-htmc-330930"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Montville_330671_1935_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Montville_330671_1935_24000_geo.pdf\",\"label\":\"GeoPDF (17.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Montville_330671_1935_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Montville_330671_1935_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5080e4b00f54eb409e8f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Montville_330671_1935_24000_tn.jpg\"}"
+}

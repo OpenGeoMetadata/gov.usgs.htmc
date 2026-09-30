@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-256742",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Popes Creek, MD 1953 (printed 1978)",
+  "dct_alternative_sm": [
+    "Popes Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Popes Creek, Maryland, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1943; aerial photographs from 1974; photo revised in 1974; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Charles County, Maryland",
+    "Maryland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4357e4b00f54eb3f2798",
+    "urn:uuid:f57aa2c3-275f-e86c-3a2c-892002d76b21"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.875 38.375,-76.875 38.5,-77 38.5,-77 38.375,-76.875 38.375))",
+  "dcat_bbox": "ENVELOPE(-77, -76.875, 38.5, 38.375)",
+  "dcat_centroid": "38.4375,-76.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-256740",
+    "usgs-htmc-256741",
+    "usgs-htmc-256744",
+    "usgs-htmc-257172",
+    "usgs-htmc-461453"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Popes%20Creek_256742_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Popes%20Creek_256742_1953_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Popes%20Creek_256742_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MD/24000/MD_Popes_Creek_256742_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4357e4b00f54eb3f2798\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Popes%20Creek_256742_1953_24000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-222761",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Monroeton, PA 1969 (printed 1988)",
+  "dct_alternative_sm": [
+    "Monroeton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Monroeton, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1969; field checked in 1969; photo inspected in 1982; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Bradford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33ebe4b00f54eb3d82fc",
+    "urn:uuid:1a5a5eab-9031-da17-73e9-03412a498102"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.375 41.625,-76.375 41.75,-76.5 41.75,-76.5 41.625,-76.375 41.625))",
+  "dcat_bbox": "ENVELOPE(-76.5, -76.375, 41.75, 41.625)",
+  "dcat_centroid": "41.6875,-76.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-171553",
+    "usgs-htmc-171554",
+    "usgs-htmc-222760",
+    "usgs-htmc-222763"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Monroeton_222761_1969_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Monroeton_222761_1969_24000_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Monroeton_222761_1969_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Monroeton_222761_1969_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33ebe4b00f54eb3d82fc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Monroeton_222761_1969_24000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-244094",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Sultan, WA 1921 (printed 1957)",
+  "dct_alternative_sm": [
+    "Sultan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Sultan, Washington, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1921; printed in 1957.",
+    "Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "King County, Washington",
+    "Snohomish County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4413e4b00f54eb3f3bc1",
+    "urn:uuid:d141fce1-df95-bb6d-b290-c62074926600"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.5 47.5,-121.5 48,-122 48,-122 47.5,-121.5 47.5))",
+  "dcat_bbox": "ENVELOPE(-122, -121.5, 48, 47.5)",
+  "dcat_centroid": "47.75,-121.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-244093",
+    "usgs-htmc-244095",
+    "usgs-htmc-244096",
+    "usgs-htmc-244097",
+    "usgs-htmc-244098",
+    "usgs-htmc-244099",
+    "usgs-htmc-244100"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Sultan_244094_1921_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/125000/WA_Sultan_244094_1921_125000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Sultan_244094_1921_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/125000/WA_Sultan_244094_1921_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4413e4b00f54eb3f3bc1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/125000/WA_Sultan_244094_1921_125000_tn.jpg\"}"
+}

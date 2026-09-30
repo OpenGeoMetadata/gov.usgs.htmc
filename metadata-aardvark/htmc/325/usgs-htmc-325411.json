@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-325411",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for West Plains, MO 1984 (printed 1990)",
+  "dct_alternative_sm": [
+    "West Plains"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the West Plains, Missouri, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; photo inspected in 1985; last revised in 1984; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 42 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Oregon County, Missouri",
+    "Howell County, Missouri",
+    "Shannon County, Missouri",
+    "Ripley County, Missouri",
+    "Carter County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f0ee4b00f54eb40704b",
+    "urn:uuid:96476816-e74b-8988-702b-9bb2d4b70e82"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91 36.5,-91 37,-92 37,-92 36.5,-91 36.5))",
+  "dcat_bbox": "ENVELOPE(-92, -91, 37, 36.5)",
+  "dcat_centroid": "36.75,-91.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-325410"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_West%20Plains_325411_1984_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/100000/MO_West%20Plains_325411_1984_100000_geo.pdf\",\"label\":\"GeoPDF (31.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_West%20Plains_325411_1984_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/100000/MO_West_Plains_325411_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f0ee4b00f54eb40704b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/100000/MO_West%20Plains_325411_1984_100000_tn.jpg\"}"
+}

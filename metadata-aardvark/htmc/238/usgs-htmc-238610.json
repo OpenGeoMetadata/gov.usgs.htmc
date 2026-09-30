@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-238610",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Upper Priest Lake, ID 1969 (printed 1993)",
+  "dct_alternative_sm": [
+    "Upper Priest Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Upper Priest Lake, Idaho, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1967; field checked in 1969; last revised in 1992; printed in 1993.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "Bonner County, Idaho",
+    "Boundary County, Idaho",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3abfe4b00f54eb3e3dd0",
+    "urn:uuid:e6ad4e44-29f2-726f-2350-dc8b00a9aed0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.875 48.75,-116.875 48.875,-117 48.875,-117 48.75,-116.875 48.75))",
+  "dcat_bbox": "ENVELOPE(-117, -116.875, 48.875, 48.75)",
+  "dcat_centroid": "48.8125,-116.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-238612",
+    "usgs-htmc-238613",
+    "usgs-htmc-238614",
+    "usgs-htmc-238616"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Upper%20Priest%20Lake_238610_1969_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Upper%20Priest%20Lake_238610_1969_24000_geo.pdf\",\"label\":\"GeoPDF (14.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Upper%20Priest%20Lake_238610_1969_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ID/24000/ID_Upper_Priest_Lake_238610_1969_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3abfe4b00f54eb3e3dd0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Upper%20Priest%20Lake_238610_1969_24000_tn.jpg\"}"
+}

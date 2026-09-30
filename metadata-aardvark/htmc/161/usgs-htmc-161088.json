@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-161088",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cherry Point, NC 1994 (printed 1997)",
+  "dct_alternative_sm": [
+    "Cherry Point"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Cherry Point, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1994; field checked in 1994; printed in 1997.",
+    "Variations: woodland tint. Sheet size: 21.8 x 26.6 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1997]"
+  ],
+  "dct_spatial_sm": [
+    "Craven County, North Carolina",
+    "Pamlico County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5185e4b00f54eb40be95",
+    "urn:uuid:9e53144c-8f9f-f777-61e0-b60b74ca65bc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.75 34.875,-76.75 35,-76.875 35,-76.875 34.875,-76.75 34.875))",
+  "dcat_bbox": "ENVELOPE(-76.875, -76.75, 35, 34.875)",
+  "dcat_centroid": "34.9375,-76.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-164188",
+    "usgs-htmc-164190",
+    "usgs-htmc-164191"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Cherry%20Point_161088_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Cherry%20Point_161088_1994_24000_geo.pdf\",\"label\":\"GeoPDF (18.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Cherry%20Point_161088_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Cherry_Point_161088_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5185e4b00f54eb40be95\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Cherry%20Point_161088_1994_24000_tn.jpg\"}"
+}

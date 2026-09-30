@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-321545",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Pahute Mesa, NV 1979 (printed 1980)",
+  "dct_alternative_sm": [
+    "Pahute Mesa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Pahute Mesa, Nevada, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; last revised in 1979; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 41.4 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Nye County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d173821e4b0941bde5f6abe",
+    "urn:uuid:6dd9bc18-310b-aea6-a76a-2fd4c3544bd6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116 37,-116 37.5,-117 37.5,-117 37,-116 37))",
+  "dcat_bbox": "ENVELOPE(-117, -116, 37.5, 37)",
+  "dcat_centroid": "37.25,-116.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-321546"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Pahute%20Mesa_321545_1979_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Pahute%20Mesa_321545_1979_100000_geo.pdf\",\"label\":\"GeoPDF (21.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Pahute%20Mesa_321545_1979_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/100000/NV_Pahute_Mesa_321545_1979_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d173821e4b0941bde5f6abe\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Pahute%20Mesa_321545_1979_100000_tn.jpg\"}"
+}

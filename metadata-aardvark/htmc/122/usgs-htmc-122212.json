@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-122212",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cuevitas, TX 1972 (printed 1993)",
+  "dct_alternative_sm": [
+    "Cuevitas"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Cuevitas, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1970; field checked in 1972; photo inspected in 1991; photo revised in 1993; printed in 1993.",
+    "Variations: woodland tint. Sheet size: 23.4 x 27.4 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "Jim Hogg County, Texas",
+    "Starr County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d26e4b00f54eb4036d6",
+    "urn:uuid:54cf1233-0b8b-135a-ec57-1ebb4ca06e1b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98.75 26.75,-98.75 26.875,-98.875 26.875,-98.875 26.75,-98.75 26.75))",
+  "dcat_bbox": "ENVELOPE(-98.875, -98.75, 26.875, 26.75)",
+  "dcat_centroid": "26.8125,-98.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-109002"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Cuevitas_122212_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Cuevitas_122212_1972_24000_geo.pdf\",\"label\":\"GeoPDF (10.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Cuevitas_122212_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Cuevitas_122212_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d26e4b00f54eb4036d6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Cuevitas_122212_1972_24000_tn.jpg\"}"
+}

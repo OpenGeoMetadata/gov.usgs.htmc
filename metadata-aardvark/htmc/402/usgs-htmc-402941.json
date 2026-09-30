@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-402941",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Glenwood Springs, CO 1930 (printed 1949)",
+  "dct_alternative_sm": [
+    "Glenwood Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1930 edition of the Glenwood Springs, Colorado, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1927; printed in 1949.",
+    "Sheet size: 17.53 x 21.25 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Garfield County, Colorado",
+    "Eagle County, Colorado",
+    "Rio Blanco County, Colorado",
+    "Routt County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/604ea850d34eb120312037ad",
+    "urn:uuid:1245a031-60d4-e973-edd6-f05d36d1d158"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 39.5,-107 40,-107.5 40,-107.5 39.5,-107 39.5))",
+  "dcat_bbox": "ENVELOPE(-107.5, -107, 40, 39.5)",
+  "dcat_centroid": "39.75,-107.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233086",
+    "usgs-htmc-402940",
+    "usgs-htmc-402942",
+    "usgs-htmc-402943",
+    "usgs-htmc-402944",
+    "usgs-htmc-466946"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Glenwood%20Springs_402941_1930_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Glenwood%20Springs_402941_1930_125000_geo.pdf\",\"label\":\"GeoPDF (8.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Glenwood%20Springs_402941_1930_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/125000/CO_Glenwood_Springs_402941_1930_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/604ea850d34eb120312037ad\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Glenwood%20Springs_402941_1930_125000_tn.jpg\"}"
+}

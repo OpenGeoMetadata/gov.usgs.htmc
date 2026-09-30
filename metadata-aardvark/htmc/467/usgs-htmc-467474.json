@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-467474",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for New Smyrna Beach, FL 1956 (printed 1972)",
+  "dct_alternative_sm": [
+    "New Smyrna Beach"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the New Smyrna Beach, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Surveyed in 1952; aerial photographs from 1970; field checked in 1956; photo revised in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 22.97 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Volusia County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e47d824e4b0ff554f6a41d0",
+    "urn:uuid:c6a51bd7-84a5-7d9a-3f41-0e2f394522f7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.875 29,-80.875 29.125,-81 29.125,-81 29,-80.875 29))",
+  "dcat_bbox": "ENVELOPE(-81, -80.875, 29.125, 29)",
+  "dcat_centroid": "29.0625,-80.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-347653",
+    "usgs-htmc-347654",
+    "usgs-htmc-347655",
+    "usgs-htmc-347656",
+    "usgs-htmc-347657"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_New%20Smyrna%20Beach_467474_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_New%20Smyrna%20Beach_467474_1956_24000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_New%20Smyrna%20Beach_467474_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_New_Smyrna_Beach_467474_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e47d824e4b0ff554f6a41d0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_New%20Smyrna%20Beach_467474_1956_24000_tn.jpg\"}"
+}

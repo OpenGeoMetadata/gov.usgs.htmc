@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-337120",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Toulme, MS 1893",
+  "dct_alternative_sm": [
+    "Toulme"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Toulme, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 16.6 x 19.6 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Louisiana",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a428ce4b00f54eb3f0fc1",
+    "urn:uuid:005fb9d2-49ad-e6f1-6623-2fcb11fd57a4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.25 30,-89.25 30.25,-89.5 30.25,-89.5 30,-89.25 30))",
+  "dcat_bbox": "ENVELOPE(-89.5, -89.25, 30.25, 30)",
+  "dcat_centroid": "30.125,-89.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-337118",
+    "usgs-htmc-337119",
+    "usgs-htmc-337121"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Toulme_337120_1893_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Toulme_337120_1893_62500_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Toulme_337120_1893_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/62500/MS_Toulme_337120_1893_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a428ce4b00f54eb3f0fc1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Toulme_337120_1893_62500_tn.jpg\"}"
+}

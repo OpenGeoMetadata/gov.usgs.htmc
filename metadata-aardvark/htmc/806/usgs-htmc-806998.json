@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-806998",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Eastport, ME 1976",
+  "dct_alternative_sm": [
+    "Eastport"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1976 edition of the Eastport, Maine, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Field checked in 1956; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 29.5 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1976",
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Maine",
+    "Hancock County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3783e4b00f54eb3deb7c",
+    "urn:uuid:12c915f8-4fc9-b9d4-b4b3-8edcc79be16c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66 44,-66 45,-68 45,-68 44,-66 44))",
+  "dcat_bbox": "ENVELOPE(-68, -66, 45, 44)",
+  "dcat_centroid": "44.5,-67",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-806674",
+    "usgs-htmc-806675"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Eastport_806998_1976_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Eastport_806998_1976_250000_geo.pdf\",\"label\":\"GeoPDF (20.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Eastport_806998_1976_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/250000/ME_Eastport_806998_1976_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3783e4b00f54eb3deb7c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Eastport_806998_1976_250000_tn.jpg\"}"
+}

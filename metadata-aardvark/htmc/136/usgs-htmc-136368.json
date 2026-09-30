@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-136368",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Oyster Bay, NY 1900 (printed 1944)",
+  "dct_alternative_sm": [
+    "Oyster Bay"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1900 edition of the Oyster Bay, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1897; printed in 1944.",
+    "Sheet size: 17.1 x 20.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a343ee4b00f54eb3d8ec6",
+    "urn:uuid:efc32e9a-5947-b335-51f5-d130f8cb6232"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.5 40.75,-73.5 41,-73.75 41,-73.75 40.75,-73.5 40.75))",
+  "dcat_bbox": "ENVELOPE(-73.75, -73.5, 41, 40.75)",
+  "dcat_centroid": "40.875,-73.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-136363",
+    "usgs-htmc-136364",
+    "usgs-htmc-136366",
+    "usgs-htmc-136370",
+    "usgs-htmc-148121",
+    "usgs-htmc-148122",
+    "usgs-htmc-148123",
+    "usgs-htmc-148124",
+    "usgs-htmc-148168",
+    "usgs-htmc-148169",
+    "usgs-htmc-148170",
+    "usgs-htmc-148171",
+    "usgs-htmc-148172",
+    "usgs-htmc-148173",
+    "usgs-htmc-148174",
+    "usgs-htmc-148176"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Oyster%20Bay_136368_1900_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Oyster%20Bay_136368_1900_62500_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Oyster%20Bay_136368_1900_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Oyster_Bay_136368_1900_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a343ee4b00f54eb3d8ec6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Oyster%20Bay_136368_1900_62500_tn.jpg\"}"
+}

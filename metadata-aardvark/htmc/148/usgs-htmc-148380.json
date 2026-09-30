@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-148380",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Sackets Harbor, NY 1895 (printed 1925)",
+  "dct_alternative_sm": [
+    "Sackets Harbor"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1895 edition of the Sackets Harbor, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1893; printed in 1925.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3491e4b00f54eb3d9b10",
+    "urn:uuid:177a345c-b590-06d1-42a1-61ed1dd37a59"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76 43.75,-76 44,-76.25 44,-76.25 43.75,-76 43.75))",
+  "dcat_bbox": "ENVELOPE(-76.25, -76, 44, 43.75)",
+  "dcat_centroid": "43.875,-76.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-129270",
+    "usgs-htmc-129271",
+    "usgs-htmc-129273",
+    "usgs-htmc-129275",
+    "usgs-htmc-148381",
+    "usgs-htmc-148382",
+    "usgs-htmc-148383",
+    "usgs-htmc-148384"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Sackets%20Harbor_148380_1895_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Sackets%20Harbor_148380_1895_62500_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Sackets%20Harbor_148380_1895_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Sackets_Harbor_148380_1895_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3491e4b00f54eb3d9b10\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Sackets%20Harbor_148380_1895_62500_tn.jpg\"}"
+}

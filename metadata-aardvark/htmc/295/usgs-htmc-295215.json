@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-295215",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Sing Peak, CA 1992 (printed 1995)",
+  "dct_alternative_sm": [
+    "Sing Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1992 edition of the Sing Peak, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1992; photo inspected in 1992; printed in 1995.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.9 x 26.6 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1992",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_dateRange_drsim": [
+    "[1992 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "Madera County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a34c9e4b00f54eb3da1bb",
+    "urn:uuid:9a3bb704-aaeb-0ecb-353f-b4a621e494a9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.375 37.5,-119.375 37.625,-119.5 37.625,-119.5 37.5,-119.375 37.5))",
+  "dcat_bbox": "ENVELOPE(-119.5, -119.375, 37.625, 37.5)",
+  "dcat_centroid": "37.5625,-119.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-295214",
+    "usgs-htmc-295216"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Sing%20Peak_295215_1992_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Sing%20Peak_295215_1992_24000_geo.pdf\",\"label\":\"GeoPDF (12.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Sing%20Peak_295215_1992_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Sing_Peak_295215_1992_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a34c9e4b00f54eb3da1bb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Sing%20Peak_295215_1992_24000_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-461185",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Thomaston, CT 1956 (printed 1957)",
+  "dct_alternative_sm": [
+    "Thomaston"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Thomaston, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1944; field checked in 1948; last revised in 1956; printed in 1957.",
+    "Variations: woodland tint. Sheet size: 20.4 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Litchfield County, Connecticut",
+    "Hartford County, Connecticut",
+    "New Haven County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50bde4b00f54eb40a639",
+    "urn:uuid:0148dc1c-d0a7-c7e8-8cb7-f10960d0888f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73 41.625,-73 41.75,-73.125 41.75,-73.125 41.625,-73 41.625))",
+  "dcat_bbox": "ENVELOPE(-73.125, -73, 41.75, 41.625)",
+  "dcat_centroid": "41.6875,-73.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330791",
+    "usgs-htmc-330792",
+    "usgs-htmc-461182",
+    "usgs-htmc-461183",
+    "usgs-htmc-461184",
+    "usgs-htmc-461186",
+    "usgs-htmc-461187",
+    "usgs-htmc-461188"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Thomaston_461185_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Thomaston_461185_1956_24000_geo.pdf\",\"label\":\"GeoPDF (17.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Thomaston_461185_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Thomaston_461185_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50bde4b00f54eb40a639\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Thomaston_461185_1956_24000_tn.jpg\"}"
+}

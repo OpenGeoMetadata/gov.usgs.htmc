@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-325519",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Moberly, MO 1890 (printed 1896)",
+  "dct_alternative_sm": [
+    "Moberly"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1890 edition of the Moberly, Missouri, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1896.",
+    "Sheet size: 15.6 x 20.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1896]"
+  ],
+  "dct_spatial_sm": [
+    "Boone County, Missouri",
+    "Audrain County, Missouri",
+    "Monroe County, Missouri",
+    "Randolph County, Missouri",
+    "Callaway County, Missouri",
+    "Howard County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3886e4b00f54eb3e04f0",
+    "urn:uuid:13a2df20-2769-7f2e-3551-3919eb222b90"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 39,-92 39.5,-92.5 39.5,-92.5 39,-92 39))",
+  "dcat_bbox": "ENVELOPE(-92.5, -92, 39.5, 39)",
+  "dcat_centroid": "39.25,-92.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-325518",
+    "usgs-htmc-325520",
+    "usgs-htmc-325521",
+    "usgs-htmc-325522",
+    "usgs-htmc-472278"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Moberly_325519_1890_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/125000/MO_Moberly_325519_1890_125000_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Moberly_325519_1890_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/125000/MO_Moberly_325519_1890_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3886e4b00f54eb3e04f0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/125000/MO_Moberly_325519_1890_125000_tn.jpg\"}"
+}

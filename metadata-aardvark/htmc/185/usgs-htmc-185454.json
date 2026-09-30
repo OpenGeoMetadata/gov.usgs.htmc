@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-185454",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Independent Hill, VA 1994 (printed 1998)",
+  "dct_alternative_sm": [
+    "Independent Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Independent Hill, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1994; printed in 1998.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1998]"
+  ],
+  "dct_spatial_sm": [
+    "Prince William County, Virginia",
+    "Manassas, Virginia",
+    "Fairfax County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a348fe4b00f54eb3d9aa8",
+    "urn:uuid:f987708f-fc90-c5ba-172d-f1a3c727b7e4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.375 38.625,-77.375 38.75,-77.5 38.75,-77.5 38.625,-77.375 38.625))",
+  "dcat_bbox": "ENVELOPE(-77.5, -77.375, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-77.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-185445",
+    "usgs-htmc-185446",
+    "usgs-htmc-185447",
+    "usgs-htmc-185448",
+    "usgs-htmc-185449",
+    "usgs-htmc-185450",
+    "usgs-htmc-185451",
+    "usgs-htmc-185452"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Independent%20Hill_185454_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Independent%20Hill_185454_1994_24000_geo.pdf\",\"label\":\"GeoPDF (16.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Independent%20Hill_185454_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Independent_Hill_185454_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a348fe4b00f54eb3d9aa8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Independent%20Hill_185454_1994_24000_tn.jpg\"}"
+}

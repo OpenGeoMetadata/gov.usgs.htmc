@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-290934",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Gosford, CA 1978 (printed 1981)",
+  "dct_alternative_sm": [
+    "Gosford"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1978 edition of the Gosford, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; printed in 1981.",
+    "Variations: orthophotoquad. Sheet size: 22 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1978",
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2e3be4b00f54eb3cee8f",
+    "urn:uuid:85c19c2e-1e0f-d114-e2b9-95812effb09d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119 35.25,-119 35.375,-119.125 35.375,-119.125 35.25,-119 35.25))",
+  "dcat_bbox": "ENVELOPE(-119.125, -119, 35.375, 35.25)",
+  "dcat_centroid": "35.3125,-119.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102251",
+    "usgs-htmc-290930",
+    "usgs-htmc-290931",
+    "usgs-htmc-290932",
+    "usgs-htmc-296123",
+    "usgs-htmc-296124",
+    "usgs-htmc-465701"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Gosford_290934_1978_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Gosford_290934_1978_24000_geo.pdf\",\"label\":\"GeoPDF (25.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Gosford_290934_1978_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Gosford_290934_1978_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2e3be4b00f54eb3cee8f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Gosford_290934_1978_24000_tn.jpg\"}"
+}

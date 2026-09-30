@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-115037",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pulliam Ranch, TX 1960 (printed 1962)",
+  "dct_alternative_sm": [
+    "Pulliam Ranch"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Pulliam Ranch, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1958; field checked in 1960; printed in 1962.",
+    "Variations: woodland tint. Sheet size: 23 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1962]"
+  ],
+  "dct_spatial_sm": [
+    "Zavala County, Texas",
+    "Uvalde County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a521be4b00f54eb40cfb2",
+    "urn:uuid:8b60c45d-ca61-5777-a369-d93e3bf8aa78"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-99.75 29,-99.75 29.125,-99.875 29.125,-99.875 29,-99.75 29))",
+  "dcat_bbox": "ENVELOPE(-99.875, -99.75, 29.125, 29)",
+  "dcat_centroid": "29.0625,-99.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Pulliam%20Ranch_115037_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Pulliam%20Ranch_115037_1960_24000_geo.pdf\",\"label\":\"GeoPDF (12.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Pulliam%20Ranch_115037_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Pulliam_Ranch_115037_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a521be4b00f54eb40cfb2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Pulliam%20Ranch_115037_1960_24000_tn.jpg\"}"
+}

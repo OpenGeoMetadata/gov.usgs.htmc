@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-342457",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Gallatin, WY 1885 (printed 1895)",
+  "dct_alternative_sm": [
+    "Gallatin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1885 edition of the Gallatin, Wyoming, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1885; printed in 1895.",
+    "Sheet size: 16.1 x 20.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1885",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1895]"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5322e4b00f54eb40ef99",
+    "urn:uuid:6e3ece26-a533-b1ec-58ce-8d303267a369"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.5 44.5,-110.5 45,-111 45,-111 44.5,-110.5 44.5))",
+  "dcat_bbox": "ENVELOPE(-111, -110.5, 45, 44.5)",
+  "dcat_centroid": "44.75,-110.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-342455",
+    "usgs-htmc-342456",
+    "usgs-htmc-342458",
+    "usgs-htmc-342459",
+    "usgs-htmc-342460",
+    "usgs-htmc-342461"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Gallatin_342457_1885_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/125000/WY_Gallatin_342457_1885_125000_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Gallatin_342457_1885_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/125000/WY_Gallatin_342457_1885_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5322e4b00f54eb40ef99\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/125000/WY_Gallatin_342457_1885_125000_tn.jpg\"}"
+}

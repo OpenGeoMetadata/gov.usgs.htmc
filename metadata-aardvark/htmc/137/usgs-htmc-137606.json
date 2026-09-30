@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-137606",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Zavalla 3-c, TX 1928",
+  "dct_alternative_sm": [
+    "Zavalla 3-c"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1928 edition of the Zavalla 3-c, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1928.",
+    "Release: Advance. Sheet size: 23.5 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Angelina County, Texas",
+    "Tyler County, Texas",
+    "Jasper County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a549ae4b00f54eb411d25",
+    "urn:uuid:3369e4e6-18c6-94d9-5d4d-b5d3485b231f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94.375 31,-94.375 31.125,-94.5 31.125,-94.5 31,-94.375 31))",
+  "dcat_bbox": "ENVELOPE(-94.5, -94.375, 31.125, 31)",
+  "dcat_centroid": "31.0625,-94.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-115226",
+    "usgs-htmc-117610"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Zavalla%203-c_137606_1928_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Zavalla%203-c_137606_1928_24000_geo.pdf\",\"label\":\"GeoPDF (11.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Zavalla%203-c_137606_1928_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Zavalla_3c_137606_1928_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a549ae4b00f54eb411d25\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Zavalla%203-c_137606_1928_24000_tn.jpg\"}"
+}

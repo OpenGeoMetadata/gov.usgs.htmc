@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-801414",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Blue Mounds, WI 1922 (printed 1950)",
+  "dct_alternative_sm": [
+    "Blue Mounds"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1922 edition of the Blue Mounds, Wisconsin, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1920; printed in 1950.",
+    "Sheet size: 17.2 x 21.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "gbl_indexYear_im": [
+    1922
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Iowa County, Wisconsin",
+    "Dane County, Wisconsin",
+    "Sauk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a302ee4b00f54eb3d1eac",
+    "urn:uuid:a1bf5545-65ec-e72d-e160-741d6c3a75a3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 43,-89.75 43.25,-90 43.25,-90 43,-89.75 43))",
+  "dcat_bbox": "ENVELOPE(-90, -89.75, 43.25, 43)",
+  "dcat_centroid": "43.125,-89.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-503427",
+    "usgs-htmc-800310",
+    "usgs-htmc-801128",
+    "usgs-htmc-801411",
+    "usgs-htmc-801412",
+    "usgs-htmc-801413"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-16T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Blue%20Mounds_801414_1922_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Blue%20Mounds_801414_1922_62500_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Blue%20Mounds_801414_1922_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/62500/WI_Blue_Mounds_801414_1922_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a302ee4b00f54eb3d1eac\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Blue%20Mounds_801414_1922_62500_tn.jpg\"}"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-330123",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Lovewell Mountain, NH 1942 (printed 1948)",
+  "dct_alternative_sm": [
+    "Lovewell Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Lovewell Mountain, New Hampshire, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1927; last revised in 1936; printed in 1948.",
+    "Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Cheshire County, New Hampshire",
+    "Sullivan County, New Hampshire",
+    "Hillsborough County, New Hampshire",
+    "Merrimack County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50cae4b00f54eb40a7c5",
+    "urn:uuid:b67492c1-ab5d-640a-71ca-2003438f5f3e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72 43,-72 43.25,-72.25 43.25,-72.25 43,-72 43))",
+  "dcat_bbox": "ENVELOPE(-72.25, -72, 43.25, 43)",
+  "dcat_centroid": "43.125,-72.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330120",
+    "usgs-htmc-330121",
+    "usgs-htmc-330122",
+    "usgs-htmc-330124",
+    "usgs-htmc-330125",
+    "usgs-htmc-330126",
+    "usgs-htmc-330127",
+    "usgs-htmc-330128",
+    "usgs-htmc-330129",
+    "usgs-htmc-330130",
+    "usgs-htmc-460057"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Lovewell%20Mountain_330123_1942_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Lovewell%20Mountain_330123_1942_62500_geo.pdf\",\"label\":\"GeoPDF (13.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Lovewell%20Mountain_330123_1942_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/62500/NH_Lovewell_Mountain_330123_1942_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50cae4b00f54eb40a7c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Lovewell%20Mountain_330123_1942_62500_tn.jpg\"}"
+}

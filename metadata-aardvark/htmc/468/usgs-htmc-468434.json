@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-468434",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Effingham South, IL 1985",
+  "dct_alternative_sm": [
+    "Effingham South"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Effingham South, Illinois, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1983; last revised in 1985; printed in 1985.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.74 x 26.89 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Effingham County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ea40a1482cefae35a1d3d78",
+    "urn:uuid:ee38500a-516c-740d-890a-2dc41b203e95"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.5 39,-88.5 39.125,-88.625 39.125,-88.625 39,-88.5 39))",
+  "dcat_bbox": "ENVELOPE(-88.625, -88.5, 39.125, 39)",
+  "dcat_centroid": "39.0625,-88.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-307481"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Effingham%20South_468434_1985_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Effingham%20South_468434_1985_24000_geo.pdf\",\"label\":\"GeoPDF (12.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Effingham%20South_468434_1985_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/24000/IL_Effingham_South_468434_1985_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ea40a1482cefae35a1d3d78\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Effingham%20South_468434_1985_24000_tn.jpg\"}"
+}

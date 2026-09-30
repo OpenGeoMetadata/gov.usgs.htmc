@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-161890",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Baldwin Gap, NC 1959 (printed 1987)",
+  "dct_alternative_sm": [
+    "Baldwin Gap"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Baldwin Gap, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Tennessee Valley Authority. Aerial photographs from 1954; field checked in 1959; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5128e4b00f54eb40b2cd",
+    "urn:uuid:9ef7299f-5bb7-2f21-d9fe-bf89fa28454b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.625 36.375,-81.625 36.5,-81.75 36.5,-81.75 36.375,-81.625 36.375))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.625, 36.5, 36.375)",
+  "dcat_centroid": "36.4375,-81.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161891",
+    "usgs-htmc-161892",
+    "usgs-htmc-163671",
+    "usgs-htmc-163672",
+    "usgs-htmc-163673",
+    "usgs-htmc-163674",
+    "usgs-htmc-163675",
+    "usgs-htmc-473559"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Baldwin%20Gap_161890_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Baldwin%20Gap_161890_1959_24000_geo.pdf\",\"label\":\"GeoPDF (15.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Baldwin%20Gap_161890_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Baldwin_Gap_161890_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5128e4b00f54eb40b2cd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Baldwin%20Gap_161890_1959_24000_tn.jpg\"}"
+}

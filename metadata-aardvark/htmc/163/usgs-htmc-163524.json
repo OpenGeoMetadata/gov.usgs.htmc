@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-163524",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Montreat, NC 1942 (printed 1964)",
+  "dct_alternative_sm": [
+    "Montreat"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Montreat, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Field checked in 1942; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Buncombe County, North Carolina",
+    "McDowell County, North Carolina",
+    "Yancey County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5300e4b00f54eb40ebfe",
+    "urn:uuid:7e7bf6dc-af0b-b5a3-8557-2e3a1bf51e0f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 35.625,-82.25 35.75,-82.375 35.75,-82.375 35.625,-82.25 35.625))",
+  "dcat_bbox": "ENVELOPE(-82.375, -82.25, 35.75, 35.625)",
+  "dcat_centroid": "35.6875,-82.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161658",
+    "usgs-htmc-163523",
+    "usgs-htmc-163525",
+    "usgs-htmc-163526",
+    "usgs-htmc-163527",
+    "usgs-htmc-163528",
+    "usgs-htmc-163530",
+    "usgs-htmc-163531"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Montreat_163524_1942_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Montreat_163524_1942_24000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Montreat_163524_1942_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Montreat_163524_1942_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5300e4b00f54eb40ebfe\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Montreat_163524_1942_24000_tn.jpg\"}"
+}

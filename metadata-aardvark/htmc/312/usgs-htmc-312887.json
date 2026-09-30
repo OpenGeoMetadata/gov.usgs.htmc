@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-312887",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pilot Rock, AZ 1972 (printed 1975)",
+  "dct_alternative_sm": [
+    "Pilot Rock"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Pilot Rock, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1969; field checked in 1972; printed in 1975.",
+    "Sheet size: 22.1 x 27 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Navajo County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e21e4b00f54eb4053b7",
+    "urn:uuid:7e2c7cb2-9701-f7b4-bbb3-e8856a695d63"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-109.875 35.125,-109.875 35.25,-110 35.25,-110 35.125,-109.875 35.125))",
+  "dcat_bbox": "ENVELOPE(-110, -109.875, 35.25, 35.125)",
+  "dcat_centroid": "35.1875,-109.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Pilot%20Rock_312887_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Pilot%20Rock_312887_1972_24000_geo.pdf\",\"label\":\"GeoPDF (8.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Pilot%20Rock_312887_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_Pilot_Rock_312887_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e21e4b00f54eb4053b7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Pilot%20Rock_312887_1972_24000_tn.jpg\"}"
+}

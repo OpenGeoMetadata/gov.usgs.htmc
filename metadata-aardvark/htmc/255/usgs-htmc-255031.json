@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-255031",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for West Creek, NJ 1951",
+  "dct_alternative_sm": [
+    "West Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the West Creek, New Jersey, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1950; field checked in 1951.",
+    "Variations: woodland tint. Sheet size: 20.8 x 28.5 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Ocean County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3be0e4b00f54eb3e5be9",
+    "urn:uuid:98aa82c6-0dd1-0e76-8a65-7d728d413685"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.25 39.625,-74.25 39.75,-74.375 39.75,-74.375 39.625,-74.25 39.625))",
+  "dcat_bbox": "ENVELOPE(-74.375, -74.25, 39.75, 39.625)",
+  "dcat_centroid": "39.6875,-74.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254976",
+    "usgs-htmc-254978",
+    "usgs-htmc-254979",
+    "usgs-htmc-472513"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_West%20Creek_255031_1951_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/25000/NJ_West%20Creek_255031_1951_25000_geo.pdf\",\"label\":\"GeoPDF (18.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_West%20Creek_255031_1951_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/25000/NJ_West_Creek_255031_1951_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3be0e4b00f54eb3e5be9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/25000/NJ_West%20Creek_255031_1951_25000_tn.jpg\"}"
+}

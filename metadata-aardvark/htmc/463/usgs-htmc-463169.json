@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-463169",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bombay Hook, DE 1949",
+  "dct_alternative_sm": [
+    "Bombay Hook"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Bombay Hook, Delaware, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Surveyed in 1946; aerial photographs from 1946; field checked in 1947.",
+    "Sheet size: 22.04 x 26.79 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cb74480e4b0c3b0065d7acd",
+    "urn:uuid:3b5bc973-78e7-8d3d-1357-81d947aa43c7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.375 39.25,-75.375 39.375,-75.5 39.375,-75.5 39.25,-75.375 39.25))",
+  "dcat_bbox": "ENVELOPE(-75.5, -75.375, 39.375, 39.25)",
+  "dcat_centroid": "39.3125,-75.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255488",
+    "usgs-htmc-255490",
+    "usgs-htmc-255491",
+    "usgs-htmc-255492",
+    "usgs-htmc-255493",
+    "usgs-htmc-255494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Bombay%20Hook_463169_1949_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/24000/DE_Bombay%20Hook_463169_1949_24000_geo.pdf\",\"label\":\"GeoPDF (7.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Bombay%20Hook_463169_1949_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/DE/24000/DE_Bombay_Hook_463169_1949_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cb74480e4b0c3b0065d7acd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/24000/DE_Bombay%20Hook_463169_1949_24000_tn.jpg\"}"
+}

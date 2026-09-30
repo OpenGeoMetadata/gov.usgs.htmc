@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-144549",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Watkins Glen, NY 1905 (printed 1914)",
+  "dct_alternative_sm": [
+    "Watkins Glen"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1905 edition of the Watkins Glen, New York, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1899; printed in 1914.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a500fe4b00f54eb408f8f",
+    "urn:uuid:ac319ede-3571-37dc-08d1-cac0abff8a5e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.5 42,-76.5 42.5,-77 42.5,-77 42,-76.5 42))",
+  "dcat_bbox": "ENVELOPE(-77, -76.5, 42.5, 42)",
+  "dcat_centroid": "42.25,-76.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-144547",
+    "usgs-htmc-144550",
+    "usgs-htmc-144553"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Watkins%20Glen_144549_1905_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/125000/NY_Watkins%20Glen_144549_1905_125000_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Watkins%20Glen_144549_1905_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/125000/NY_Watkins_Glen_144549_1905_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a500fe4b00f54eb408f8f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/125000/NY_Watkins%20Glen_144549_1905_125000_tn.jpg\"}"
+}

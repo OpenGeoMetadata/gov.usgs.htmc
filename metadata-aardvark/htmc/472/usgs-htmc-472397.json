@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-472397",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Williamstown, MO 1951",
+  "dct_alternative_sm": [
+    "Williamstown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Williamstown, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1950.",
+    "Sheet size: 22.09 x 27.37 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Lewis County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d2957d1e4b038fabe1d136b",
+    "urn:uuid:43e503c8-954f-fcf8-70a3-1874a1d06891"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.75 40.125,-91.75 40.25,-91.875 40.25,-91.875 40.125,-91.75 40.125))",
+  "dcat_bbox": "ENVELOPE(-91.875, -91.75, 40.25, 40.125)",
+  "dcat_centroid": "40.1875,-91.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324538",
+    "usgs-htmc-324539",
+    "usgs-htmc-324540"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Williamstown_472397_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Williamstown_472397_1951_24000_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Williamstown_472397_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Williamstown_472397_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d2957d1e4b038fabe1d136b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Williamstown_472397_1951_24000_tn.jpg\"}"
+}

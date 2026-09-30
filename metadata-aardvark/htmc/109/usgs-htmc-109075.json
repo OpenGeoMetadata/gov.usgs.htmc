@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-109075",
+  "dct_title_s": "USGS 1:12000-scale Quadrangle for Dallas (A), TX 1968 (printed 1970)",
+  "dct_alternative_sm": [
+    "Dallas (A)"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Dallas (A), Texas, topographic map at 1:12,000 scale (3.75 x 3.75 minute series), published by the U.S. Geological Survey. Surveyed in 1958; aerial photographs from 1968; printed in 1970.",
+    "Variations: woodland tint, orthophotomap. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Dallas County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ac6e4b00f54eb3c91b1",
+    "urn:uuid:a017537f-1a9f-1e94-13b9-271b0be3d979"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "3.75 x 3.75 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.8125 32.8125,-96.8125 32.875,-96.875 32.875,-96.875 32.8125,-96.8125 32.8125))",
+  "dcat_bbox": "ENVELOPE(-96.875, -96.8125, 32.875, 32.8125)",
+  "dcat_centroid": "32.84375,-96.84375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Dallas%20%28A%29_109075_1968_12000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/12000/TX_Dallas%20%28A%29_109075_1968_12000_geo.pdf\",\"label\":\"GeoPDF (18.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Dallas%20%28A%29_109075_1968_12000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/12000/TX_Dallas_A_109075_1968_12000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ac6e4b00f54eb3c91b1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/12000/TX_Dallas%20%28A%29_109075_1968_12000_tn.jpg\"}"
+}

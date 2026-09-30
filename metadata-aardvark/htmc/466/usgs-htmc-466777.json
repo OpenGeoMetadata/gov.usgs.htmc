@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-466777",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Calamity Mesa, CO 1950",
+  "dct_alternative_sm": [
+    "Calamity Mesa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Calamity Mesa, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1949.",
+    "Variations: woodland tint. Sheet size: 21.32 x 26.72 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Mesa County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5de8007de4b02caea0ecd4c9",
+    "urn:uuid:7af85d0a-355b-d243-0282-f2e33ebe3129"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.75 38.5,-108.75 38.625,-108.875 38.625,-108.875 38.5,-108.75 38.5))",
+  "dcat_bbox": "ENVELOPE(-108.875, -108.75, 38.625, 38.5)",
+  "dcat_centroid": "38.5625,-108.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232431",
+    "usgs-htmc-232432",
+    "usgs-htmc-400477",
+    "usgs-htmc-400478",
+    "usgs-htmc-400479",
+    "usgs-htmc-400480",
+    "usgs-htmc-400481"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Calamity%20Mesa_466777_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Calamity%20Mesa_466777_1950_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Calamity%20Mesa_466777_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Calamity_Mesa_466777_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5de8007de4b02caea0ecd4c9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Calamity%20Mesa_466777_1950_24000_tn.jpg\"}"
+}

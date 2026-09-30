@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-451317",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Meridian Hill, CO 1957 (printed 1961)",
+  "dct_alternative_sm": [
+    "Meridian Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Meridian Hill, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1953; field checked in 1957; printed in 1961.",
+    "Sheet size: 22.2 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Clear Creek County, Colorado",
+    "Park County, Colorado",
+    "Jefferson County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b17e4b00f54eb3e4644",
+    "urn:uuid:41ff28e6-b923-04a6-0602-bedfecf627f8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.375 39.5,-105.375 39.625,-105.5 39.625,-105.5 39.5,-105.375 39.5))",
+  "dcat_bbox": "ENVELOPE(-105.5, -105.375, 39.625, 39.5)",
+  "dcat_centroid": "39.5625,-105.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233752",
+    "usgs-htmc-233753",
+    "usgs-htmc-451314",
+    "usgs-htmc-451315",
+    "usgs-htmc-451316",
+    "usgs-htmc-451318"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Meridian%20Hill_451317_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Meridian%20Hill_451317_1957_24000_geo.pdf\",\"label\":\"GeoPDF (7.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Meridian%20Hill_451317_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Meridian_Hill_451317_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b17e4b00f54eb3e4644\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Meridian%20Hill_451317_1957_24000_tn.jpg\"}"
+}

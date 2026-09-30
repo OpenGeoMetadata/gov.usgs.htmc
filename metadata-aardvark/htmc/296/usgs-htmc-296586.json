@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-296586",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Walker Creek, CA 1904",
+  "dct_alternative_sm": [
+    "Walker Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1904 edition of the Walker Creek, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1904.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Glenn County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a521de4b00f54eb40cfda",
+    "urn:uuid:90690b38-6928-5b00-5675-b1aaf4929579"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.25 39.625,-122.25 39.75,-122.375 39.75,-122.375 39.625,-122.25 39.625))",
+  "dcat_bbox": "ENVELOPE(-122.375, -122.25, 39.75, 39.625)",
+  "dcat_centroid": "39.6875,-122.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102195",
+    "usgs-htmc-290733",
+    "usgs-htmc-290734"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Walker%20Creek_296586_1904_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Walker%20Creek_296586_1904_31680_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Walker%20Creek_296586_1904_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Walker_Creek_296586_1904_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a521de4b00f54eb40cfda\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Walker%20Creek_296586_1904_31680_tn.jpg\"}"
+}

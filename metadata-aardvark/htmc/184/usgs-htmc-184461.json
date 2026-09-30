@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-184461",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Chesapeake Channel, VA 1971 (printed 1987)",
+  "dct_alternative_sm": [
+    "Chesapeake Channel"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Chesapeake Channel, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Printed in 1987.",
+    "Sheet size: 22.1 x 28.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Northampton County, Virginia",
+    "Virginia Beach, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33a6e4b00f54eb3d7887",
+    "urn:uuid:7ca36165-0eae-0ef4-aaea-8a22bf947196"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76 37,-76 37.125,-76.125 37.125,-76.125 37,-76 37))",
+  "dcat_bbox": "ENVELOPE(-76.125, -76, 37.125, 37)",
+  "dcat_centroid": "37.0625,-76.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-184460",
+    "usgs-htmc-184463"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Chesapeake%20Channel_184461_1971_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Chesapeake%20Channel_184461_1971_24000_geo.pdf\",\"label\":\"GeoPDF (19.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Chesapeake%20Channel_184461_1971_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Chesapeake_Channel_184461_1971_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33a6e4b00f54eb3d7887\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Chesapeake%20Channel_184461_1971_24000_tn.jpg\"}"
+}

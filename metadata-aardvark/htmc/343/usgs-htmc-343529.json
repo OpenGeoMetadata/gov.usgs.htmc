@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-343529",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kennebec SW, SD 1978 (printed 1979)",
+  "dct_alternative_sm": [
+    "Kennebec SW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1978 edition of the Kennebec SW, South Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1973; field checked in 1975; last revised in 1978; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1978",
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Lyman County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a506ae4b00f54eb409b5e",
+    "urn:uuid:2698c5b9-c82b-f07f-cd25-581ea36eadad"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-99.875 43.75,-99.875 43.875,-100 43.875,-100 43.75,-99.875 43.75))",
+  "dcat_bbox": "ENVELOPE(-100, -99.875, 43.875, 43.75)",
+  "dcat_centroid": "43.8125,-99.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Kennebec%20SW_343529_1978_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Kennebec%20SW_343529_1978_24000_geo.pdf\",\"label\":\"GeoPDF (8.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Kennebec%20SW_343529_1978_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/24000/SD_Kennebec_SW_343529_1978_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a506ae4b00f54eb409b5e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Kennebec%20SW_343529_1978_24000_tn.jpg\"}"
+}

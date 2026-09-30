@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-153305",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Watauga Valley, TN 1935",
+  "dct_alternative_sm": [
+    "Watauga Valley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Watauga Valley, Tennessee, topographic map at 1:48,000 scale (15 x 15 minute series), published by the Tennessee Valley Authority. Field checked in 1935.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 22.02 x 27.47 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "dct_spatial_sm": [
+    "Carter County, Tennessee",
+    "Sullivan County, Tennessee",
+    "Johnson County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50e3e4b00f54eb40aa44",
+    "urn:uuid:97e83410-f179-c91b-d2f8-708be8be6729"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82 36.25,-82 36.5,-82.25 36.5,-82.25 36.25,-82 36.25))",
+  "dcat_bbox": "ENVELOPE(-82.25, -82, 36.5, 36.25)",
+  "dcat_centroid": "36.375,-82.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Watauga%20Valley_153305_1935_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/48000/TN_Watauga%20Valley_153305_1935_48000_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Watauga%20Valley_153305_1935_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/48000/TN_Watauga_Valley_153305_1935_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50e3e4b00f54eb40aa44\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/48000/TN_Watauga%20Valley_153305_1935_48000_tn.jpg\"}"
+}

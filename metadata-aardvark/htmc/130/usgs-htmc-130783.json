@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-130783",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Neversink, NY 1910 (printed 1947)",
+  "dct_alternative_sm": [
+    "Neversink"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Neversink, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1909; printed in 1947.",
+    "Sheet size: 17.1 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Sullivan County, New York",
+    "Ulster County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33fde4b00f54eb3d851d",
+    "urn:uuid:667d7e52-67ab-1108-086d-527e1edcdc3f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.5 41.75,-74.5 42,-74.75 42,-74.75 41.75,-74.5 41.75))",
+  "dcat_bbox": "ENVELOPE(-74.75, -74.5, 42, 41.75)",
+  "dcat_centroid": "41.875,-74.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130776",
+    "usgs-htmc-130780",
+    "usgs-htmc-130781",
+    "usgs-htmc-130782",
+    "usgs-htmc-144204",
+    "usgs-htmc-144205",
+    "usgs-htmc-144206",
+    "usgs-htmc-144208"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Neversink_130783_1910_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Neversink_130783_1910_62500_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Neversink_130783_1910_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Neversink_130783_1910_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33fde4b00f54eb3d851d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Neversink_130783_1910_62500_tn.jpg\"}"
+}

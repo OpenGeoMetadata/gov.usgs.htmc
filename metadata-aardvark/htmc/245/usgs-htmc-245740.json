@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-245740",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fortson, GA 1955 (printed 1986)",
+  "dct_alternative_sm": [
+    "Fortson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Fortson, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1981; photo revised in 1985; last revised in 1985; printed in 1986.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Georgia",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3321e4b00f54eb3d6683",
+    "urn:uuid:fcd12d1a-c2d4-e289-d26d-2e9b2f5c8c56"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.875 32.5,-84.875 32.625,-85 32.625,-85 32.5,-84.875 32.5))",
+  "dcat_bbox": "ENVELOPE(-85, -84.875, 32.625, 32.5)",
+  "dcat_centroid": "32.5625,-84.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-245742",
+    "usgs-htmc-245743",
+    "usgs-htmc-245744",
+    "usgs-htmc-245745",
+    "usgs-htmc-467679",
+    "usgs-htmc-467680"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Fortson_245740_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Fortson_245740_1955_24000_geo.pdf\",\"label\":\"GeoPDF (20.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Fortson_245740_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Fortson_245740_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3321e4b00f54eb3d6683\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Fortson_245740_1955_24000_tn.jpg\"}"
+}

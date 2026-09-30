@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-185897",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Midlothian, VA 1964 (printed 1987)",
+  "dct_alternative_sm": [
+    "Midlothian"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Midlothian, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1964; photo revised in 1987; last revised in 1987; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Goochland County, Virginia",
+    "Powhatan County, Virginia",
+    "Chesterfield County, Virginia",
+    "Henrico County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a350ae4b00f54eb3da9cf",
+    "urn:uuid:7db6ff77-c35d-d9fe-081a-1b2f241d84ed"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.625 37.5,-77.625 37.625,-77.75 37.625,-77.75 37.5,-77.625 37.5))",
+  "dcat_bbox": "ENVELOPE(-77.75, -77.625, 37.625, 37.5)",
+  "dcat_centroid": "37.5625,-77.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-185896",
+    "usgs-htmc-185898",
+    "usgs-htmc-185899",
+    "usgs-htmc-185900",
+    "usgs-htmc-185901",
+    "usgs-htmc-187484",
+    "usgs-htmc-8031300",
+    "usgs-htmc-8031310"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Midlothian_185897_1964_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Midlothian_185897_1964_24000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Midlothian_185897_1964_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Midlothian_185897_1964_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a350ae4b00f54eb3da9cf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Midlothian_185897_1964_24000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-140030",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Ticonderoga, NY 1950 (printed 1966)",
+  "dct_alternative_sm": [
+    "Ticonderoga"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Ticonderoga, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1942; field checked in 1950; printed in 1966.",
+    "Variations: shaded relief. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a493be4b00f54eb3fce60",
+    "urn:uuid:a4030db9-c583-4fb6-873f-561a0a22d46e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.375 43.75,-73.375 43.875,-73.5 43.875,-73.5 43.75,-73.375 43.75))",
+  "dcat_bbox": "ENVELOPE(-73.5, -73.375, 43.875, 43.75)",
+  "dcat_centroid": "43.8125,-73.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-136965",
+    "usgs-htmc-140023",
+    "usgs-htmc-140024",
+    "usgs-htmc-140025",
+    "usgs-htmc-140026",
+    "usgs-htmc-140027",
+    "usgs-htmc-140028",
+    "usgs-htmc-140029"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Ticonderoga_140030_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Ticonderoga_140030_1950_24000_geo.pdf\",\"label\":\"GeoPDF (14.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Ticonderoga_140030_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Ticonderoga_140030_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a493be4b00f54eb3fce60\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Ticonderoga_140030_1950_24000_tn.jpg\"}"
+}

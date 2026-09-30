@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-106190",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Arlington, TX 1959 (printed 1982)",
+  "dct_alternative_sm": [
+    "Arlington"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Arlington, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1959; photo revised in 1981; last revised in 1981; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 21.5 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Tarrant County, Texas",
+    "Dallas County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b2fe4b00f54eb3fff81",
+    "urn:uuid:481739b2-7976-9515-16d6-b9028ee53ab0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97 32.625,-97 32.75,-97.125 32.75,-97.125 32.625,-97 32.625))",
+  "dcat_bbox": "ENVELOPE(-97.125, -97, 32.75, 32.625)",
+  "dcat_centroid": "32.6875,-97.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-106184",
+    "usgs-htmc-106185",
+    "usgs-htmc-106186",
+    "usgs-htmc-106189",
+    "usgs-htmc-106191",
+    "usgs-htmc-121230"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Arlington_106190_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Arlington_106190_1959_24000_geo.pdf\",\"label\":\"GeoPDF (13.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Arlington_106190_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Arlington_106190_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b2fe4b00f54eb3fff81\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Arlington_106190_1959_24000_tn.jpg\"}"
+}

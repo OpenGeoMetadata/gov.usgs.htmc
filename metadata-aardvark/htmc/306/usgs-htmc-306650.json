@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-306650",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Machias, ME 1941 (printed 1956)",
+  "dct_alternative_sm": [
+    "Machias"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Machias, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1917; aerial photographs from 1941; printed in 1956.",
+    "Sheet size: 16.5 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c95e4b00f54eb4028f5",
+    "urn:uuid:345aa08b-d57f-81cd-7634-3f60e9428792"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-67.25 44.5,-67.25 44.75,-67.5 44.75,-67.5 44.5,-67.25 44.5))",
+  "dcat_bbox": "ENVELOPE(-67.5, -67.25, 44.75, 44.5)",
+  "dcat_centroid": "44.625,-67.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306649",
+    "usgs-htmc-460586",
+    "usgs-htmc-460588",
+    "usgs-htmc-460589",
+    "usgs-htmc-807559",
+    "usgs-htmc-807560",
+    "usgs-htmc-807561"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Machias_306650_1941_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Machias_306650_1941_62500_geo.pdf\",\"label\":\"GeoPDF (5.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Machias_306650_1941_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Machias_306650_1941_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c95e4b00f54eb4028f5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Machias_306650_1941_62500_tn.jpg\"}"
+}

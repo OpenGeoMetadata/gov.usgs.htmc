@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-351242",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Provincetown, MA 1972 (printed 1978)",
+  "dct_alternative_sm": [
+    "Provincetown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Provincetown, Massachusetts, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1941; aerial photographs from 1971; field checked in 1972; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Barnstable County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2452e4b00f54eb3bee49",
+    "urn:uuid:ba63b7a7-f0a4-8ebe-9e3b-92452d84d82b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.125 42,-70.125 42.125,-70.25 42.125,-70.25 42,-70.125 42))",
+  "dcat_bbox": "ENVELOPE(-70.25, -70.125, 42.125, 42)",
+  "dcat_centroid": "42.0625,-70.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350490",
+    "usgs-htmc-350491",
+    "usgs-htmc-350492",
+    "usgs-htmc-350493",
+    "usgs-htmc-350494",
+    "usgs-htmc-351243",
+    "usgs-htmc-351244",
+    "usgs-htmc-351245",
+    "usgs-htmc-352103",
+    "usgs-htmc-352104",
+    "usgs-htmc-352105",
+    "usgs-htmc-352107"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Provincetown_351242_1972_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Provincetown_351242_1972_25000_geo.pdf\",\"label\":\"GeoPDF (17.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Provincetown_351242_1972_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_Provincetown_351242_1972_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2452e4b00f54eb3bee49\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Provincetown_351242_1972_25000_tn.jpg\"}"
+}

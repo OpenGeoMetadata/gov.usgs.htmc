@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-804398",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Allen, MN 1949 (printed 1958)",
+  "dct_alternative_sm": [
+    "Allen"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Allen, Minnesota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1949; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 21.28 x 27.32 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4511e4b00f54eb3f57c3",
+    "urn:uuid:b4ee270f-db2c-067c-0ac5-62e847731cbc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 47.5,-92 47.625,-92.125 47.625,-92.125 47.5,-92 47.5))",
+  "dcat_bbox": "ENVELOPE(-92.125, -92, 47.625, 47.5)",
+  "dcat_centroid": "47.5625,-92.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-471120",
+    "usgs-htmc-503763",
+    "usgs-htmc-503764",
+    "usgs-htmc-503765",
+    "usgs-htmc-503766",
+    "usgs-htmc-503767"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Allen_804398_1949_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Allen_804398_1949_24000_geo.pdf\",\"label\":\"GeoPDF (7.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Allen_804398_1949_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/24000/MN_Allen_804398_1949_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4511e4b00f54eb3f57c3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Allen_804398_1949_24000_tn.jpg\"}"
+}

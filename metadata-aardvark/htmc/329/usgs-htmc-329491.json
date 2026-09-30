@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-329491",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bristol, NH 2000 (printed 2001)",
+  "dct_alternative_sm": [
+    "Bristol"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2000 edition of the Bristol, New Hampshire, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; photo inspected in 2000; last revised in 2001; printed in 2001.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "Belknap County, New Hampshire",
+    "Merrimack County, New Hampshire",
+    "Grafton County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ee4e4b00f54eb406b0b",
+    "urn:uuid:bc490cdf-b2d4-75e3-a976-1711ff90c0ca"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.625 43.5,-71.625 43.625,-71.75 43.625,-71.75 43.5,-71.625 43.5))",
+  "dcat_bbox": "ENVELOPE(-71.75, -71.625, 43.625, 43.5)",
+  "dcat_centroid": "43.5625,-71.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-329490"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Bristol_329491_2000_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Bristol_329491_2000_24000_geo.pdf\",\"label\":\"GeoPDF (14.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Bristol_329491_2000_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/24000/NH_Bristol_329491_2000_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ee4e4b00f54eb406b0b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Bristol_329491_2000_24000_tn.jpg\"}"
+}

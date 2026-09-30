@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-801816",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Junction City, KS 1886 (printed 1960)",
+  "dct_alternative_sm": [
+    "Junction City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1886 edition of the Junction City, Kansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1886; printed in 1960.",
+    "Sheet size: 16.32 x 20.06 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Riley County, Kansas",
+    "Geary County, Kansas",
+    "Pottawatomie County, Kansas",
+    "Clay County, Kansas",
+    "Dickinson County, Kansas",
+    "Wabaunsee County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49f4e4b00f54eb3fe3ae",
+    "urn:uuid:6187eebe-f423-18ee-5132-a91b6d5e1b31"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.5 39,-96.5 39.5,-97 39.5,-97 39,-96.5 39))",
+  "dcat_bbox": "ENVELOPE(-97, -96.5, 39.5, 39)",
+  "dcat_centroid": "39.25,-96.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-122559",
+    "usgs-htmc-122560",
+    "usgs-htmc-122561",
+    "usgs-htmc-122563",
+    "usgs-htmc-122564",
+    "usgs-htmc-122565",
+    "usgs-htmc-122566",
+    "usgs-htmc-801817"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Junction%20City_801816_1886_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Junction%20City_801816_1886_125000_geo.pdf\",\"label\":\"GeoPDF (3.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Junction%20City_801816_1886_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/125000/KS_Junction_City_801816_1886_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49f4e4b00f54eb3fe3ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Junction%20City_801816_1886_125000_tn.jpg\"}"
+}

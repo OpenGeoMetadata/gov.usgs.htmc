@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-334168",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Walkiah Bluff, LA 1942",
+  "dct_alternative_sm": [
+    "Walkiah Bluff"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Walkiah Bluff, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1940; printed in 1942.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 17.2 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a5ae4b00f54eb3feb2d",
+    "urn:uuid:0ec70487-07c0-dceb-3fb2-e1fabda68d8a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 30.5,-89.75 30.625,-89.875 30.625,-89.875 30.5,-89.75 30.5))",
+  "dcat_bbox": "ENVELOPE(-89.875, -89.75, 30.625, 30.5)",
+  "dcat_centroid": "30.5625,-89.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335864",
+    "usgs-htmc-335865",
+    "usgs-htmc-335866"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/LA_Walkiah%20Bluff_334168_1942_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Walkiah%20Bluff_334168_1942_31680_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/LA_Walkiah%20Bluff_334168_1942_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Walkiah_Bluff_334168_1942_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a5ae4b00f54eb3feb2d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Walkiah%20Bluff_334168_1942_31680_tn.jpg\"}"
+}

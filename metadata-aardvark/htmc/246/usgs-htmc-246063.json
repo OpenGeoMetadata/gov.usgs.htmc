@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-246063",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Junction City, GA 1971 (printed 1974)",
+  "dct_alternative_sm": [
+    "Junction City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Junction City, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1968; field checked in 1971; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Talbot County, Georgia",
+    "Taylor County, Georgia",
+    "Marion County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a337de4b00f54eb3d722f",
+    "urn:uuid:e616219b-45bf-2b5c-ec38-6bf318944efa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.375 32.5,-84.375 32.625,-84.5 32.625,-84.5 32.5,-84.375 32.5))",
+  "dcat_bbox": "ENVELOPE(-84.5, -84.375, 32.625, 32.5)",
+  "dcat_centroid": "32.5625,-84.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-246062"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Junction%20City_246063_1971_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Junction%20City_246063_1971_24000_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Junction%20City_246063_1971_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Junction_City_246063_1971_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a337de4b00f54eb3d722f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Junction%20City_246063_1971_24000_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-224617",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Danville, OH 1961 (printed 1983)",
+  "dct_alternative_sm": [
+    "Danville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1961 edition of the Danville, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1961; photo revised in 1982; last revised in 1982; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Knox County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a242fe4b00f54eb3be9e9",
+    "urn:uuid:7b12c206-ce82-7be0-4b04-948d0e0d754c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 40.375,-82.25 40.5,-82.375 40.5,-82.375 40.375,-82.25 40.375))",
+  "dcat_bbox": "ENVELOPE(-82.375, -82.25, 40.5, 40.375)",
+  "dcat_centroid": "40.4375,-82.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224615",
+    "usgs-htmc-224616"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Danville_224617_1961_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Danville_224617_1961_24000_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Danville_224617_1961_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Danville_224617_1961_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a242fe4b00f54eb3be9e9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Danville_224617_1961_24000_tn.jpg\"}"
+}

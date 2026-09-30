@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-247575",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Talbotton, GA 1955 (printed 1961)",
+  "dct_alternative_sm": [
+    "Talbotton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Talbotton, Georgia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1950; aerial photographs from 1953; field checked in 1955; last revised in 1955; printed in 1961.",
+    "Sheet size: 16.8 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Talbot County, Georgia",
+    "Harris County, Georgia",
+    "Marion County, Georgia",
+    "Muscogee County, Georgia",
+    "Chattahoochee County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4492e4b00f54eb3f4a09",
+    "urn:uuid:9ec61403-f469-7234-0cfb-235c6f7a0ec7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.5 32.5,-84.5 32.75,-84.75 32.75,-84.75 32.5,-84.5 32.5))",
+  "dcat_bbox": "ENVELOPE(-84.75, -84.5, 32.75, 32.5)",
+  "dcat_centroid": "32.625,-84.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247574",
+    "usgs-htmc-247576"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Talbotton_247575_1955_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Talbotton_247575_1955_62500_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Talbotton_247575_1955_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/62500/GA_Talbotton_247575_1955_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4492e4b00f54eb3f4a09\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Talbotton_247575_1955_62500_tn.jpg\"}"
+}

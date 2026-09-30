@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-472733",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Glendive, MT 1909",
+  "dct_alternative_sm": [
+    "Glendive"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1909 edition of the Glendive, Montana, topographic map at 1:250,000 scale (1 x 1 degree series), published by the U.S. Geological Survey. Surveyed in 1907; printed in 1909.",
+    "Sheet size: 16.78 x 20.44 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d0dff21e4b0941bde547e10",
+    "urn:uuid:d3d8a100-0bad-c1a0-8650-3fd0401fa7ba"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104 47,-104 48,-105 48,-105 47,-104 47))",
+  "dcat_bbox": "ENVELOPE(-105, -104, 48, 47)",
+  "dcat_centroid": "47.5,-104.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Glendive_472733_1909_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Glendive_472733_1909_250000_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Glendive_472733_1909_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/250000/MT_Glendive_472733_1909_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d0dff21e4b0941bde547e10\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Glendive_472733_1909_250000_tn.jpg\"}"
+}

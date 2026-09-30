@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-340680",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for North Emblem Reservoir, WY 1966 (printed 1969)",
+  "dct_alternative_sm": [
+    "North Emblem Reservoir"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the North Emblem Reservoir, Wyoming, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1965; field checked in 1966; printed in 1969.",
+    "Sheet size: 21.3 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Big Horn County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b9ee4b00f54eb3ca80d",
+    "urn:uuid:5ca3bd07-6166-99cf-c618-b52ea8a8b522"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.25 44.625,-108.25 44.75,-108.375 44.75,-108.375 44.625,-108.25 44.625))",
+  "dcat_bbox": "ENVELOPE(-108.375, -108.25, 44.75, 44.625)",
+  "dcat_centroid": "44.6875,-108.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-340681",
+    "usgs-htmc-340682"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_North%20Emblem%20Reservoir_340680_1966_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_North%20Emblem%20Reservoir_340680_1966_24000_geo.pdf\",\"label\":\"GeoPDF (12.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_North%20Emblem%20Reservoir_340680_1966_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/24000/WY_North_Emblem_Reservoir_340680_1966_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b9ee4b00f54eb3ca80d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_North%20Emblem%20Reservoir_340680_1966_24000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-333759",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Elizabeth, LA 1947",
+  "dct_alternative_sm": [
+    "Elizabeth"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Elizabeth, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1935.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Allen Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49c6e4b00f54eb3fde86",
+    "urn:uuid:0df50588-ce7c-c745-9aa2-b9250cc53387"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.75 30.75,-92.75 30.875,-92.875 30.875,-92.875 30.75,-92.75 30.75))",
+  "dcat_bbox": "ENVELOPE(-92.875, -92.75, 30.875, 30.75)",
+  "dcat_centroid": "30.8125,-92.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-331910",
+    "usgs-htmc-331911",
+    "usgs-htmc-331912",
+    "usgs-htmc-331913"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Elizabeth_333759_1947_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Elizabeth_333759_1947_31680_geo.pdf\",\"label\":\"GeoPDF (4.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Elizabeth_333759_1947_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Elizabeth_333759_1947_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49c6e4b00f54eb3fde86\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Elizabeth_333759_1947_31680_tn.jpg\"}"
+}

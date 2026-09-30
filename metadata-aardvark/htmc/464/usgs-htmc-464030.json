@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-464030",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Port Moller, AK 1953 (printed 1973)",
+  "dct_alternative_sm": [
+    "Port Moller"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Port Moller, Alaska, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Last revised in 1972; printed in 1973.",
+    "Sheet size: 30.38 x 24.11 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Aleutians East, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5bc1bfe3e4b0fc368eb8f31f",
+    "urn:uuid:b6a7b05e-08f3-f55f-b929-2c4c4ba2b2ad"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-160 55,-160 56,-162 56,-162 55,-160 55))",
+  "dcat_bbox": "ENVELOPE(-162, -160, 56, 55)",
+  "dcat_centroid": "55.5,-161",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361320",
+    "usgs-htmc-361321",
+    "usgs-htmc-361322"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Port%20Moller_464030_1953_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Port%20Moller_464030_1953_250000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Port%20Moller_464030_1953_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Port_Moller_464030_1953_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5bc1bfe3e4b0fc368eb8f31f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Port%20Moller_464030_1953_250000_tn.jpg\"}"
+}

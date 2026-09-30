@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-244499",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Waldron Island, WA 1954 (printed 1995)",
+  "dct_alternative_sm": [
+    "Waldron Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Waldron Island, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1989; last revised in 1994; printed in 1995.",
+    "Variations: woodland tint. Sheet size: 22.2 x 27.2 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "San Juan County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a303ae4b00f54eb3d1f69",
+    "urn:uuid:5f74b2e0-1545-2d24-f29c-1f202e8c4d03"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123 48.625,-123 48.75,-123.125 48.75,-123.125 48.625,-123 48.625))",
+  "dcat_bbox": "ENVELOPE(-123.125, -123, 48.75, 48.625)",
+  "dcat_centroid": "48.6875,-123.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-244496",
+    "usgs-htmc-244497",
+    "usgs-htmc-244498",
+    "usgs-htmc-244500"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Waldron%20Island_244499_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Waldron%20Island_244499_1954_24000_geo.pdf\",\"label\":\"GeoPDF (21.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Waldron%20Island_244499_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Waldron_Island_244499_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a303ae4b00f54eb3d1f69\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Waldron%20Island_244499_1954_24000_tn.jpg\"}"
+}

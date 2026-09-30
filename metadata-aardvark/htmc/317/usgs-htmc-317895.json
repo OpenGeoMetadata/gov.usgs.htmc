@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-317895",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Wood River, NE 1896 (printed 1932)",
+  "dct_alternative_sm": [
+    "Wood River"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1896 edition of the Wood River, Nebraska, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1893; printed in 1932.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1896",
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "gbl_indexYear_im": [
+    1896
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Buffalo County, Nebraska",
+    "Hall County, Nebraska",
+    "Kearney County, Nebraska",
+    "Adams County, Nebraska",
+    "Nebraska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d3de4b00f54eb403950",
+    "urn:uuid:d186721d-49fe-5f68-a416-14284dcd8973"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98.5 40.5,-98.5 41,-99 41,-99 40.5,-98.5 40.5))",
+  "dcat_bbox": "ENVELOPE(-99, -98.5, 41, 40.5)",
+  "dcat_centroid": "40.75,-98.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-317896",
+    "usgs-htmc-317897",
+    "usgs-htmc-317898"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Wood%20River_317895_1896_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Wood%20River_317895_1896_125000_geo.pdf\",\"label\":\"GeoPDF (7.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Wood%20River_317895_1896_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NE/125000/NE_Wood_River_317895_1896_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d3de4b00f54eb403950\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Wood%20River_317895_1896_125000_tn.jpg\"}"
+}

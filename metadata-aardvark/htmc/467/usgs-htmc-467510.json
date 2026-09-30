@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-467510",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Soldier Key, FL 1948",
+  "dct_alternative_sm": [
+    "Soldier Key"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Soldier Key, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Aerial photographs from 1945; field checked in 1946; printed in 1948.",
+    "Sheet size: 22.48 x 27.01 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Miami-Dade County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e47d85be4b0ff554f6a4204",
+    "urn:uuid:5e87f646-22c2-1877-5d03-0e52d949dcdd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.125 25.5,-80.125 25.625,-80.25 25.625,-80.25 25.5,-80.125 25.5))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80.125, 25.625, 25.5)",
+  "dcat_centroid": "25.5625,-80.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-348547",
+    "usgs-htmc-348548",
+    "usgs-htmc-348549",
+    "usgs-htmc-348550",
+    "usgs-htmc-348551"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Soldier%20Key_467510_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Soldier%20Key_467510_1948_24000_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Soldier%20Key_467510_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Soldier_Key_467510_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e47d85be4b0ff554f6a4204\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Soldier%20Key_467510_1948_24000_tn.jpg\"}"
+}

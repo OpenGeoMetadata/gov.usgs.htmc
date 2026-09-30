@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-255651",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Seaford West, DE 1992",
+  "dct_alternative_sm": [
+    "Seaford West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1992 edition of the Seaford West, Delaware, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1989; field checked in 1991; last revised in 1992; printed in 1992.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1992",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_dateRange_drsim": [
+    "[1989 TO 1992]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Maryland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a449be4b00f54eb3f4ab0",
+    "urn:uuid:d5f33d11-f6e8-4f91-3ae1-4f67cb042f9f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.625 38.625,-75.625 38.75,-75.75 38.75,-75.75 38.625,-75.625 38.625))",
+  "dcat_bbox": "ENVELOPE(-75.75, -75.625, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-75.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255649",
+    "usgs-htmc-255650"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Seaford%20West_255651_1992_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/24000/DE_Seaford%20West_255651_1992_24000_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Seaford%20West_255651_1992_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/DE/24000/DE_Seaford_West_255651_1992_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a449be4b00f54eb3f4ab0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/24000/DE_Seaford%20West_255651_1992_24000_tn.jpg\"}"
+}

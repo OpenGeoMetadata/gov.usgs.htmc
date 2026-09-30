@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-128189",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Katy, TX 1915",
+  "dct_alternative_sm": [
+    "Katy"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1915 edition of the Katy, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1915.",
+    "Release: Advance. Sheet size: 21.8 x 27.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "dct_spatial_sm": [
+    "Harris County, Texas",
+    "Waller County, Texas",
+    "Fort Bend County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f79e4b00f54eb407c90",
+    "urn:uuid:71246d96-6ea9-94ea-d8ce-0783f2f54c19"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.75 29.75,-95.75 29.875,-95.875 29.875,-95.875 29.75,-95.75 29.75))",
+  "dcat_bbox": "ENVELOPE(-95.875, -95.75, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-95.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-109912",
+    "usgs-htmc-109916",
+    "usgs-htmc-109917",
+    "usgs-htmc-109918",
+    "usgs-htmc-128187"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Katy_128189_1915_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Katy_128189_1915_24000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Katy_128189_1915_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Katy_128189_1915_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f79e4b00f54eb407c90\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Katy_128189_1915_24000_tn.jpg\"}"
+}

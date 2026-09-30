@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-299532",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Olancha, CA 1907 (printed 1931)",
+  "dct_alternative_sm": [
+    "Olancha"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1907 edition of the Olancha, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1905; printed in 1931.",
+    "Sheet size: 16.5 x 19.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1931]"
+  ],
+  "dct_spatial_sm": [
+    "Tulare County, California",
+    "Inyo County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a53c2e4b00f54eb4104ef",
+    "urn:uuid:cfdc24c9-3723-19c6-1c58-2ec5100aa12a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 36,-118 36.5,-118.5 36.5,-118.5 36,-118 36))",
+  "dcat_bbox": "ENVELOPE(-118.5, -118, 36.5, 36)",
+  "dcat_centroid": "36.25,-118.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299527",
+    "usgs-htmc-299528",
+    "usgs-htmc-299529",
+    "usgs-htmc-299530",
+    "usgs-htmc-299531",
+    "usgs-htmc-299533",
+    "usgs-htmc-299535",
+    "usgs-htmc-299536",
+    "usgs-htmc-299537"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Olancha_299532_1907_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Olancha_299532_1907_125000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Olancha_299532_1907_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Olancha_299532_1907_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a53c2e4b00f54eb4104ef\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Olancha_299532_1907_125000_tn.jpg\"}"
+}

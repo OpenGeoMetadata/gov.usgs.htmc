@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-465832",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Lake Arrowhead, CA 1971 (printed 1981)",
+  "dct_alternative_sm": [
+    "Lake Arrowhead"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Lake Arrowhead, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1971; photo revised in 1980; last revised in 1980; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 22.03 x 26.99 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d29551ce4b038fabe1d12a9",
+    "urn:uuid:73bc938a-b8dd-282a-c7a0-2312f3fc5da2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.125 34.25,-117.125 34.375,-117.25 34.375,-117.25 34.25,-117.125 34.25))",
+  "dcat_bbox": "ENVELOPE(-117.25, -117.125, 34.375, 34.25)",
+  "dcat_centroid": "34.3125,-117.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-292037",
+    "usgs-htmc-292038",
+    "usgs-htmc-292039"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Lake%20Arrowhead_465832_1971_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Lake%20Arrowhead_465832_1971_24000_geo.pdf\",\"label\":\"GeoPDF (13.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Lake%20Arrowhead_465832_1971_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Lake_Arrowhead_465832_1971_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d29551ce4b038fabe1d12a9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Lake%20Arrowhead_465832_1971_24000_tn.jpg\"}"
+}

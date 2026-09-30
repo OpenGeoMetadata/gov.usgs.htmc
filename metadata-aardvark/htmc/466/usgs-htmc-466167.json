@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-466167",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Point Loma, CA 1942",
+  "dct_alternative_sm": [
+    "Point Loma"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Point Loma, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1939.",
+    "Sheet size: 18.5 x 20.09 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e073e40e4b0b207aa0d40c4",
+    "urn:uuid:fa5de4e2-a67f-6be4-b379-aa5b97a9b74c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.125 32.625,-117.125 32.75,-117.2583333 32.75,-117.2583333 32.625,-117.125 32.625))",
+  "dcat_bbox": "ENVELOPE(-117.2583333, -117.125, 32.75, 32.625)",
+  "dcat_centroid": "32.6875,-117.19166665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-294274",
+    "usgs-htmc-294275",
+    "usgs-htmc-294277",
+    "usgs-htmc-294278",
+    "usgs-htmc-294279",
+    "usgs-htmc-294280",
+    "usgs-htmc-294281",
+    "usgs-htmc-296422"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Point%20Loma_466167_1942_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Point%20Loma_466167_1942_31680_geo.pdf\",\"label\":\"GeoPDF (9.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Point%20Loma_466167_1942_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Point_Loma_466167_1942_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e073e40e4b0b207aa0d40c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Point%20Loma_466167_1942_31680_tn.jpg\"}"
+}

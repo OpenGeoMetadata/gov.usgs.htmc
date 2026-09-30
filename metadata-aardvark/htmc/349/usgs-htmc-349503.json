@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-349503",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kukaiau, HI 1982",
+  "dct_alternative_sm": [
+    "Kukaiau"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1982 edition of the Kukaiau, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1980; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 24 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: Old Hawaiian. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1982",
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5251e4b00f54eb40d6ca",
+    "urn:uuid:07436847-b80a-09e8-a49f-55b5037c2f49"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-155.25 20,-155.25 20.125,-155.375 20.125,-155.375 20,-155.25 20))",
+  "dcat_bbox": "ENVELOPE(-155.375, -155.25, 20.125, 20)",
+  "dcat_centroid": "20.0625,-155.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349501",
+    "usgs-htmc-349502",
+    "usgs-htmc-349504",
+    "usgs-htmc-349505"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kukaiau_349503_1982_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kukaiau_349503_1982_24000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kukaiau_349503_1982_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Kukaiau_349503_1982_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5251e4b00f54eb40d6ca\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kukaiau_349503_1982_24000_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-193391",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Tucumcari, NM 1930 (printed 1946)",
+  "dct_alternative_sm": [
+    "Tucumcari"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1930 edition of the Tucumcari, New Mexico, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1928; printed in 1946.",
+    "Sheet size: 16.6 x 20.6 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Quay County, New Mexico",
+    "San Miguel County, New Mexico",
+    "Harding County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32d2e4b00f54eb3d5e5a",
+    "urn:uuid:87924677-1147-f082-1de0-c01c8d4eaa3d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103.5 35,-103.5 35.5,-104 35.5,-104 35,-103.5 35))",
+  "dcat_bbox": "ENVELOPE(-104, -103.5, 35.5, 35)",
+  "dcat_centroid": "35.25,-103.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-189433"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Tucumcari_193391_1930_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/125000/NM_Tucumcari_193391_1930_125000_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Tucumcari_193391_1930_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/125000/NM_Tucumcari_193391_1930_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32d2e4b00f54eb3d5e5a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/125000/NM_Tucumcari_193391_1930_125000_tn.jpg\"}"
+}

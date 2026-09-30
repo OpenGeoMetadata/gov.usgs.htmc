@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-463687",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Eagle, AK 1957 (printed 1966)",
+  "dct_alternative_sm": [
+    "Eagle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Eagle, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1957; printed in 1966.",
+    "Sheet size: 30.83 x 23.19 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Southeast Fairbanks Census Area, Alaska",
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Fairbanks North Star, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a3ae4b00f54eb3e2fb3",
+    "urn:uuid:9b6b0aee-d488-9a70-8754-1913adff3d7c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-141 64,-141 65,-144 65,-144 64,-141 64))",
+  "dcat_bbox": "ENVELOPE(-144, -141, 65, 64)",
+  "dcat_centroid": "64.5,-142.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360828",
+    "usgs-htmc-360829",
+    "usgs-htmc-360830",
+    "usgs-htmc-360831",
+    "usgs-htmc-360832",
+    "usgs-htmc-360833",
+    "usgs-htmc-360834",
+    "usgs-htmc-360835",
+    "usgs-htmc-360836"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Eagle_463687_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Eagle_463687_1957_250000_geo.pdf\",\"label\":\"GeoPDF (33.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Eagle_463687_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Eagle_463687_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a3ae4b00f54eb3e2fb3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Eagle_463687_1957_250000_tn.jpg\"}"
+}

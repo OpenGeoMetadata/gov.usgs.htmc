@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-267035",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Sunburst Lake, MT 1965 (printed 1981)",
+  "dct_alternative_sm": [
+    "Sunburst Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1965 edition of the Sunburst Lake, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1964; field checked in 1965; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1965",
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Flathead County, Montana",
+    "Lake County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a310fe4b00f54eb3d33f1",
+    "urn:uuid:2474b42f-5e5e-5f4d-405e-a420ed55d4bf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-113.5 47.625,-113.5 47.75,-113.625 47.75,-113.625 47.625,-113.5 47.625))",
+  "dcat_bbox": "ENVELOPE(-113.625, -113.5, 47.75, 47.625)",
+  "dcat_centroid": "47.6875,-113.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-267032",
+    "usgs-htmc-267033",
+    "usgs-htmc-267034"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Sunburst%20Lake_267035_1965_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Sunburst%20Lake_267035_1965_24000_geo.pdf\",\"label\":\"GeoPDF (14.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Sunburst%20Lake_267035_1965_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Sunburst_Lake_267035_1965_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a310fe4b00f54eb3d33f1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Sunburst%20Lake_267035_1965_24000_tn.jpg\"}"
+}

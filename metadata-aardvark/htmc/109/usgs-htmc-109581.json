@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-109581",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mauriceville, TX 1957 (printed 1972)",
+  "dct_alternative_sm": [
+    "Mauriceville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Mauriceville, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1926; aerial photographs from 1970; field checked in 1957; photo revised in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 23.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Orange County, Texas",
+    "Newton County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5077e4b00f54eb409d12",
+    "urn:uuid:eba51386-a186-c3cc-0306-7025b69a3f74"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.75 30.125,-93.75 30.25,-93.875 30.25,-93.875 30.125,-93.75 30.125))",
+  "dcat_bbox": "ENVELOPE(-93.875, -93.75, 30.25, 30.125)",
+  "dcat_centroid": "30.1875,-93.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-109578",
+    "usgs-htmc-109579",
+    "usgs-htmc-109582",
+    "usgs-htmc-128229"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Mauriceville_109581_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Mauriceville_109581_1957_24000_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Mauriceville_109581_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Mauriceville_109581_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5077e4b00f54eb409d12\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Mauriceville_109581_1957_24000_tn.jpg\"}"
+}

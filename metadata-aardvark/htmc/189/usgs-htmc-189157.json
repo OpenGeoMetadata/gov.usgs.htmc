@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-189157",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Roanoke, VA 1891 (printed 1918)",
+  "dct_alternative_sm": [
+    "Roanoke"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1891 edition of the Roanoke, Virginia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1888; printed in 1918.",
+    "Sheet size: 16.4 x 20 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1891",
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "gbl_indexYear_im": [
+    1891
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Bedford County, Virginia",
+    "Franklin County, Virginia",
+    "Botetourt County, Virginia",
+    "Roanoke County, Virginia",
+    "Roanoke, Virginia",
+    "Pittsylvania County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c07e4b00f54eb4018a5",
+    "urn:uuid:5d4e4360-03e8-da50-98fa-6a2d2a766123"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79.5 37,-79.5 37.5,-80 37.5,-80 37,-79.5 37))",
+  "dcat_bbox": "ENVELOPE(-80, -79.5, 37.5, 37)",
+  "dcat_centroid": "37.25,-79.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-188853",
+    "usgs-htmc-188855",
+    "usgs-htmc-188856",
+    "usgs-htmc-189152",
+    "usgs-htmc-189153",
+    "usgs-htmc-189154",
+    "usgs-htmc-189155",
+    "usgs-htmc-189156"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Roanoke_189157_1891_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Roanoke_189157_1891_125000_geo.pdf\",\"label\":\"GeoPDF (8.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Roanoke_189157_1891_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/125000/VA_Roanoke_189157_1891_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c07e4b00f54eb4018a5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Roanoke_189157_1891_125000_tn.jpg\"}"
+}

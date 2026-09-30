@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-143943",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Graysville, TN 1972 (printed 1996)",
+  "dct_alternative_sm": [
+    "Graysville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Graysville, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Aerial photographs from 1990; field checked in 1972; photo revised in 1990; last revised in 1991; printed in 1996.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.5 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1996]"
+  ],
+  "dct_spatial_sm": [
+    "Rhea County, Tennessee",
+    "Hamilton County, Tennessee",
+    "Meigs County, Tennessee",
+    "Bledsoe County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4105e4b00f54eb3ee602",
+    "urn:uuid:2a00901c-94e0-fe98-2e79-da9f2336ec33"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85 35.375,-85 35.5,-85.125 35.5,-85.125 35.375,-85 35.375))",
+  "dcat_bbox": "ENVELOPE(-85.125, -85, 35.5, 35.375)",
+  "dcat_centroid": "35.4375,-85.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-149783",
+    "usgs-htmc-149784",
+    "usgs-htmc-149785",
+    "usgs-htmc-149786",
+    "usgs-htmc-149787",
+    "usgs-htmc-149788",
+    "usgs-htmc-149790",
+    "usgs-htmc-149791"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Graysville_143943_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Graysville_143943_1972_24000_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Graysville_143943_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Graysville_143943_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4105e4b00f54eb3ee602\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Graysville_143943_1972_24000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-451626",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Rio Blanco, CO 1952 (printed 1984)",
+  "dct_alternative_sm": [
+    "Rio Blanco"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Rio Blanco, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1979; photo revised in 1982; last revised in 1982; printed in 1984.",
+    "Sheet size: 22.2 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Garfield County, Colorado",
+    "Rio Blanco County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c8ae4b00f54eb3e7040",
+    "urn:uuid:319a67dc-f701-3459-9f0c-1b64ae365c05"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107.875 39.625,-107.875 39.75,-108 39.75,-108 39.625,-107.875 39.625))",
+  "dcat_bbox": "ENVELOPE(-108, -107.875, 39.75, 39.625)",
+  "dcat_centroid": "39.6875,-107.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-451627",
+    "usgs-htmc-451628",
+    "usgs-htmc-451629",
+    "usgs-htmc-451630"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Rio%20Blanco_451626_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Rio%20Blanco_451626_1952_24000_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Rio%20Blanco_451626_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Rio_Blanco_451626_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c8ae4b00f54eb3e7040\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Rio%20Blanco_451626_1952_24000_tn.jpg\"}"
+}

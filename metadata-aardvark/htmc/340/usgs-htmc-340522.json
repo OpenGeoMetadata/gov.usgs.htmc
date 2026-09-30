@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-340522",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Moon, WY 1984",
+  "dct_alternative_sm": [
+    "Moon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Moon, Wyoming, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1979; last revised in 1984; printed in 1984.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.3 x 26.7 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "South Dakota",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b62e4b00f54eb3ca18f",
+    "urn:uuid:a2e07590-9bab-8188-6e5c-944496574c55"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104 43.875,-104 44,-104.125 44,-104.125 43.875,-104 43.875))",
+  "dcat_bbox": "ENVELOPE(-104.125, -104, 44, 43.875)",
+  "dcat_centroid": "43.9375,-104.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/WY_Moon_340522_1984_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Moon_340522_1984_24000_geo.pdf\",\"label\":\"GeoPDF (14.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/WY_Moon_340522_1984_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/24000/WY_Moon_340522_1984_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b62e4b00f54eb3ca18f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Moon_340522_1984_24000_tn.jpg\"}"
+}

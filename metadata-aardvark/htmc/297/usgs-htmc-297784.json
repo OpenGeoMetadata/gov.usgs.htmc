@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-297784",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Inyokern, CA 1943 (printed 1956)",
+  "dct_alternative_sm": [
+    "Inyokern"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Inyokern, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1943; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 16.6 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40f6e4b00f54eb3ee40c",
+    "urn:uuid:013fb8e6-1e7c-9b96-79f1-5e173786a997"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.75 35.5,-117.75 35.75,-118 35.75,-118 35.5,-117.75 35.5))",
+  "dcat_bbox": "ENVELOPE(-118, -117.75, 35.75, 35.5)",
+  "dcat_centroid": "35.625,-117.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297783",
+    "usgs-htmc-297785",
+    "usgs-htmc-465772"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Inyokern_297784_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Inyokern_297784_1943_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Inyokern_297784_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Inyokern_297784_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40f6e4b00f54eb3ee40c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Inyokern_297784_1943_62500_tn.jpg\"}"
+}

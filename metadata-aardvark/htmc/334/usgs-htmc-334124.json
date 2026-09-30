@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-334124",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Sugartown, LA 1947",
+  "dct_alternative_sm": [
+    "Sugartown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Sugartown, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1935; printed in 1947.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 17 x 20.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Beauregard Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a54e4b00f54eb3fea6d",
+    "urn:uuid:1f94658a-0ff6-8e7f-81aa-0f389f95ca28"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93 30.75,-93 30.875,-93.125 30.875,-93.125 30.75,-93 30.75))",
+  "dcat_bbox": "ENVELOPE(-93.125, -93, 30.875, 30.75)",
+  "dcat_centroid": "30.8125,-93.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-333361",
+    "usgs-htmc-333362",
+    "usgs-htmc-333363"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Sugartown_334124_1947_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Sugartown_334124_1947_31680_geo.pdf\",\"label\":\"GeoPDF (4.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Sugartown_334124_1947_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Sugartown_334124_1947_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a54e4b00f54eb3fea6d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Sugartown_334124_1947_31680_tn.jpg\"}"
+}

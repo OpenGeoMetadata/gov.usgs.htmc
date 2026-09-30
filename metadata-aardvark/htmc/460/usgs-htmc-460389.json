@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-460389",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Farmington, ME 1924 (printed 1951)",
+  "dct_alternative_sm": [
+    "Farmington"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1924 edition of the Farmington, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Printed in 1951.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Maine",
+    "Kennebec County, Maine",
+    "Somerset County, Maine",
+    "Oxford County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c2fe4b00f54eb401d76",
+    "urn:uuid:19309c9b-0696-598f-d3d1-f5d61f3013a1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70 44.5,-70 44.75,-70.25 44.75,-70.25 44.5,-70 44.5))",
+  "dcat_bbox": "ENVELOPE(-70.25, -70, 44.75, 44.5)",
+  "dcat_centroid": "44.625,-70.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306557",
+    "usgs-htmc-306558",
+    "usgs-htmc-460387",
+    "usgs-htmc-460388",
+    "usgs-htmc-460390",
+    "usgs-htmc-460391",
+    "usgs-htmc-807488",
+    "usgs-htmc-807489"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Farmington_460389_1924_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Farmington_460389_1924_62500_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Farmington_460389_1924_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Farmington_460389_1924_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c2fe4b00f54eb401d76\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Farmington_460389_1924_62500_tn.jpg\"}"
+}

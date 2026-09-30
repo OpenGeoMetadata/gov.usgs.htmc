@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-247339",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Appling, GA 1943",
+  "dct_alternative_sm": [
+    "Appling"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Appling, Georgia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Surveyed in 1919; aerial photographs from 1941.",
+    "Variations: woodland tint. Sheet size: 17.7 x 21.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Columbia County, Georgia",
+    "Lincoln County, Georgia",
+    "McDuffie County, Georgia",
+    "Wilkes County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a445ee4b00f54eb3f4357",
+    "urn:uuid:40de5e84-d5a1-73f0-17a2-eaf5054e49aa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 33.5,-82.25 33.75,-82.5 33.75,-82.5 33.5,-82.25 33.5))",
+  "dcat_bbox": "ENVELOPE(-82.5, -82.25, 33.75, 33.5)",
+  "dcat_centroid": "33.625,-82.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247334",
+    "usgs-htmc-247335",
+    "usgs-htmc-467582"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Appling_247339_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Appling_247339_1943_62500_geo.pdf\",\"label\":\"GeoPDF (10.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Appling_247339_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/62500/GA_Appling_247339_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a445ee4b00f54eb3f4357\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Appling_247339_1943_62500_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-277868",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for New Haven, MI 1936",
+  "dct_alternative_sm": [
+    "New Haven"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1936 edition of the New Haven, Michigan, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1936.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 17.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "gbl_indexYear_im": [
+    1936
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1936]"
+  ],
+  "dct_spatial_sm": [
+    "Macomb County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a329be4b00f54eb3d580c",
+    "urn:uuid:ed3cfcb0-009b-4b17-7d9c-9fbd20ce1cd5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.75 42.625,-82.75 42.75,-82.875 42.75,-82.875 42.625,-82.75 42.625))",
+  "dcat_bbox": "ENVELOPE(-82.875, -82.75, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-82.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-276795",
+    "usgs-htmc-276796",
+    "usgs-htmc-276797",
+    "usgs-htmc-276798",
+    "usgs-htmc-470931"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_New%20Haven_277868_1936_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_New%20Haven_277868_1936_31680_geo.pdf\",\"label\":\"GeoPDF (5.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_New%20Haven_277868_1936_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/31680/MI_New_Haven_277868_1936_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a329be4b00f54eb3d580c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_New%20Haven_277868_1936_31680_tn.jpg\"}"
+}

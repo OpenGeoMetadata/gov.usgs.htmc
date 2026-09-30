@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-341271",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Schuster Flats NE, WY 1951 (printed 1958)",
+  "dct_alternative_sm": [
+    "Schuster Flats NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Schuster Flats NE, Wyoming, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1949; field checked in 1951; printed in 1958.",
+    "Sheet size: 21.3 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Big Horn County, Wyoming",
+    "Washakie County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2c64e4b00f54eb3cbe06",
+    "urn:uuid:f9f97b54-0a06-1d5d-c9f3-0cfe404a0e8e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108 44.125,-108 44.25,-108.125 44.25,-108.125 44.125,-108 44.125))",
+  "dcat_bbox": "ENVELOPE(-108.125, -108, 44.25, 44.125)",
+  "dcat_centroid": "44.1875,-108.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-341269",
+    "usgs-htmc-341270"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Schuster%20Flats%20NE_341271_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Schuster%20Flats%20NE_341271_1951_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Schuster%20Flats%20NE_341271_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/24000/WY_Schuster_Flats_NE_341271_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2c64e4b00f54eb3cbe06\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Schuster%20Flats%20NE_341271_1951_24000_tn.jpg\"}"
+}

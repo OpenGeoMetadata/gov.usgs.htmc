@@ -1,0 +1,66 @@
+{
+  "id": "usgs-htmc-299307",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Crescent City, CA 1929",
+  "dct_alternative_sm": [
+    "Crescent City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1929 edition of the Crescent City, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1921; printed in 1929.",
+    "Sheet size: 16.6 x 21.6 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a538ce4b00f54eb40fcad",
+    "urn:uuid:2a373d7f-3007-3e40-1ae2-dc3327cc8631"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 41.5,-124 42,-124.5 42,-124.5 41.5,-124 41.5))",
+  "dcat_bbox": "ENVELOPE(-124.5, -124, 42, 41.5)",
+  "dcat_centroid": "41.75,-124.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crescent%20City_299307_1929_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Crescent%20City_299307_1929_125000_geo.pdf\",\"label\":\"GeoPDF (5.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crescent%20City_299307_1929_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Crescent_City_299307_1929_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a538ce4b00f54eb40fcad\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Crescent%20City_299307_1929_125000_tn.jpg\"}"
+}

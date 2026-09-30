@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-472780",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Jennings, MT 1920",
+  "dct_alternative_sm": [
+    "Jennings"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1920 edition of the Jennings, Montana, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers. Printed in 1920.",
+    "Release: Advance. Sheet size: 17.08 x 22.34 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County, Montana",
+    "Flathead County, Montana",
+    "Sanders County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e62ca75e4b01d509257dd32",
+    "urn:uuid:ebd5898e-5ac5-d2db-a4df-f8da4bbd4d65"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-115 48,-115 48.5,-115.5 48.5,-115.5 48,-115 48))",
+  "dcat_bbox": "ENVELOPE(-115.5, -115, 48.5, 48)",
+  "dcat_centroid": "48.25,-115.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268374",
+    "usgs-htmc-268639",
+    "usgs-htmc-268640",
+    "usgs-htmc-268641",
+    "usgs-htmc-268642"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Jennings_472780_1920_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Jennings_472780_1920_125000_geo.pdf\",\"label\":\"GeoPDF (7.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Jennings_472780_1920_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/125000/MT_Jennings_472780_1920_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e62ca75e4b01d509257dd32\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Jennings_472780_1920_125000_tn.jpg\"}"
+}

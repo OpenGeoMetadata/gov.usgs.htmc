@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-801251",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Oconomowoc, WI 1909 (printed 1934)",
+  "dct_alternative_sm": [
+    "Oconomowoc"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1909 edition of the Oconomowoc, Wisconsin, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1907; printed in 1934.",
+    "Sheet size: 16.88 x 20.36 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1934]"
+  ],
+  "dct_spatial_sm": [
+    "Waukesha County, Wisconsin",
+    "Washington County, Wisconsin",
+    "Dodge County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a30ace4b00f54eb3d2a8a",
+    "urn:uuid:52bf4f45-6cd0-9a45-4e60-fe4213b3fba6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.25 43,-88.25 43.25,-88.5 43.25,-88.5 43,-88.25 43))",
+  "dcat_bbox": "ENVELOPE(-88.5, -88.25, 43.25, 43)",
+  "dcat_centroid": "43.125,-88.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-503287",
+    "usgs-htmc-801244",
+    "usgs-htmc-801245",
+    "usgs-htmc-801246",
+    "usgs-htmc-801247",
+    "usgs-htmc-801248",
+    "usgs-htmc-801249",
+    "usgs-htmc-801250",
+    "usgs-htmc-802913",
+    "usgs-htmc-802914"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Oconomowoc_801251_1909_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Oconomowoc_801251_1909_62500_geo.pdf\",\"label\":\"GeoPDF (6.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Oconomowoc_801251_1909_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/62500/WI_Oconomowoc_801251_1909_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a30ace4b00f54eb3d2a8a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Oconomowoc_801251_1909_62500_tn.jpg\"}"
+}

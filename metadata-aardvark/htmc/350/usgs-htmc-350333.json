@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-350333",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Nantasket Beach, MA 1974 (printed 1975)",
+  "dct_alternative_sm": [
+    "Nantasket Beach"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1974 edition of the Nantasket Beach, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1936; aerial photographs from 1973; field checked in 1974; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1974",
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth County, Massachusetts",
+    "Norfolk County, Massachusetts",
+    "Suffolk County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52e2e4b00f54eb40e85f",
+    "urn:uuid:414649bb-4942-7184-cfec-6fdad92d7f73"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 42.25,-70.75 42.375,-70.875 42.375,-70.875 42.25,-70.75 42.25))",
+  "dcat_bbox": "ENVELOPE(-70.875, -70.75, 42.375, 42.25)",
+  "dcat_centroid": "42.3125,-70.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350329",
+    "usgs-htmc-350330",
+    "usgs-htmc-350331",
+    "usgs-htmc-350332",
+    "usgs-htmc-350334",
+    "usgs-htmc-350335",
+    "usgs-htmc-351941",
+    "usgs-htmc-351942",
+    "usgs-htmc-351944"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Nantasket%20Beach_350333_1974_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Nantasket%20Beach_350333_1974_24000_geo.pdf\",\"label\":\"GeoPDF (17.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Nantasket%20Beach_350333_1974_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Nantasket_Beach_350333_1974_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52e2e4b00f54eb40e85f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Nantasket%20Beach_350333_1974_24000_tn.jpg\"}"
+}

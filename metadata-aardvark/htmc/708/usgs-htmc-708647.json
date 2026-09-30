@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-708647",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Faubush, KY 1954 (printed 1956)",
+  "dct_alternative_sm": [
+    "Faubush"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Faubush, Kentucky, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1951; field checked in 1954; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 22.5 x 27.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Pulaski County, Kentucky",
+    "Russell County, Kentucky",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4abce4b00f54eb3ff44c",
+    "urn:uuid:301e8479-f8b4-b3b9-7f28-28ac07e620d8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.75 37,-84.75 37.125,-84.875 37.125,-84.875 37,-84.75 37))",
+  "dcat_bbox": "ENVELOPE(-84.875, -84.75, 37.125, 37)",
+  "dcat_centroid": "37.0625,-84.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-708645",
+    "usgs-htmc-708646"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Faubush_708647_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/24000/KY_Faubush_708647_1954_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Faubush_708647_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/24000/KY_Faubush_708647_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4abce4b00f54eb3ff44c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/24000/KY_Faubush_708647_1954_24000_tn.jpg\"}"
+}

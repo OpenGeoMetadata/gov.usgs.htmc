@@ -1,0 +1,87 @@
+{
+  "id": "usgs-htmc-466297",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for San Francisco, CA 1956",
+  "dct_alternative_sm": [
+    "San Francisco"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the San Francisco, California, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1956; last revised in 1980.",
+    "Variations: woodland tint. Sheet size: 32.31 x 22.08 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "San Francisco County, California",
+    "San Mateo County, California",
+    "Alameda County, California",
+    "Marin County, California",
+    "Contra Costa County, California",
+    "Santa Cruz County, California",
+    "Santa Clara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e164c6de4b0ecf25c57bf51",
+    "urn:uuid:c178a616-87e2-f5d2-c7bb-e05dd4d4d3ec"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 37,-122 38,-124 38,-124 37,-122 37))",
+  "dcat_bbox": "ENVELOPE(-124, -122, 38, 37)",
+  "dcat_centroid": "37.5,-123",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-302114",
+    "usgs-htmc-302115",
+    "usgs-htmc-302116",
+    "usgs-htmc-302117",
+    "usgs-htmc-302118",
+    "usgs-htmc-302119",
+    "usgs-htmc-302120",
+    "usgs-htmc-466296",
+    "usgs-htmc-466298",
+    "usgs-htmc-466299",
+    "usgs-htmc-466301",
+    "usgs-htmc-707582"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Francisco_466297_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_San%20Francisco_466297_1956_250000_geo.pdf\",\"label\":\"GeoPDF (31.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Francisco_466297_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/250000/CA_San_Francisco_466297_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e164c6de4b0ecf25c57bf51\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_San%20Francisco_466297_1956_250000_tn.jpg\"}"
+}

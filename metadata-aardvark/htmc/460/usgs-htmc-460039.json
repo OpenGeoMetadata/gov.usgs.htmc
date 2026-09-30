@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-460039",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Woodstock, VT 1913",
+  "dct_alternative_sm": [
+    "Woodstock"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1913 edition of the Woodstock, Vermont, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1911; printed in 1913.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1913]"
+  ],
+  "dct_spatial_sm": [
+    "Windsor County, Vermont",
+    "Rutland County, Vermont",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a41ebe4b00f54eb3f01a0",
+    "urn:uuid:408de8d9-4b8a-00c3-0d74-addca748bf4d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.5 43.5,-72.5 43.75,-72.75 43.75,-72.75 43.5,-72.5 43.5))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.5, 43.75, 43.5)",
+  "dcat_centroid": "43.625,-72.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-338215",
+    "usgs-htmc-338216",
+    "usgs-htmc-338217",
+    "usgs-htmc-338218",
+    "usgs-htmc-338219",
+    "usgs-htmc-338220"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Woodstock_460039_1913_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/62500/VT_Woodstock_460039_1913_62500_geo.pdf\",\"label\":\"GeoPDF (12.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Woodstock_460039_1913_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VT/62500/VT_Woodstock_460039_1913_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a41ebe4b00f54eb3f01a0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/62500/VT_Woodstock_460039_1913_62500_tn.jpg\"}"
+}

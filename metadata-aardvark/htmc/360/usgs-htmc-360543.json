@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-360543",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Arctic, AK 1956 (printed 1959)",
+  "dct_alternative_sm": [
+    "Arctic"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Arctic, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Aerial photographs from 1955; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 30.7 x 23.2 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "North Slope, Alaska",
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a39c1e4b00f54eb3e245d",
+    "urn:uuid:1de8a0d5-1242-c0f4-28f0-b54e02af0e17"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-144 68,-144 69,-147 69,-147 68,-144 68))",
+  "dcat_bbox": "ENVELOPE(-147, -144, 69, 68)",
+  "dcat_centroid": "68.5,-145.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360540",
+    "usgs-htmc-360541",
+    "usgs-htmc-360544",
+    "usgs-htmc-360545",
+    "usgs-htmc-360546",
+    "usgs-htmc-360547",
+    "usgs-htmc-360549",
+    "usgs-htmc-463494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Arctic_360543_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Arctic_360543_1956_250000_geo.pdf\",\"label\":\"GeoPDF (50.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Arctic_360543_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Arctic_360543_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a39c1e4b00f54eb3e245d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Arctic_360543_1956_250000_tn.jpg\"}"
+}

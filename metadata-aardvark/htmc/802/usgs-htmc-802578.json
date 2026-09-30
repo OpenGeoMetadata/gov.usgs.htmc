@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-802578",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Rush Springs, OK 1902 (printed 1922)",
+  "dct_alternative_sm": [
+    "Rush Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1902 edition of the Rush Springs, Oklahoma, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1898; printed in 1922.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Grady County, Oklahoma",
+    "Stephens County, Oklahoma",
+    "Garvin County, Oklahoma",
+    "McClain County, Oklahoma",
+    "Carter County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d692",
+    "urn:uuid:2ff31ebe-6a49-93ed-4cb6-a886907d4c57"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.5 34.5,-97.5 35,-98 35,-98 34.5,-97.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-98, -97.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-97.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-802392",
+    "usgs-htmc-802579",
+    "usgs-htmc-802580"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Rush%20Springs_802578_1902_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Rush%20Springs_802578_1902_125000_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Rush%20Springs_802578_1902_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/125000/OK_Rush_Springs_802578_1902_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d692\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Rush%20Springs_802578_1902_125000_tn.jpg\"}"
+}

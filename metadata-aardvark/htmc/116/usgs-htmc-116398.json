@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-116398",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Post Oak Mountain, TX 1958 (printed 1961)",
+  "dct_alternative_sm": [
+    "Post Oak Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Post Oak Mountain, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1955; field checked in 1958; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 23 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Coryell County, Texas",
+    "Bell County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51ffe4b00f54eb40cc62",
+    "urn:uuid:41565fbd-48d9-eff1-356a-eb1577cfb437"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.625 31.125,-97.625 31.25,-97.75 31.25,-97.75 31.125,-97.625 31.125))",
+  "dcat_bbox": "ENVELOPE(-97.75, -97.625, 31.25, 31.125)",
+  "dcat_centroid": "31.1875,-97.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-116397",
+    "usgs-htmc-116399",
+    "usgs-htmc-117536"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Post%20Oak%20Mountain_116398_1958_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Post%20Oak%20Mountain_116398_1958_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Post%20Oak%20Mountain_116398_1958_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Post_Oak_Mountain_116398_1958_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51ffe4b00f54eb40cc62\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Post%20Oak%20Mountain_116398_1958_24000_tn.jpg\"}"
+}

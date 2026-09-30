@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-465728",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Hayward, CA 1942",
+  "dct_alternative_sm": [
+    "Hayward"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Hayward, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Aerial photographs from 1939; printed in 1942.",
+    "Variations: woodland tint. Sheet size: 16.96 x 21.89 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Alameda County, California",
+    "San Mateo County, California",
+    "Contra Costa County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d295840e4b038fabe1d13bb",
+    "urn:uuid:189c7d61-2f0b-8c92-ecaf-bd13b6a25728"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 37.5,-122 37.75,-122.25 37.75,-122.25 37.5,-122 37.5))",
+  "dcat_bbox": "ENVELOPE(-122.25, -122, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-122.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297660",
+    "usgs-htmc-297662",
+    "usgs-htmc-297663",
+    "usgs-htmc-297665",
+    "usgs-htmc-297666",
+    "usgs-htmc-297667",
+    "usgs-htmc-297668",
+    "usgs-htmc-297670",
+    "usgs-htmc-465729",
+    "usgs-htmc-465730",
+    "usgs-htmc-465731"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Hayward_465728_1942_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Hayward_465728_1942_62500_geo.pdf\",\"label\":\"GeoPDF (8.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Hayward_465728_1942_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Hayward_465728_1942_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d295840e4b038fabe1d13bb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Hayward_465728_1942_62500_tn.jpg\"}"
+}

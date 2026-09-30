@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-707748",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Circle, AK 1955 (printed 1982)",
+  "dct_alternative_sm": [
+    "Circle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Circle, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1955; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 27.5 x 23.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Fairbanks North Star, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a23e4b00f54eb3e2d0d",
+    "urn:uuid:59b7c7b9-d9bf-6ca0-aed1-1e0f65c2d68c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-144 65,-144 66,-147 66,-147 65,-144 65))",
+  "dcat_bbox": "ENVELOPE(-147, -144, 66, 65)",
+  "dcat_centroid": "65.5,-145.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360763",
+    "usgs-htmc-360768",
+    "usgs-htmc-360769",
+    "usgs-htmc-360770",
+    "usgs-htmc-360771",
+    "usgs-htmc-360772",
+    "usgs-htmc-360773",
+    "usgs-htmc-463617",
+    "usgs-htmc-463618",
+    "usgs-htmc-463620",
+    "usgs-htmc-463621",
+    "usgs-htmc-463623"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Circle_707748_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Circle_707748_1955_250000_geo.pdf\",\"label\":\"GeoPDF (31.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Circle_707748_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Circle_707748_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a23e4b00f54eb3e2d0d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Circle_707748_1955_250000_tn.jpg\"}"
+}

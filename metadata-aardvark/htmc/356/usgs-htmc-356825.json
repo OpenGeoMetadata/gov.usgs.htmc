@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-356825",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Kodiak C-6, AK 1952 (printed 1987)",
+  "dct_alternative_sm": [
+    "Kodiak C-6"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Kodiak C-6, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; last revised in 1986; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 18.1 x 21.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Kodiak Island, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a533be4b00f54eb40f29f",
+    "urn:uuid:5e63c1de-95bf-e529-9ace-6a4ff10abaae"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-153.6666667 57.5,-153.6666667 57.75,-154 57.75,-154 57.5,-153.6666667 57.5))",
+  "dcat_bbox": "ENVELOPE(-154, -153.6666667, 57.75, 57.5)",
+  "dcat_centroid": "57.625,-153.83333335",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-356822",
+    "usgs-htmc-356823",
+    "usgs-htmc-356824"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Kodiak%20C-6_356825_1952_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Kodiak%20C-6_356825_1952_63360_geo.pdf\",\"label\":\"GeoPDF (13.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Kodiak%20C-6_356825_1952_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Kodiak_C6_356825_1952_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a533be4b00f54eb40f29f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Kodiak%20C-6_356825_1952_63360_tn.jpg\"}"
+}

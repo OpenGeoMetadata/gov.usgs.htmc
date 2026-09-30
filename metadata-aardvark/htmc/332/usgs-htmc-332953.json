@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-332953",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for North Shore, LA 1967 (printed 1980)",
+  "dct_alternative_sm": [
+    "North Shore"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the North Shore, Louisiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1967; aerial photographs from 1978; photo revised in 1979; last revised in 1979; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "St. Tammany Parish, Louisiana",
+    "Orleans Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3da7e4b00f54eb3e923d",
+    "urn:uuid:10af5416-19c7-bce4-4ae3-096a503536d9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 30.125,-89.75 30.25,-89.875 30.25,-89.875 30.125,-89.75 30.125))",
+  "dcat_bbox": "ENVELOPE(-89.875, -89.75, 30.25, 30.125)",
+  "dcat_centroid": "30.1875,-89.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-332949",
+    "usgs-htmc-332950",
+    "usgs-htmc-332951",
+    "usgs-htmc-332952",
+    "usgs-htmc-332954",
+    "usgs-htmc-332955",
+    "usgs-htmc-333993"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_North%20Shore_332953_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_North%20Shore_332953_1967_24000_geo.pdf\",\"label\":\"GeoPDF (13.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_North%20Shore_332953_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/24000/LA_North_Shore_332953_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3da7e4b00f54eb3e923d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_North%20Shore_332953_1967_24000_tn.jpg\"}"
+}

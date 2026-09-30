@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-284427",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Lost Bridge, ND 1970 (printed 1973)",
+  "dct_alternative_sm": [
+    "Lost Bridge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1970 edition of the Lost Bridge, North Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1969; field checked in 1970; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Dunn County, North Dakota",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2a72e4b00f54eb3c8850",
+    "urn:uuid:3e355670-bedc-0015-7374-cd8f816d6c39"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-102.75 47.5,-102.75 47.625,-102.875 47.625,-102.875 47.5,-102.75 47.5))",
+  "dcat_bbox": "ENVELOPE(-102.875, -102.75, 47.625, 47.5)",
+  "dcat_centroid": "47.5625,-102.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-284428"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Lost%20Bridge_284427_1970_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Lost%20Bridge_284427_1970_24000_geo.pdf\",\"label\":\"GeoPDF (12.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Lost%20Bridge_284427_1970_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/24000/ND_Lost_Bridge_284427_1970_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2a72e4b00f54eb3c8850\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Lost%20Bridge_284427_1970_24000_tn.jpg\"}"
+}

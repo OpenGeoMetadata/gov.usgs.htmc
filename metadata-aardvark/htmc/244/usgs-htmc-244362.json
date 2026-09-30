@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-244362",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tunk Mountain, WA 2001 (printed 2004)",
+  "dct_alternative_sm": [
+    "Tunk Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2001 edition of the Tunk Mountain, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1998; last revised in 2001; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 22.2 x 27.1 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Okanogan County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3015e4b00f54eb3d1b9b",
+    "urn:uuid:f29e50ac-7104-df0b-dbbb-07bdbd063854"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.125 48.5,-119.125 48.625,-119.25 48.625,-119.25 48.5,-119.125 48.5))",
+  "dcat_bbox": "ENVELOPE(-119.25, -119.125, 48.625, 48.5)",
+  "dcat_centroid": "48.5625,-119.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-244361"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Tunk%20Mountain_244362_2001_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Tunk%20Mountain_244362_2001_24000_geo.pdf\",\"label\":\"GeoPDF (13.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Tunk%20Mountain_244362_2001_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Tunk_Mountain_244362_2001_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3015e4b00f54eb3d1b9b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Tunk%20Mountain_244362_2001_24000_tn.jpg\"}"
+}

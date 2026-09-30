@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-343484",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for J B Hill, SD 1968 (printed 1971)",
+  "dct_alternative_sm": [
+    "J B Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the J B Hill, South Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1964; field checked in 1968; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Harding County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a505ee4b00f54eb4099de",
+    "urn:uuid:72af6ef3-bd64-ff46-92aa-403c73c0c397"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103.125 45.375,-103.125 45.5,-103.25 45.5,-103.25 45.375,-103.125 45.375))",
+  "dcat_bbox": "ENVELOPE(-103.25, -103.125, 45.5, 45.375)",
+  "dcat_centroid": "45.4375,-103.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-343485",
+    "usgs-htmc-9475884"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_J%20B%20Hill_343484_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_J%20B%20Hill_343484_1968_24000_geo.pdf\",\"label\":\"GeoPDF (13.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_J%20B%20Hill_343484_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/24000/SD_J_B_Hill_343484_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a505ee4b00f54eb4099de\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_J%20B%20Hill_343484_1968_24000_tn.jpg\"}"
+}

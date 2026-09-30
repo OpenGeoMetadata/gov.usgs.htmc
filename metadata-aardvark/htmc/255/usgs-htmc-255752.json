@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-255752",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Dover, DE 1906 (printed 1915)",
+  "dct_alternative_sm": [
+    "Dover"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1906 edition of the Dover, Delaware, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1896; printed in 1915.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1915]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Maryland",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c1fe4b00f54eb401b72",
+    "urn:uuid:443f8ef3-8325-c349-65dc-c0c9ac361397"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.5 39,-75.5 39.5,-76 39.5,-76 39,-75.5 39))",
+  "dcat_bbox": "ENVELOPE(-76, -75.5, 39.5, 39)",
+  "dcat_centroid": "39.25,-75.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255747",
+    "usgs-htmc-255748",
+    "usgs-htmc-255750",
+    "usgs-htmc-255754",
+    "usgs-htmc-463172"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Dover_255752_1906_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/125000/DE_Dover_255752_1906_125000_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Dover_255752_1906_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/DE/125000/DE_Dover_255752_1906_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c1fe4b00f54eb401b72\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/125000/DE_Dover_255752_1906_125000_tn.jpg\"}"
+}

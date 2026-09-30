@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-362236",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Rincon, PR 1966 (printed 1969)",
+  "dct_alternative_sm": [
+    "Rincon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Rincon, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1939; aerial photographs from 1963; field checked in 1966; printed in 1969.",
+    "Variations: woodland tint. Sheet size: 34.1 x 32.8 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Rincón, Puerto Rico",
+    "Añasco, Puerto Rico",
+    "Aguada, Puerto Rico",
+    "Mayagüez, Puerto Rico",
+    "Moca, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ac2e4b00f54eb3ff4cd",
+    "urn:uuid:577ef4cf-3a3e-3380-280f-eb0ab2ea993a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-67.125 18.25,-67.125 18.375,-67.2708333 18.375,-67.2708333 18.25,-67.125 18.25))",
+  "dcat_bbox": "ENVELOPE(-67.2708333, -67.125, 18.375, 18.25)",
+  "dcat_centroid": "18.3125,-67.19791665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362234",
+    "usgs-htmc-362235",
+    "usgs-htmc-362551",
+    "usgs-htmc-362552",
+    "usgs-htmc-362553",
+    "usgs-htmc-362554",
+    "usgs-htmc-362555"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Rincon_362236_1966_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Rincon_362236_1966_20000_geo.pdf\",\"label\":\"GeoPDF (26.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Rincon_362236_1966_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Rincon_362236_1966_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ac2e4b00f54eb3ff4cd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Rincon_362236_1966_20000_tn.jpg\"}"
+}

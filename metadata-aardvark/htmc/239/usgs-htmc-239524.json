@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-239524",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Kamiah, ID 1924",
+  "dct_alternative_sm": [
+    "Kamiah"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1924 edition of the Kamiah, Idaho, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers.",
+    "Release: Advance. Variations: planimetric. Sheet size: 17.1 x 21.7 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "dct_spatial_sm": [
+    "Idaho County, Idaho",
+    "Lewis County, Idaho",
+    "Clearwater County, Idaho",
+    "Nez Perce County, Idaho",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bffe4b00f54eb3e5f83",
+    "urn:uuid:f43cd8e9-3d1c-c303-c6d2-b61a003fc45b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116 46,-116 46.5,-116.5 46.5,-116.5 46,-116 46))",
+  "dcat_bbox": "ENVELOPE(-116.5, -116, 46.5, 46)",
+  "dcat_centroid": "46.25,-116.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Kamiah_239524_1924_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/125000/ID_Kamiah_239524_1924_125000_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Kamiah_239524_1924_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ID/125000/ID_Kamiah_239524_1924_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bffe4b00f54eb3e5f83\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/125000/ID_Kamiah_239524_1924_125000_tn.jpg\"}"
+}

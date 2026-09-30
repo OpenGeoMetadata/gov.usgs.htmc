@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-187595",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Studley, VA 1938",
+  "dct_alternative_sm": [
+    "Studley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1938 edition of the Studley, Virginia, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1934.",
+    "Sheet size: 16.4 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "gbl_indexYear_im": [
+    1938
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Hanover County, Virginia",
+    "King William County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f3be4b00f54eb407579",
+    "urn:uuid:0017f79c-2e05-71fe-30fe-84c522ef0f23"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.25 37.625,-77.25 37.75,-77.375 37.75,-77.375 37.625,-77.25 37.625))",
+  "dcat_bbox": "ENVELOPE(-77.375, -77.25, 37.75, 37.625)",
+  "dcat_centroid": "37.6875,-77.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-186866",
+    "usgs-htmc-186867",
+    "usgs-htmc-186868",
+    "usgs-htmc-186869",
+    "usgs-htmc-186871",
+    "usgs-htmc-186872",
+    "usgs-htmc-186874",
+    "usgs-htmc-187593",
+    "usgs-htmc-187598"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Studley_187595_1938_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Studley_187595_1938_31680_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Studley_187595_1938_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/31680/VA_Studley_187595_1938_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f3be4b00f54eb407579\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Studley_187595_1938_31680_tn.jpg\"}"
+}

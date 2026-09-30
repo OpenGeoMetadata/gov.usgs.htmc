@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-466586",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for White Ledge Peak, CA 1952 (printed 1953)",
+  "dct_alternative_sm": [
+    "White Ledge Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the White Ledge Peak, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1952; printed in 1953.",
+    "Sheet size: 22.01 x 26.92 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Ventura County, California",
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e2c2805e4b0a79317d399f1",
+    "urn:uuid:f975b812-e363-1b35-3cf5-8e274e982317"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.375 34.375,-119.375 34.5,-119.5 34.5,-119.5 34.375,-119.375 34.375))",
+  "dcat_bbox": "ENVELOPE(-119.5, -119.375, 34.5, 34.375)",
+  "dcat_centroid": "34.4375,-119.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102159",
+    "usgs-htmc-295770",
+    "usgs-htmc-301352",
+    "usgs-htmc-301353",
+    "usgs-htmc-301354",
+    "usgs-htmc-301355"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_White%20Ledge%20Peak_466586_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_White%20Ledge%20Peak_466586_1952_24000_geo.pdf\",\"label\":\"GeoPDF (15.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_White%20Ledge%20Peak_466586_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_White_Ledge_Peak_466586_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e2c2805e4b0a79317d399f1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_White%20Ledge%20Peak_466586_1952_24000_tn.jpg\"}"
+}

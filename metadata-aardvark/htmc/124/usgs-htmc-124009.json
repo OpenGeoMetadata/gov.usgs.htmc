@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-124009",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Santa Maria, TX 2002 (printed 2003)",
+  "dct_alternative_sm": [
+    "Santa Maria"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2002 edition of the Santa Maria, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 2002; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 23 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Tamaulipas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52c1e4b00f54eb40e420",
+    "urn:uuid:030d7479-2703-3588-115e-50f3eb7f5c09"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.75 26,-97.75 26.125,-97.875 26.125,-97.875 26,-97.75 26))",
+  "dcat_bbox": "ENVELOPE(-97.875, -97.75, 26.125, 26)",
+  "dcat_centroid": "26.0625,-97.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-111426",
+    "usgs-htmc-111427",
+    "usgs-htmc-111428",
+    "usgs-htmc-111429",
+    "usgs-htmc-111430",
+    "usgs-htmc-128258"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Santa%20Maria_124009_2002_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Santa%20Maria_124009_2002_24000_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Santa%20Maria_124009_2002_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Santa_Maria_124009_2002_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52c1e4b00f54eb40e420\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Santa%20Maria_124009_2002_24000_tn.jpg\"}"
+}

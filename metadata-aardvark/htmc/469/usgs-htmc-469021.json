@@ -1,0 +1,92 @@
+{
+  "id": "usgs-htmc-469021",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Manhattan, KS 1955 (printed 1964)",
+  "dct_alternative_sm": [
+    "Manhattan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Manhattan, Kansas, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Surveyed in 1949; aerial photographs from 1954; field checked in 1955; last revised in 1964; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 31.93 x 21.8 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Riley County, Kansas",
+    "Marshall County, Kansas",
+    "Washington County, Kansas",
+    "Pottawatomie County, Kansas",
+    "Cloud County, Kansas",
+    "Republic County, Kansas",
+    "Clay County, Kansas",
+    "Ottawa County, Kansas",
+    "Nemaha County, Kansas",
+    "Wabaunsee County, Kansas",
+    "Dickinson County, Kansas",
+    "Geary County, Kansas",
+    "Jewell County, Kansas",
+    "Mitchell County, Kansas",
+    "Lincoln County, Kansas",
+    "Jackson County, Kansas",
+    "Shawnee County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e163fece4b0ecf25c579a35",
+    "urn:uuid:bb33a86d-89cd-ed4e-0300-c140ce423f4f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96 39,-96 40,-98 40,-98 39,-96 39))",
+  "dcat_bbox": "ENVELOPE(-98, -96, 40, 39)",
+  "dcat_centroid": "39.5,-97",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-469018",
+    "usgs-htmc-469020",
+    "usgs-htmc-469023",
+    "usgs-htmc-707459",
+    "usgs-htmc-801881"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Manhattan_469021_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/250000/KS_Manhattan_469021_1955_250000_geo.pdf\",\"label\":\"GeoPDF (22.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Manhattan_469021_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/250000/KS_Manhattan_469021_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e163fece4b0ecf25c579a35\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/250000/KS_Manhattan_469021_1955_250000_tn.jpg\"}"
+}

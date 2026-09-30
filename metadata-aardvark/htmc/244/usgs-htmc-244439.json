@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-244439",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Vancouver, WA 1948 (printed 1957)",
+  "dct_alternative_sm": [
+    "Vancouver"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Vancouver, Washington, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1945; printed in 1957.",
+    "Variations: shaded relief. Sheet size: 32.2 x 24.1 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a286ce4b00f54eb3c5376",
+    "urn:uuid:d28a6dcc-cc38-e6e1-0e1c-57e25303c66c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 45,-122 46,-124.0833333 46,-124.0833333 45,-122 45))",
+  "dcat_bbox": "ENVELOPE(-124.0833333, -122, 46, 45)",
+  "dcat_centroid": "45.5,-123.04166665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-244441",
+    "usgs-htmc-244445",
+    "usgs-htmc-244447",
+    "usgs-htmc-244450",
+    "usgs-htmc-244451"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Vancouver_244439_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/250000/WA_Vancouver_244439_1948_250000_geo.pdf\",\"label\":\"GeoPDF (24.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Vancouver_244439_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/250000/WA_Vancouver_244439_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a286ce4b00f54eb3c5376\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/250000/WA_Vancouver_244439_1948_250000_tn.jpg\"}"
+}

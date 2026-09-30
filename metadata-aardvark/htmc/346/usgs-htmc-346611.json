@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-346611",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for High Springs SW, FL 1969 (printed 1988)",
+  "dct_alternative_sm": [
+    "High Springs SW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the High Springs SW, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1983; field checked in 1969; photo revised in 1988; last revised in 1988; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Gilchrist County, Florida",
+    "Columbia County, Florida",
+    "Alachua County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a414be4b00f54eb3eee3f",
+    "urn:uuid:edecb858-8a45-9b29-08bf-5ab80cfc293b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.625 29.75,-82.625 29.875,-82.75 29.875,-82.75 29.75,-82.625 29.75))",
+  "dcat_bbox": "ENVELOPE(-82.75, -82.625, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-82.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346612",
+    "usgs-htmc-346613"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_High%20Springs%20SW_346611_1969_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_High%20Springs%20SW_346611_1969_24000_geo.pdf\",\"label\":\"GeoPDF (12.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_High%20Springs%20SW_346611_1969_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_High_Springs_SW_346611_1969_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a414be4b00f54eb3eee3f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_High%20Springs%20SW_346611_1969_24000_tn.jpg\"}"
+}

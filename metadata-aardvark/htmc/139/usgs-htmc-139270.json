@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-139270",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Blue Mountain, NY 1903 (printed 1919)",
+  "dct_alternative_sm": [
+    "Blue Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Blue Mountain, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1900; printed in 1919.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Hamilton County, New York",
+    "Essex County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32c1e4b00f54eb3d5c6e",
+    "urn:uuid:89ee7180-79df-3e16-32f1-58999b7d2529"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.25 43.75,-74.25 44,-74.5 44,-74.5 43.75,-74.25 43.75))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.25, 44, 43.75)",
+  "dcat_centroid": "43.875,-74.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123324",
+    "usgs-htmc-123326",
+    "usgs-htmc-123328",
+    "usgs-htmc-123330",
+    "usgs-htmc-123331",
+    "usgs-htmc-123332",
+    "usgs-htmc-123333",
+    "usgs-htmc-123334",
+    "usgs-htmc-123335",
+    "usgs-htmc-139266",
+    "usgs-htmc-139267",
+    "usgs-htmc-139268",
+    "usgs-htmc-139269",
+    "usgs-htmc-139271",
+    "usgs-htmc-139273",
+    "usgs-htmc-139274"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Blue%20Mountain_139270_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Blue%20Mountain_139270_1903_62500_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Blue%20Mountain_139270_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Blue_Mountain_139270_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32c1e4b00f54eb3d5c6e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Blue%20Mountain_139270_1903_62500_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-163283",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Vandemere, NC 1950 (printed 1993)",
+  "dct_alternative_sm": [
+    "Vandemere"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Vandemere, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Department of Commerce. Surveyed in 1948; aerial photographs from 1989; field checked in 1950; photo revised in 1993; last revised in 1993; printed in 1993.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "Pamlico County, North Carolina",
+    "Beaufort County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5411e4b00f54eb410e4f",
+    "urn:uuid:5bd595dd-3938-0f0e-fec1-44e6399b8725"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.625 35.125,-76.625 35.25,-76.75 35.25,-76.75 35.125,-76.625 35.125))",
+  "dcat_bbox": "ENVELOPE(-76.75, -76.625, 35.25, 35.125)",
+  "dcat_centroid": "35.1875,-76.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-164960",
+    "usgs-htmc-164961",
+    "usgs-htmc-164962"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Vandemere_163283_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Vandemere_163283_1950_24000_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Vandemere_163283_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Vandemere_163283_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5411e4b00f54eb410e4f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Vandemere_163283_1950_24000_tn.jpg\"}"
+}

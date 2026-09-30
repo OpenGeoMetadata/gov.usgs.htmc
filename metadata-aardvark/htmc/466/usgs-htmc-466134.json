@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-466134",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Piedras Blancas, CA 1919",
+  "dct_alternative_sm": [
+    "Piedras Blancas"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Piedras Blancas, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1917.",
+    "Sheet size: 16.49 x 19.97 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "San Luis Obispo County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e0659cee4b0b207aa0b4b22",
+    "urn:uuid:55b04df4-14ed-44e8-a670-5da2726f718f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.25 35.5,-121.25 35.75,-121.5 35.75,-121.5 35.5,-121.25 35.5))",
+  "dcat_bbox": "ENVELOPE(-121.5, -121.25, 35.75, 35.5)",
+  "dcat_centroid": "35.625,-121.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-298538",
+    "usgs-htmc-298539",
+    "usgs-htmc-298540",
+    "usgs-htmc-298541"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Piedras%20Blancas_466134_1919_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Piedras%20Blancas_466134_1919_62500_geo.pdf\",\"label\":\"GeoPDF (4.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Piedras%20Blancas_466134_1919_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Piedras_Blancas_466134_1919_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e0659cee4b0b207aa0b4b22\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Piedras%20Blancas_466134_1919_62500_tn.jpg\"}"
+}

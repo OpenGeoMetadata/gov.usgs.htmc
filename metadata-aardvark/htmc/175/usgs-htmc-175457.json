@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-175457",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Russell, IA 1938",
+  "dct_alternative_sm": [
+    "Russell"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1938 edition of the Russell, Iowa, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1935.",
+    "Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "gbl_indexYear_im": [
+    1938
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Wayne County, Iowa",
+    "Lucas County, Iowa",
+    "Appanoose County, Iowa",
+    "Monroe County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bc1e4b00f54eb3e5827",
+    "urn:uuid:6c62d09f-5c53-9851-a789-39a9af9e20b6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93 40.75,-93 41,-93.25 41,-93.25 40.75,-93 40.75))",
+  "dcat_bbox": "ENVELOPE(-93.25, -93, 41, 40.75)",
+  "dcat_centroid": "40.875,-93.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-175452",
+    "usgs-htmc-175455",
+    "usgs-htmc-175456"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Russell_175457_1938_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Russell_175457_1938_62500_geo.pdf\",\"label\":\"GeoPDF (8.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Russell_175457_1938_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/62500/IA_Russell_175457_1938_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bc1e4b00f54eb3e5827\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Russell_175457_1938_62500_tn.jpg\"}"
+}

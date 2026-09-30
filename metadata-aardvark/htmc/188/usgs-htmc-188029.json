@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-188029",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Critz, VA 1928 (printed 1943)",
+  "dct_alternative_sm": [
+    "Critz"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1928 edition of the Critz, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1926; printed in 1943.",
+    "Sheet size: 16.6 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e0de4b00f54eb405179",
+    "urn:uuid:2c7369c1-0a64-3264-9d2a-2ae10b5c8b6c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 36.5,-80 36.75,-80.25 36.75,-80.25 36.5,-80 36.5))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80, 36.75, 36.5)",
+  "dcat_centroid": "36.625,-80.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-187684",
+    "usgs-htmc-188025",
+    "usgs-htmc-188026",
+    "usgs-htmc-188028"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Critz_188029_1928_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Critz_188029_1928_62500_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Critz_188029_1928_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/62500/VA_Critz_188029_1928_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e0de4b00f54eb405179\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Critz_188029_1928_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-463932",
+  "dct_title_s": "USGS 1:50000-scale Quadrangle for Meade River D-5, AK 1962",
+  "dct_alternative_sm": [
+    "Meade River D-5"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Meade River D-5, Alaska, topographic map at 1:50,000 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1955; field checked in 1955; printed in 1962.",
+    "Variations: woodland tint. Sheet size: 22.04 x 28.89 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1962]"
+  ],
+  "dct_spatial_sm": [
+    "North Slope, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5b530211e4b05cbf87c178d2",
+    "urn:uuid:1c778d70-b8b8-b84a-42a9-62b5a79a6826"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-158.4 70.75,-158.4 71,-159 71,-159 70.75,-158.4 70.75))",
+  "dcat_bbox": "ENVELOPE(-159, -158.4, 71, 70.75)",
+  "dcat_centroid": "70.875,-158.7",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-357433"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Meade%20River%20D-5_463932_1962_50000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/50000/AK_Meade%20River%20D-5_463932_1962_50000_geo.pdf\",\"label\":\"GeoPDF (43.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Meade%20River%20D-5_463932_1962_50000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/50000/AK_Meade_River_D5_463932_1962_50000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5b530211e4b05cbf87c178d2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/50000/AK_Meade%20River%20D-5_463932_1962_50000_tn.jpg\"}"
+}

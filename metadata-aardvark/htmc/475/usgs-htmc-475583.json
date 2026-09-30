@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-475583",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Punta Chucara, PR 1958 (printed 1961)",
+  "dct_alternative_sm": [
+    "Punta Chucara"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Punta Chucara, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1943; last revised in 1958; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 27.45 x 32.67 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Ponce, Puerto Rico",
+    "Peñuelas, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/658f87d1d34e3265ab14e51b",
+    "urn:uuid:16c0fa53-8829-0201-66b4-a85880a13457"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.625 17.875,-66.625 18,-66.75 18,-66.75 17.875,-66.625 17.875))",
+  "dcat_bbox": "ENVELOPE(-66.75, -66.625, 18, 17.875)",
+  "dcat_centroid": "17.9375,-66.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362206",
+    "usgs-htmc-362207",
+    "usgs-htmc-362209",
+    "usgs-htmc-362210",
+    "usgs-htmc-362211",
+    "usgs-htmc-362525",
+    "usgs-htmc-362526",
+    "usgs-htmc-362527",
+    "usgs-htmc-362528",
+    "usgs-htmc-362529"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2023-12-29T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Punta%20Chucara_475583_1958_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Punta%20Chucara_475583_1958_20000_geo.pdf\",\"label\":\"GeoPDF (11.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Punta%20Chucara_475583_1958_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Punta_Chucara_475583_1958_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/658f87d1d34e3265ab14e51b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Punta%20Chucara_475583_1958_20000_tn.jpg\"}"
+}

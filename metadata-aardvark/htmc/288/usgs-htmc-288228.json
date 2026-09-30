@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-288228",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bartlett, CA 1987 (printed 1991)",
+  "dct_alternative_sm": [
+    "Bartlett"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1987 edition of the Bartlett, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1984; last revised in 1987; printed in 1991.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1987",
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Inyo County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a294ae4b00f54eb3c6841",
+    "urn:uuid:80ac4fca-5257-4359-2b93-8f7b85b39c8a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 36.375,-118 36.5,-118.125 36.5,-118.125 36.375,-118 36.375))",
+  "dcat_bbox": "ENVELOPE(-118.125, -118, 36.5, 36.375)",
+  "dcat_centroid": "36.4375,-118.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100106",
+    "usgs-htmc-288227",
+    "usgs-htmc-465333"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bartlett_288228_1987_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Bartlett_288228_1987_24000_geo.pdf\",\"label\":\"GeoPDF (17.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bartlett_288228_1987_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Bartlett_288228_1987_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a294ae4b00f54eb3c6841\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Bartlett_288228_1987_24000_tn.jpg\"}"
+}

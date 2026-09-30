@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-225679",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Macksburg, OH 1903 (printed 1958)",
+  "dct_alternative_sm": [
+    "Macksburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Macksburg, Ohio, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1903; printed in 1958.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Noble County, Ohio",
+    "Washington County, Ohio",
+    "Monroe County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a319ee4b00f54eb3d4129",
+    "urn:uuid:de1dc860-665b-8bf9-f6d2-f420cf751d1e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.25 39.5,-81.25 39.75,-81.5 39.75,-81.5 39.5,-81.25 39.5))",
+  "dcat_bbox": "ENVELOPE(-81.5, -81.25, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-81.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-225680"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Macksburg_225679_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/62500/OH_Macksburg_225679_1903_62500_geo.pdf\",\"label\":\"GeoPDF (12.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Macksburg_225679_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/62500/OH_Macksburg_225679_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a319ee4b00f54eb3d4129\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/62500/OH_Macksburg_225679_1903_62500_tn.jpg\"}"
+}

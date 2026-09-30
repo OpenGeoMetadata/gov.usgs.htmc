@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-225962",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Maumee, OH 1994 (printed 1998)",
+  "dct_alternative_sm": [
+    "Maumee"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Maumee, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1994; printed in 1998.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1998]"
+  ],
+  "dct_spatial_sm": [
+    "Lucas County, Ohio",
+    "Wood County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a259ee4b00f54eb3c0cba",
+    "urn:uuid:df47c2d2-08dd-9765-99a6-0249ae7b9209"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.625 41.5,-83.625 41.625,-83.75 41.625,-83.75 41.5,-83.625 41.5))",
+  "dcat_bbox": "ENVELOPE(-83.75, -83.625, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-83.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-227763",
+    "usgs-htmc-227764",
+    "usgs-htmc-227765",
+    "usgs-htmc-227766",
+    "usgs-htmc-227767",
+    "usgs-htmc-227768",
+    "usgs-htmc-227769",
+    "usgs-htmc-227770"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Maumee_225962_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Maumee_225962_1994_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Maumee_225962_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Maumee_225962_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a259ee4b00f54eb3c0cba\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Maumee_225962_1994_24000_tn.jpg\"}"
+}

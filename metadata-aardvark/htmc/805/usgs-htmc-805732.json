@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-805732",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Litchfield North, MN 1967 (printed 1995)",
+  "dct_alternative_sm": [
+    "Litchfield North"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Litchfield North, Minnesota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1991; field checked in 1967; photo revised in 1994; last revised in 1994; printed in 1995.",
+    "Variations: woodland tint. Sheet size: 21 x 27.13 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "Meeker County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4719e4b00f54eb3f8b50",
+    "urn:uuid:99fbe141-97e5-6346-5eed-a8f9799b4c16"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94.5 45.125,-94.5 45.25,-94.625 45.25,-94.625 45.125,-94.5 45.125))",
+  "dcat_bbox": "ENVELOPE(-94.625, -94.5, 45.25, 45.125)",
+  "dcat_centroid": "45.1875,-94.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804827",
+    "usgs-htmc-805733"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Litchfield%20North_805732_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Litchfield%20North_805732_1967_24000_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Litchfield%20North_805732_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/24000/MN_Litchfield_North_805732_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4719e4b00f54eb3f8b50\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Litchfield%20North_805732_1967_24000_tn.jpg\"}"
+}

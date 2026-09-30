@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-352746",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Greylock, MA 1898 (printed 1920)",
+  "dct_alternative_sm": [
+    "Greylock"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1898 edition of the Greylock, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1885; printed in 1920.",
+    "Sheet size: 15.7 x 19.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ed5e4b00f54eb3cfb18",
+    "urn:uuid:70010429-e32f-d846-bd72-c297803914ac"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73 42.5,-73 42.75,-73.25 42.75,-73.25 42.5,-73 42.5))",
+  "dcat_bbox": "ENVELOPE(-73.25, -73, 42.75, 42.5)",
+  "dcat_centroid": "42.625,-73.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-352738",
+    "usgs-htmc-352739",
+    "usgs-htmc-352740",
+    "usgs-htmc-352741",
+    "usgs-htmc-352742",
+    "usgs-htmc-352743",
+    "usgs-htmc-352744",
+    "usgs-htmc-352745",
+    "usgs-htmc-352747",
+    "usgs-htmc-352748",
+    "usgs-htmc-352751",
+    "usgs-htmc-352752"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Greylock_352746_1898_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Greylock_352746_1898_62500_geo.pdf\",\"label\":\"GeoPDF (11.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Greylock_352746_1898_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Greylock_352746_1898_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ed5e4b00f54eb3cfb18\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Greylock_352746_1898_62500_tn.jpg\"}"
+}

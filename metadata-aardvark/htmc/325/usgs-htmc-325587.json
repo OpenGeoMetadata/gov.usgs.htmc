@@ -1,0 +1,99 @@
+{
+  "id": "usgs-htmc-325587",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Jefferson City, MO 1959",
+  "dct_alternative_sm": [
+    "Jefferson City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Jefferson City, Missouri, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1950; field checked in 1955; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 30.8 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Cole County, Missouri",
+    "Benton County, Missouri",
+    "Pettis County, Missouri",
+    "Johnson County, Missouri",
+    "Henry County, Missouri",
+    "Morgan County, Missouri",
+    "Miller County, Missouri",
+    "Cooper County, Missouri",
+    "Moniteau County, Missouri",
+    "Camden County, Missouri",
+    "St. Clair County, Missouri",
+    "Boone County, Missouri",
+    "Callaway County, Missouri",
+    "Maries County, Missouri",
+    "Lafayette County, Missouri",
+    "Osage County, Missouri",
+    "Hickory County, Missouri",
+    "Saline County, Missouri",
+    "Howard County, Missouri",
+    "Pulaski County, Missouri",
+    "Phelps County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c9ee4b00f54eb4029b5",
+    "urn:uuid:cd2f55c9-0421-9064-9bab-7d3183211ed6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 38,-92 39,-94 39,-94 38,-92 38))",
+  "dcat_bbox": "ENVELOPE(-94, -92, 39, 38)",
+  "dcat_centroid": "38.5,-93",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-325586",
+    "usgs-htmc-325588",
+    "usgs-htmc-325589",
+    "usgs-htmc-325590",
+    "usgs-htmc-325591",
+    "usgs-htmc-472216",
+    "usgs-htmc-472217",
+    "usgs-htmc-472218"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Jefferson%20City_325587_1959_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/250000/MO_Jefferson%20City_325587_1959_250000_geo.pdf\",\"label\":\"GeoPDF (25.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Jefferson%20City_325587_1959_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/250000/MO_Jefferson_City_325587_1959_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c9ee4b00f54eb4029b5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/250000/MO_Jefferson%20City_325587_1959_250000_tn.jpg\"}"
+}

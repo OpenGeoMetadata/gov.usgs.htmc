@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-362292",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Yabucoa, PR 1960 (printed 1961)",
+  "dct_alternative_sm": [
+    "Yabucoa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Yabucoa, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1943; last revised in 1960; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 29.1 x 32.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Yabucoa, Puerto Rico",
+    "Maunabo, Puerto Rico",
+    "San Lorenzo, Puerto Rico",
+    "Patillas, Puerto Rico",
+    "Las Piedras, Puerto Rico",
+    "Humacao, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ad5e4b00f54eb3ff681",
+    "urn:uuid:17274c86-d4a1-2997-2e68-f6c10378d52f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-65.875 18,-65.875 18.125,-66 18.125,-66 18,-65.875 18))",
+  "dcat_bbox": "ENVELOPE(-66, -65.875, 18.125, 18)",
+  "dcat_centroid": "18.0625,-65.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362293",
+    "usgs-htmc-362602",
+    "usgs-htmc-362603",
+    "usgs-htmc-475649",
+    "usgs-htmc-475650",
+    "usgs-htmc-475651",
+    "usgs-htmc-475652"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Yabucoa_362292_1960_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Yabucoa_362292_1960_20000_geo.pdf\",\"label\":\"GeoPDF (23.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Yabucoa_362292_1960_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Yabucoa_362292_1960_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ad5e4b00f54eb3ff681\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Yabucoa_362292_1960_20000_tn.jpg\"}"
+}

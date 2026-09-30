@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-264327",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Haystack Peak, MT 2000 (printed 2005)",
+  "dct_alternative_sm": [
+    "Haystack Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2000 edition of the Haystack Peak, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1998; last revised in 2000; printed in 2005.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2005]"
+  ],
+  "dct_spatial_sm": [
+    "Park County, Montana",
+    "Sweet Grass County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2d9ce4b00f54eb3cde7e",
+    "urn:uuid:34c41ec0-7d25-3ea2-c4e2-19846f781e5a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.125 45.125,-110.125 45.25,-110.25 45.25,-110.25 45.125,-110.125 45.125))",
+  "dcat_bbox": "ENVELOPE(-110.25, -110.125, 45.25, 45.125)",
+  "dcat_centroid": "45.1875,-110.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-264326"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Haystack%20Peak_264327_2000_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Haystack%20Peak_264327_2000_24000_geo.pdf\",\"label\":\"GeoPDF (15.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Haystack%20Peak_264327_2000_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Haystack_Peak_264327_2000_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2d9ce4b00f54eb3cde7e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Haystack%20Peak_264327_2000_24000_tn.jpg\"}"
+}

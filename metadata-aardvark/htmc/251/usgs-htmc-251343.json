@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-251343",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Podunk Creek, UT 2002 (printed 2005)",
+  "dct_alternative_sm": [
+    "Podunk Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2002 edition of the Podunk Creek, Utah, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1998; last revised in 2002; printed in 2005.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2005]"
+  ],
+  "dct_spatial_sm": [
+    "Kane County, Utah",
+    "Utah"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a568ae4b00f54eb4138d9",
+    "urn:uuid:23eadc9e-b2b8-9818-2e80-db02b8a703ad"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112.25 37.375,-112.25 37.5,-112.375 37.5,-112.375 37.375,-112.25 37.375))",
+  "dcat_bbox": "ENVELOPE(-112.375, -112.25, 37.5, 37.375)",
+  "dcat_centroid": "37.4375,-112.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-251340",
+    "usgs-htmc-251341",
+    "usgs-htmc-251342"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Podunk%20Creek_251343_2002_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Podunk%20Creek_251343_2002_24000_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Podunk%20Creek_251343_2002_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/24000/UT_Podunk_Creek_251343_2002_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a568ae4b00f54eb4138d9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Podunk%20Creek_251343_2002_24000_tn.jpg\"}"
+}

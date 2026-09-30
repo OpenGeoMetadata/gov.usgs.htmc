@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-143880",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Ducktown, TN 1957 (printed 1991)",
+  "dct_alternative_sm": [
+    "Ducktown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Ducktown, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Aerial photographs from 1987; field checked in 1957; photo revised in 1990; last revised in 1990; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 22 x 27.5 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Polk County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4091e4b00f54eb3ed7c4",
+    "urn:uuid:40b463cf-b70e-8d42-a360-3b355ffc060e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.375 35,-84.375 35.125,-84.5 35.125,-84.5 35,-84.375 35))",
+  "dcat_bbox": "ENVELOPE(-84.5, -84.375, 35.125, 35)",
+  "dcat_centroid": "35.0625,-84.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-143881",
+    "usgs-htmc-143883",
+    "usgs-htmc-147529",
+    "usgs-htmc-147530",
+    "usgs-htmc-147531",
+    "usgs-htmc-155529"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Ducktown_143880_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Ducktown_143880_1957_24000_geo.pdf\",\"label\":\"GeoPDF (16.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Ducktown_143880_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Ducktown_143880_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4091e4b00f54eb3ed7c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Ducktown_143880_1957_24000_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-240918",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Eagle Gorge, WA 1993",
+  "dct_alternative_sm": [
+    "Eagle Gorge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1993 edition of the Eagle Gorge, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1986; field checked in 1990; last revised in 1993; printed in 1993.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "King County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2c99e4b00f54eb3cc3fc",
+    "urn:uuid:1295c9c1-0d55-b7a7-a769-0c5a325000e3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.75 47.25,-121.75 47.375,-121.875 47.375,-121.875 47.25,-121.75 47.25))",
+  "dcat_bbox": "ENVELOPE(-121.875, -121.75, 47.375, 47.25)",
+  "dcat_centroid": "47.3125,-121.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-240915",
+    "usgs-htmc-240916",
+    "usgs-htmc-240917"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Eagle%20Gorge_240918_1993_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Eagle%20Gorge_240918_1993_24000_geo.pdf\",\"label\":\"GeoPDF (18.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Eagle%20Gorge_240918_1993_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Eagle_Gorge_240918_1993_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2c99e4b00f54eb3cc3fc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Eagle%20Gorge_240918_1993_24000_tn.jpg\"}"
+}

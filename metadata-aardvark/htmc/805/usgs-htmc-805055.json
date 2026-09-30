@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-805055",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mount Wickham, MN 1967 (printed 1969)",
+  "dct_alternative_sm": [
+    "Mount Wickham"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Mount Wickham, Minnesota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1965; field checked in 1967; printed in 1969.",
+    "Variations: woodland tint. Sheet size: 21.2 x 27.2 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Lac qui Parle County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4762e4b00f54eb3f9446",
+    "urn:uuid:51168d8d-bd02-99c7-caa8-80cd071bec9c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.25 44.875,-96.25 45,-96.375 45,-96.375 44.875,-96.25 44.875))",
+  "dcat_bbox": "ENVELOPE(-96.375, -96.25, 45, 44.875)",
+  "dcat_centroid": "44.9375,-96.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Mount%20Wickham_805055_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Mount%20Wickham_805055_1967_24000_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Mount%20Wickham_805055_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/24000/MN_Mount_Wickham_805055_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4762e4b00f54eb3f9446\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_Mount%20Wickham_805055_1967_24000_tn.jpg\"}"
+}

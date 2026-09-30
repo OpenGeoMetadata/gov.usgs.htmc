@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-350921",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for East Brookfield, MA 1975 (printed 1981)",
+  "dct_alternative_sm": [
+    "East Brookfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the East Brookfield, Massachusetts, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; printed in 1981.",
+    "Variations: orthophotoquad. Sheet size: 22 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Worcester County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a23ece4b00f54eb3be3f9",
+    "urn:uuid:65678f80-d297-f7ca-1dac-9b14c3a10829"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72 42.125,-72 42.25,-72.125 42.25,-72.125 42.125,-72 42.125))",
+  "dcat_bbox": "ENVELOPE(-72.125, -72, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-72.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350104",
+    "usgs-htmc-350105",
+    "usgs-htmc-350106",
+    "usgs-htmc-350922",
+    "usgs-htmc-351643",
+    "usgs-htmc-351644",
+    "usgs-htmc-351645"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_East%20Brookfield_350921_1975_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_East%20Brookfield_350921_1975_25000_geo.pdf\",\"label\":\"GeoPDF (12.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_East%20Brookfield_350921_1975_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_East_Brookfield_350921_1975_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a23ece4b00f54eb3be3f9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_East%20Brookfield_350921_1975_25000_tn.jpg\"}"
+}

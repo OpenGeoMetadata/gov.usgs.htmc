@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-359168",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Sitka D-6, AK 2000 (printed 2003)",
+  "dct_alternative_sm": [
+    "Sitka D-6"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2000 edition of the Sitka D-6, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1999; last revised in 2000; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 18 x 21.5 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Sitka, Alaska",
+    "Hoonah-Angoon Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a55e6e4b00f54eb412f26",
+    "urn:uuid:643a0080-8fdb-bc4f-9344-bf22e3c54310"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-135.6666667 57.75,-135.6666667 58,-136 58,-136 57.75,-135.6666667 57.75))",
+  "dcat_bbox": "ENVELOPE(-136, -135.6666667, 58, 57.75)",
+  "dcat_centroid": "57.875,-135.83333335",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-359169",
+    "usgs-htmc-359170",
+    "usgs-htmc-359171",
+    "usgs-htmc-359172"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Sitka%20D-6_359168_2000_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Sitka%20D-6_359168_2000_63360_geo.pdf\",\"label\":\"GeoPDF (15.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Sitka%20D-6_359168_2000_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Sitka_D6_359168_2000_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a55e6e4b00f54eb412f26\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Sitka%20D-6_359168_2000_63360_tn.jpg\"}"
+}

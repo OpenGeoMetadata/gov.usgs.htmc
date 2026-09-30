@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-261752",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Chicora, SC 1920",
+  "dct_alternative_sm": [
+    "Chicora"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1920 edition of the Chicora, South Carolina, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1920.",
+    "Release: Advance. Sheet size: 21.7 x 26.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Berkeley County, South Carolina",
+    "Clarendon County, South Carolina",
+    "Orangeburg County, South Carolina",
+    "Williamsburg County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a22a5e4b00f54eb3bcf63",
+    "urn:uuid:5236a5cb-c364-753a-fecc-b935213d1bbb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 33.25,-80 33.5,-80.25 33.5,-80.25 33.25,-80 33.25))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80, 33.5, 33.25)",
+  "dcat_centroid": "33.375,-80.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-261801",
+    "usgs-htmc-261802",
+    "usgs-htmc-261803",
+    "usgs-htmc-261804",
+    "usgs-htmc-9475716"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Chicora_261752_1920_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Chicora_261752_1920_48000_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Chicora_261752_1920_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/48000/SC_Chicora_261752_1920_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a22a5e4b00f54eb3bcf63\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Chicora_261752_1920_48000_tn.jpg\"}"
+}

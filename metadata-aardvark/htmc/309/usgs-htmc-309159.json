@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-309159",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Galva, IL 1931",
+  "dct_alternative_sm": [
+    "Galva"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1931 edition of the Galva, Illinois, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1931.",
+    "Release: Advance. Sheet size: 20 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_spatial_sm": [
+    "Knox County, Illinois",
+    "Henry County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4449e4b00f54eb3f4194",
+    "urn:uuid:2fa48486-ff5d-c837-ca71-b2da2f76d9b3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90 41,-90 41.25,-90.25 41.25,-90.25 41,-90 41))",
+  "dcat_bbox": "ENVELOPE(-90.25, -90, 41.25, 41)",
+  "dcat_centroid": "41.125,-90.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309491",
+    "usgs-htmc-309492",
+    "usgs-htmc-309493",
+    "usgs-htmc-468453"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Galva_309159_1931_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/48000/IL_Galva_309159_1931_48000_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Galva_309159_1931_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/48000/IL_Galva_309159_1931_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4449e4b00f54eb3f4194\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/48000/IL_Galva_309159_1931_48000_tn.jpg\"}"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-337243",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Waynesboro, MS 1984 (printed 1994)",
+  "dct_alternative_sm": [
+    "Waynesboro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Waynesboro, Mississippi, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1980; photo inspected in 1992; printed in 1994.",
+    "Variations: woodland tint. Sheet size: 43.9 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1994]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4eb1e4b00f54eb406517",
+    "urn:uuid:5bbb536b-ddee-cb73-dc5a-c9cf0a0aaa6b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 31.5,-88 32,-89 32,-89 31.5,-88 31.5))",
+  "dcat_bbox": "ENVELOPE(-89, -88, 32, 31.5)",
+  "dcat_centroid": "31.75,-88.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-337242"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Waynesboro_337243_1984_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/100000/MS_Waynesboro_337243_1984_100000_geo.pdf\",\"label\":\"GeoPDF (34.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Waynesboro_337243_1984_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/100000/MS_Waynesboro_337243_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4eb1e4b00f54eb406517\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/100000/MS_Waynesboro_337243_1984_100000_tn.jpg\"}"
+}

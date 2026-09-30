@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-290008",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dos Pueblos Canyon, CA 1951 (printed 1957)",
+  "dct_alternative_sm": [
+    "Dos Pueblos Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Dos Pueblos Canyon, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1951; printed in 1957.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ca7e4b00f54eb3cc5a4",
+    "urn:uuid:7ed4c566-2d99-fd9b-1a3c-7f1706713a0d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.875 34.375,-119.875 34.5,-120 34.5,-120 34.375,-119.875 34.375))",
+  "dcat_bbox": "ENVELOPE(-120, -119.875, 34.5, 34.375)",
+  "dcat_centroid": "34.4375,-119.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-290004",
+    "usgs-htmc-290005",
+    "usgs-htmc-290006",
+    "usgs-htmc-290007",
+    "usgs-htmc-290009",
+    "usgs-htmc-290010",
+    "usgs-htmc-290011",
+    "usgs-htmc-302934",
+    "usgs-htmc-302935",
+    "usgs-htmc-302936"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Dos%20Pueblos%20Canyon_290008_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Dos%20Pueblos%20Canyon_290008_1951_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Dos%20Pueblos%20Canyon_290008_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Dos_Pueblos_Canyon_290008_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ca7e4b00f54eb3cc5a4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Dos%20Pueblos%20Canyon_290008_1951_24000_tn.jpg\"}"
+}

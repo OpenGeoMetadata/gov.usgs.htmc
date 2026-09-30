@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-337021",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Onward, MS 1939",
+  "dct_alternative_sm": [
+    "Onward"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1939 edition of the Onward, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1939; last revised in 1939.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a426be4b00f54eb3f0bee",
+    "urn:uuid:e1148ba0-5887-be50-68e4-25febd277a39"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.75 32.5,-90.75 32.75,-91 32.75,-91 32.5,-90.75 32.5))",
+  "dcat_bbox": "ENVELOPE(-91, -90.75, 32.75, 32.5)",
+  "dcat_centroid": "32.625,-90.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-334884",
+    "usgs-htmc-337020",
+    "usgs-htmc-337022",
+    "usgs-htmc-337023",
+    "usgs-htmc-337024"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Onward_337021_1939_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Onward_337021_1939_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Onward_337021_1939_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/62500/MS_Onward_337021_1939_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a426be4b00f54eb3f0bee\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Onward_337021_1939_62500_tn.jpg\"}"
+}

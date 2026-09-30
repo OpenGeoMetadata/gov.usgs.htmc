@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-185959",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Morrison, VA 1944",
+  "dct_alternative_sm": [
+    "Morrison"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Morrison, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1944; aerial photographs from 1942.",
+    "Variations: woodland tint. Sheet size: 21.9 x 27.6 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Hampton, Virginia",
+    "Newport News, Virginia",
+    "York County, Virginia",
+    "Poquoson, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3522e4b00f54eb3dac1a",
+    "urn:uuid:6537e7c4-8111-c849-aa40-90d16577ec67"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.375 37,-76.375 37.125,-76.5 37.125,-76.5 37,-76.375 37))",
+  "dcat_bbox": "ENVELOPE(-76.5, -76.375, 37.125, 37)",
+  "dcat_centroid": "37.0625,-76.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-185960",
+    "usgs-htmc-186074",
+    "usgs-htmc-186075",
+    "usgs-htmc-186076",
+    "usgs-htmc-186077",
+    "usgs-htmc-186078",
+    "usgs-htmc-186079",
+    "usgs-htmc-186080"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Morrison_185959_1944_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Morrison_185959_1944_24000_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Morrison_185959_1944_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Morrison_185959_1944_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3522e4b00f54eb3dac1a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Morrison_185959_1944_24000_tn.jpg\"}"
+}

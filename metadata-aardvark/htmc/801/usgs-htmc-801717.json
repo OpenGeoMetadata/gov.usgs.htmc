@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-801717",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Cottonwood Falls, KS 1898 (printed 1939)",
+  "dct_alternative_sm": [
+    "Cottonwood Falls"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1898 edition of the Cottonwood Falls, Kansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1895; last revised in 1904; printed in 1939.",
+    "Sheet size: 16.29 x 20 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "Chase County, Kansas",
+    "Marion County, Kansas",
+    "Butler County, Kansas",
+    "Greenwood County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49cee4b00f54eb3fdfa1",
+    "urn:uuid:ea1d42c9-e013-c0c9-25ae-3a5d2df5540d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.5 38,-96.5 38.5,-97 38.5,-97 38,-96.5 38))",
+  "dcat_bbox": "ENVELOPE(-97, -96.5, 38.5, 38)",
+  "dcat_centroid": "38.25,-96.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-801716",
+    "usgs-htmc-802127",
+    "usgs-htmc-802128"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Cottonwood%20Falls_801717_1898_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Cottonwood%20Falls_801717_1898_125000_geo.pdf\",\"label\":\"GeoPDF (6.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Cottonwood%20Falls_801717_1898_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/125000/KS_Cottonwood_Falls_801717_1898_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49cee4b00f54eb3fdfa1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Cottonwood%20Falls_801717_1898_125000_tn.jpg\"}"
+}

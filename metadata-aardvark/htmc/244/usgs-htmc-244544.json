@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-244544",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Washougal, WA 1961 (printed 1971)",
+  "dct_alternative_sm": [
+    "Washougal"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1961 edition of the Washougal, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1954; aerial photographs from 1970; field checked in 1961; photo revised in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a303fe4b00f54eb3d2005",
+    "urn:uuid:c2825dc5-34e0-5971-f605-d57174049c66"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.25 45.5,-122.25 45.625,-122.375 45.625,-122.375 45.5,-122.25 45.5))",
+  "dcat_bbox": "ENVELOPE(-122.375, -122.25, 45.625, 45.5)",
+  "dcat_centroid": "45.5625,-122.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-244542",
+    "usgs-htmc-244543",
+    "usgs-htmc-244545",
+    "usgs-htmc-244546",
+    "usgs-htmc-244547"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Washougal_244544_1961_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Washougal_244544_1961_24000_geo.pdf\",\"label\":\"GeoPDF (15.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Washougal_244544_1961_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Washougal_244544_1961_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a303fe4b00f54eb3d2005\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Washougal_244544_1961_24000_tn.jpg\"}"
+}

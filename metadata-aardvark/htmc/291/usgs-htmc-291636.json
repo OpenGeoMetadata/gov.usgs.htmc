@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-291636",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Ivanhoe, CA 1950 (printed 1964)",
+  "dct_alternative_sm": [
+    "Ivanhoe"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Ivanhoe, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1924; aerial photographs from 1946; field checked in 1950; last revised in 1950; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Tulare County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f5ee4b00f54eb3d0a07",
+    "urn:uuid:14479cf7-645f-729e-d2f3-97e41423ce20"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.125 36.375,-119.125 36.5,-119.25 36.5,-119.25 36.375,-119.125 36.375))",
+  "dcat_bbox": "ENVELOPE(-119.25, -119.125, 36.5, 36.375)",
+  "dcat_centroid": "36.4375,-119.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-291635",
+    "usgs-htmc-291637",
+    "usgs-htmc-291638",
+    "usgs-htmc-296181",
+    "usgs-htmc-296182",
+    "usgs-htmc-465782"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Ivanhoe_291636_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Ivanhoe_291636_1950_24000_geo.pdf\",\"label\":\"GeoPDF (13.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Ivanhoe_291636_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Ivanhoe_291636_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f5ee4b00f54eb3d0a07\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Ivanhoe_291636_1950_24000_tn.jpg\"}"
+}

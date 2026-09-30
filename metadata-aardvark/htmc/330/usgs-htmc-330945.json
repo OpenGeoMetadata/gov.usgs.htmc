@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-330945",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for New Hartford, CT 1951",
+  "dct_alternative_sm": [
+    "New Hartford"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the New Hartford, Connecticut, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1944; field checked in 1948.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Litchfield County, Connecticut",
+    "Hartford County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a372ce4b00f54eb3de4ae",
+    "urn:uuid:501b7454-cce8-1b6f-cd00-300195b13cdc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.875 41.875,-72.875 42,-73 42,-73 41.875,-72.875 41.875))",
+  "dcat_bbox": "ENVELOPE(-73, -72.875, 42, 41.875)",
+  "dcat_centroid": "41.9375,-72.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330709",
+    "usgs-htmc-330710",
+    "usgs-htmc-330711",
+    "usgs-htmc-330712",
+    "usgs-htmc-330713",
+    "usgs-htmc-330714",
+    "usgs-htmc-330946"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_New%20Hartford_330945_1951_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/31680/CT_New%20Hartford_330945_1951_31680_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_New%20Hartford_330945_1951_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/31680/CT_New_Hartford_330945_1951_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a372ce4b00f54eb3de4ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/31680/CT_New%20Hartford_330945_1951_31680_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-802360",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Pauls Valley, OK 1898 (printed 1954)",
+  "dct_alternative_sm": [
+    "Pauls Valley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1898 edition of the Pauls Valley, Oklahoma, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1898; printed in 1954.",
+    "Release: Preliminary. Sheet size: 17 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Garvin County, Oklahoma",
+    "McClain County, Oklahoma",
+    "Murray County, Oklahoma",
+    "Cleveland County, Oklahoma",
+    "Pottawatomie County, Oklahoma",
+    "Carter County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a524de4b00f54eb40d63d",
+    "urn:uuid:18aad55f-d2e3-0e6b-f547-8bae6d596e00"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97 34.5,-97 35,-97.5 35,-97.5 34.5,-97 34.5))",
+  "dcat_bbox": "ENVELOPE(-97.5, -97, 35, 34.5)",
+  "dcat_centroid": "34.75,-97.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-475391",
+    "usgs-htmc-475392",
+    "usgs-htmc-802361",
+    "usgs-htmc-802565",
+    "usgs-htmc-802567"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Pauls%20Valley_802360_1898_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Pauls%20Valley_802360_1898_125000_geo.pdf\",\"label\":\"GeoPDF (6.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Pauls%20Valley_802360_1898_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/125000/OK_Pauls_Valley_802360_1898_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a524de4b00f54eb40d63d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Pauls%20Valley_802360_1898_125000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-315416",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Turret Peak, AZ 1933",
+  "dct_alternative_sm": [
+    "Turret Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1933 edition of the Turret Peak, Arizona, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1929.",
+    "Variations: woodland tint. Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1933",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "gbl_indexYear_im": [
+    1933
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1933]"
+  ],
+  "dct_spatial_sm": [
+    "Yavapai County, Arizona",
+    "Gila County, Arizona",
+    "Maricopa County, Arizona",
+    "Coconino County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a37b0e4b00f54eb3defc1",
+    "urn:uuid:3d5a4e43-5cd4-311f-aec9-662d9337699b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.5 34,-111.5 34.5,-112 34.5,-112 34,-111.5 34))",
+  "dcat_bbox": "ENVELOPE(-112, -111.5, 34.5, 34)",
+  "dcat_centroid": "34.25,-111.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315412",
+    "usgs-htmc-315413",
+    "usgs-htmc-315414",
+    "usgs-htmc-315415",
+    "usgs-htmc-464971"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Turret%20Peak_315416_1933_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Turret%20Peak_315416_1933_125000_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Turret%20Peak_315416_1933_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/125000/AZ_Turret_Peak_315416_1933_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a37b0e4b00f54eb3defc1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Turret%20Peak_315416_1933_125000_tn.jpg\"}"
+}

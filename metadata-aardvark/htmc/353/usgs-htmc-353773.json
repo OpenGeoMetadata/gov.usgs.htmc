@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-353773",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Saint Paul Island West, AK 2001 (printed 2002)",
+  "dct_alternative_sm": [
+    "Saint Paul Island West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2001 edition of the Saint Paul Island West, Alaska, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Aerial photographs from 2001; printed in 2002.",
+    "Sheet size: 22 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2002]"
+  ],
+  "dct_spatial_sm": [
+    "Aleutians West Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a46eee4b00f54eb3f8733",
+    "urn:uuid:ac54c33b-3b1d-045f-a66b-48cadd7bf2a3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-170.2666667 57.1,-170.2666667 57.225,-170.4333333 57.225,-170.4333333 57.1,-170.2666667 57.1))",
+  "dcat_bbox": "ENVELOPE(-170.4333333, -170.2666667, 57.225, 57.1)",
+  "dcat_centroid": "57.1625,-170.35",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Saint%20Paul%20Island%20West_353773_2001_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/25000/AK_Saint%20Paul%20Island%20West_353773_2001_25000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Saint%20Paul%20Island%20West_353773_2001_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/25000/AK_Saint_Paul_Island_West_353773_2001_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a46eee4b00f54eb3f8733\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/25000/AK_Saint%20Paul%20Island%20West_353773_2001_25000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-295848",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Yellowjacket Mountain, CA 1998 (printed 2003)",
+  "dct_alternative_sm": [
+    "Yellowjacket Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Yellowjacket Mountain, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1997; last revised in 1998; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 21.4 x 26.6 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1997 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Shasta County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a36c8e4b00f54eb3ddbe8",
+    "urn:uuid:1c02d04c-8bd1-8aac-9bb8-ab6170ba0106"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.125 41,-122.125 41.125,-122.25 41.125,-122.25 41,-122.125 41))",
+  "dcat_bbox": "ENVELOPE(-122.25, -122.125, 41.125, 41)",
+  "dcat_centroid": "41.0625,-122.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102174",
+    "usgs-htmc-295849"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Yellowjacket%20Mountain_295848_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Yellowjacket%20Mountain_295848_1998_24000_geo.pdf\",\"label\":\"GeoPDF (22.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Yellowjacket%20Mountain_295848_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Yellowjacket_Mountain_295848_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a36c8e4b00f54eb3ddbe8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Yellowjacket%20Mountain_295848_1998_24000_tn.jpg\"}"
+}

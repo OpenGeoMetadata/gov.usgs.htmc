@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-466912",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Emerald Lake, CO 1973 (printed 1984)",
+  "dct_alternative_sm": [
+    "Emerald Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1973 edition of the Emerald Lake, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1972; field checked in 1973; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 21.61 x 27.02 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1973",
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Hinsdale County, Colorado",
+    "La Plata County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5df22a6ce4b02caea0f959a6",
+    "urn:uuid:cada335d-c99d-4368-3aea-ea10d0532718"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107.375 37.5,-107.375 37.625,-107.5 37.625,-107.5 37.5,-107.375 37.5))",
+  "dcat_bbox": "ENVELOPE(-107.5, -107.375, 37.625, 37.5)",
+  "dcat_centroid": "37.5625,-107.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-450055",
+    "usgs-htmc-450056",
+    "usgs-htmc-466913"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Emerald%20Lake_466912_1973_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Emerald%20Lake_466912_1973_24000_geo.pdf\",\"label\":\"GeoPDF (16.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Emerald%20Lake_466912_1973_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Emerald_Lake_466912_1973_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5df22a6ce4b02caea0f959a6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Emerald%20Lake_466912_1973_24000_tn.jpg\"}"
+}

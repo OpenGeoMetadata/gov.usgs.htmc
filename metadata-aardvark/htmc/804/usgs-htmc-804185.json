@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-804185",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Harlan, KY 1903",
+  "dct_alternative_sm": [
+    "Harlan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Harlan, Kentucky, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1903.",
+    "Sheet size: 20.3 x 25.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Harlan County, Kentucky",
+    "Leslie County, Kentucky",
+    "Bell County, Kentucky",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a467de4b00f54eb3f7b00",
+    "urn:uuid:14211199-fb03-7905-ba96-6046f05e1ac7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.25 36.75,-83.25 37,-83.5 37,-83.5 36.75,-83.25 36.75))",
+  "dcat_bbox": "ENVELOPE(-83.5, -83.25, 37, 36.75)",
+  "dcat_centroid": "36.875,-83.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-708827",
+    "usgs-htmc-708828",
+    "usgs-htmc-803597",
+    "usgs-htmc-803598",
+    "usgs-htmc-804184"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Harlan_804185_1903_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/48000/KY_Harlan_804185_1903_48000_geo.pdf\",\"label\":\"GeoPDF (9.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Harlan_804185_1903_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/48000/KY_Harlan_804185_1903_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a467de4b00f54eb3f7b00\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/48000/KY_Harlan_804185_1903_48000_tn.jpg\"}"
+}

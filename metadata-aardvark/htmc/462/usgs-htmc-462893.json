@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-462893",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Boston Bay, MA 1892 (printed 1901)",
+  "dct_alternative_sm": [
+    "Boston Bay"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the Boston Bay, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1901.",
+    "Sheet size: 16.65 x 19.49 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Essex County, Massachusetts",
+    "Plymouth County, Massachusetts",
+    "Suffolk County, Massachusetts",
+    "Norfolk County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e6779ace4b01d50925c153f",
+    "urn:uuid:6f0a0327-8558-3ef5-0eb4-e0e05c0d1b38"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 42.25,-70.75 42.5,-71 42.5,-71 42.25,-70.75 42.25))",
+  "dcat_bbox": "ENVELOPE(-71, -70.75, 42.5, 42.25)",
+  "dcat_centroid": "42.375,-70.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-352517",
+    "usgs-htmc-352518",
+    "usgs-htmc-352519",
+    "usgs-htmc-352521",
+    "usgs-htmc-352523",
+    "usgs-htmc-352525",
+    "usgs-htmc-352526",
+    "usgs-htmc-352527",
+    "usgs-htmc-352528",
+    "usgs-htmc-352529",
+    "usgs-htmc-352532",
+    "usgs-htmc-462894"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Boston%20Bay_462893_1892_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Boston%20Bay_462893_1892_62500_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Boston%20Bay_462893_1892_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Boston_Bay_462893_1892_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e6779ace4b01d50925c153f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Boston%20Bay_462893_1892_62500_tn.jpg\"}"
+}

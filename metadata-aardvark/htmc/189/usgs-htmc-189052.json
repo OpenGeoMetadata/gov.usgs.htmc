@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-189052",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Luray, VA 1905 (printed 1928)",
+  "dct_alternative_sm": [
+    "Luray"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1905 edition of the Luray, Virginia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1886; printed in 1928.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Rappahannock County, Virginia",
+    "Warren County, Virginia",
+    "Page County, Virginia",
+    "Shenandoah County, Virginia",
+    "Culpeper County, Virginia",
+    "Madison County, Virginia",
+    "Fauquier County, Virginia",
+    "Clarke County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4bf4e4b00f54eb401699",
+    "urn:uuid:941a4657-efee-9bb6-11e3-3ab31334f58d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78 38.5,-78 39,-78.5 39,-78.5 38.5,-78 38.5))",
+  "dcat_bbox": "ENVELOPE(-78.5, -78, 39, 38.5)",
+  "dcat_centroid": "38.75,-78.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-189048",
+    "usgs-htmc-189049",
+    "usgs-htmc-189050",
+    "usgs-htmc-189053"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Luray_189052_1905_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Luray_189052_1905_125000_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Luray_189052_1905_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/125000/VA_Luray_189052_1905_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4bf4e4b00f54eb401699\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Luray_189052_1905_125000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-299667",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Tejon, CA 1903",
+  "dct_alternative_sm": [
+    "Tejon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Tejon, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1901.",
+    "Sheet size: 16.6 x 19.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Los Angeles County, California",
+    "Kern County, California",
+    "Ventura County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a53efe4b00f54eb410a7f",
+    "urn:uuid:cd72cb8f-b7ed-7271-e2e1-7d8fc44ecc35"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.5 34.5,-118.5 35,-119 35,-119 34.5,-118.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-119, -118.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-118.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299668",
+    "usgs-htmc-299669",
+    "usgs-htmc-299670",
+    "usgs-htmc-299671",
+    "usgs-htmc-302087",
+    "usgs-htmc-302088"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tejon_299667_1903_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Tejon_299667_1903_125000_geo.pdf\",\"label\":\"GeoPDF (12.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tejon_299667_1903_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Tejon_299667_1903_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a53efe4b00f54eb410a7f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Tejon_299667_1903_125000_tn.jpg\"}"
+}

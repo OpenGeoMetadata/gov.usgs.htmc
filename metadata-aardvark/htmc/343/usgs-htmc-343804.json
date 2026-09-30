@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-343804",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mount Rushmore, SD 1954 (printed 1976)",
+  "dct_alternative_sm": [
+    "Mount Rushmore"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Mount Rushmore, South Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1971; field checked in 1954; photo revised in 1971; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 23.4 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Pennington County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50b8e4b00f54eb40a588",
+    "urn:uuid:423146ea-cb62-5e5d-8254-b47d50f60490"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103.375 43.875,-103.375 44,-103.5 44,-103.5 43.875,-103.375 43.875))",
+  "dcat_bbox": "ENVELOPE(-103.5, -103.375, 44, 43.875)",
+  "dcat_centroid": "43.9375,-103.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-343800",
+    "usgs-htmc-343801",
+    "usgs-htmc-343803",
+    "usgs-htmc-343805"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Mount%20Rushmore_343804_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Mount%20Rushmore_343804_1954_24000_geo.pdf\",\"label\":\"GeoPDF (14.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Mount%20Rushmore_343804_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/24000/SD_Mount_Rushmore_343804_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50b8e4b00f54eb40a588\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Mount%20Rushmore_343804_1954_24000_tn.jpg\"}"
+}

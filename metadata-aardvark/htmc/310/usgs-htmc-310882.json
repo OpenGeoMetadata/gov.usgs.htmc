@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-310882",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Chuichu, AZ 1965 (printed 1967)",
+  "dct_alternative_sm": [
+    "Chuichu"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1965 edition of the Chuichu, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1963; field checked in 1965; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1965",
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Pinal County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4baee4b00f54eb400eae",
+    "urn:uuid:3d55e3a0-f092-4584-9117-cbaff4334fa6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.75 32.75,-111.75 32.875,-111.875 32.875,-111.875 32.75,-111.75 32.75))",
+  "dcat_bbox": "ENVELOPE(-111.875, -111.75, 32.875, 32.75)",
+  "dcat_centroid": "32.8125,-111.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310883",
+    "usgs-htmc-310884"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Chuichu_310882_1965_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Chuichu_310882_1965_24000_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Chuichu_310882_1965_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_Chuichu_310882_1965_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4baee4b00f54eb400eae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Chuichu_310882_1965_24000_tn.jpg\"}"
+}

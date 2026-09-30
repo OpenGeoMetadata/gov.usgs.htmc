@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-283287",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Ashland, OR 1893 (printed 1897)",
+  "dct_alternative_sm": [
+    "Ashland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Ashland, Oregon, topographic map at 1:250,000 scale (1 x 1 degree series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1897.",
+    "Sheet size: 16 x 20.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5470e4b00f54eb4119e7",
+    "urn:uuid:05b57b69-11bd-a6a5-fe6d-0b0ec7d9bd06"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 42,-122 43,-123 43,-123 42,-122 42))",
+  "dcat_bbox": "ENVELOPE(-123, -122, 43, 42)",
+  "dcat_centroid": "42.5,-122.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283286",
+    "usgs-htmc-283288",
+    "usgs-htmc-283289",
+    "usgs-htmc-283290",
+    "usgs-htmc-283291",
+    "usgs-htmc-283292",
+    "usgs-htmc-283293"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Ashland_283287_1893_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Ashland_283287_1893_250000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Ashland_283287_1893_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/250000/OR_Ashland_283287_1893_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5470e4b00f54eb4119e7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Ashland_283287_1893_250000_tn.jpg\"}"
+}

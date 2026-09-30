@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-301363",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Whittier, CA 1965 (printed 1967)",
+  "dct_alternative_sm": [
+    "Whittier"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1965 edition of the Whittier, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1965; aerial photographs from 1963; last revised in 1949; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1965",
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Los Angeles County, California",
+    "Orange County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3696e4b00f54eb3dd6cf",
+    "urn:uuid:74dd91f6-c3bf-a886-b4ff-68c42a546c89"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 33.875,-118 34,-118.125 34,-118.125 33.875,-118 33.875))",
+  "dcat_bbox": "ENVELOPE(-118.125, -118, 34, 33.875)",
+  "dcat_centroid": "33.9375,-118.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102454",
+    "usgs-htmc-301361",
+    "usgs-htmc-301362",
+    "usgs-htmc-301364",
+    "usgs-htmc-301365",
+    "usgs-htmc-301366",
+    "usgs-htmc-301367",
+    "usgs-htmc-466589"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Whittier_301363_1965_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Whittier_301363_1965_24000_geo.pdf\",\"label\":\"GeoPDF (14.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Whittier_301363_1965_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Whittier_301363_1965_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3696e4b00f54eb3dd6cf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Whittier_301363_1965_24000_tn.jpg\"}"
+}

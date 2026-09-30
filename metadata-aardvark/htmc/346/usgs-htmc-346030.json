@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-346030",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Estero, FL 1958 (printed 1973)",
+  "dct_alternative_sm": [
+    "Estero"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Estero, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1958; aerial photographs from 1972; photo revised in 1972; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 23 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Lee County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40ade4b00f54eb3edb85",
+    "urn:uuid:6be7b0d4-ceb9-dc7b-1f0d-14401b6ab39f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.75 26.375,-81.75 26.5,-81.875 26.5,-81.875 26.375,-81.75 26.375))",
+  "dcat_bbox": "ENVELOPE(-81.875, -81.75, 26.5, 26.375)",
+  "dcat_centroid": "26.4375,-81.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346026",
+    "usgs-htmc-346027",
+    "usgs-htmc-346028",
+    "usgs-htmc-346029",
+    "usgs-htmc-346031"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Estero_346030_1958_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Estero_346030_1958_24000_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Estero_346030_1958_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Estero_346030_1958_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40ade4b00f54eb3edb85\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Estero_346030_1958_24000_tn.jpg\"}"
+}

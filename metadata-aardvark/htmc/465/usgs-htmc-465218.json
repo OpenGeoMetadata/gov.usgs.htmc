@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-465218",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Rotan, AR 1935 (printed 1942)",
+  "dct_alternative_sm": [
+    "Rotan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Rotan, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Printed in 1942.",
+    "Variations: woodland tint. Sheet size: 16.82 x 21.71 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County, Arkansas",
+    "Desha County, Arkansas",
+    "Drew County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cac7c0be4b0c3b006529bc7",
+    "urn:uuid:787c52c5-a92e-1e72-8be4-2b5b924cfe56"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.5 33.75,-91.5 34,-91.75 34,-91.75 33.75,-91.5 33.75))",
+  "dcat_bbox": "ENVELOPE(-91.75, -91.5, 34, 33.75)",
+  "dcat_centroid": "33.875,-91.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260279",
+    "usgs-htmc-260280"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Rotan_465218_1935_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Rotan_465218_1935_62500_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Rotan_465218_1935_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Rotan_465218_1935_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cac7c0be4b0c3b006529bc7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Rotan_465218_1935_62500_tn.jpg\"}"
+}

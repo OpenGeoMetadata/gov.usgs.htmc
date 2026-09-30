@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-474377",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bloomfield, OH 1962 (printed 1963)",
+  "dct_alternative_sm": [
+    "Bloomfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Bloomfield, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1960; field checked in 1962; printed in 1963.",
+    "Variations: woodland tint. Sheet size: 21.97 x 27.28 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Guernsey County, Ohio",
+    "Muskingum County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/6642c5f1d34e1955f5a41e90",
+    "urn:uuid:251669b5-fd20-984d-02b1-835f25a0b342"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.625 40,-81.625 40.125,-81.75 40.125,-81.75 40,-81.625 40))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.625, 40.125, 40)",
+  "dcat_centroid": "40.0625,-81.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224142",
+    "usgs-htmc-224144",
+    "usgs-htmc-224145",
+    "usgs-htmc-226302",
+    "usgs-htmc-226303"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-05-13T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Bloomfield_474377_1962_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Bloomfield_474377_1962_24000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Bloomfield_474377_1962_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Bloomfield_474377_1962_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/6642c5f1d34e1955f5a41e90\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Bloomfield_474377_1962_24000_tn.jpg\"}"
+}

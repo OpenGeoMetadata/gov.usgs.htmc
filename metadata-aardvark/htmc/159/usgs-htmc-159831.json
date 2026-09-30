@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-159831",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Indianapolis, IN 1953 (printed 1976)",
+  "dct_alternative_sm": [
+    "Indianapolis"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Indianapolis, Indiana, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1972; last revised in 1974; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 32.1 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3efce4b00f54eb3eaed9",
+    "urn:uuid:c6527270-f6e9-416e-50b6-dc654b3bbbbe"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86 39,-86 40,-88 40,-88 39,-86 39))",
+  "dcat_bbox": "ENVELOPE(-88, -86, 40, 39)",
+  "dcat_centroid": "39.5,-87",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-159827",
+    "usgs-htmc-159828",
+    "usgs-htmc-159829",
+    "usgs-htmc-159830",
+    "usgs-htmc-468830",
+    "usgs-htmc-468831",
+    "usgs-htmc-468832"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Indianapolis_159831_1953_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/250000/IN_Indianapolis_159831_1953_250000_geo.pdf\",\"label\":\"GeoPDF (21.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Indianapolis_159831_1953_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IN/250000/IN_Indianapolis_159831_1953_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3efce4b00f54eb3eaed9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/250000/IN_Indianapolis_159831_1953_250000_tn.jpg\"}"
+}

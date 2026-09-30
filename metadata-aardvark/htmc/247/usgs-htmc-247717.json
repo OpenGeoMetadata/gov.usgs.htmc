@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-247717",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Dahlonega, GA 1903 (printed 1922)",
+  "dct_alternative_sm": [
+    "Dahlonega"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Dahlonega, Georgia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1900; printed in 1922.",
+    "Sheet size: 16.8 x 20.6 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Georgia",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51c6e4b00f54eb40c592",
+    "urn:uuid:057264af-7b10-8c9a-1224-4dc59578902f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.5 34.5,-83.5 35,-84 35,-84 34.5,-83.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-84, -83.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-83.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247711",
+    "usgs-htmc-247712",
+    "usgs-htmc-247713",
+    "usgs-htmc-247714",
+    "usgs-htmc-247716",
+    "usgs-htmc-247718",
+    "usgs-htmc-247720",
+    "usgs-htmc-467655"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Dahlonega_247717_1903_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/125000/GA_Dahlonega_247717_1903_125000_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Dahlonega_247717_1903_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/125000/GA_Dahlonega_247717_1903_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51c6e4b00f54eb40c592\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/125000/GA_Dahlonega_247717_1903_125000_tn.jpg\"}"
+}

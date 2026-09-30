@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-501742",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Drummond, WI 1971 (printed 1985)",
+  "dct_alternative_sm": [
+    "Drummond"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Drummond, Wisconsin, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1971; last revised in 1983; printed in 1985.",
+    "Variations: woodland tint. Sheet size: 22.01 x 27.51 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Bayfield County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a23aee4b00f54eb3bdf0e",
+    "urn:uuid:30eb8c51-982c-8d7b-9ceb-c3691cdb7fca"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.25 46.25,-91.25 46.375,-91.375 46.375,-91.375 46.25,-91.25 46.25))",
+  "dcat_bbox": "ENVELOPE(-91.375, -91.25, 46.375, 46.25)",
+  "dcat_centroid": "46.3125,-91.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-500348",
+    "usgs-htmc-700140",
+    "usgs-htmc-800346"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Drummond_501742_1971_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Drummond_501742_1971_24000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Drummond_501742_1971_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/24000/WI_Drummond_501742_1971_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a23aee4b00f54eb3bdf0e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Drummond_501742_1971_24000_tn.jpg\"}"
+}

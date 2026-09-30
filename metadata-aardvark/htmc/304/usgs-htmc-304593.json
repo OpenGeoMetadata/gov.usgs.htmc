@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-304593",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Montgomery NW, AL 1975 (printed 1977)",
+  "dct_alternative_sm": [
+    "Montgomery NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the Montgomery NW, Alabama, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; printed in 1977.",
+    "Variations: orthophotoquad. Sheet size: 21.6 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Autauga County, Alabama",
+    "Montgomery County, Alabama",
+    "Elmore County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a450fe4b00f54eb3f576c",
+    "urn:uuid:b4cb9285-c1c0-4a1f-2083-04a6b16419ed"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.375 32.375,-86.375 32.5,-86.5 32.5,-86.5 32.375,-86.375 32.375))",
+  "dcat_bbox": "ENVELOPE(-86.5, -86.375, 32.5, 32.375)",
+  "dcat_centroid": "32.4375,-86.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-304893",
+    "usgs-htmc-304894"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Montgomery%20NW_304593_1975_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Montgomery%20NW_304593_1975_24000_geo.pdf\",\"label\":\"GeoPDF (23.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Montgomery%20NW_304593_1975_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/24000/AL_Montgomery_NW_304593_1975_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a450fe4b00f54eb3f576c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Montgomery%20NW_304593_1975_24000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-350442",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Paxton, MA 1950 (printed 1958)",
+  "dct_alternative_sm": [
+    "Paxton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Paxton, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1937; last revised in 1950; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Worcester County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52fde4b00f54eb40eb82",
+    "urn:uuid:b7103f9a-332c-d323-8b43-b5b491493ce5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.875 42.25,-71.875 42.375,-72 42.375,-72 42.25,-71.875 42.25))",
+  "dcat_bbox": "ENVELOPE(-72, -71.875, 42.375, 42.25)",
+  "dcat_centroid": "42.3125,-71.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350441",
+    "usgs-htmc-350443",
+    "usgs-htmc-350444",
+    "usgs-htmc-351210",
+    "usgs-htmc-351211",
+    "usgs-htmc-352047",
+    "usgs-htmc-352048",
+    "usgs-htmc-352049"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Paxton_350442_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Paxton_350442_1950_24000_geo.pdf\",\"label\":\"GeoPDF (16.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Paxton_350442_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Paxton_350442_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52fde4b00f54eb40eb82\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Paxton_350442_1950_24000_tn.jpg\"}"
+}

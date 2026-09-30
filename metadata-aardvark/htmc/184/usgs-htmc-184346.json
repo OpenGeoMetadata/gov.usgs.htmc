@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-184346",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cape Charles, VA 1968 (printed 1970)",
+  "dct_alternative_sm": [
+    "Cape Charles"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Cape Charles, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1967; field checked in 1968; printed in 1970.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Northampton County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a338ce4b00f54eb3d7484",
+    "urn:uuid:ae871c60-871e-c66e-0254-d69a10b24c8b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76 37.25,-76 37.375,-76.125 37.375,-76.125 37.25,-76 37.25))",
+  "dcat_bbox": "ENVELOPE(-76.125, -76, 37.375, 37.25)",
+  "dcat_centroid": "37.3125,-76.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-184342",
+    "usgs-htmc-184343",
+    "usgs-htmc-184347",
+    "usgs-htmc-184348",
+    "usgs-htmc-187166",
+    "usgs-htmc-187167"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Cape%20Charles_184346_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Cape%20Charles_184346_1968_24000_geo.pdf\",\"label\":\"GeoPDF (16.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Cape%20Charles_184346_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Cape_Charles_184346_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a338ce4b00f54eb3d7484\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Cape%20Charles_184346_1968_24000_tn.jpg\"}"
+}

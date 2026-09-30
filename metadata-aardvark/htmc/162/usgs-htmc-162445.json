@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-162445",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Eastatoe Gap, NC 1935",
+  "dct_alternative_sm": [
+    "Eastatoe Gap"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Eastatoe Gap, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Field checked in 1935.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1935]"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51d6e4b00f54eb40c7d0",
+    "urn:uuid:34af5bf2-472c-1a29-fa84-27c1fae3b659"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.75 35,-82.75 35.125,-82.875 35.125,-82.875 35,-82.75 35))",
+  "dcat_bbox": "ENVELOPE(-82.875, -82.75, 35.125, 35)",
+  "dcat_centroid": "35.0625,-82.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161211",
+    "usgs-htmc-260946",
+    "usgs-htmc-260947",
+    "usgs-htmc-260948",
+    "usgs-htmc-260949",
+    "usgs-htmc-260950"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Eastatoe%20Gap_162445_1935_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Eastatoe%20Gap_162445_1935_24000_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Eastatoe%20Gap_162445_1935_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Eastatoe_Gap_162445_1935_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51d6e4b00f54eb40c7d0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Eastatoe%20Gap_162445_1935_24000_tn.jpg\"}"
+}

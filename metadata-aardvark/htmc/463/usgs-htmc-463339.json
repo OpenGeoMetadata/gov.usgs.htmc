@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-463339",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fly Creek, OR 1962 (printed 1977)",
+  "dct_alternative_sm": [
+    "Fly Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Fly Creek, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1957; field checked in 1962; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 21.81 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5b4dbb86e4b06a6dd17def63",
+    "urn:uuid:8d4d048d-ee5a-b2b1-7770-bd9b488b3de8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.375 44.5,-121.375 44.625,-121.5 44.625,-121.5 44.5,-121.375 44.5))",
+  "dcat_bbox": "ENVELOPE(-121.5, -121.375, 44.625, 44.5)",
+  "dcat_centroid": "44.5625,-121.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-279905"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Fly%20Creek_463339_1962_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Fly%20Creek_463339_1962_24000_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Fly%20Creek_463339_1962_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Fly_Creek_463339_1962_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5b4dbb86e4b06a6dd17def63\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Fly%20Creek_463339_1962_24000_tn.jpg\"}"
+}

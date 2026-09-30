@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-316033",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Clarkson SE, NE 1966 (printed 1968)",
+  "dct_alternative_sm": [
+    "Clarkson SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Clarkson SE, Nebraska, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1965; field checked in 1966; printed in 1968.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1968]"
+  ],
+  "dct_spatial_sm": [
+    "Colfax County, Nebraska",
+    "Nebraska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4358e4b00f54eb3f27bf",
+    "urn:uuid:e6421aa6-cf7d-b4b7-78f5-51a89845a07a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97 41.5,-97 41.625,-97.125 41.625,-97.125 41.5,-97 41.5))",
+  "dcat_bbox": "ENVELOPE(-97.125, -97, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-97.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Clarkson%20SE_316033_1966_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/24000/NE_Clarkson%20SE_316033_1966_24000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Clarkson%20SE_316033_1966_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NE/24000/NE_Clarkson_SE_316033_1966_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4358e4b00f54eb3f27bf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/24000/NE_Clarkson%20SE_316033_1966_24000_tn.jpg\"}"
+}

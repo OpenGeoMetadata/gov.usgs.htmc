@@ -1,0 +1,61 @@
+{
+  "id": "usgs-htmc-284909",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Sentinel Butte SE, ND 1979",
+  "dct_alternative_sm": [
+    "Sentinel Butte SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Sentinel Butte SE, North Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series). Aerial photographs from 1973; field checked in 1974; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Golden Valley County, North Dakota",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b1be4b00f54eb3c99ae",
+    "urn:uuid:34f84489-7146-b237-8c6f-10217d7d582a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103.75 46.75,-103.75 46.875,-103.875 46.875,-103.875 46.75,-103.75 46.75))",
+  "dcat_bbox": "ENVELOPE(-103.875, -103.75, 46.875, 46.75)",
+  "dcat_centroid": "46.8125,-103.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Sentinel%20Butte%20SE_284909_1979_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Sentinel%20Butte%20SE_284909_1979_24000_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Sentinel%20Butte%20SE_284909_1979_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/24000/ND_Sentinel_Butte_SE_284909_1979_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b1be4b00f54eb3c99ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Sentinel%20Butte%20SE_284909_1979_24000_tn.jpg\"}"
+}

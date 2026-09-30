@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-304867",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pleasant Site, AL 1950 (printed 1987)",
+  "dct_alternative_sm": [
+    "Pleasant Site"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Pleasant Site, Alabama, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Tennessee Valley Authority. Aerial photographs from 1980; field checked in 1950; photo revised in 1985; last revised in 1985; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Alabama",
+    "Colbert County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a456de4b00f54eb3f6159",
+    "urn:uuid:610695e4-23a5-e0f3-ab78-8898ca8f7eb1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 34.5,-88 34.625,-88.125 34.625,-88.125 34.5,-88 34.5))",
+  "dcat_bbox": "ENVELOPE(-88.125, -88, 34.625, 34.5)",
+  "dcat_centroid": "34.5625,-88.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-304868",
+    "usgs-htmc-304869",
+    "usgs-htmc-304870",
+    "usgs-htmc-464495"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Pleasant%20Site_304867_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Pleasant%20Site_304867_1950_24000_geo.pdf\",\"label\":\"GeoPDF (15.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Pleasant%20Site_304867_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/24000/AL_Pleasant_Site_304867_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a456de4b00f54eb3f6159\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Pleasant%20Site_304867_1950_24000_tn.jpg\"}"
+}

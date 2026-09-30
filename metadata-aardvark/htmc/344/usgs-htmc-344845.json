@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-344845",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Martin, SD 1958",
+  "dct_alternative_sm": [
+    "Martin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Martin, South Dakota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service.",
+    "Variations: woodland tint. Sheet size: 28 x 21.8 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Bennett County, South Dakota",
+    "Jackson County, South Dakota",
+    "Todd County, South Dakota",
+    "Mellette County, South Dakota",
+    "Jones County, South Dakota",
+    "Tripp County, South Dakota",
+    "Lyman County, South Dakota",
+    "Haakon County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4142e4b00f54eb3eed09",
+    "urn:uuid:17940891-e77f-6864-d742-0dc5f7b4e8ef"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-100 43,-100 44,-102 44,-102 43,-100 43))",
+  "dcat_bbox": "ENVELOPE(-102, -100, 44, 43)",
+  "dcat_centroid": "43.5,-101",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-344846",
+    "usgs-htmc-344847"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Martin_344845_1958_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/250000/SD_Martin_344845_1958_250000_geo.pdf\",\"label\":\"GeoPDF (20.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Martin_344845_1958_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/250000/SD_Martin_344845_1958_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4142e4b00f54eb3eed09\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/250000/SD_Martin_344845_1958_250000_tn.jpg\"}"
+}

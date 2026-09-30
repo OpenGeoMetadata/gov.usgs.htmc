@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-188454",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Petersburg, VA 1894 (printed 1917)",
+  "dct_alternative_sm": [
+    "Petersburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Petersburg, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1892; printed in 1917.",
+    "Sheet size: 16.41 x 19.96 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1917]"
+  ],
+  "dct_spatial_sm": [
+    "Prince George County, Virginia",
+    "Dinwiddie County, Virginia",
+    "Petersburg, Virginia",
+    "Sussex County, Virginia",
+    "Chesterfield County, Virginia",
+    "Colonial Heights, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e5fe4b00f54eb405b78",
+    "urn:uuid:6b2fa8e4-2ebf-9874-eae8-004296d86aae"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.25 37,-77.25 37.25,-77.5 37.25,-77.5 37,-77.25 37))",
+  "dcat_bbox": "ENVELOPE(-77.5, -77.25, 37.25, 37)",
+  "dcat_centroid": "37.125,-77.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-188449",
+    "usgs-htmc-188450",
+    "usgs-htmc-188452",
+    "usgs-htmc-188455",
+    "usgs-htmc-188457",
+    "usgs-htmc-188460",
+    "usgs-htmc-188461",
+    "usgs-htmc-188462"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Petersburg_188454_1894_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Petersburg_188454_1894_62500_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Petersburg_188454_1894_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/62500/VA_Petersburg_188454_1894_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e5fe4b00f54eb405b78\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Petersburg_188454_1894_62500_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-268304",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Three Forks, MT 1950 (printed 1953)",
+  "dct_alternative_sm": [
+    "Three Forks"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Three Forks, Montana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the Bureau of Reclamation. Aerial photographs from 1947; field checked in 1950; printed in 1953.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Reclamation"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Reclamation"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Gallatin County, Montana",
+    "Jefferson County, Montana",
+    "Broadwater County, Montana",
+    "Madison County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a283be4b00f54eb3c4f8d",
+    "urn:uuid:585a02b7-7074-abdc-0385-1cf9ca4c28b2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.5 45.75,-111.5 46,-111.75 46,-111.75 45.75,-111.5 45.75))",
+  "dcat_bbox": "ENVELOPE(-111.75, -111.5, 46, 45.75)",
+  "dcat_centroid": "45.875,-111.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268302",
+    "usgs-htmc-268303",
+    "usgs-htmc-268305"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Three%20Forks_268304_1950_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/62500/MT_Three%20Forks_268304_1950_62500_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Three%20Forks_268304_1950_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/62500/MT_Three_Forks_268304_1950_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a283be4b00f54eb3c4f8d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/62500/MT_Three%20Forks_268304_1950_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-349706",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Puu Makaala, HI 1963 (printed 1973)",
+  "dct_alternative_sm": [
+    "Puu Makaala"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the Puu Makaala, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1963; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 24 x 26.8 inches. Printed projection: Polyconic; horizontal datum: Old Hawaiian. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a528ce4b00f54eb40de1f",
+    "urn:uuid:4b10dad1-b5f0-d833-55c4-b19aee9d2ee7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-155.125 19.5,-155.125 19.625,-155.25 19.625,-155.25 19.5,-155.125 19.5))",
+  "dcat_bbox": "ENVELOPE(-155.25, -155.125, 19.625, 19.5)",
+  "dcat_centroid": "19.5625,-155.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349705",
+    "usgs-htmc-349707",
+    "usgs-htmc-349739"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Puu%20Makaala_349706_1963_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Puu%20Makaala_349706_1963_24000_geo.pdf\",\"label\":\"GeoPDF (8.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Puu%20Makaala_349706_1963_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Puu_Makaala_349706_1963_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a528ce4b00f54eb40de1f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Puu%20Makaala_349706_1963_24000_tn.jpg\"}"
+}

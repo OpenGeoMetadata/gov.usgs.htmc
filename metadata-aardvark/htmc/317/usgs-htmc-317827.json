@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-317827",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Lexington, NE 1899 (printed 1949)",
+  "dct_alternative_sm": [
+    "Lexington"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the Lexington, Nebraska, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1893; printed in 1949.",
+    "Sheet size: 17 x 20.6 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Dawson County, Nebraska",
+    "Gosper County, Nebraska",
+    "Phelps County, Nebraska",
+    "Frontier County, Nebraska",
+    "Nebraska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d25e4b00f54eb4036ae",
+    "urn:uuid:6759cd88-acde-0b27-5a58-4714127313da"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-99.5 40.5,-99.5 41,-100 41,-100 40.5,-99.5 40.5))",
+  "dcat_bbox": "ENVELOPE(-100, -99.5, 41, 40.5)",
+  "dcat_centroid": "40.75,-99.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-317826",
+    "usgs-htmc-317828",
+    "usgs-htmc-317829",
+    "usgs-htmc-317830",
+    "usgs-htmc-317831",
+    "usgs-htmc-317832",
+    "usgs-htmc-317833"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Lexington_317827_1899_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Lexington_317827_1899_125000_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Lexington_317827_1899_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NE/125000/NE_Lexington_317827_1899_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d25e4b00f54eb4036ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Lexington_317827_1899_125000_tn.jpg\"}"
+}

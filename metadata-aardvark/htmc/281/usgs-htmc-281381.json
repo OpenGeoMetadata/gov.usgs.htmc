@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-281381",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Sanderson Spring, OR 1963 (printed 1965)",
+  "dct_alternative_sm": [
+    "Sanderson Spring"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the Sanderson Spring, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1957; field checked in 1963; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Union County, Oregon",
+    "Umatilla County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a28fee4b00f54eb3c6150",
+    "urn:uuid:03caa2aa-9116-ded5-dd68-0efa246ce67a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 45.5,-118 45.625,-118.125 45.625,-118.125 45.5,-118 45.5))",
+  "dcat_bbox": "ENVELOPE(-118.125, -118, 45.625, 45.5)",
+  "dcat_centroid": "45.5625,-118.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-281382",
+    "usgs-htmc-281383"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Sanderson%20Spring_281381_1963_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Sanderson%20Spring_281381_1963_24000_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Sanderson%20Spring_281381_1963_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Sanderson_Spring_281381_1963_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a28fee4b00f54eb3c6150\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Sanderson%20Spring_281381_1963_24000_tn.jpg\"}"
+}

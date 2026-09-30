@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-139796",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Lake Pleasant, NY 1907 (printed 1926)",
+  "dct_alternative_sm": [
+    "Lake Pleasant"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1907 edition of the Lake Pleasant, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1904; printed in 1926.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1926]"
+  ],
+  "dct_spatial_sm": [
+    "Hamilton County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33b9e4b00f54eb3d7b51",
+    "urn:uuid:2e438ce8-a580-a91b-96db-dfdd0ec2c1c1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.25 43.25,-74.25 43.5,-74.5 43.5,-74.5 43.25,-74.25 43.25))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.25, 43.5, 43.25)",
+  "dcat_centroid": "43.375,-74.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130192",
+    "usgs-htmc-130194",
+    "usgs-htmc-130196",
+    "usgs-htmc-130197",
+    "usgs-htmc-130198",
+    "usgs-htmc-130199",
+    "usgs-htmc-130200",
+    "usgs-htmc-130201",
+    "usgs-htmc-130202",
+    "usgs-htmc-139792",
+    "usgs-htmc-139794",
+    "usgs-htmc-139795",
+    "usgs-htmc-139797"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lake%20Pleasant_139796_1907_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Lake%20Pleasant_139796_1907_62500_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lake%20Pleasant_139796_1907_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Lake_Pleasant_139796_1907_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33b9e4b00f54eb3d7b51\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Lake%20Pleasant_139796_1907_62500_tn.jpg\"}"
+}

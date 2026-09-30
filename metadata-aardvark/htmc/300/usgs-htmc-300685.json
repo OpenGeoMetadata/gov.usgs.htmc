@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-300685",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Stockton West, CA 1952 (printed 1954)",
+  "dct_alternative_sm": [
+    "Stockton West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Stockton West, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1952; aerial photographs from 1949; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "San Joaquin County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3528e4b00f54eb3dad1f",
+    "urn:uuid:b4610c7f-0035-8ee6-3d83-874c495fe1ff"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.25 37.875,-121.25 38,-121.375 38,-121.375 37.875,-121.25 37.875))",
+  "dcat_bbox": "ENVELOPE(-121.375, -121.25, 38, 37.875)",
+  "dcat_centroid": "37.9375,-121.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-295314",
+    "usgs-htmc-296525",
+    "usgs-htmc-300686",
+    "usgs-htmc-300687",
+    "usgs-htmc-300688",
+    "usgs-htmc-301530",
+    "usgs-htmc-466430"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Stockton%20West_300685_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Stockton%20West_300685_1952_24000_geo.pdf\",\"label\":\"GeoPDF (13.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Stockton%20West_300685_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Stockton_West_300685_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3528e4b00f54eb3dad1f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Stockton%20West_300685_1952_24000_tn.jpg\"}"
+}

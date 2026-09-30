@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-356090",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Hooper Bay D-3, AK 1953 (printed 1983)",
+  "dct_alternative_sm": [
+    "Hooper Bay D-3"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Hooper Bay D-3, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1951; printed in 1983.",
+    "Sheet size: 14.8 x 19.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Kusilvak Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5244e4b00f54eb40d51e",
+    "urn:uuid:eaaa360b-dddc-5f82-0389-a6bb02b6dd2b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-165.75 61.75,-165.75 62,-166.125 62,-166.125 61.75,-165.75 61.75))",
+  "dcat_bbox": "ENVELOPE(-166.125, -165.75, 62, 61.75)",
+  "dcat_centroid": "61.875,-165.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-356089"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Hooper%20Bay%20D-3_356090_1953_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Hooper%20Bay%20D-3_356090_1953_63360_geo.pdf\",\"label\":\"GeoPDF (11.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Hooper%20Bay%20D-3_356090_1953_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Hooper_Bay_D3_356090_1953_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5244e4b00f54eb40d51e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Hooper%20Bay%20D-3_356090_1953_63360_tn.jpg\"}"
+}

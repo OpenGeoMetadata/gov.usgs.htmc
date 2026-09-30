@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-278696",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Sault Ste. Marie South, MI 1984 (printed 1991)",
+  "dct_alternative_sm": [
+    "Sault Ste. Marie South"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Sault Ste. Marie South, Michigan, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1988; photo inspected in 1988; last revised in 1984; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 37 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Chippewa County, Michigan",
+    "Mackinac County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f46e4b00f54eb3eb53a",
+    "urn:uuid:e17d10b7-b71f-afe3-2bdb-197d24eee282"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84 46,-84 46.5,-85 46.5,-85 46,-84 46))",
+  "dcat_bbox": "ENVELOPE(-85, -84, 46.5, 46)",
+  "dcat_centroid": "46.25,-84.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-278695"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Sault%20Ste%20Marie%20South_278696_1984_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/100000/MI_Sault%20Ste%20Marie%20South_278696_1984_100000_geo.pdf\",\"label\":\"GeoPDF (26.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Sault%20Ste%20Marie%20South_278696_1984_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/100000/MI_Sault_Ste_Marie_South_278696_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f46e4b00f54eb3eb53a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/100000/MI_Sault%20Ste%20Marie%20South_278696_1984_100000_tn.jpg\"}"
+}

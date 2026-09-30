@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-353309",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kingston, RI 1957 (printed 1972)",
+  "dct_alternative_sm": [
+    "Kingston"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Kingston, Rhode Island, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942; aerial photographs from 1970; photo revised in 1970; last revised in 1957; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 22.1 x 29.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Rhode Island",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e41e4b00f54eb3ea140",
+    "urn:uuid:13cbccf1-f451-b1ed-16e6-f53310e9310c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.5 41.3583333,-71.5 41.5,-71.625 41.5,-71.625 41.3583333,-71.5 41.3583333))",
+  "dcat_bbox": "ENVELOPE(-71.625, -71.5, 41.5, 41.3583333)",
+  "dcat_centroid": "41.42916665,-71.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353302",
+    "usgs-htmc-353303",
+    "usgs-htmc-353304",
+    "usgs-htmc-353305",
+    "usgs-htmc-353306",
+    "usgs-htmc-353307",
+    "usgs-htmc-353308",
+    "usgs-htmc-353310",
+    "usgs-htmc-353311",
+    "usgs-htmc-353312",
+    "usgs-htmc-353421",
+    "usgs-htmc-353422",
+    "usgs-htmc-353423",
+    "usgs-htmc-353424",
+    "usgs-htmc-463154",
+    "usgs-htmc-463155"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Kingston_353309_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Kingston_353309_1957_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Kingston_353309_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/RI/24000/RI_Kingston_353309_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e41e4b00f54eb3ea140\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Kingston_353309_1957_24000_tn.jpg\"}"
+}

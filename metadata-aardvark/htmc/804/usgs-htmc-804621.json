@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-804621",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Fairmont, MN 1954 (printed 1967)",
+  "dct_alternative_sm": [
+    "Fairmont"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Fairmont, Minnesota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Field checked in 1954; last revised in 1966; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 21.53 x 27.23 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ea8e4b00f54eb4063bc",
+    "urn:uuid:d093a57e-2e6d-a287-3e92-e7bd6ef0e19e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94 43,-94 44,-96 44,-96 43,-94 43))",
+  "dcat_bbox": "ENVELOPE(-96, -94, 44, 43)",
+  "dcat_centroid": "43.5,-95",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804619",
+    "usgs-htmc-804620",
+    "usgs-htmc-804622"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Fairmont_804621_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Fairmont_804621_1954_250000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Fairmont_804621_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/250000/MN_Fairmont_804621_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ea8e4b00f54eb4063bc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Fairmont_804621_1954_250000_tn.jpg\"}"
+}

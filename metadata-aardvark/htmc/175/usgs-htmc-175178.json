@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-175178",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mitchellville, IA 1930",
+  "dct_alternative_sm": [
+    "Mitchellville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1930 edition of the Mitchellville, Iowa, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1927.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1930]"
+  ],
+  "dct_spatial_sm": [
+    "Polk County, Iowa",
+    "Jasper County, Iowa",
+    "Warren County, Iowa",
+    "Marion County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bb5e4b00f54eb3e5694",
+    "urn:uuid:8815348a-3396-e40f-3c3c-cf77b3b2d620"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.25 41.5,-93.25 41.75,-93.5 41.75,-93.5 41.5,-93.25 41.5))",
+  "dcat_bbox": "ENVELOPE(-93.5, -93.25, 41.75, 41.5)",
+  "dcat_centroid": "41.625,-93.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-175180",
+    "usgs-htmc-468887"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Mitchellville_175178_1930_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Mitchellville_175178_1930_62500_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Mitchellville_175178_1930_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/62500/IA_Mitchellville_175178_1930_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bb5e4b00f54eb3e5694\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Mitchellville_175178_1930_62500_tn.jpg\"}"
+}

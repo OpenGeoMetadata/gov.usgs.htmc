@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-187403",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Falling Spring, VA 1932",
+  "dct_alternative_sm": [
+    "Falling Spring"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Falling Spring, Virginia, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1929.",
+    "Variations: woodland tint. Sheet size: 16.3 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "West Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f20e4b00f54eb40722a",
+    "urn:uuid:762cdf58-9659-ea4d-ae82-cd3c3cb13480"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79.875 37.875,-79.875 38,-80 38,-80 37.875,-79.875 37.875))",
+  "dcat_bbox": "ENVELOPE(-80, -79.875, 38, 37.875)",
+  "dcat_centroid": "37.9375,-79.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-184933",
+    "usgs-htmc-184934",
+    "usgs-htmc-184935",
+    "usgs-htmc-184936",
+    "usgs-htmc-184937",
+    "usgs-htmc-187405",
+    "usgs-htmc-187407"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Falling%20Spring_187403_1932_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Falling%20Spring_187403_1932_31680_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Falling%20Spring_187403_1932_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/31680/VA_Falling_Spring_187403_1932_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f20e4b00f54eb40722a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Falling%20Spring_187403_1932_31680_tn.jpg\"}"
+}

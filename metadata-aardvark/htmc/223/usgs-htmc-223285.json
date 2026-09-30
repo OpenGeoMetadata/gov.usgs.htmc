@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-223285",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Danville, PA 1994 (printed 1996)",
+  "dct_alternative_sm": [
+    "Danville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Danville, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1987; field checked in 1994; last revised in 1995; printed in 1996.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1987 TO 1996]"
+  ],
+  "dct_spatial_sm": [
+    "Montour County, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Columbia County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3213e4b00f54eb3d4d30",
+    "urn:uuid:28943a37-50a2-2aa2-e551-6ae57de5d197"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.5 40.875,-76.5 41,-76.625 41,-76.625 40.875,-76.5 40.875))",
+  "dcat_bbox": "ENVELOPE(-76.625, -76.5, 41, 40.875)",
+  "dcat_centroid": "40.9375,-76.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170465",
+    "usgs-htmc-170466",
+    "usgs-htmc-223283",
+    "usgs-htmc-223284"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Danville_223285_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Danville_223285_1994_24000_geo.pdf\",\"label\":\"GeoPDF (14.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Danville_223285_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Danville_223285_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3213e4b00f54eb3d4d30\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Danville_223285_1994_24000_tn.jpg\"}"
+}

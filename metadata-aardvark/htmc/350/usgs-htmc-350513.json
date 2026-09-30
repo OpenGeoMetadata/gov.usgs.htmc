@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-350513",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Royalston, MA 1971 (printed 1981)",
+  "dct_alternative_sm": [
+    "Royalston"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Royalston, Massachusetts, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1944; aerial photographs from 1969; field checked in 1971; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2455e4b00f54eb3beecf",
+    "urn:uuid:8f6ea41a-ef7f-4f23-6af7-c42a54ffa361"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.125 42.625,-72.125 42.75,-72.25 42.75,-72.25 42.625,-72.125 42.625))",
+  "dcat_bbox": "ENVELOPE(-72.25, -72.125, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-72.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350516",
+    "usgs-htmc-350517",
+    "usgs-htmc-350518",
+    "usgs-htmc-350519",
+    "usgs-htmc-350520",
+    "usgs-htmc-351264",
+    "usgs-htmc-351265",
+    "usgs-htmc-352130",
+    "usgs-htmc-352131",
+    "usgs-htmc-352132"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Royalston_350513_1971_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Royalston_350513_1971_25000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Royalston_350513_1971_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_Royalston_350513_1971_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2455e4b00f54eb3beecf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Royalston_350513_1971_25000_tn.jpg\"}"
+}

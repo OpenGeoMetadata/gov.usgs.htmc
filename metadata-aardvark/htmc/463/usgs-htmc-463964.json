@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-463964",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Mt. Katmai, AK 1951 (printed 1984)",
+  "dct_alternative_sm": [
+    "Mt. Katmai"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Mt. Katmai, Alaska, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Surveyed in 1951; last revised in 1975; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 23.28 x 22.93 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Lake and Peninsula, Alaska",
+    "Kodiak Island, Alaska",
+    "Kenai Peninsula, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5b5301e2e4b05cbf87c178c4",
+    "urn:uuid:f869abbd-cd32-d90e-4e21-531307b50fc6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-154 58,-154 59,-156 59,-156 58,-154 58))",
+  "dcat_bbox": "ENVELOPE(-156, -154, 59, 58)",
+  "dcat_centroid": "58.5,-155",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361180",
+    "usgs-htmc-361181",
+    "usgs-htmc-361182",
+    "usgs-htmc-361183",
+    "usgs-htmc-361184",
+    "usgs-htmc-361185",
+    "usgs-htmc-361186",
+    "usgs-htmc-361187",
+    "usgs-htmc-361188",
+    "usgs-htmc-361189",
+    "usgs-htmc-361190",
+    "usgs-htmc-463965"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Mt%20Katmai_463964_1951_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Mt%20Katmai_463964_1951_250000_geo.pdf\",\"label\":\"GeoPDF (22.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Mt%20Katmai_463964_1951_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Mt_Katmai_463964_1951_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5b5301e2e4b05cbf87c178c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Mt%20Katmai_463964_1951_250000_tn.jpg\"}"
+}

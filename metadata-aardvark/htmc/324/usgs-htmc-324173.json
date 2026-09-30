@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-324173",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Spring Bluff, MO 1966 (printed 1980)",
+  "dct_alternative_sm": [
+    "Spring Bluff"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Spring Bluff, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1966; photo revised in 1980; last revised in 1980; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2774e4b00f54eb3c3e3a",
+    "urn:uuid:ea927fe4-882d-d8be-0819-6d9d61635bd2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.125 38.25,-91.125 38.375,-91.25 38.375,-91.25 38.25,-91.125 38.25))",
+  "dcat_bbox": "ENVELOPE(-91.25, -91.125, 38.375, 38.25)",
+  "dcat_centroid": "38.3125,-91.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324171",
+    "usgs-htmc-324172"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Spring%20Bluff_324173_1966_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Spring%20Bluff_324173_1966_24000_geo.pdf\",\"label\":\"GeoPDF (11.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Spring%20Bluff_324173_1966_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Spring_Bluff_324173_1966_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2774e4b00f54eb3c3e3a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Spring%20Bluff_324173_1966_24000_tn.jpg\"}"
+}

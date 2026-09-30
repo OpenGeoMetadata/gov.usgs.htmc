@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-503627",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Whiting, WI 1957 (printed 1959)",
+  "dct_alternative_sm": [
+    "Whiting"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Whiting, Wisconsin, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1957; field checked in 1957; printed in 1959.",
+    "Variations: woodland tint, planimetric. Sheet size: 21.6 x 27.26 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Portage County, Wisconsin",
+    "Wood County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4adee4b00f54eb3ff783",
+    "urn:uuid:4bf3aa0c-5a71-e0b7-64df-2df0470c8d9b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.5 44.25,-89.5 44.5,-89.75 44.5,-89.75 44.25,-89.5 44.25))",
+  "dcat_bbox": "ENVELOPE(-89.75, -89.5, 44.5, 44.25)",
+  "dcat_centroid": "44.375,-89.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Whiting_503627_1957_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Whiting_503627_1957_48000_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Whiting_503627_1957_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/48000/WI_Whiting_503627_1957_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4adee4b00f54eb3ff783\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Whiting_503627_1957_48000_tn.jpg\"}"
+}

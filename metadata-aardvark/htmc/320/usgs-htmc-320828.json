@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-320828",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Davis Dam, NV 1950 (printed 1955)",
+  "dct_alternative_sm": [
+    "Davis Dam"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Davis Dam, Nevada, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1950; aerial photographs from 1947; printed in 1955.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "Nevada",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f66e4b00f54eb4079ca",
+    "urn:uuid:263b3377-89f8-d299-a626-f442c7589db7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.5 35,-114.5 35.25,-114.75 35.25,-114.75 35,-114.5 35))",
+  "dcat_bbox": "ENVELOPE(-114.75, -114.5, 35.25, 35)",
+  "dcat_centroid": "35.125,-114.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-320827",
+    "usgs-htmc-320830",
+    "usgs-htmc-471793"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/NV_Davis%20Dam_320828_1950_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/62500/NV_Davis%20Dam_320828_1950_62500_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/NV_Davis%20Dam_320828_1950_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/62500/NV_Davis_Dam_320828_1950_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f66e4b00f54eb4079ca\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/62500/NV_Davis%20Dam_320828_1950_62500_tn.jpg\"}"
+}

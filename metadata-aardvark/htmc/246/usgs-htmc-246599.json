@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-246599",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Ola, GA 1964 (printed 1983)",
+  "dct_alternative_sm": [
+    "Ola"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Ola, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; photo revised in 1982; last revised in 1982; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Henry County, Georgia",
+    "Newton County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3402e4b00f54eb3d85a9",
+    "urn:uuid:4b84cb01-1192-6a76-94ac-f5fc8bb6f0a2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84 33.375,-84 33.5,-84.125 33.5,-84.125 33.375,-84 33.375))",
+  "dcat_bbox": "ENVELOPE(-84.125, -84, 33.5, 33.375)",
+  "dcat_centroid": "33.4375,-84.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-246597",
+    "usgs-htmc-246598"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Ola_246599_1964_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Ola_246599_1964_24000_geo.pdf\",\"label\":\"GeoPDF (11.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Ola_246599_1964_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Ola_246599_1964_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3402e4b00f54eb3d85a9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Ola_246599_1964_24000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-347069",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Lake Marian SE, FL 1953 (printed 1984)",
+  "dct_alternative_sm": [
+    "Lake Marian SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Lake Marian SE, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1951; aerial photographs from 1972; field checked in 1953; photo revised in 1972; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22.9 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Osceola County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a41c0e4b00f54eb3efc84",
+    "urn:uuid:0d1e3960-8dcb-4138-8731-11c6ed19c46f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81 27.75,-81 27.875,-81.125 27.875,-81.125 27.75,-81 27.75))",
+  "dcat_bbox": "ENVELOPE(-81.125, -81, 27.875, 27.75)",
+  "dcat_centroid": "27.8125,-81.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-347066",
+    "usgs-htmc-347067",
+    "usgs-htmc-347068"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Lake%20Marian%20SE_347069_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Lake%20Marian%20SE_347069_1953_24000_geo.pdf\",\"label\":\"GeoPDF (7.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Lake%20Marian%20SE_347069_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Lake_Marian_SE_347069_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a41c0e4b00f54eb3efc84\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Lake%20Marian%20SE_347069_1953_24000_tn.jpg\"}"
+}

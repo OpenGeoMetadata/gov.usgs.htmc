@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-9475872",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hermosa SE, SD 1953 (printed 1979)",
+  "dct_alternative_sm": [
+    "Hermosa SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Hermosa SE, South Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; field checked in 1953; photo revised in 1979; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 21.9 x 27.15 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Custer County, South Dakota",
+    "Pennington County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65fe37ced34e64ff1548d9f4",
+    "urn:uuid:52e02a40-2a0d-6168-373b-0f2cdbb3dbc3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103 43.75,-103 43.875,-103.125 43.875,-103.125 43.75,-103 43.75))",
+  "dcat_bbox": "ENVELOPE(-103.125, -103, 43.875, 43.75)",
+  "dcat_centroid": "43.8125,-103.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-343368",
+    "usgs-htmc-343369"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-03-22T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Hermosa%20SE_9475872_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Hermosa%20SE_9475872_1953_24000_geo.pdf\",\"label\":\"GeoPDF (12.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Hermosa%20SE_9475872_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/24000/SD_Hermosa_SE_9475872_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65fe37ced34e64ff1548d9f4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/24000/SD_Hermosa%20SE_9475872_1953_24000_tn.jpg\"}"
+}

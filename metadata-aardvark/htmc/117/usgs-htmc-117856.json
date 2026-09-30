@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-117856",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Howell Mountain, TX 1967 (printed 1992)",
+  "dct_alternative_sm": [
+    "Howell Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Howell Mountain, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1966; field checked in 1967; photo inspected in 1979; printed in 1992.",
+    "Variations: woodland tint. Sheet size: 23.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1992]"
+  ],
+  "dct_spatial_sm": [
+    "Blanco County, Texas",
+    "Llano County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f15e4b00f54eb407124",
+    "urn:uuid:01cb71cc-c8c2-c7c1-49f6-85849c74424c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98.375 30.375,-98.375 30.5,-98.5 30.5,-98.5 30.375,-98.375 30.375))",
+  "dcat_bbox": "ENVELOPE(-98.5, -98.375, 30.5, 30.375)",
+  "dcat_centroid": "30.4375,-98.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-110867"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Howell%20Mountain_117856_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Howell%20Mountain_117856_1967_24000_geo.pdf\",\"label\":\"GeoPDF (10.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Howell%20Mountain_117856_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Howell_Mountain_117856_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f15e4b00f54eb407124\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Howell%20Mountain_117856_1967_24000_tn.jpg\"}"
+}

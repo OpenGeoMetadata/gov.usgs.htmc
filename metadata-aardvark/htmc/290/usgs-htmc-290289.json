@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-290289",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for El Tranquillon, CA 1948",
+  "dct_alternative_sm": [
+    "El Tranquillon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the El Tranquillon, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the War Department. Aerial photographs from 1947; printed in 1948.",
+    "Variations: woodland tint. Sheet size: 21.9 x 28.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2d31e4b00f54eb3cd3db",
+    "urn:uuid:28fb28bf-b894-9fa1-2cc3-064e0acd1359"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120.5 34.5,-120.5 34.625,-120.625 34.625,-120.625 34.5,-120.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-120.625, -120.5, 34.625, 34.5)",
+  "dcat_centroid": "34.5625,-120.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102047",
+    "usgs-htmc-290290",
+    "usgs-htmc-300935",
+    "usgs-htmc-300936",
+    "usgs-htmc-465592"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Tranquillon_290289_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_El%20Tranquillon_290289_1948_24000_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Tranquillon_290289_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_El_Tranquillon_290289_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2d31e4b00f54eb3cd3db\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_El%20Tranquillon_290289_1948_24000_tn.jpg\"}"
+}

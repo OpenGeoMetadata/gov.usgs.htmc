@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-278656",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Grand Rapids, MI 1984",
+  "dct_alternative_sm": [
+    "Grand Rapids"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Grand Rapids, Michigan, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1980; last revised in 1984; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 38.5 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Barry County, Michigan",
+    "Allegan County, Michigan",
+    "Kent County, Michigan",
+    "Ionia County, Michigan",
+    "Ottawa County, Michigan",
+    "Eaton County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f39e4b00f54eb3eb420",
+    "urn:uuid:3bc27b00-7aaa-c368-8c92-96083d6e36cc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85 42.5,-85 43,-86 43,-86 42.5,-85 42.5))",
+  "dcat_bbox": "ENVELOPE(-86, -85, 43, 42.5)",
+  "dcat_centroid": "42.75,-85.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Grand%20Rapids_278656_1984_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/100000/MI_Grand%20Rapids_278656_1984_100000_geo.pdf\",\"label\":\"GeoPDF (30.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Grand%20Rapids_278656_1984_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/100000/MI_Grand_Rapids_278656_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f39e4b00f54eb3eb420\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/100000/MI_Grand%20Rapids_278656_1984_100000_tn.jpg\"}"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-221452",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pleasant View Summit, PA 1976 (printed 1979)",
+  "dct_alternative_sm": [
+    "Pleasant View Summit"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1976 edition of the Pleasant View Summit, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; printed in 1979.",
+    "Variations: orthophotoquad. Sheet size: 21.3 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1976",
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Luzerne County, Pennsylvania",
+    "Lackawanna County, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Monroe County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3467e4b00f54eb3d94ba",
+    "urn:uuid:ecdab5ac-1676-58c2-454b-d673c8f03520"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.625 41.125,-75.625 41.25,-75.75 41.25,-75.75 41.125,-75.625 41.125))",
+  "dcat_bbox": "ENVELOPE(-75.75, -75.625, 41.25, 41.125)",
+  "dcat_centroid": "41.1875,-75.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-221449",
+    "usgs-htmc-221450",
+    "usgs-htmc-221451",
+    "usgs-htmc-223785",
+    "usgs-htmc-223786",
+    "usgs-htmc-223788"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pleasant%20View%20Summit_221452_1976_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Pleasant%20View%20Summit_221452_1976_24000_geo.pdf\",\"label\":\"GeoPDF (23.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pleasant%20View%20Summit_221452_1976_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Pleasant_View_Summit_221452_1976_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3467e4b00f54eb3d94ba\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Pleasant%20View%20Summit_221452_1976_24000_tn.jpg\"}"
+}

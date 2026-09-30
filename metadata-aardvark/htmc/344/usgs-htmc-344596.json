@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-344596",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Zeona, SD 1980 (printed 1981)",
+  "dct_alternative_sm": [
+    "Zeona"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1980 edition of the Zeona, South Dakota, topographic map at 1:25,000 scale (7.5 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1978; last revised in 1980; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 38 x 24.1 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1980",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Perkins County, South Dakota",
+    "Butte County, South Dakota",
+    "Harding County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4166e4b00f54eb3ef12e",
+    "urn:uuid:38fbe7b3-343b-d56e-c0b1-b7c8385dad73"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-102.75 45.125,-102.75 45.25,-103 45.25,-103 45.125,-102.75 45.125))",
+  "dcat_bbox": "ENVELOPE(-103, -102.75, 45.25, 45.125)",
+  "dcat_centroid": "45.1875,-102.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Zeona_344596_1980_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/25000/SD_Zeona_344596_1980_25000_geo.pdf\",\"label\":\"GeoPDF (21.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Zeona_344596_1980_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/25000/SD_Zeona_344596_1980_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4166e4b00f54eb3ef12e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/25000/SD_Zeona_344596_1980_25000_tn.jpg\"}"
+}

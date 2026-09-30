@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-346128",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fellsmere NW, FL 1953 (printed 1971)",
+  "dct_alternative_sm": [
+    "Fellsmere NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Fellsmere NW, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1953; aerial photographs from 1970; photo revised in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 24.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Brevard County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40cce4b00f54eb3edf39",
+    "urn:uuid:e9c5f988-e58f-9c9d-5f2d-029598fdf24e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.625 27.875,-80.625 28,-80.75 28,-80.75 27.875,-80.625 27.875))",
+  "dcat_bbox": "ENVELOPE(-80.75, -80.625, 28, 27.875)",
+  "dcat_centroid": "27.9375,-80.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346126",
+    "usgs-htmc-346127"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Fellsmere%20NW_346128_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Fellsmere%20NW_346128_1953_24000_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Fellsmere%20NW_346128_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Fellsmere_NW_346128_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40cce4b00f54eb3edf39\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Fellsmere%20NW_346128_1953_24000_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-807388",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bingham, ME 1905 (printed 1913)",
+  "dct_alternative_sm": [
+    "Bingham"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1905 edition of the Bingham, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1903; printed in 1913.",
+    "Sheet size: 15.5 x 20.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1913]"
+  ],
+  "dct_spatial_sm": [
+    "Somerset County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4bcae4b00f54eb40118a",
+    "urn:uuid:dcb8a4c1-78a8-b9ae-0595-b8cfd872dd90"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-69.75 45,-69.75 45.25,-70 45.25,-70 45,-69.75 45))",
+  "dcat_bbox": "ENVELOPE(-70, -69.75, 45.25, 45)",
+  "dcat_centroid": "45.125,-69.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306473",
+    "usgs-htmc-306474",
+    "usgs-htmc-306475",
+    "usgs-htmc-460208",
+    "usgs-htmc-460209",
+    "usgs-htmc-460210",
+    "usgs-htmc-807387"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bingham_807388_1905_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Bingham_807388_1905_62500_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bingham_807388_1905_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Bingham_807388_1905_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4bcae4b00f54eb40118a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Bingham_807388_1905_62500_tn.jpg\"}"
+}

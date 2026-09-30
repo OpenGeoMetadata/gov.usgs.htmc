@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-282324",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Cave Junction, OR 1954 (printed 1963)",
+  "dct_alternative_sm": [
+    "Cave Junction"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Cave Junction, Oregon, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1954; aerial photographs from 1952; printed in 1963.",
+    "Variations: woodland tint. Sheet size: 16 x 21.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a38e3e4b00f54eb3e0f48",
+    "urn:uuid:ce858bcd-39dd-e5e4-cac4-1d703144bccd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123.5 42,-123.5 42.25,-123.75 42.25,-123.75 42,-123.5 42))",
+  "dcat_bbox": "ENVELOPE(-123.75, -123.5, 42.25, 42)",
+  "dcat_centroid": "42.125,-123.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-282325",
+    "usgs-htmc-282326"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Cave%20Junction_282324_1954_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Cave%20Junction_282324_1954_62500_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Cave%20Junction_282324_1954_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/62500/OR_Cave_Junction_282324_1954_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a38e3e4b00f54eb3e0f48\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Cave%20Junction_282324_1954_62500_tn.jpg\"}"
+}

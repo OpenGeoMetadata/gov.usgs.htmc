@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-466359",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Savahia Peak NW, CA 1971 (printed 1973)",
+  "dct_alternative_sm": [
+    "Savahia Peak NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the Savahia Peak NW, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1970; field checked in 1971; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 21.79 x 26.68 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e148e9ee4b0ecf25c55b177",
+    "urn:uuid:1acf04dd-212e-08e8-6369-16f15b169b61"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.625 34.375,-114.625 34.5,-114.75 34.5,-114.75 34.375,-114.625 34.375))",
+  "dcat_bbox": "ENVELOPE(-114.75, -114.625, 34.5, 34.375)",
+  "dcat_centroid": "34.4375,-114.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-300358"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Savahia%20Peak%20NW_466359_1971_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Savahia%20Peak%20NW_466359_1971_24000_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Savahia%20Peak%20NW_466359_1971_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Savahia_Peak_NW_466359_1971_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e148e9ee4b0ecf25c55b177\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Savahia%20Peak%20NW_466359_1971_24000_tn.jpg\"}"
+}

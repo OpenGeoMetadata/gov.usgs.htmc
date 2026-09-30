@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-357990",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Naknek B-4, AK 1952 (printed 1971)",
+  "dct_alternative_sm": [
+    "Naknek B-4"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Naknek B-4, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1951; field checked in 1952; last revised in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 17.1 x 20.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Lake and Peninsula, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5489e4b00f54eb411c34",
+    "urn:uuid:120fb6a4-bc4a-f151-1b29-b389e84bc3de"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-157 58.25,-157 58.5,-157.3333333 58.5,-157.3333333 58.25,-157 58.25))",
+  "dcat_bbox": "ENVELOPE(-157.3333333, -157, 58.5, 58.25)",
+  "dcat_centroid": "58.375,-157.16666665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-357989",
+    "usgs-htmc-357991"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Naknek%20B-4_357990_1952_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Naknek%20B-4_357990_1952_63360_geo.pdf\",\"label\":\"GeoPDF (9.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Naknek%20B-4_357990_1952_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Naknek_B4_357990_1952_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5489e4b00f54eb411c34\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Naknek%20B-4_357990_1952_63360_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-255221",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for High Bridge, NJ 1890 (printed 1896)",
+  "dct_alternative_sm": [
+    "High Bridge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1890 edition of the High Bridge, New Jersey, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1886; printed in 1896.",
+    "Sheet size: 16.6 x 20.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1896]"
+  ],
+  "dct_spatial_sm": [
+    "Hunterdon County, New Jersey",
+    "Warren County, New Jersey",
+    "Morris County, New Jersey",
+    "Somerset County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2609e4b00f54eb3c16aa",
+    "urn:uuid:7da58c68-7a9a-e4e0-3ccb-20cf9392bb2c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.75 40.5,-74.75 40.75,-75 40.75,-75 40.5,-74.75 40.5))",
+  "dcat_bbox": "ENVELOPE(-75, -74.75, 40.75, 40.5)",
+  "dcat_centroid": "40.625,-74.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255222",
+    "usgs-htmc-255223",
+    "usgs-htmc-255224",
+    "usgs-htmc-255225",
+    "usgs-htmc-255226",
+    "usgs-htmc-255227",
+    "usgs-htmc-255228"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_High%20Bridge_255221_1890_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_High%20Bridge_255221_1890_62500_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_High%20Bridge_255221_1890_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/62500/NJ_High_Bridge_255221_1890_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2609e4b00f54eb3c16aa\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_High%20Bridge_255221_1890_62500_tn.jpg\"}"
+}

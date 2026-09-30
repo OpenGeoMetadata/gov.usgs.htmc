@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-278936",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bandon, OR 1970 (printed 1973)",
+  "dct_alternative_sm": [
+    "Bandon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1970 edition of the Bandon, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1970; field checked in 1970; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Coos County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2580e4b00f54eb3c09e9",
+    "urn:uuid:3d260607-5126-d616-9f54-b786f441428b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124.375 43,-124.375 43.125,-124.5 43.125,-124.5 43,-124.375 43))",
+  "dcat_bbox": "ENVELOPE(-124.5, -124.375, 43.125, 43)",
+  "dcat_centroid": "43.0625,-124.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-278937"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Bandon_278936_1970_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Bandon_278936_1970_24000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Bandon_278936_1970_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Bandon_278936_1970_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2580e4b00f54eb3c09e9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Bandon_278936_1970_24000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-123224",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bayville, NY 1967 (printed 1984)",
+  "dct_alternative_sm": [
+    "Bayville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Bayville, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; aerial photographs from 1941; photo inspected in 1975; last revised in 1967; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4622e4b00f54eb3f7522",
+    "urn:uuid:245d1177-4e84-e284-829a-0259715ccf73"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.5 40.875,-73.5 41,-73.625 41,-73.625 40.875,-73.5 40.875))",
+  "dcat_bbox": "ENVELOPE(-73.625, -73.5, 41, 40.875)",
+  "dcat_centroid": "40.9375,-73.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123220",
+    "usgs-htmc-123221",
+    "usgs-htmc-123222",
+    "usgs-htmc-123223"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Bayville_123224_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Bayville_123224_1967_24000_geo.pdf\",\"label\":\"GeoPDF (15.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Bayville_123224_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Bayville_123224_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4622e4b00f54eb3f7522\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Bayville_123224_1967_24000_tn.jpg\"}"
+}

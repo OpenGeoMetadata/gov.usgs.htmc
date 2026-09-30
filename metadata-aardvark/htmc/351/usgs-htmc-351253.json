@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-351253",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Rockport, MA 1947",
+  "dct_alternative_sm": [
+    "Rockport"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Rockport, Massachusetts, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the Army Map Service.",
+    "Variations: woodland tint. Sheet size: 21.9 x 28.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Essex County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2454e4b00f54eb3bee94",
+    "urn:uuid:26b3219e-0147-782c-184c-ea95d39418e6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.5166667 42.5833333,-70.5166667 42.7083333,-70.6416667 42.7083333,-70.6416667 42.5833333,-70.5166667 42.5833333))",
+  "dcat_bbox": "ENVELOPE(-70.6416667, -70.5166667, 42.7083333, 42.5833333)",
+  "dcat_centroid": "42.6458333,-70.5791667",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350499",
+    "usgs-htmc-350500",
+    "usgs-htmc-350502",
+    "usgs-htmc-350503",
+    "usgs-htmc-350504",
+    "usgs-htmc-351254",
+    "usgs-htmc-352119",
+    "usgs-htmc-352121",
+    "usgs-htmc-352122",
+    "usgs-htmc-352123"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Rockport_351253_1947_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Rockport_351253_1947_25000_geo.pdf\",\"label\":\"GeoPDF (22.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Rockport_351253_1947_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_Rockport_351253_1947_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2454e4b00f54eb3bee94\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Rockport_351253_1947_25000_tn.jpg\"}"
+}

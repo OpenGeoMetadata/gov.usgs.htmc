@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-330304",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Peterboro, NH 1900 (printed 1945)",
+  "dct_alternative_sm": [
+    "Peterboro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1900 edition of the Peterboro, New Hampshire, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1897; printed in 1945.",
+    "Sheet size: 16.9 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Hillsborough County, New Hampshire",
+    "Cheshire County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5106e4b00f54eb40aec8",
+    "urn:uuid:4e3d356a-d738-7141-d742-eb4367eb2b47"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.75 42.75,-71.75 43,-72 43,-72 42.75,-71.75 42.75))",
+  "dcat_bbox": "ENVELOPE(-72, -71.75, 43, 42.75)",
+  "dcat_centroid": "42.875,-71.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330302",
+    "usgs-htmc-330303",
+    "usgs-htmc-330306",
+    "usgs-htmc-330307",
+    "usgs-htmc-330308",
+    "usgs-htmc-330309",
+    "usgs-htmc-330310",
+    "usgs-htmc-330311",
+    "usgs-htmc-330312",
+    "usgs-htmc-330313",
+    "usgs-htmc-330314"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Peterboro_330304_1900_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Peterboro_330304_1900_62500_geo.pdf\",\"label\":\"GeoPDF (11.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Peterboro_330304_1900_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/62500/NH_Peterboro_330304_1900_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5106e4b00f54eb40aec8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Peterboro_330304_1900_62500_tn.jpg\"}"
+}

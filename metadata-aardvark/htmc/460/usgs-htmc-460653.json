@@ -1,0 +1,87 @@
+{
+  "id": "usgs-htmc-460653",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Newfield, ME 1937",
+  "dct_alternative_sm": [
+    "Newfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1937 edition of the Newfield, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1933.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "gbl_indexYear_im": [
+    1937
+  ],
+  "gbl_dateRange_drsim": [
+    "[1933 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4cc0e4b00f54eb402c88",
+    "urn:uuid:0e10ba4b-d19c-7d6d-f790-5ea367eb2e76"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 43.5,-70.75 43.75,-71 43.75,-71 43.5,-70.75 43.5))",
+  "dcat_bbox": "ENVELOPE(-71, -70.75, 43.75, 43.5)",
+  "dcat_centroid": "43.625,-70.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306677",
+    "usgs-htmc-306678",
+    "usgs-htmc-306680",
+    "usgs-htmc-460652",
+    "usgs-htmc-460654",
+    "usgs-htmc-460655",
+    "usgs-htmc-460656",
+    "usgs-htmc-460657",
+    "usgs-htmc-460658",
+    "usgs-htmc-460659",
+    "usgs-htmc-460660",
+    "usgs-htmc-807579",
+    "usgs-htmc-807580",
+    "usgs-htmc-807581",
+    "usgs-htmc-807582",
+    "usgs-htmc-807583",
+    "usgs-htmc-807585",
+    "usgs-htmc-807586"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Newfield_460653_1937_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Newfield_460653_1937_62500_geo.pdf\",\"label\":\"GeoPDF (9.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Newfield_460653_1937_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Newfield_460653_1937_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4cc0e4b00f54eb402c88\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Newfield_460653_1937_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-282753",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mt. Wilson, OR 1956 (printed 1964)",
+  "dct_alternative_sm": [
+    "Mt. Wilson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Mt. Wilson, Oregon, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1956; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 16.8 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Wasco County, Oregon",
+    "Clackamas County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a396ae4b00f54eb3e1de6",
+    "urn:uuid:2aedf845-4308-4236-af7e-47dbd7d49ced"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.5 45,-121.5 45.25,-121.75 45.25,-121.75 45,-121.5 45))",
+  "dcat_bbox": "ENVELOPE(-121.75, -121.5, 45.25, 45)",
+  "dcat_centroid": "45.125,-121.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-282752",
+    "usgs-htmc-282754"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Mt%20Wilson_282753_1956_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Mt%20Wilson_282753_1956_62500_geo.pdf\",\"label\":\"GeoPDF (8.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Mt%20Wilson_282753_1956_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/62500/OR_Mt_Wilson_282753_1956_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a396ae4b00f54eb3e1de6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Mt%20Wilson_282753_1956_62500_tn.jpg\"}"
+}

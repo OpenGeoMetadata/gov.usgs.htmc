@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-170955",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Kinzua, PA 1949 (printed 1967)",
+  "dct_alternative_sm": [
+    "Kinzua"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Kinzua, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1949; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 17 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a45abe4b00f54eb3f67b0",
+    "urn:uuid:9e65124e-3ba6-76d8-a204-69b56486d044"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78.75 41.75,-78.75 42,-79 42,-79 41.75,-78.75 41.75))",
+  "dcat_bbox": "ENVELOPE(-79, -78.75, 42, 41.75)",
+  "dcat_centroid": "41.875,-78.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170951",
+    "usgs-htmc-170952",
+    "usgs-htmc-170953",
+    "usgs-htmc-170954",
+    "usgs-htmc-170956",
+    "usgs-htmc-170958",
+    "usgs-htmc-461785"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Kinzua_170955_1949_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Kinzua_170955_1949_62500_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Kinzua_170955_1949_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Kinzua_170955_1949_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a45abe4b00f54eb3f67b0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Kinzua_170955_1949_62500_tn.jpg\"}"
+}

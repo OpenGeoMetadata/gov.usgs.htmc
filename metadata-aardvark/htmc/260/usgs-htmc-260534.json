@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-260534",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Mount Ida, AR 1890",
+  "dct_alternative_sm": [
+    "Mount Ida"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1890 edition of the Mount Ida, Arkansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1887.",
+    "Sheet size: 16.5 x 20 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery County, Arkansas",
+    "Scott County, Arkansas",
+    "Yell County, Arkansas",
+    "Polk County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f23e4b00f54eb3eb2cc",
+    "urn:uuid:6fc43275-1abd-7ca1-01dd-bc415de9a65e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.5 34.5,-93.5 35,-94 35,-94 34.5,-93.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-94, -93.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-93.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260535",
+    "usgs-htmc-260536",
+    "usgs-htmc-260538",
+    "usgs-htmc-260539",
+    "usgs-htmc-260554",
+    "usgs-htmc-260555"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Mount%20Ida_260534_1890_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Mount%20Ida_260534_1890_125000_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Mount%20Ida_260534_1890_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/125000/AR_Mount_Ida_260534_1890_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f23e4b00f54eb3eb2cc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Mount%20Ida_260534_1890_125000_tn.jpg\"}"
+}

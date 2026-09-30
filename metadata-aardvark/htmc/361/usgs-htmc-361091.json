@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-361091",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Lake Clark, AK 1958 (printed 1974)",
+  "dct_alternative_sm": [
+    "Lake Clark"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Lake Clark, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1958; last revised in 1972; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 28.8 x 24.3 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Lake and Peninsula, Alaska",
+    "Kenai Peninsula, Alaska",
+    "Bethel Census Area, Alaska",
+    "Dillingham Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a9de4b00f54eb3e3a08",
+    "urn:uuid:36496d43-b8f8-51aa-9945-e06fd748b586"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-153 60,-153 61,-156 61,-156 60,-153 60))",
+  "dcat_bbox": "ENVELOPE(-156, -153, 61, 60)",
+  "dcat_centroid": "60.5,-154.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361086",
+    "usgs-htmc-361087",
+    "usgs-htmc-361090",
+    "usgs-htmc-361092",
+    "usgs-htmc-463905",
+    "usgs-htmc-707805",
+    "usgs-htmc-707980"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Lake%20Clark_361091_1958_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Lake%20Clark_361091_1958_250000_geo.pdf\",\"label\":\"GeoPDF (27.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Lake%20Clark_361091_1958_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Lake_Clark_361091_1958_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a9de4b00f54eb3e3a08\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Lake%20Clark_361091_1958_250000_tn.jpg\"}"
+}

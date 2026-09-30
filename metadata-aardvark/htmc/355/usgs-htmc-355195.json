@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-355195",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Cordova C-6, AK 2000 (printed 2002)",
+  "dct_alternative_sm": [
+    "Cordova C-6"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2000 edition of the Cordova C-6, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1996; last revised in 2000; printed in 2002.",
+    "Variations: woodland tint. Sheet size: 18 x 21.5 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_dateRange_drsim": [
+    "[1996 TO 2002]"
+  ],
+  "dct_spatial_sm": [
+    "Valdez-Cordova Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a510ae4b00f54eb40af74",
+    "urn:uuid:867aff69-0088-89a9-41b3-f6eb16386413"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-145.875 60.5,-145.875 60.75,-146.25 60.75,-146.25 60.5,-145.875 60.5))",
+  "dcat_bbox": "ENVELOPE(-146.25, -145.875, 60.75, 60.5)",
+  "dcat_centroid": "60.625,-146.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-355190",
+    "usgs-htmc-355191",
+    "usgs-htmc-355192",
+    "usgs-htmc-355193",
+    "usgs-htmc-355194",
+    "usgs-htmc-463650"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Cordova%20C-6_355195_2000_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Cordova%20C-6_355195_2000_63360_geo.pdf\",\"label\":\"GeoPDF (17.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Cordova%20C-6_355195_2000_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Cordova_C6_355195_2000_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a510ae4b00f54eb40af74\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Cordova%20C-6_355195_2000_63360_tn.jpg\"}"
+}

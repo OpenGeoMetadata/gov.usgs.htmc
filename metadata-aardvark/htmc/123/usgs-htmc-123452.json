@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-123452",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Sweetwater, TX 1985 (printed 1989)",
+  "dct_alternative_sm": [
+    "Sweetwater"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Sweetwater, Texas, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1982; last revised in 1985; printed in 1989.",
+    "Variations: woodland tint. Sheet size: 43.4 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Nolan County, Texas",
+    "Mitchell County, Texas",
+    "Taylor County, Texas",
+    "Coke County, Texas",
+    "Runnels County, Texas",
+    "Sterling County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2e09e4b00f54eb3ce9fc",
+    "urn:uuid:b728fe06-6705-45e6-7385-27e6073b381d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-100 32,-100 32.5,-101 32.5,-101 32,-100 32))",
+  "dcat_bbox": "ENVELOPE(-101, -100, 32.5, 32)",
+  "dcat_centroid": "32.25,-100.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123451"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Sweetwater_123452_1985_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/100000/TX_Sweetwater_123452_1985_100000_geo.pdf\",\"label\":\"GeoPDF (30.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Sweetwater_123452_1985_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/100000/TX_Sweetwater_123452_1985_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2e09e4b00f54eb3ce9fc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/100000/TX_Sweetwater_123452_1985_100000_tn.jpg\"}"
+}

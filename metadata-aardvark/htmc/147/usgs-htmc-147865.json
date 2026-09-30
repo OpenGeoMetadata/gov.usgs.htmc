@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-147865",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Johnson City, TN 1955",
+  "dct_alternative_sm": [
+    "Johnson City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Johnson City, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the Army Map Service.",
+    "Variations: woodland tint. Sheet size: 22 x 27.4 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Carter County, Tennessee",
+    "Washington County, Tennessee",
+    "Unicoi County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a415ee4b00f54eb3ef07e",
+    "urn:uuid:0e3ac23a-3317-1f6d-e6ed-caee74a6bbf3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 36.25,-82.25 36.375,-82.375 36.375,-82.375 36.25,-82.25 36.25))",
+  "dcat_bbox": "ENVELOPE(-82.375, -82.25, 36.375, 36.25)",
+  "dcat_centroid": "36.3125,-82.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-143994",
+    "usgs-htmc-143995",
+    "usgs-htmc-143996",
+    "usgs-htmc-147862",
+    "usgs-htmc-147863",
+    "usgs-htmc-147864",
+    "usgs-htmc-147866",
+    "usgs-htmc-147867"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Johnson%20City_147865_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Johnson%20City_147865_1955_24000_geo.pdf\",\"label\":\"GeoPDF (15.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Johnson%20City_147865_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Johnson_City_147865_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a415ee4b00f54eb3ef07e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Johnson%20City_147865_1955_24000_tn.jpg\"}"
+}

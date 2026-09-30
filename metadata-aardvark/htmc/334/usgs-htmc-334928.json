@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-334928",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Pointe a La Hache, LA 1948 (printed 1951)",
+  "dct_alternative_sm": [
+    "Pointe a La Hache"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Pointe a La Hache, Louisiana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Surveyed in 1942; printed in 1951.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Plaquemines Parish, Louisiana",
+    "Jefferson Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e57e4b00f54eb405a25",
+    "urn:uuid:3e4ca6c8-0c55-067e-c96c-9e4b255ab8b4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 29.5,-89.75 29.75,-90 29.75,-90 29.5,-89.75 29.5))",
+  "dcat_bbox": "ENVELOPE(-90, -89.75, 29.75, 29.5)",
+  "dcat_centroid": "29.625,-89.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-334925",
+    "usgs-htmc-334926",
+    "usgs-htmc-334927",
+    "usgs-htmc-334929",
+    "usgs-htmc-334930",
+    "usgs-htmc-334931",
+    "usgs-htmc-334932"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Pointe%20a%20La%20Hache_334928_1948_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_Pointe%20a%20La%20Hache_334928_1948_62500_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Pointe%20a%20La%20Hache_334928_1948_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/62500/LA_Pointe_a_La_Hache_334928_1948_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e57e4b00f54eb405a25\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_Pointe%20a%20La%20Hache_334928_1948_62500_tn.jpg\"}"
+}

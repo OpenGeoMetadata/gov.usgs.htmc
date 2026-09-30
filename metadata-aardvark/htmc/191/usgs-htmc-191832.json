@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-191832",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Paxton Springs, NM 1952 (printed 1984)",
+  "dct_alternative_sm": [
+    "Paxton Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Paxton Springs, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; photo revised in 1981; last revised in 1981; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Cibola County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3cd8e4b00f54eb3e79b9",
+    "urn:uuid:ac947fd6-2ad6-2213-8f64-549ff4cd96b2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108 35,-108 35.125,-108.125 35.125,-108.125 35,-108 35))",
+  "dcat_bbox": "ENVELOPE(-108.125, -108, 35.125, 35)",
+  "dcat_centroid": "35.0625,-108.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-191825",
+    "usgs-htmc-191826",
+    "usgs-htmc-191827",
+    "usgs-htmc-191828",
+    "usgs-htmc-191829",
+    "usgs-htmc-191830",
+    "usgs-htmc-191831",
+    "usgs-htmc-194155"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Paxton%20Springs_191832_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Paxton%20Springs_191832_1952_24000_geo.pdf\",\"label\":\"GeoPDF (12.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Paxton%20Springs_191832_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Paxton_Springs_191832_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3cd8e4b00f54eb3e79b9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Paxton%20Springs_191832_1952_24000_tn.jpg\"}"
+}

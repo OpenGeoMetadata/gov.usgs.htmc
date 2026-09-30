@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-243568",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Salmon River, WA 1956 (printed 1980)",
+  "dct_alternative_sm": [
+    "Salmon River"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Salmon River, Washington, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; field checked in 1956; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 17 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Washington",
+    "Grays Harbor County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3cf9e4b00f54eb3e7d72",
+    "urn:uuid:3050df94-cb8b-b975-836f-ce8e2dcf1c12"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 47.5,-124 47.75,-124.25 47.75,-124.25 47.5,-124 47.5))",
+  "dcat_bbox": "ENVELOPE(-124.25, -124, 47.75, 47.5)",
+  "dcat_centroid": "47.625,-124.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-243569",
+    "usgs-htmc-243570"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Salmon%20River_243568_1956_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Salmon%20River_243568_1956_62500_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Salmon%20River_243568_1956_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/62500/WA_Salmon_River_243568_1956_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3cf9e4b00f54eb3e7d72\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Salmon%20River_243568_1956_62500_tn.jpg\"}"
+}

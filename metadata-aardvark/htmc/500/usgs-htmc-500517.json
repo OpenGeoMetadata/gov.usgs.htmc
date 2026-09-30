@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-500517",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Green Bay East, WI 1982",
+  "dct_alternative_sm": [
+    "Green Bay East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1982 edition of the Green Bay East, Wisconsin, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1954; aerial photographs from 1979; field checked in 1981; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 21.49 x 27.21 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1982",
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Brown County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2400e4b00f54eb3be5a0",
+    "urn:uuid:06332c73-3b6d-7d70-053d-17a5f3db3117"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.875 44.5,-87.875 44.625,-88 44.625,-88 44.5,-87.875 44.5))",
+  "dcat_bbox": "ENVELOPE(-88, -87.875, 44.625, 44.5)",
+  "dcat_centroid": "44.5625,-87.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-500516",
+    "usgs-htmc-500518",
+    "usgs-htmc-500519"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Green%20Bay%20East_500517_1982_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Green%20Bay%20East_500517_1982_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Green%20Bay%20East_500517_1982_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/24000/WI_Green_Bay_East_500517_1982_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2400e4b00f54eb3be5a0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Green%20Bay%20East_500517_1982_24000_tn.jpg\"}"
+}

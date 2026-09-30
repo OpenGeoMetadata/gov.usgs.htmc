@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-469097",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Sharon Springs 3 NE, KS 1968 (printed 1969)",
+  "dct_alternative_sm": [
+    "Sharon Springs 3 NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Sharon Springs 3 NE, Kansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1966; field checked in 1968; printed in 1969.",
+    "Variations: woodland tint. Sheet size: 21.81 x 26.77 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Greeley County, Kansas",
+    "Wallace County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5dcea0d5e4b0695797627107",
+    "urn:uuid:0c9630e1-1c06-9612-2e5c-bed910cf2c88"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-101.75 38.625,-101.75 38.75,-101.875 38.75,-101.875 38.625,-101.75 38.625))",
+  "dcat_bbox": "ENVELOPE(-101.875, -101.75, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-101.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-512008"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Sharon%20Springs%203%20NE_469097_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Sharon%20Springs%203%20NE_469097_1968_24000_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Sharon%20Springs%203%20NE_469097_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/24000/KS_Sharon_Springs_3_NE_469097_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5dcea0d5e4b0695797627107\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Sharon%20Springs%203%20NE_469097_1968_24000_tn.jpg\"}"
+}

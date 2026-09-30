@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-291176",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Harper Canyon, CA 1959 (printed 1961)",
+  "dct_alternative_sm": [
+    "Harper Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Harper Canyon, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1956; field checked in 1959; printed in 1961.",
+    "Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "San Diego County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2eb5e4b00f54eb3cf79e",
+    "urn:uuid:7fa53db3-6979-a0a3-2db4-8028420a86da"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.125 33,-116.125 33.125,-116.25 33.125,-116.25 33,-116.125 33))",
+  "dcat_bbox": "ENVELOPE(-116.25, -116.125, 33.125, 33)",
+  "dcat_centroid": "33.0625,-116.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100693",
+    "usgs-htmc-291174",
+    "usgs-htmc-291175",
+    "usgs-htmc-291177",
+    "usgs-htmc-291178"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Harper%20Canyon_291176_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Harper%20Canyon_291176_1959_24000_geo.pdf\",\"label\":\"GeoPDF (11.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Harper%20Canyon_291176_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Harper_Canyon_291176_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2eb5e4b00f54eb3cf79e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Harper%20Canyon_291176_1959_24000_tn.jpg\"}"
+}

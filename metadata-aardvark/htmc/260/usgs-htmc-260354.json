@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-260354",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Waldron, AR 1939 (printed 1955)",
+  "dct_alternative_sm": [
+    "Waldron"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1939 edition of the Waldron, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1939; printed in 1955.",
+    "Variations: shaded relief. Sheet size: 16.9 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Arkansas",
+    "Sebastian County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a457ae4b00f54eb3f62bd",
+    "urn:uuid:1dab503f-1972-8923-1cbd-e94e73a74b2b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94 34.75,-94 35,-94.25 35,-94.25 34.75,-94 34.75))",
+  "dcat_bbox": "ENVELOPE(-94.25, -94, 35, 34.75)",
+  "dcat_centroid": "34.875,-94.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260250",
+    "usgs-htmc-260346",
+    "usgs-htmc-260348",
+    "usgs-htmc-260350",
+    "usgs-htmc-260351",
+    "usgs-htmc-260352",
+    "usgs-htmc-260355",
+    "usgs-htmc-260356",
+    "usgs-htmc-260357",
+    "usgs-htmc-260358",
+    "usgs-htmc-465188",
+    "usgs-htmc-465247",
+    "usgs-htmc-465248"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Waldron_260354_1939_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Waldron_260354_1939_62500_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Waldron_260354_1939_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Waldron_260354_1939_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a457ae4b00f54eb3f62bd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Waldron_260354_1939_62500_tn.jpg\"}"
+}

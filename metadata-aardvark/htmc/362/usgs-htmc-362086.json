@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-362086",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Ciales, PR 1957 (printed 1959)",
+  "dct_alternative_sm": [
+    "Ciales"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Ciales, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1943; last revised in 1957; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 28.4 x 32.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Ciales, Puerto Rico",
+    "Morovis, Puerto Rico",
+    "Orocovis, Puerto Rico",
+    "Vega Baja, Puerto Rico",
+    "Manatí, Puerto Rico",
+    "Corozal, Puerto Rico",
+    "Vega Alta, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a88e4b00f54eb3fef52",
+    "urn:uuid:d0cec8f3-e1df-f525-411d-ae2c46470d98"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.375 18.25,-66.375 18.375,-66.5 18.375,-66.5 18.25,-66.375 18.25))",
+  "dcat_bbox": "ENVELOPE(-66.5, -66.375, 18.375, 18.25)",
+  "dcat_centroid": "18.3125,-66.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362087",
+    "usgs-htmc-362088",
+    "usgs-htmc-362089",
+    "usgs-htmc-362090",
+    "usgs-htmc-475469",
+    "usgs-htmc-475470"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Ciales_362086_1957_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Ciales_362086_1957_20000_geo.pdf\",\"label\":\"GeoPDF (26.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Ciales_362086_1957_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Ciales_362086_1957_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a88e4b00f54eb3fef52\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Ciales_362086_1957_20000_tn.jpg\"}"
+}

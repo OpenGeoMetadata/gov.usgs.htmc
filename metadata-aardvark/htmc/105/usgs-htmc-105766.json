@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-105766",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bastrop, TX 1950",
+  "dct_alternative_sm": [
+    "Bastrop"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Bastrop, Texas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1947; field checked in 1948.",
+    "Variations: woodland tint. Sheet size: 17.3 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Bastrop County, Texas",
+    "Travis County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4869e4b00f54eb3fb5a5",
+    "urn:uuid:96d98adc-90c9-9120-bc73-01b9002f6617"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.25 30,-97.25 30.25,-97.5 30.25,-97.5 30,-97.25 30))",
+  "dcat_bbox": "ENVELOPE(-97.5, -97.25, 30.25, 30)",
+  "dcat_centroid": "30.125,-97.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-105764"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Bastrop_105766_1950_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/62500/TX_Bastrop_105766_1950_62500_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Bastrop_105766_1950_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/62500/TX_Bastrop_105766_1950_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4869e4b00f54eb3fb5a5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/62500/TX_Bastrop_105766_1950_62500_tn.jpg\"}"
+}

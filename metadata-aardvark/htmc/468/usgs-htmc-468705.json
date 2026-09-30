@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-468705",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Amana, IA 1888",
+  "dct_alternative_sm": [
+    "Amana"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1888 edition of the Amana, Iowa, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1888.",
+    "Sheet size: 15.99 x 19.83 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1888",
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "gbl_indexYear_im": [
+    1888
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "dct_spatial_sm": [
+    "Benton County, Iowa",
+    "Iowa County, Iowa",
+    "Linn County, Iowa",
+    "Johnson County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d8eb5b6e4b0c4f70d0cd248",
+    "urn:uuid:0dd9889f-d477-7895-ff6f-97601d88997a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.75 41.75,-91.75 42,-92 42,-92 41.75,-91.75 41.75))",
+  "dcat_bbox": "ENVELOPE(-92, -91.75, 42, 41.75)",
+  "dcat_centroid": "41.875,-91.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-174044",
+    "usgs-htmc-174046",
+    "usgs-htmc-468704"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Amana_468705_1888_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Amana_468705_1888_62500_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Amana_468705_1888_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/62500/IA_Amana_468705_1888_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d8eb5b6e4b0c4f70d0cd248\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Amana_468705_1888_62500_tn.jpg\"}"
+}

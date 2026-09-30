@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-260479",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Fayetteville, AR 1901 (printed 1944)",
+  "dct_alternative_sm": [
+    "Fayetteville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Fayetteville, Arkansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1899; printed in 1944.",
+    "Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f0fe4b00f54eb3eb0f4",
+    "urn:uuid:1f1da216-68d3-6009-d523-b4ef8eb9febf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94 36,-94 36.5,-94.5 36.5,-94.5 36,-94 36))",
+  "dcat_bbox": "ENVELOPE(-94.5, -94, 36.5, 36)",
+  "dcat_centroid": "36.25,-94.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260472",
+    "usgs-htmc-260476",
+    "usgs-htmc-260477",
+    "usgs-htmc-260478",
+    "usgs-htmc-465076"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Fayetteville_260479_1901_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Fayetteville_260479_1901_125000_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Fayetteville_260479_1901_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/125000/AR_Fayetteville_260479_1901_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f0fe4b00f54eb3eb0f4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Fayetteville_260479_1901_125000_tn.jpg\"}"
+}

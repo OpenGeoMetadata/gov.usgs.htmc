@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-463019",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Northampton, MA 1885",
+  "dct_alternative_sm": [
+    "Northampton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1885 edition of the Northampton, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1885.",
+    "Sheet size: 16.3 x 20.16 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1885",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "dct_spatial_sm": [
+    "Hampshire County, Massachusetts",
+    "Franklin County, Massachusetts",
+    "Hampden County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e5a514ee4b01d50924eae37",
+    "urn:uuid:2421d626-7db4-8743-08c4-058e46c72e01"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.5 42.25,-72.5 42.5,-72.75 42.5,-72.75 42.25,-72.5 42.25))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.5, 42.5, 42.25)",
+  "dcat_centroid": "42.375,-72.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-352898",
+    "usgs-htmc-352899",
+    "usgs-htmc-352900",
+    "usgs-htmc-352901",
+    "usgs-htmc-352902",
+    "usgs-htmc-352903",
+    "usgs-htmc-352904",
+    "usgs-htmc-352905",
+    "usgs-htmc-352906",
+    "usgs-htmc-352907",
+    "usgs-htmc-352908",
+    "usgs-htmc-352909",
+    "usgs-htmc-352911"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Northampton_463019_1885_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Northampton_463019_1885_62500_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Northampton_463019_1885_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Northampton_463019_1885_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e5a514ee4b01d50924eae37\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Northampton_463019_1885_62500_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-503639",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Appleton, WI 1984 (printed 1985)",
+  "dct_alternative_sm": [
+    "Appleton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Appleton, Wisconsin, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1982; last revised in 1984; printed in 1985.",
+    "Variations: woodland tint, planimetric. Sheet size: 38.34 x 24.14 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Outagamie County, Wisconsin",
+    "Winnebago County, Wisconsin",
+    "Calumet County, Wisconsin",
+    "Waupaca County, Wisconsin",
+    "Brown County, Wisconsin",
+    "Waushara County, Wisconsin",
+    "Manitowoc County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a45b7e4b00f54eb3f68c5",
+    "urn:uuid:f5a6f28c-711a-38c0-4aff-bf3ba759c1b5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 44,-88 44.5,-89 44.5,-89 44,-88 44))",
+  "dcat_bbox": "ENVELOPE(-89, -88, 44.5, 44)",
+  "dcat_centroid": "44.25,-88.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-503637"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2025-01-21T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"Unregistered\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/100000/WI_Appleton_503639_1984_100000_geo.pdf\",\"label\":\"GeoPDF (23.9 MB)\"},{\"url\":\"Unregistered\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/100000/WI_Appleton_503639_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a45b7e4b00f54eb3f68c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/100000/WI_Appleton_503639_1984_100000_tn.jpg\"}"
+}

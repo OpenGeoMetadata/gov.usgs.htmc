@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-305461",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Gravelly Springs, AL 1924",
+  "dct_alternative_sm": [
+    "Gravelly Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1924 edition of the Gravelly Springs, Alabama, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1924.",
+    "Release: Advance. Sheet size: 22.4 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1924",
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "gbl_indexYear_im": [
+    1924
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "dct_spatial_sm": [
+    "Lauderdale County, Alabama",
+    "Colbert County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24ace4b00f54eb3bf6ab",
+    "urn:uuid:bcb4acc6-f071-ebe8-bd61-d0c1ab085f5e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.75 34.75,-87.75 35,-88 35,-88 34.75,-87.75 34.75))",
+  "dcat_bbox": "ENVELOPE(-88, -87.75, 35, 34.75)",
+  "dcat_centroid": "34.875,-87.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-305599",
+    "usgs-htmc-305600",
+    "usgs-htmc-305601"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Gravelly%20Springs_305461_1924_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/48000/AL_Gravelly%20Springs_305461_1924_48000_geo.pdf\",\"label\":\"GeoPDF (15.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Gravelly%20Springs_305461_1924_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/48000/AL_Gravelly_Springs_305461_1924_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24ace4b00f54eb3bf6ab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/48000/AL_Gravelly%20Springs_305461_1924_48000_tn.jpg\"}"
+}

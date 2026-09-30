@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-356627",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Kenai C-5, AK 1958 (printed 1971)",
+  "dct_alternative_sm": [
+    "Kenai C-5"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Kenai C-5, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; last revised in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 17.1 x 20.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Kenai Peninsula, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52f4e4b00f54eb40eaf0",
+    "urn:uuid:61e817dc-1f70-24ea-0738-8b51c75d43d9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-151.5 60.5,-151.5 60.75,-151.875 60.75,-151.875 60.5,-151.5 60.5))",
+  "dcat_bbox": "ENVELOPE(-151.875, -151.5, 60.75, 60.5)",
+  "dcat_centroid": "60.625,-151.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-356626"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Kenai%20C-5_356627_1958_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Kenai%20C-5_356627_1958_63360_geo.pdf\",\"label\":\"GeoPDF (13.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Kenai%20C-5_356627_1958_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Kenai_C5_356627_1958_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52f4e4b00f54eb40eaf0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Kenai%20C-5_356627_1958_63360_tn.jpg\"}"
+}

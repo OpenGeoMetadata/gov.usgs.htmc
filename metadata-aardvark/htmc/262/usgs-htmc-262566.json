@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-262566",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bloom Peak, MT 1997 (printed 2000)",
+  "dct_alternative_sm": [
+    "Bloom Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1997 edition of the Bloom Peak, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1995; last revised in 1997; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 21.7 x 27 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_dateRange_drsim": [
+    "[1995 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b86e4b00f54eb3ca5c5",
+    "urn:uuid:96096612-c3e2-4eb1-33b7-f49b761680e9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-115.75 47.75,-115.75 47.875,-115.875 47.875,-115.875 47.75,-115.75 47.75))",
+  "dcat_bbox": "ENVELOPE(-115.875, -115.75, 47.875, 47.75)",
+  "dcat_centroid": "47.8125,-115.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-262563",
+    "usgs-htmc-262564",
+    "usgs-htmc-472606"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Bloom%20Peak_262566_1997_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Bloom%20Peak_262566_1997_24000_geo.pdf\",\"label\":\"GeoPDF (19.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Bloom%20Peak_262566_1997_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Bloom_Peak_262566_1997_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b86e4b00f54eb3ca5c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Bloom%20Peak_262566_1997_24000_tn.jpg\"}"
+}

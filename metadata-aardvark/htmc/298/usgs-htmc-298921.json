@@ -1,0 +1,88 @@
+{
+  "id": "usgs-htmc-298921",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for San Mateo, CA 1899 (printed 1913)",
+  "dct_alternative_sm": [
+    "San Mateo"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the San Mateo, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1892; printed in 1913.",
+    "Sheet size: 17.4 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1913]"
+  ],
+  "dct_spatial_sm": [
+    "San Mateo County, California",
+    "San Francisco County, California",
+    "Alameda County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a426ae4b00f54eb3f0b93",
+    "urn:uuid:be835346-0551-4890-2354-3912555e835a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.25 37.5,-122.25 37.75,-122.5 37.75,-122.5 37.5,-122.25 37.5))",
+  "dcat_bbox": "ENVELOPE(-122.5, -122.25, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-122.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-298915",
+    "usgs-htmc-298916",
+    "usgs-htmc-298917",
+    "usgs-htmc-298918",
+    "usgs-htmc-298919",
+    "usgs-htmc-298920",
+    "usgs-htmc-298922",
+    "usgs-htmc-298923",
+    "usgs-htmc-298924",
+    "usgs-htmc-298925",
+    "usgs-htmc-301595",
+    "usgs-htmc-301596",
+    "usgs-htmc-301597",
+    "usgs-htmc-301598",
+    "usgs-htmc-301599",
+    "usgs-htmc-466324",
+    "usgs-htmc-466326"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Mateo_298921_1899_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_San%20Mateo_298921_1899_62500_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Mateo_298921_1899_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_San_Mateo_298921_1899_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a426ae4b00f54eb3f0b93\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_San%20Mateo_298921_1899_62500_tn.jpg\"}"
+}

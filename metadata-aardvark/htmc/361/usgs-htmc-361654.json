@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-361654",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Valdez, AK 1960 (printed 1982)",
+  "dct_alternative_sm": [
+    "Valdez"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Valdez, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1960; aerial photographs from 1978; last revised in 1981; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 28.3 x 22.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Valdez-Cordova Census Area, Alaska",
+    "Matanuska-Susitna, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b60e4b00f54eb3e4dba",
+    "urn:uuid:51e2cced-1051-0d2c-b719-5200c876edae"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-144 61,-144 62,-147 62,-147 61,-144 61))",
+  "dcat_bbox": "ENVELOPE(-147, -144, 62, 61)",
+  "dcat_centroid": "61.5,-145.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361645",
+    "usgs-htmc-361646",
+    "usgs-htmc-361647",
+    "usgs-htmc-361648",
+    "usgs-htmc-361649",
+    "usgs-htmc-361650",
+    "usgs-htmc-361651",
+    "usgs-htmc-361652",
+    "usgs-htmc-361653"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Valdez_361654_1960_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Valdez_361654_1960_250000_geo.pdf\",\"label\":\"GeoPDF (38.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Valdez_361654_1960_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Valdez_361654_1960_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b60e4b00f54eb3e4dba\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Valdez_361654_1960_250000_tn.jpg\"}"
+}

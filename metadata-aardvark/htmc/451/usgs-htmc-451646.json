@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-451646",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Roc Creek, CO 1949",
+  "dct_alternative_sm": [
+    "Roc Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Roc Creek, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1948.",
+    "Sheet size: 22.2 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Montrose County, Colorado",
+    "Mesa County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c95e4b00f54eb3e718c",
+    "urn:uuid:340d6b57-3346-8803-b820-f2ff66ab6d25"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.875 38.375,-108.875 38.5,-109 38.5,-109 38.375,-108.875 38.375))",
+  "dcat_bbox": "ENVELOPE(-109, -108.875, 38.5, 38.375)",
+  "dcat_centroid": "38.4375,-108.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-234276",
+    "usgs-htmc-234277",
+    "usgs-htmc-451643",
+    "usgs-htmc-451644",
+    "usgs-htmc-451645",
+    "usgs-htmc-451647",
+    "usgs-htmc-467173"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Roc%20Creek_451646_1949_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Roc%20Creek_451646_1949_24000_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Roc%20Creek_451646_1949_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Roc_Creek_451646_1949_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c95e4b00f54eb3e718c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Roc%20Creek_451646_1949_24000_tn.jpg\"}"
+}

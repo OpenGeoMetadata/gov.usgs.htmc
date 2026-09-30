@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-266237",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Rattlesnake Butte, MT 1956 (printed 1977)",
+  "dct_alternative_sm": [
+    "Rattlesnake Butte"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Rattlesnake Butte, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1956; aerial photographs from 1975; photo revised in 1975; printed in 1977.",
+    "Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Yellowstone County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3009e4b00f54eb3d1ab9",
+    "urn:uuid:a4fc3e46-d9cb-1a80-cd9d-68a98153faeb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.375 45.875,-108.375 46,-108.5 46,-108.5 45.875,-108.375 45.875))",
+  "dcat_bbox": "ENVELOPE(-108.5, -108.375, 46, 45.875)",
+  "dcat_centroid": "45.9375,-108.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-266236"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Rattlesnake%20Butte_266237_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Rattlesnake%20Butte_266237_1956_24000_geo.pdf\",\"label\":\"GeoPDF (9.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Rattlesnake%20Butte_266237_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Rattlesnake_Butte_266237_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3009e4b00f54eb3d1ab9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Rattlesnake%20Butte_266237_1956_24000_tn.jpg\"}"
+}

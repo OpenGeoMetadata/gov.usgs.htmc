@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-281872",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Trout Creek Canyon, OR 1981 (printed 1984)",
+  "dct_alternative_sm": [
+    "Trout Creek Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1981 edition of the Trout Creek Canyon, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1974; field checked in 1977; last revised in 1981; printed in 1984.",
+    "Release: Provisional. Sheet size: 21.9 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1981",
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Harney County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a29b6e4b00f54eb3c7483",
+    "urn:uuid:c50c1a26-5dc2-ce6f-e17f-2c2a44e45a50"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.375 42.125,-118.375 42.25,-118.5 42.25,-118.5 42.125,-118.375 42.125))",
+  "dcat_bbox": "ENVELOPE(-118.5, -118.375, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-118.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Trout%20Creek%20Canyon_281872_1981_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Trout%20Creek%20Canyon_281872_1981_24000_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Trout%20Creek%20Canyon_281872_1981_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Trout_Creek_Canyon_281872_1981_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a29b6e4b00f54eb3c7483\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Trout%20Creek%20Canyon_281872_1981_24000_tn.jpg\"}"
+}

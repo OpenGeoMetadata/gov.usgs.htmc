@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-234461",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Soda Canyon, CO 1915 (printed 1949)",
+  "dct_alternative_sm": [
+    "Soda Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1915 edition of the Soda Canyon, Colorado, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1912; printed in 1949.",
+    "Sheet size: 16.5 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Montezuma County, Colorado",
+    "La Plata County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3ddfe4b00f54eb3e9877",
+    "urn:uuid:6f8e1501-1422-b757-8862-1d16829bb68d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.25 37,-108.25 37.25,-108.5 37.25,-108.5 37,-108.25 37))",
+  "dcat_bbox": "ENVELOPE(-108.5, -108.25, 37.25, 37)",
+  "dcat_centroid": "37.125,-108.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-234458",
+    "usgs-htmc-234459",
+    "usgs-htmc-234460",
+    "usgs-htmc-402624",
+    "usgs-htmc-402625",
+    "usgs-htmc-402626",
+    "usgs-htmc-402627",
+    "usgs-htmc-402628",
+    "usgs-htmc-402629",
+    "usgs-htmc-402630",
+    "usgs-htmc-402631",
+    "usgs-htmc-402632",
+    "usgs-htmc-402633"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Soda%20Canyon_234461_1915_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Soda%20Canyon_234461_1915_62500_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Soda%20Canyon_234461_1915_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/62500/CO_Soda_Canyon_234461_1915_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3ddfe4b00f54eb3e9877\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Soda%20Canyon_234461_1915_62500_tn.jpg\"}"
+}

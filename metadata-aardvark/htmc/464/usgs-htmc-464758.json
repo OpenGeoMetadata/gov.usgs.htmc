@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-464758",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Laguna, AZ 1943",
+  "dct_alternative_sm": [
+    "Laguna"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Laguna, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Aerial photographs from 1940; printed in 1943.",
+    "Variations: woodland tint. Sheet size: 18.03 x 21.96 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c7aac2ce4b0fe48cb53078f",
+    "urn:uuid:14869f26-64e9-71de-9911-75852494179a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.25 32.75,-114.25 33,-114.5 33,-114.5 32.75,-114.25 32.75))",
+  "dcat_bbox": "ENVELOPE(-114.5, -114.25, 33, 32.75)",
+  "dcat_centroid": "32.875,-114.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-314735",
+    "usgs-htmc-314736",
+    "usgs-htmc-314738",
+    "usgs-htmc-314739",
+    "usgs-htmc-314740",
+    "usgs-htmc-314771",
+    "usgs-htmc-464773"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Laguna_464758_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Laguna_464758_1943_62500_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Laguna_464758_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Laguna_464758_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c7aac2ce4b0fe48cb53078f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Laguna_464758_1943_62500_tn.jpg\"}"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-500381",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Edgewater, WI 1972 (printed 1975)",
+  "dct_alternative_sm": [
+    "Edgewater"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Edgewater, Wisconsin, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1971; field checked in 1972; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 21.57 x 27.26 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Sawyer County, Wisconsin",
+    "Rusk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a23c1e4b00f54eb3be07d",
+    "urn:uuid:df729618-f0de-69de-5f09-7b67aeabda7f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.375 45.625,-91.375 45.75,-91.5 45.75,-91.5 45.625,-91.375 45.625))",
+  "dcat_bbox": "ENVELOPE(-91.5, -91.375, 45.75, 45.625)",
+  "dcat_centroid": "45.6875,-91.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Edgewater_500381_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Edgewater_500381_1972_24000_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Edgewater_500381_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/24000/WI_Edgewater_500381_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a23c1e4b00f54eb3be07d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Edgewater_500381_1972_24000_tn.jpg\"}"
+}

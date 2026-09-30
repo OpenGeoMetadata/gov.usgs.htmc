@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-342415",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Cloud Peak, WY 1901 (printed 1909)",
+  "dct_alternative_sm": [
+    "Cloud Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Cloud Peak, Wyoming, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1899; printed in 1909.",
+    "Sheet size: 16.1 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1899 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Big Horn County, Wyoming",
+    "Johnson County, Wyoming",
+    "Washakie County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5314e4b00f54eb40ee18",
+    "urn:uuid:6529c58d-f429-ec90-2078-43b778456b9f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 44,-107 44.5,-107.5 44.5,-107.5 44,-107 44))",
+  "dcat_bbox": "ENVELOPE(-107.5, -107, 44.5, 44)",
+  "dcat_centroid": "44.25,-107.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-342414",
+    "usgs-htmc-342416",
+    "usgs-htmc-342417",
+    "usgs-htmc-342418",
+    "usgs-htmc-342419",
+    "usgs-htmc-342420",
+    "usgs-htmc-342421"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Cloud%20Peak_342415_1901_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/125000/WY_Cloud%20Peak_342415_1901_125000_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Cloud%20Peak_342415_1901_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/125000/WY_Cloud_Peak_342415_1901_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5314e4b00f54eb40ee18\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/125000/WY_Cloud%20Peak_342415_1901_125000_tn.jpg\"}"
+}

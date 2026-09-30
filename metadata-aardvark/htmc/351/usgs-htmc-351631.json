@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-351631",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Cotuit, MA 1943",
+  "dct_alternative_sm": [
+    "Cotuit"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Cotuit, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942.",
+    "Variations: woodland tint. Sheet size: 14.6 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Barnstable County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a1ee4b00f54eb3e2c94",
+    "urn:uuid:47f6f602-6c9d-a4b5-3adf-20b1a6c99b68"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.375 41.5416667,-70.375 41.6666667,-70.5 41.6666667,-70.5 41.5416667,-70.375 41.5416667))",
+  "dcat_bbox": "ENVELOPE(-70.5, -70.375, 41.6666667, 41.5416667)",
+  "dcat_centroid": "41.6041667,-70.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350088",
+    "usgs-htmc-350089",
+    "usgs-htmc-350090",
+    "usgs-htmc-350091",
+    "usgs-htmc-350092",
+    "usgs-htmc-350093",
+    "usgs-htmc-350094",
+    "usgs-htmc-350914",
+    "usgs-htmc-351628",
+    "usgs-htmc-351630",
+    "usgs-htmc-351632",
+    "usgs-htmc-462911"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Cotuit_351631_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Cotuit_351631_1943_31680_geo.pdf\",\"label\":\"GeoPDF (6.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Cotuit_351631_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Cotuit_351631_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a1ee4b00f54eb3e2c94\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Cotuit_351631_1943_31680_tn.jpg\"}"
+}

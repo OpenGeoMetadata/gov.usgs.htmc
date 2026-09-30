@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-263570",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Eighteenmile Peak, MT 1987",
+  "dct_alternative_sm": [
+    "Eighteenmile Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1987 edition of the Eighteenmile Peak, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1983; last revised in 1987; printed in 1987.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1987",
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ca8e4b00f54eb3cc5af",
+    "urn:uuid:deccef22-7774-3190-742c-634bba0f4082"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112.875 44.375,-112.875 44.5,-113 44.5,-113 44.375,-112.875 44.375))",
+  "dcat_bbox": "ENVELOPE(-113, -112.875, 44.5, 44.375)",
+  "dcat_centroid": "44.4375,-112.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-263571",
+    "usgs-htmc-263572"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Eighteenmile%20Peak_263570_1987_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Eighteenmile%20Peak_263570_1987_24000_geo.pdf\",\"label\":\"GeoPDF (14.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Eighteenmile%20Peak_263570_1987_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Eighteenmile_Peak_263570_1987_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ca8e4b00f54eb3cc5af\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Eighteenmile%20Peak_263570_1987_24000_tn.jpg\"}"
+}

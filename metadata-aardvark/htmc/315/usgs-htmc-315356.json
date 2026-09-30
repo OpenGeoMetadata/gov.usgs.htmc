@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-315356",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Flagstaff, AZ 1912 (printed 1939)",
+  "dct_alternative_sm": [
+    "Flagstaff"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1912 edition of the Flagstaff, Arizona, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1908; printed in 1939.",
+    "Sheet size: 16.4 x 19.7 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "Coconino County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a379ce4b00f54eb3dedee",
+    "urn:uuid:a93d1ab9-852a-28a8-614c-440b5a8607c9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.5 35,-111.5 35.5,-112 35.5,-112 35,-111.5 35))",
+  "dcat_bbox": "ENVELOPE(-112, -111.5, 35.5, 35)",
+  "dcat_centroid": "35.25,-111.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315355",
+    "usgs-htmc-315357",
+    "usgs-htmc-315358",
+    "usgs-htmc-315359",
+    "usgs-htmc-315360"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Flagstaff_315356_1912_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Flagstaff_315356_1912_125000_geo.pdf\",\"label\":\"GeoPDF (8.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Flagstaff_315356_1912_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/125000/AZ_Flagstaff_315356_1912_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a379ce4b00f54eb3dedee\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Flagstaff_315356_1912_125000_tn.jpg\"}"
+}

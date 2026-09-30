@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-707240",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Brainerd, MN 1953 (printed 1977)",
+  "dct_alternative_sm": [
+    "Brainerd"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Brainerd, Minnesota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1974; last revised in 1975; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 28.3 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Crow Wing County, Minnesota",
+    "Otter Tail County, Minnesota",
+    "Cass County, Minnesota",
+    "Becker County, Minnesota",
+    "Todd County, Minnesota",
+    "Wadena County, Minnesota",
+    "Morrison County, Minnesota",
+    "Hubbard County, Minnesota",
+    "Douglas County, Minnesota",
+    "Grant County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ea6e4b00f54eb406380",
+    "urn:uuid:c419d1b2-a830-c989-2334-40048d84db68"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94 46,-94 47,-96 47,-96 46,-94 46))",
+  "dcat_bbox": "ENVELOPE(-96, -94, 47, 46)",
+  "dcat_centroid": "46.5,-95",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-471194",
+    "usgs-htmc-471195",
+    "usgs-htmc-804492",
+    "usgs-htmc-804493",
+    "usgs-htmc-804494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Brainerd_707240_1953_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Brainerd_707240_1953_250000_geo.pdf\",\"label\":\"GeoPDF (17.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Brainerd_707240_1953_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/250000/MN_Brainerd_707240_1953_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ea6e4b00f54eb406380\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Brainerd_707240_1953_250000_tn.jpg\"}"
+}

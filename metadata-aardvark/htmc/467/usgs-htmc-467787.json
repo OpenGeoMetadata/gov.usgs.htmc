@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-467787",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Nebo, GA 1973 (printed 1983)",
+  "dct_alternative_sm": [
+    "Nebo"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1973 edition of the Nebo, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1973; photo revised in 1982; last revised in 1982; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22.14 x 27.08 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1973",
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Paulding County, Georgia",
+    "Douglas County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e192a53e4b0ecf25c5c2f69",
+    "urn:uuid:28ff632a-188a-09e1-70b8-06ba7dabe978"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.75 33.75,-84.75 33.875,-84.875 33.875,-84.875 33.75,-84.75 33.75))",
+  "dcat_bbox": "ENVELOPE(-84.875, -84.75, 33.875, 33.75)",
+  "dcat_centroid": "33.8125,-84.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-246470",
+    "usgs-htmc-246471"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Nebo_467787_1973_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Nebo_467787_1973_24000_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Nebo_467787_1973_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Nebo_467787_1973_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e192a53e4b0ecf25c5c2f69\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Nebo_467787_1973_24000_tn.jpg\"}"
+}

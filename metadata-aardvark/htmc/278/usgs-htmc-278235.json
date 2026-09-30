@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-278235",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Jackson, MI 1935 (printed 1960)",
+  "dct_alternative_sm": [
+    "Jackson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Jackson, Michigan, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1935; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Jackson County, Michigan",
+    "Hillsdale County, Michigan",
+    "Lenawee County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a38cde4b00f54eb3e0ca4",
+    "urn:uuid:92eea3aa-d643-80a4-af68-39e9a387bbb0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.25 42,-84.25 42.25,-84.5 42.25,-84.5 42,-84.25 42))",
+  "dcat_bbox": "ENVELOPE(-84.5, -84.25, 42.25, 42)",
+  "dcat_centroid": "42.125,-84.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-277951",
+    "usgs-htmc-278234",
+    "usgs-htmc-278236",
+    "usgs-htmc-278237",
+    "usgs-htmc-278238",
+    "usgs-htmc-278239",
+    "usgs-htmc-470836",
+    "usgs-htmc-470837",
+    "usgs-htmc-471114"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Jackson_278235_1935_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/62500/MI_Jackson_278235_1935_62500_geo.pdf\",\"label\":\"GeoPDF (11.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Jackson_278235_1935_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/62500/MI_Jackson_278235_1935_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a38cde4b00f54eb3e0ca4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/62500/MI_Jackson_278235_1935_62500_tn.jpg\"}"
+}

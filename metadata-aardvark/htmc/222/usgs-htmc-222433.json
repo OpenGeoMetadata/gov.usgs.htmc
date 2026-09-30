@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-222433",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Waynesburg, PA 1901 (printed 1958)",
+  "dct_alternative_sm": [
+    "Waynesburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Waynesburg, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1901; printed in 1958.",
+    "Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Greene County, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a46dae4b00f54eb3f841c",
+    "urn:uuid:c4a393f5-b8de-6c70-5718-5c0cc54eb648"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 39.75,-80 40,-80.25 40,-80.25 39.75,-80 39.75))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80, 40, 39.75)",
+  "dcat_centroid": "39.875,-80.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170082",
+    "usgs-htmc-170083",
+    "usgs-htmc-170084",
+    "usgs-htmc-222435",
+    "usgs-htmc-222437"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Waynesburg_222433_1901_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Waynesburg_222433_1901_62500_geo.pdf\",\"label\":\"GeoPDF (11.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Waynesburg_222433_1901_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Waynesburg_222433_1901_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a46dae4b00f54eb3f841c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Waynesburg_222433_1901_62500_tn.jpg\"}"
+}

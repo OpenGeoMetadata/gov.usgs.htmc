@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-461452",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Port Tobacco, MD 1951 (printed 1953)",
+  "dct_alternative_sm": [
+    "Port Tobacco"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Port Tobacco, Maryland, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1950; field checked in 1951; printed in 1953.",
+    "Sheet size: 20.6 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Charles County, Maryland",
+    "Prince George's County, Maryland",
+    "Maryland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4359e4b00f54eb3f27dc",
+    "urn:uuid:d1224e56-3f28-d3a3-9c7e-c160049a84f6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77 38.5,-77 38.625,-77.125 38.625,-77.125 38.5,-77 38.5))",
+  "dcat_bbox": "ENVELOPE(-77.125, -77, 38.625, 38.5)",
+  "dcat_centroid": "38.5625,-77.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-256745",
+    "usgs-htmc-256746",
+    "usgs-htmc-256747",
+    "usgs-htmc-256748",
+    "usgs-htmc-256749",
+    "usgs-htmc-256750",
+    "usgs-htmc-257180"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Port%20Tobacco_461452_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Port%20Tobacco_461452_1951_24000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Port%20Tobacco_461452_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MD/24000/MD_Port_Tobacco_461452_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4359e4b00f54eb3f27dc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Port%20Tobacco_461452_1951_24000_tn.jpg\"}"
+}

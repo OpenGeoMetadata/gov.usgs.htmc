@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-320388",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tumbleweed Flat, NV 1985 (printed 1986)",
+  "dct_alternative_sm": [
+    "Tumbleweed Flat"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Tumbleweed Flat, Nevada, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1982; field checked in 1983; last revised in 1985; printed in 1986.",
+    "Release: Provisional. Sheet size: 22 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Eureka County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f7ce4b00f54eb3d0d78",
+    "urn:uuid:9a9e9b75-5935-8909-91f6-55126018ca76"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.375 40.375,-116.375 40.5,-116.5 40.5,-116.5 40.375,-116.375 40.375))",
+  "dcat_bbox": "ENVELOPE(-116.5, -116.375, 40.5, 40.375)",
+  "dcat_centroid": "40.4375,-116.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Tumbleweed%20Flat_320388_1985_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Tumbleweed%20Flat_320388_1985_24000_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Tumbleweed%20Flat_320388_1985_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/24000/NV_Tumbleweed_Flat_320388_1985_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f7ce4b00f54eb3d0d78\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Tumbleweed%20Flat_320388_1985_24000_tn.jpg\"}"
+}

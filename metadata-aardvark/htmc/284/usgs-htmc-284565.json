@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-284565",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mohall SW, ND 1949 (printed 1977)",
+  "dct_alternative_sm": [
+    "Mohall SW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Mohall SW, North Dakota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Bureau of Reclamation. Surveyed in 1948; aerial photographs from 1971; photo inspected in 1971; printed in 1977.",
+    "Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Reclamation"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Reclamation"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Renville County, North Dakota",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2aa3e4b00f54eb3c8dcd",
+    "urn:uuid:0be1c7ee-2583-8479-e90c-3bae96db4cae"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-101.625 48.75,-101.625 48.875,-101.75 48.875,-101.75 48.75,-101.625 48.75))",
+  "dcat_bbox": "ENVELOPE(-101.75, -101.625, 48.875, 48.75)",
+  "dcat_centroid": "48.8125,-101.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-284564"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Mohall%20SW_284565_1949_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Mohall%20SW_284565_1949_24000_geo.pdf\",\"label\":\"GeoPDF (11.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Mohall%20SW_284565_1949_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/24000/ND_Mohall_SW_284565_1949_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2aa3e4b00f54eb3c8dcd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/24000/ND_Mohall%20SW_284565_1949_24000_tn.jpg\"}"
+}

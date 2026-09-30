@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-258900",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Landis, AR 1972 (printed 1973)",
+  "dct_alternative_sm": [
+    "Landis"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Landis, Arkansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1964; field checked in 1972; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Searcy County, Arkansas",
+    "Stone County, Arkansas",
+    "Baxter County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a296de4b00f54eb3c6c05",
+    "urn:uuid:0aaa31f1-e880-d1c0-af83-27b899f37a66"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.375 35.875,-92.375 36,-92.5 36,-92.5 35.875,-92.375 35.875))",
+  "dcat_bbox": "ENVELOPE(-92.5, -92.375, 36, 35.875)",
+  "dcat_centroid": "35.9375,-92.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-258899"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Landis_258900_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Landis_258900_1972_24000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Landis_258900_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/24000/AR_Landis_258900_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a296de4b00f54eb3c6c05\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Landis_258900_1972_24000_tn.jpg\"}"
+}

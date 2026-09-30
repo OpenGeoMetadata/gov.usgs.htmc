@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-260125",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Jericho, AR 1975",
+  "dct_alternative_sm": [
+    "Jericho"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the Jericho, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1969; field checked in 1974; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 18 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4534e4b00f54eb3f5c01",
+    "urn:uuid:110fada3-c425-6b62-87c8-e4c18e64bed4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90 35.25,-90 35.5,-90.25 35.5,-90.25 35.25,-90 35.25))",
+  "dcat_bbox": "ENVELOPE(-90.25, -90, 35.5, 35.25)",
+  "dcat_centroid": "35.375,-90.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260122",
+    "usgs-htmc-260123",
+    "usgs-htmc-260124",
+    "usgs-htmc-465134",
+    "usgs-htmc-465135"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Jericho_260125_1975_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Jericho_260125_1975_62500_geo.pdf\",\"label\":\"GeoPDF (9.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Jericho_260125_1975_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Jericho_260125_1975_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4534e4b00f54eb3f5c01\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Jericho_260125_1975_62500_tn.jpg\"}"
+}

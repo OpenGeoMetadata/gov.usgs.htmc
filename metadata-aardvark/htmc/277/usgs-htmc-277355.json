@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-277355",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Summit Lake, MI 1999 (printed 2004)",
+  "dct_alternative_sm": [
+    "Summit Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1999 edition of the Summit Lake, Michigan, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1999; last revised in 1999; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Baraga County, Michigan",
+    "Marquette County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a47dee4b00f54eb3fa509",
+    "urn:uuid:04d17b72-6b6d-8a6d-f61e-42d1b369f79d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 46.625,-88 46.75,-88.125 46.75,-88.125 46.625,-88 46.625))",
+  "dcat_bbox": "ENVELOPE(-88.125, -88, 46.75, 46.625)",
+  "dcat_centroid": "46.6875,-88.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-277353",
+    "usgs-htmc-277354"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Summit%20Lake_277355_1999_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Summit%20Lake_277355_1999_24000_geo.pdf\",\"label\":\"GeoPDF (15.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Summit%20Lake_277355_1999_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/24000/MI_Summit_Lake_277355_1999_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a47dee4b00f54eb3fa509\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Summit%20Lake_277355_1999_24000_tn.jpg\"}"
+}

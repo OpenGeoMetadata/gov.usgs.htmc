@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-242779",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Naneum Canyon, WA 2003 (printed 2006)",
+  "dct_alternative_sm": [
+    "Naneum Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2003 edition of the Naneum Canyon, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1998; last revised in 2003; printed in 2006.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2006]"
+  ],
+  "dct_spatial_sm": [
+    "Kittitas County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2e73e4b00f54eb3cf3e5",
+    "urn:uuid:9b9bc563-1490-a20d-8c4b-a6778f49c4ae"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120.375 47.125,-120.375 47.25,-120.5 47.25,-120.5 47.125,-120.375 47.125))",
+  "dcat_bbox": "ENVELOPE(-120.5, -120.375, 47.25, 47.125)",
+  "dcat_centroid": "47.1875,-120.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-242775",
+    "usgs-htmc-242776",
+    "usgs-htmc-242777",
+    "usgs-htmc-242778"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Naneum%20Canyon_242779_2003_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Naneum%20Canyon_242779_2003_24000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Naneum%20Canyon_242779_2003_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Naneum_Canyon_242779_2003_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2e73e4b00f54eb3cf3e5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Naneum%20Canyon_242779_2003_24000_tn.jpg\"}"
+}

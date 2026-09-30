@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-362569",
+  "dct_title_s": "USGS 1:30000-scale Quadrangle for Sabana Grande, PR 1941",
+  "dct_alternative_sm": [
+    "Sabana Grande"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Sabana Grande, Puerto Rico, topographic map at 1:30,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1937.",
+    "Sheet size: 19.8 x 21.8 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Sabana Grande, Puerto Rico",
+    "Yauco, Puerto Rico",
+    "Guánica, Puerto Rico",
+    "Lajas, Puerto Rico",
+    "San Germán, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a301ce4b00f54eb3d1cbf",
+    "urn:uuid:f12e6417-67be-b7e9-75f3-8737831777d7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.875 18,-66.875 18.125,-67 18.125,-67 18,-66.875 18))",
+  "dcat_bbox": "ENVELOPE(-67, -66.875, 18.125, 18)",
+  "dcat_centroid": "18.0625,-66.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362250",
+    "usgs-htmc-362251",
+    "usgs-htmc-362252",
+    "usgs-htmc-362253",
+    "usgs-htmc-362305",
+    "usgs-htmc-362307",
+    "usgs-htmc-362568",
+    "usgs-htmc-362570",
+    "usgs-htmc-362571",
+    "usgs-htmc-362572"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Sabana%20Grande_362569_1941_30000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Sabana%20Grande_362569_1941_30000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Sabana%20Grande_362569_1941_30000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/30000/PR_Sabana_Grande_362569_1941_30000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a301ce4b00f54eb3d1cbf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Sabana%20Grande_362569_1941_30000_tn.jpg\"}"
+}

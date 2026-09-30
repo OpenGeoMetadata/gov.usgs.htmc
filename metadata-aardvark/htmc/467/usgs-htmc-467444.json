@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-467444",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Holley, FL 1921",
+  "dct_alternative_sm": [
+    "Holley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Holley, Florida, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Printed in 1921.",
+    "Sheet size: 17.17 x 21.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Rosa County, Florida",
+    "Okaloosa County, Florida",
+    "Escambia County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5df4c2e8e4b0cdded7391897",
+    "urn:uuid:ca3c7545-bc0d-38c5-9fda-28c56691897a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.75 30.25,-86.75 30.5,-87 30.5,-87 30.25,-86.75 30.25))",
+  "dcat_bbox": "ENVELOPE(-87, -86.75, 30.5, 30.25)",
+  "dcat_centroid": "30.375,-86.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346653",
+    "usgs-htmc-346654",
+    "usgs-htmc-346655",
+    "usgs-htmc-346656",
+    "usgs-htmc-346657",
+    "usgs-htmc-346658"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Holley_467444_1921_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/62500/FL_Holley_467444_1921_62500_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Holley_467444_1921_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/62500/FL_Holley_467444_1921_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5df4c2e8e4b0cdded7391897\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/62500/FL_Holley_467444_1921_62500_tn.jpg\"}"
+}

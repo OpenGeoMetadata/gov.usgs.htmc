@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-807363",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bath, ME 1894 (printed 1928)",
+  "dct_alternative_sm": [
+    "Bath"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Bath, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1928.",
+    "Sheet size: 15.5 x 20.3 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Sagadahoc County, Maine",
+    "Cumberland County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4bb7e4b00f54eb400f6f",
+    "urn:uuid:9f1af875-ce59-e2ad-6ba3-c80f9c9d5e3d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-69.75 43.75,-69.75 44,-70 44,-70 43.75,-69.75 43.75))",
+  "dcat_bbox": "ENVELOPE(-70, -69.75, 44, 43.75)",
+  "dcat_centroid": "43.875,-69.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306457",
+    "usgs-htmc-306458",
+    "usgs-htmc-306459",
+    "usgs-htmc-460156",
+    "usgs-htmc-460157",
+    "usgs-htmc-460158",
+    "usgs-htmc-460159",
+    "usgs-htmc-460160",
+    "usgs-htmc-460162",
+    "usgs-htmc-460165",
+    "usgs-htmc-807362",
+    "usgs-htmc-807364",
+    "usgs-htmc-807365",
+    "usgs-htmc-807366",
+    "usgs-htmc-807368",
+    "usgs-htmc-807779"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bath_807363_1894_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Bath_807363_1894_62500_geo.pdf\",\"label\":\"GeoPDF (7.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bath_807363_1894_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Bath_807363_1894_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4bb7e4b00f54eb400f6f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Bath_807363_1894_62500_tn.jpg\"}"
+}

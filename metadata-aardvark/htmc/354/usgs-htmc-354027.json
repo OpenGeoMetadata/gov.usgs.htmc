@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-354027",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Anchorage D-2, AK 1952",
+  "dct_alternative_sm": [
+    "Anchorage D-2"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Anchorage D-2, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1948.",
+    "Variations: woodland tint. Sheet size: 17 x 20.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Matanuska-Susitna, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4fa3e4b00f54eb4081f4",
+    "urn:uuid:82213062-4a8c-1ad7-18d5-101030c17b3e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-147.375 61.75,-147.375 62,-147.75 62,-147.75 61.75,-147.375 61.75))",
+  "dcat_bbox": "ENVELOPE(-147.75, -147.375, 62, 61.75)",
+  "dcat_centroid": "61.875,-147.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-354026",
+    "usgs-htmc-354028",
+    "usgs-htmc-354029",
+    "usgs-htmc-354030",
+    "usgs-htmc-354031",
+    "usgs-htmc-354032",
+    "usgs-htmc-463486"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Anchorage%20D-2_354027_1952_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Anchorage%20D-2_354027_1952_63360_geo.pdf\",\"label\":\"GeoPDF (14.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Anchorage%20D-2_354027_1952_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Anchorage_D2_354027_1952_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4fa3e4b00f54eb4081f4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Anchorage%20D-2_354027_1952_63360_tn.jpg\"}"
+}

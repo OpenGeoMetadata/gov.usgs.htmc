@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-174291",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Chariton, IA 1918 (printed 1944)",
+  "dct_alternative_sm": [
+    "Chariton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1918 edition of the Chariton, Iowa, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1915; printed in 1944.",
+    "Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Lucas County, Iowa",
+    "Warren County, Iowa",
+    "Marion County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b98e4b00f54eb3e52e7",
+    "urn:uuid:47802ccf-9528-828b-6b08-a0fbbe046cde"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.25 41,-93.25 41.25,-93.5 41.25,-93.5 41,-93.25 41))",
+  "dcat_bbox": "ENVELOPE(-93.5, -93.25, 41.25, 41)",
+  "dcat_centroid": "41.125,-93.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-174289",
+    "usgs-htmc-174293",
+    "usgs-htmc-468718"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Chariton_174291_1918_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Chariton_174291_1918_62500_geo.pdf\",\"label\":\"GeoPDF (9.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Chariton_174291_1918_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/62500/IA_Chariton_174291_1918_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b98e4b00f54eb3e52e7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Chariton_174291_1918_62500_tn.jpg\"}"
+}

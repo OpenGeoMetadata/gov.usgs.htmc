@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-247104",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Taylors Creek, GA 1958 (printed 1976)",
+  "dct_alternative_sm": [
+    "Taylors Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Taylors Creek, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1973; photo revised in 1973; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Liberty County, Georgia",
+    "Long County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a347de4b00f54eb3d9773",
+    "urn:uuid:98ecbaf3-693d-ed44-d589-89ab20bb824a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.625 31.875,-81.625 32,-81.75 32,-81.75 31.875,-81.625 31.875))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.625, 32, 31.875)",
+  "dcat_centroid": "31.9375,-81.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247102",
+    "usgs-htmc-247103"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Taylors%20Creek_247104_1958_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Taylors%20Creek_247104_1958_24000_geo.pdf\",\"label\":\"GeoPDF (7.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Taylors%20Creek_247104_1958_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Taylors_Creek_247104_1958_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a347de4b00f54eb3d9773\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Taylors%20Creek_247104_1958_24000_tn.jpg\"}"
+}

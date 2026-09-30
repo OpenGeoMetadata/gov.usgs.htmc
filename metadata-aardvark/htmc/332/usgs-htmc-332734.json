@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-332734",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Martello Castle, LA 1998 (printed 2001)",
+  "dct_alternative_sm": [
+    "Martello Castle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Martello Castle, Louisiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1998; printed in 2001.",
+    "Variations: woodland tint. Sheet size: 21.6 x 26.5 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "St. Bernard Parish, Louisiana",
+    "Orleans Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3d5ce4b00f54eb3e8969",
+    "urn:uuid:6ee114d2-e23d-195e-e1b2-0536e277ca80"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 29.875,-89.75 30,-89.875 30,-89.875 29.875,-89.75 29.875))",
+  "dcat_bbox": "ENVELOPE(-89.875, -89.75, 30, 29.875)",
+  "dcat_centroid": "29.9375,-89.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-332726",
+    "usgs-htmc-332727",
+    "usgs-htmc-332728",
+    "usgs-htmc-332729",
+    "usgs-htmc-332730",
+    "usgs-htmc-332731",
+    "usgs-htmc-332732",
+    "usgs-htmc-332733",
+    "usgs-htmc-333948"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Martello%20Castle_332734_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Martello%20Castle_332734_1998_24000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Martello%20Castle_332734_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/24000/LA_Martello_Castle_332734_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3d5ce4b00f54eb3e8969\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Martello%20Castle_332734_1998_24000_tn.jpg\"}"
+}

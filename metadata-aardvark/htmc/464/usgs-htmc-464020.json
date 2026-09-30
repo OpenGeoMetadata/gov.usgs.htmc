@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-464020",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Point Lay, AK 1951",
+  "dct_alternative_sm": [
+    "Point Lay"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Point Lay, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Aerial photographs from 1947.",
+    "Sheet size: 26.48 x 22.71 inches. Printed projection: Universal Transverse Mercator; horizontal datum: Regional. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "North Slope, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5bc1bfe2e4b0fc368eb8f317",
+    "urn:uuid:87c7533c-bb75-4f70-b243-40b56d2a92fa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-162 69,-162 70,-165 70,-165 69,-162 69))",
+  "dcat_bbox": "ENVELOPE(-165, -162, 70, 69)",
+  "dcat_centroid": "69.5,-163.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361308",
+    "usgs-htmc-361309",
+    "usgs-htmc-361310",
+    "usgs-htmc-464018",
+    "usgs-htmc-464019"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Point%20Lay_464020_1951_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Point%20Lay_464020_1951_250000_geo.pdf\",\"label\":\"GeoPDF (25.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Point%20Lay_464020_1951_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Point_Lay_464020_1951_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5bc1bfe2e4b0fc368eb8f317\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Point%20Lay_464020_1951_250000_tn.jpg\"}"
+}

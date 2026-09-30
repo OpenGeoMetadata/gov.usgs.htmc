@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-289530",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Corona North, CA 1967 (printed 1982)",
+  "dct_alternative_sm": [
+    "Corona North"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Corona North, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1933; aerial photographs from 1978; field checked in 1967; photo revised in 1981; last revised in 1981; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1933 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Riverside County, California",
+    "San Bernardino County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2bd7e4b00f54eb3cad74",
+    "urn:uuid:c145ac50-1835-70e1-e340-37ab39b83f81"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.5 33.875,-117.5 34,-117.625 34,-117.625 33.875,-117.5 33.875))",
+  "dcat_bbox": "ENVELOPE(-117.625, -117.5, 34, 33.875)",
+  "dcat_centroid": "33.9375,-117.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-289525",
+    "usgs-htmc-289526",
+    "usgs-htmc-289527",
+    "usgs-htmc-289528",
+    "usgs-htmc-289529",
+    "usgs-htmc-302792",
+    "usgs-htmc-302793",
+    "usgs-htmc-302794"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Corona%20North_289530_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Corona%20North_289530_1967_24000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Corona%20North_289530_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Corona_North_289530_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2bd7e4b00f54eb3cad74\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Corona%20North_289530_1967_24000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-111129",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Montopolis, TX 1955 (printed 1956)",
+  "dct_alternative_sm": [
+    "Montopolis"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Montopolis, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1955; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 23 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Travis County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50d0e4b00f54eb40a847",
+    "urn:uuid:0faa2f84-403a-bfd5-3d84-c27860ca6d7a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.625 30.125,-97.625 30.25,-97.75 30.25,-97.75 30.125,-97.625 30.125))",
+  "dcat_bbox": "ENVELOPE(-97.75, -97.625, 30.25, 30.125)",
+  "dcat_centroid": "30.1875,-97.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-111128",
+    "usgs-htmc-111133",
+    "usgs-htmc-111134",
+    "usgs-htmc-111135",
+    "usgs-htmc-118210"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Montopolis_111129_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Montopolis_111129_1955_24000_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Montopolis_111129_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Montopolis_111129_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50d0e4b00f54eb40a847\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Montopolis_111129_1955_24000_tn.jpg\"}"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-351427",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Williamsburg, MA 1964 (printed 1979)",
+  "dct_alternative_sm": [
+    "Williamsburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Williamsburg, Massachusetts, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1935; aerial photographs from 1975; photo revised in 1979; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Massachusetts",
+    "Hampshire County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a248fe4b00f54eb3bf45d",
+    "urn:uuid:79e41a6c-30b8-79ab-a967-9b55c9f84bc9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.625 42.375,-72.625 42.5,-72.75 42.5,-72.75 42.375,-72.625 42.375))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.625, 42.5, 42.375)",
+  "dcat_centroid": "42.4375,-72.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350736",
+    "usgs-htmc-350737",
+    "usgs-htmc-350738",
+    "usgs-htmc-350739",
+    "usgs-htmc-350740",
+    "usgs-htmc-351426",
+    "usgs-htmc-351428",
+    "usgs-htmc-352362",
+    "usgs-htmc-352364",
+    "usgs-htmc-463107"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Williamsburg_351427_1964_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Williamsburg_351427_1964_25000_geo.pdf\",\"label\":\"GeoPDF (17.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Williamsburg_351427_1964_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_Williamsburg_351427_1964_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a248fe4b00f54eb3bf45d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Williamsburg_351427_1964_25000_tn.jpg\"}"
+}

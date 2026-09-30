@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-268012",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Frazer, MT 1915 (printed 1949)",
+  "dct_alternative_sm": [
+    "Frazer"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1915 edition of the Frazer, Montana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1913; printed in 1949.",
+    "Sheet size: 17.2 x 20.7 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Valley County, Montana",
+    "McCone County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a27dee4b00f54eb3c4727",
+    "urn:uuid:9c71b07f-fd54-9c1b-5e9f-ada9bbcfad30"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 48,-106 48.25,-106.25 48.25,-106.25 48,-106 48))",
+  "dcat_bbox": "ENVELOPE(-106.25, -106, 48.25, 48)",
+  "dcat_centroid": "48.125,-106.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268011",
+    "usgs-htmc-472718"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Frazer_268012_1915_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/62500/MT_Frazer_268012_1915_62500_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Frazer_268012_1915_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/62500/MT_Frazer_268012_1915_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a27dee4b00f54eb3c4727\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/62500/MT_Frazer_268012_1915_62500_tn.jpg\"}"
+}

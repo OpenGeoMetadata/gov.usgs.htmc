@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-136072",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Richmondville, NY 1944 (printed 1983)",
+  "dct_alternative_sm": [
+    "Richmondville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Richmondville, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1981; photo revised in 1982; last revised in 1982; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Schoharie County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a48b6e4b00f54eb3fbf57",
+    "urn:uuid:1f023401-f811-5320-821c-87def19149c9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.5 42.625,-74.5 42.75,-74.625 42.75,-74.625 42.625,-74.5 42.625))",
+  "dcat_bbox": "ENVELOPE(-74.625, -74.5, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-74.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-136070",
+    "usgs-htmc-136071",
+    "usgs-htmc-136285",
+    "usgs-htmc-136858"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Richmondville_136072_1944_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Richmondville_136072_1944_24000_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Richmondville_136072_1944_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Richmondville_136072_1944_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a48b6e4b00f54eb3fbf57\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Richmondville_136072_1944_24000_tn.jpg\"}"
+}

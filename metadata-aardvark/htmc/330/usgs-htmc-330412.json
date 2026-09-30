@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-330412",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Sherbrooke, NH 1986",
+  "dct_alternative_sm": [
+    "Sherbrooke"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1986 edition of the Sherbrooke, New Hampshire, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; last revised in 1986; printed in 1986.",
+    "Variations: woodland tint, planimetric. Sheet size: 38.1 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Maine",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b7de4b00f54eb3e5098",
+    "urn:uuid:ab78beb2-4182-4c4a-4802-11feaa2129ed"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71 45,-71 45.5,-72 45.5,-72 45,-71 45))",
+  "dcat_bbox": "ENVELOPE(-72, -71, 45.5, 45)",
+  "dcat_centroid": "45.25,-71.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330413"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Sherbrooke_330412_1986_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/100000/NH_Sherbrooke_330412_1986_100000_geo.pdf\",\"label\":\"GeoPDF (14.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Sherbrooke_330412_1986_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/100000/NH_Sherbrooke_330412_1986_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b7de4b00f54eb3e5098\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/100000/NH_Sherbrooke_330412_1986_100000_tn.jpg\"}"
+}

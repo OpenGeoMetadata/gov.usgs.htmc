@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-462935",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Fall River, MA 1893 (printed 1903)",
+  "dct_alternative_sm": [
+    "Fall River"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Fall River, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1885; printed in 1903.",
+    "Sheet size: 17.14 x 20.06 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5eaa8eed82cefae35a224c68",
+    "urn:uuid:b8d5fa5b-9a68-f9ff-af03-0770618575d8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71 41.5,-71 41.75,-71.25 41.75,-71.25 41.5,-71 41.5))",
+  "dcat_bbox": "ENVELOPE(-71.25, -71, 41.75, 41.5)",
+  "dcat_centroid": "41.625,-71.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-352612",
+    "usgs-htmc-352614",
+    "usgs-htmc-352615",
+    "usgs-htmc-352616",
+    "usgs-htmc-352618",
+    "usgs-htmc-352621",
+    "usgs-htmc-352622",
+    "usgs-htmc-352626",
+    "usgs-htmc-462931",
+    "usgs-htmc-462933"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Fall%20River_462935_1893_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Fall%20River_462935_1893_62500_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Fall%20River_462935_1893_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Fall_River_462935_1893_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5eaa8eed82cefae35a224c68\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Fall%20River_462935_1893_62500_tn.jpg\"}"
+}

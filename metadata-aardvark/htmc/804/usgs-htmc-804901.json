@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-804901",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mankato East, MN 1951",
+  "dct_alternative_sm": [
+    "Mankato East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Mankato East, Minnesota, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1950; aerial photographs from 1949; field checked in 1950.",
+    "Variations: woodland tint. Sheet size: 16.5 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Blue Earth County, Minnesota",
+    "Waseca County, Minnesota",
+    "Le Sueur County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4efbe4b00f54eb406df9",
+    "urn:uuid:cdd22b62-662f-09d1-f586-b8613c69065d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.75 44,-93.75 44.25,-94 44.25,-94 44,-93.75 44))",
+  "dcat_bbox": "ENVELOPE(-94, -93.75, 44.25, 44)",
+  "dcat_centroid": "44.125,-93.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804898",
+    "usgs-htmc-804899",
+    "usgs-htmc-804900"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Mankato%20East_804901_1951_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/62500/MN_Mankato%20East_804901_1951_62500_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Mankato%20East_804901_1951_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/62500/MN_Mankato_East_804901_1951_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4efbe4b00f54eb406df9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/62500/MN_Mankato%20East_804901_1951_62500_tn.jpg\"}"
+}

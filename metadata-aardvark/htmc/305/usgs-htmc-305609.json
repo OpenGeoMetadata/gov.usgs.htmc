@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-305609",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Hurley, AL 1941 (printed 1953)",
+  "dct_alternative_sm": [
+    "Hurley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Hurley, Alabama, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1941; printed in 1953.",
+    "Variations: woodland tint. Sheet size: 17.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5067e4b00f54eb409ae1",
+    "urn:uuid:dc4c8d10-d0e9-ca84-f771-85aaf3a57c66"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.25 30.5,-88.25 30.75,-88.5 30.75,-88.5 30.5,-88.25 30.5))",
+  "dcat_bbox": "ENVELOPE(-88.5, -88.25, 30.75, 30.5)",
+  "dcat_centroid": "30.625,-88.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-305608",
+    "usgs-htmc-305610",
+    "usgs-htmc-305611",
+    "usgs-htmc-305612"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/AL_Hurley_305609_1941_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/62500/AL_Hurley_305609_1941_62500_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/AL_Hurley_305609_1941_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/62500/AL_Hurley_305609_1941_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5067e4b00f54eb409ae1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/62500/AL_Hurley_305609_1941_62500_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-310038",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Walnut, IL 1949",
+  "dct_alternative_sm": [
+    "Walnut"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Walnut, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1947; aerial photographs from 1941.",
+    "Variations: woodland tint. Sheet size: 17.6 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Lee County, Illinois",
+    "Bureau County, Illinois",
+    "Whiteside County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2452e4b00f54eb3bee1f",
+    "urn:uuid:16406ef0-1419-e0c5-ca98-2c6b09059fd2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.5 41.5,-89.5 41.75,-89.75 41.75,-89.75 41.5,-89.5 41.5))",
+  "dcat_bbox": "ENVELOPE(-89.75, -89.5, 41.75, 41.5)",
+  "dcat_centroid": "41.625,-89.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310039",
+    "usgs-htmc-310040"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Walnut_310038_1949_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Walnut_310038_1949_62500_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Walnut_310038_1949_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Walnut_310038_1949_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2452e4b00f54eb3bee1f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Walnut_310038_1949_62500_tn.jpg\"}"
+}

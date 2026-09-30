@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-254237",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Camden, NJ 1967 (printed 1988)",
+  "dct_alternative_sm": [
+    "Camden"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Camden, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1967; photo revised in 1984; last revised in 1984; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24afe4b00f54eb3bf6fc",
+    "urn:uuid:7b15271a-b1a1-753c-6067-49fc9f924ecd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75 39.875,-75 40,-75.125 40,-75.125 39.875,-75 39.875))",
+  "dcat_bbox": "ENVELOPE(-75.125, -75, 40, 39.875)",
+  "dcat_centroid": "39.9375,-75.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254232",
+    "usgs-htmc-254233",
+    "usgs-htmc-254234",
+    "usgs-htmc-254235",
+    "usgs-htmc-254236",
+    "usgs-htmc-254238",
+    "usgs-htmc-254239",
+    "usgs-htmc-254241",
+    "usgs-htmc-254242"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Camden_254237_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Camden_254237_1967_24000_geo.pdf\",\"label\":\"GeoPDF (20.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Camden_254237_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Camden_254237_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24afe4b00f54eb3bf6fc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Camden_254237_1967_24000_tn.jpg\"}"
+}

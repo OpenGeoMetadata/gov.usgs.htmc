@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-233646",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Long Branch, CO 1941",
+  "dct_alternative_sm": [
+    "Long Branch"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Long Branch, Colorado, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey.",
+    "Release: Preliminary. Sheet size: 16 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Adams County, Colorado",
+    "Denver County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5031e4b00f54eb409428",
+    "urn:uuid:1e7163ab-c72a-5045-18b9-1eb0c9567973"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104.75 39.75,-104.75 39.875,-104.875 39.875,-104.875 39.75,-104.75 39.75))",
+  "dcat_bbox": "ENVELOPE(-104.875, -104.75, 39.875, 39.75)",
+  "dcat_centroid": "39.8125,-104.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233644",
+    "usgs-htmc-233645",
+    "usgs-htmc-233797",
+    "usgs-htmc-233799",
+    "usgs-htmc-234330",
+    "usgs-htmc-451176",
+    "usgs-htmc-451177",
+    "usgs-htmc-451178",
+    "usgs-htmc-451179",
+    "usgs-htmc-451180",
+    "usgs-htmc-451181",
+    "usgs-htmc-467062"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Long%20Branch_233646_1941_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/31680/CO_Long%20Branch_233646_1941_31680_geo.pdf\",\"label\":\"GeoPDF (6.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Long%20Branch_233646_1941_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/31680/CO_Long_Branch_233646_1941_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5031e4b00f54eb409428\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/31680/CO_Long%20Branch_233646_1941_31680_tn.jpg\"}"
+}

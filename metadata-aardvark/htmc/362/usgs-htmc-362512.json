@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-362512",
+  "dct_title_s": "USGS 1:30000-scale Quadrangle for Playa De Ponce, PR 1945",
+  "dct_alternative_sm": [
+    "Playa De Ponce"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1945 edition of the Playa De Ponce, Puerto Rico, topographic map at 1:30,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 19.8 x 21 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1945",
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Ponce, Puerto Rico",
+    "Juana Díaz, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a300ae4b00f54eb3d1ac6",
+    "urn:uuid:376490f7-a138-3b27-58a3-bed50464400b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.5 17.875,-66.5 18,-66.625 18,-66.625 17.875,-66.5 17.875))",
+  "dcat_bbox": "ENVELOPE(-66.625, -66.5, 18, 17.875)",
+  "dcat_centroid": "17.9375,-66.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362191",
+    "usgs-htmc-362192",
+    "usgs-htmc-362193",
+    "usgs-htmc-362194",
+    "usgs-htmc-362195",
+    "usgs-htmc-362510",
+    "usgs-htmc-362511",
+    "usgs-htmc-362513",
+    "usgs-htmc-362514"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Playa%20De%20Ponce_362512_1945_30000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Playa%20De%20Ponce_362512_1945_30000_geo.pdf\",\"label\":\"GeoPDF (4.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Playa%20De%20Ponce_362512_1945_30000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/30000/PR_Playa_De_Ponce_362512_1945_30000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a300ae4b00f54eb3d1ac6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Playa%20De%20Ponce_362512_1945_30000_tn.jpg\"}"
+}

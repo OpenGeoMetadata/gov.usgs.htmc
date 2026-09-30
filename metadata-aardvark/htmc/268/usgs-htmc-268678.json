@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-268678",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Butte, MT 1958 (printed 1978)",
+  "dct_alternative_sm": [
+    "Butte"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Butte, Montana, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Field checked in 1958; last revised in 1977; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 28.8 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Silver Bow County, Montana",
+    "Granite County, Montana",
+    "Powell County, Montana",
+    "Lewis and Clark County, Montana",
+    "Jefferson County, Montana",
+    "Missoula County, Montana",
+    "Deer Lodge County, Montana",
+    "Ravalli County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a6fe4b00f54eb3fecab",
+    "urn:uuid:77f45d6f-9ef5-ef4f-e7be-4749d16a1348"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 46,-112 47,-114 47,-114 46,-112 46))",
+  "dcat_bbox": "ENVELOPE(-114, -112, 47, 46)",
+  "dcat_centroid": "46.5,-113",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268673",
+    "usgs-htmc-268674",
+    "usgs-htmc-268675",
+    "usgs-htmc-268676",
+    "usgs-htmc-268677",
+    "usgs-htmc-268679",
+    "usgs-htmc-472620",
+    "usgs-htmc-472621"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Butte_268678_1958_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Butte_268678_1958_250000_geo.pdf\",\"label\":\"GeoPDF (29.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Butte_268678_1958_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/250000/MT_Butte_268678_1958_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a6fe4b00f54eb3fecab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Butte_268678_1958_250000_tn.jpg\"}"
+}

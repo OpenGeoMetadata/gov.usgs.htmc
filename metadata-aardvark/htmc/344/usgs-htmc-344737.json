@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-344737",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Alexandria, SD 1899",
+  "dct_alternative_sm": [
+    "Alexandria"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the Alexandria, South Dakota, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1895.",
+    "Sheet size: 16.4 x 19.7 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1899]"
+  ],
+  "dct_spatial_sm": [
+    "Hanson County, South Dakota",
+    "Miner County, South Dakota",
+    "McCook County, South Dakota",
+    "Sanborn County, South Dakota",
+    "Davison County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5022e4b00f54eb409201",
+    "urn:uuid:7874ec55-35c9-34cb-2a4d-c2e0258e0886"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.5 43.5,-97.5 44,-98 44,-98 43.5,-97.5 43.5))",
+  "dcat_bbox": "ENVELOPE(-98, -97.5, 44, 43.5)",
+  "dcat_centroid": "43.75,-97.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-344736",
+    "usgs-htmc-344738",
+    "usgs-htmc-344739",
+    "usgs-htmc-9475835"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Alexandria_344737_1899_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/125000/SD_Alexandria_344737_1899_125000_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Alexandria_344737_1899_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/125000/SD_Alexandria_344737_1899_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5022e4b00f54eb409201\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/125000/SD_Alexandria_344737_1899_125000_tn.jpg\"}"
+}

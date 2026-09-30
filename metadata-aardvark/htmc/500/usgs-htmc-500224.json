@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-500224",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Busseyville, WI 1961 (printed 1972)",
+  "dct_alternative_sm": [
+    "Busseyville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1961 edition of the Busseyville, Wisconsin, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1971; field checked in 1961; photo revised in 1971; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 21.57 x 27.26 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2348e4b00f54eb3bd7c5",
+    "urn:uuid:1208c4f9-1f18-afa5-c873-8bdbd27d46cf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.875 42.875,-88.875 43,-89 43,-89 42.875,-88.875 42.875))",
+  "dcat_bbox": "ENVELOPE(-89, -88.875, 43, 42.875)",
+  "dcat_centroid": "42.9375,-88.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-500225"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-16T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Busseyville_500224_1961_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Busseyville_500224_1961_24000_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Busseyville_500224_1961_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/24000/WI_Busseyville_500224_1961_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2348e4b00f54eb3bd7c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/24000/WI_Busseyville_500224_1961_24000_tn.jpg\"}"
+}

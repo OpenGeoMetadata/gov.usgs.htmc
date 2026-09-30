@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-336913",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Goodman, MS 1966 (printed 1967)",
+  "dct_alternative_sm": [
+    "Goodman"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Goodman, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Printed in 1967.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Madison County, Mississippi",
+    "Attala County, Mississippi",
+    "Holmes County, Mississippi",
+    "Yazoo County, Mississippi",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4241e4b00f54eb3f082f",
+    "urn:uuid:47e866ae-d54f-7dba-4704-398e260a5952"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 32.75,-89.75 33,-90 33,-90 32.75,-89.75 32.75))",
+  "dcat_bbox": "ENVELOPE(-90, -89.75, 33, 32.75)",
+  "dcat_centroid": "32.875,-89.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Goodman_336913_1966_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Goodman_336913_1966_62500_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Goodman_336913_1966_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/62500/MS_Goodman_336913_1966_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4241e4b00f54eb3f082f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Goodman_336913_1966_62500_tn.jpg\"}"
+}

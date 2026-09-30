@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-188359",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Milton, VA 1956 (printed 1957)",
+  "dct_alternative_sm": [
+    "Milton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Milton, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; field checked in 1956; printed in 1957.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e4de4b00f54eb4058fd",
+    "urn:uuid:4f932f9b-1e96-fb52-6c58-53d0f8045986"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79 36.5,-79 36.75,-79.25 36.75,-79.25 36.5,-79 36.5))",
+  "dcat_bbox": "ENVELOPE(-79.25, -79, 36.75, 36.5)",
+  "dcat_centroid": "36.625,-79.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-188358",
+    "usgs-htmc-188360"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/VA_Milton_188359_1956_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Milton_188359_1956_62500_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/VA_Milton_188359_1956_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/62500/VA_Milton_188359_1956_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e4de4b00f54eb4058fd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Milton_188359_1956_62500_tn.jpg\"}"
+}

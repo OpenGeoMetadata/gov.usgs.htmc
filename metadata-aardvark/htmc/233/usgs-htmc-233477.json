@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-233477",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Kit Carson, CO 1893",
+  "dct_alternative_sm": [
+    "Kit Carson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Kit Carson, Colorado, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1890.",
+    "Sheet size: 17 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Cheyenne County, Colorado",
+    "Kiowa County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b56e4b00f54eb400461",
+    "urn:uuid:e144eba0-2934-8539-cacc-7508eafbd3a3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-102.5 38.5,-102.5 39,-103 39,-103 38.5,-102.5 38.5))",
+  "dcat_bbox": "ENVELOPE(-103, -102.5, 39, 38.5)",
+  "dcat_centroid": "38.75,-102.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-402516",
+    "usgs-htmc-402517",
+    "usgs-htmc-402518",
+    "usgs-htmc-402519",
+    "usgs-htmc-402520"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Kit%20Carson_233477_1893_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Kit%20Carson_233477_1893_125000_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Kit%20Carson_233477_1893_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/125000/CO_Kit_Carson_233477_1893_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b56e4b00f54eb400461\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Kit%20Carson_233477_1893_125000_tn.jpg\"}"
+}

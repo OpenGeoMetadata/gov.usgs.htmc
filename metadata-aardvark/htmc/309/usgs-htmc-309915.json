@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-309915",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Ramsey, IL 1946",
+  "dct_alternative_sm": [
+    "Ramsey"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the Ramsey, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Fayette County, Illinois",
+    "Shelby County, Illinois",
+    "Montgomery County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2423e4b00f54eb3be91e",
+    "urn:uuid:171a84c6-fddd-3714-53ab-4c37f0a4a95e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89 39,-89 39.25,-89.25 39.25,-89.25 39,-89 39))",
+  "dcat_bbox": "ENVELOPE(-89.25, -89, 39.25, 39)",
+  "dcat_centroid": "39.125,-89.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309914",
+    "usgs-htmc-309916"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Ramsey_309915_1946_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Ramsey_309915_1946_62500_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Ramsey_309915_1946_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Ramsey_309915_1946_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2423e4b00f54eb3be91e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Ramsey_309915_1946_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-802789",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Iron Lake, WI 1961 (printed 1963)",
+  "dct_alternative_sm": [
+    "Iron Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1961 edition of the Iron Lake, Wisconsin, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1959; field checked in 1961; printed in 1963.",
+    "Variations: woodland tint. Sheet size: 17.35 x 21.22 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Bayfield County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3068e4b00f54eb3d246a",
+    "urn:uuid:1f8802ce-edfa-7b5a-436d-37e37ec6767a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.25 46.5,-91.25 46.75,-91.5 46.75,-91.5 46.5,-91.25 46.5))",
+  "dcat_bbox": "ENVELOPE(-91.5, -91.25, 46.75, 46.5)",
+  "dcat_centroid": "46.625,-91.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-503310",
+    "usgs-htmc-503311",
+    "usgs-htmc-700244"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Iron%20Lake_802789_1961_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Iron%20Lake_802789_1961_62500_geo.pdf\",\"label\":\"GeoPDF (4.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Iron%20Lake_802789_1961_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/62500/WI_Iron_Lake_802789_1961_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3068e4b00f54eb3d246a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Iron%20Lake_802789_1961_62500_tn.jpg\"}"
+}

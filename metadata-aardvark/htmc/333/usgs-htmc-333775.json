@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-333775",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Foley, LA 1950",
+  "dct_alternative_sm": [
+    "Foley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Foley, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1935.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 16.9 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Allen Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49cfe4b00f54eb3fdfd9",
+    "urn:uuid:0156bc31-e1dd-75bd-3a5f-906ee6e170f7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.625 30.625,-92.625 30.75,-92.75 30.75,-92.75 30.625,-92.625 30.625))",
+  "dcat_bbox": "ENVELOPE(-92.75, -92.625, 30.75, 30.625)",
+  "dcat_centroid": "30.6875,-92.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-332168",
+    "usgs-htmc-332169",
+    "usgs-htmc-332170",
+    "usgs-htmc-332171",
+    "usgs-htmc-332172",
+    "usgs-htmc-333774"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Foley_333775_1950_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Foley_333775_1950_31680_geo.pdf\",\"label\":\"GeoPDF (4.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Foley_333775_1950_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Foley_333775_1950_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49cfe4b00f54eb3fdfd9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Foley_333775_1950_31680_tn.jpg\"}"
+}

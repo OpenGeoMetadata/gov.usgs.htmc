@@ -1,0 +1,94 @@
+{
+  "id": "usgs-htmc-174503",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Des Moines, IA 1957",
+  "dct_alternative_sm": [
+    "Des Moines"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Des Moines, Iowa, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1950; field checked in 1954.",
+    "Variations: woodland tint. Sheet size: 29.3 x 23.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Polk County, Iowa",
+    "Jasper County, Iowa",
+    "Poweshiek County, Iowa",
+    "Mahaska County, Iowa",
+    "Warren County, Iowa",
+    "Marion County, Iowa",
+    "Keokuk County, Iowa",
+    "Iowa County, Iowa",
+    "Wapello County, Iowa",
+    "Monroe County, Iowa",
+    "Lucas County, Iowa",
+    "Madison County, Iowa",
+    "Clarke County, Iowa",
+    "Dallas County, Iowa",
+    "Tama County, Iowa",
+    "Marshall County, Iowa",
+    "Story County, Iowa",
+    "Boone County, Iowa",
+    "Benton County, Iowa",
+    "Jefferson County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a312ee4b00f54eb3d3690",
+    "urn:uuid:232f6058-7cef-6ab5-81cf-1ced33237fc1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 41,-92 42,-94 42,-94 41,-92 41))",
+  "dcat_bbox": "ENVELOPE(-94, -92, 42, 41)",
+  "dcat_centroid": "41.5,-93",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-174506",
+    "usgs-htmc-174507",
+    "usgs-htmc-174508",
+    "usgs-htmc-468761"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Des%20Moines_174503_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/250000/IA_Des%20Moines_174503_1957_250000_geo.pdf\",\"label\":\"GeoPDF (18.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Des%20Moines_174503_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/250000/IA_Des_Moines_174503_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a312ee4b00f54eb3d3690\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/250000/IA_Des%20Moines_174503_1957_250000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-121257",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bat Cave, TX 1988",
+  "dct_alternative_sm": [
+    "Bat Cave"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1988 edition of the Bat Cave, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1986; field checked in 1987; last revised in 1988; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 23.2 x 27.1 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1988",
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_dateRange_drsim": [
+    "[1986 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Comal County, Texas",
+    "Bexar County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b69e4b00f54eb4006c5",
+    "urn:uuid:69ad06bf-3bac-2a42-415d-df9aad7c6428"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98.25 29.625,-98.25 29.75,-98.375 29.75,-98.375 29.625,-98.25 29.625))",
+  "dcat_bbox": "ENVELOPE(-98.375, -98.25, 29.75, 29.625)",
+  "dcat_centroid": "29.6875,-98.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-105768",
+    "usgs-htmc-105769",
+    "usgs-htmc-105770"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Bat%20Cave_121257_1988_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Bat%20Cave_121257_1988_24000_geo.pdf\",\"label\":\"GeoPDF (15.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Bat%20Cave_121257_1988_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Bat_Cave_121257_1988_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b69e4b00f54eb4006c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Bat%20Cave_121257_1988_24000_tn.jpg\"}"
+}

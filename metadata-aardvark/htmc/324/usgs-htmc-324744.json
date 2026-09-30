@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-324744",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Boss, MO 1943 (printed 1963)",
+  "dct_alternative_sm": [
+    "Boss"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Boss, Missouri, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Printed in 1963.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Reynolds County, Missouri",
+    "Iron County, Missouri",
+    "Dent County, Missouri",
+    "Crawford County, Missouri",
+    "Washington County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4751e4b00f54eb3f9255",
+    "urn:uuid:134af1ed-c2aa-138b-eb26-7bbda67628d2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91 37.5,-91 37.75,-91.25 37.75,-91.25 37.5,-91 37.5))",
+  "dcat_bbox": "ENVELOPE(-91.25, -91, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-91.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324745",
+    "usgs-htmc-324746",
+    "usgs-htmc-472072"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Boss_324744_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Boss_324744_1943_62500_geo.pdf\",\"label\":\"GeoPDF (12.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Boss_324744_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/62500/MO_Boss_324744_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4751e4b00f54eb3f9255\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Boss_324744_1943_62500_tn.jpg\"}"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-330900",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Long Hill, CT 1947",
+  "dct_alternative_sm": [
+    "Long Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Long Hill, Connecticut, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1943.",
+    "Variations: woodland tint. Sheet size: 17 x 21.6 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Fairfield County, Connecticut",
+    "New Haven County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a371de4b00f54eb3de33c",
+    "urn:uuid:44ca89f8-e44f-1946-efbf-67d3300317a2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.125 41.25,-73.125 41.375,-73.25 41.375,-73.25 41.25,-73.125 41.25))",
+  "dcat_bbox": "ENVELOPE(-73.25, -73.125, 41.375, 41.25)",
+  "dcat_centroid": "41.3125,-73.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330627",
+    "usgs-htmc-330628",
+    "usgs-htmc-330629",
+    "usgs-htmc-330630",
+    "usgs-htmc-330901",
+    "usgs-htmc-461328"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Long%20Hill_330900_1947_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/31680/CT_Long%20Hill_330900_1947_31680_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Long%20Hill_330900_1947_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/31680/CT_Long_Hill_330900_1947_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a371de4b00f54eb3de33c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/31680/CT_Long%20Hill_330900_1947_31680_tn.jpg\"}"
+}

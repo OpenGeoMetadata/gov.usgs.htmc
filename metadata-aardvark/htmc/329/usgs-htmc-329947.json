@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-329947",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bellows Falls, NH 1957 (printed 1960)",
+  "dct_alternative_sm": [
+    "Bellows Falls"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Bellows Falls, New Hampshire, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1927; last revised in 1957; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5095e4b00f54eb40a0ba",
+    "urn:uuid:785f0505-d44f-5a89-2d11-74b82f194281"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.25 43,-72.25 43.25,-72.5 43.25,-72.5 43,-72.25 43))",
+  "dcat_bbox": "ENVELOPE(-72.5, -72.25, 43.25, 43)",
+  "dcat_centroid": "43.125,-72.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-329940",
+    "usgs-htmc-329941",
+    "usgs-htmc-329942",
+    "usgs-htmc-329943",
+    "usgs-htmc-329944",
+    "usgs-htmc-329945",
+    "usgs-htmc-329946",
+    "usgs-htmc-337794",
+    "usgs-htmc-337839",
+    "usgs-htmc-337840",
+    "usgs-htmc-337841",
+    "usgs-htmc-337842",
+    "usgs-htmc-337843",
+    "usgs-htmc-460001"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Bellows%20Falls_329947_1957_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Bellows%20Falls_329947_1957_62500_geo.pdf\",\"label\":\"GeoPDF (13.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Bellows%20Falls_329947_1957_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/62500/NH_Bellows_Falls_329947_1957_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5095e4b00f54eb40a0ba\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Bellows%20Falls_329947_1957_62500_tn.jpg\"}"
+}

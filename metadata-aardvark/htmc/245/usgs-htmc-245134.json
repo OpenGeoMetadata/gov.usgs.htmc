@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-245134",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Brunswick East, GA 1979 (printed 1988)",
+  "dct_alternative_sm": [
+    "Brunswick East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Brunswick East, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1983; photo revised in 1988; last revised in 1983; printed in 1988.",
+    "Variations: woodland tint, orthophotomap. Sheet size: 24 x 27.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1979 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Glynn County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3260e4b00f54eb3d52d1",
+    "urn:uuid:7b457ad2-1965-9ed8-1eab-8ca968d1717c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.375 31.125,-81.375 31.25,-81.5 31.25,-81.5 31.125,-81.375 31.125))",
+  "dcat_bbox": "ENVELOPE(-81.5, -81.375, 31.25, 31.125)",
+  "dcat_centroid": "31.1875,-81.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-245133",
+    "usgs-htmc-245135",
+    "usgs-htmc-245136",
+    "usgs-htmc-245138",
+    "usgs-htmc-467608"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Brunswick%20East_245134_1979_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Brunswick%20East_245134_1979_24000_geo.pdf\",\"label\":\"GeoPDF (23.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Brunswick%20East_245134_1979_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Brunswick_East_245134_1979_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3260e4b00f54eb3d52d1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Brunswick%20East_245134_1979_24000_tn.jpg\"}"
+}

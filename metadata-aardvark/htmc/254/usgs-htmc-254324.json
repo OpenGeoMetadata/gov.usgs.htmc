@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-254324",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dover, NJ 1954 (printed 1956)",
+  "dct_alternative_sm": [
+    "Dover"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Dover, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1943; field checked in 1943; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Morris County, New Jersey",
+    "Sussex County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24c7e4b00f54eb3bf94e",
+    "urn:uuid:6b1161af-c695-0a6e-1e3f-79f469db3d89"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.5 40.875,-74.5 41,-74.625 41,-74.625 40.875,-74.5 40.875))",
+  "dcat_bbox": "ENVELOPE(-74.625, -74.5, 41, 40.875)",
+  "dcat_centroid": "40.9375,-74.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254323",
+    "usgs-htmc-254325",
+    "usgs-htmc-254326",
+    "usgs-htmc-254327",
+    "usgs-htmc-254328",
+    "usgs-htmc-472427"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Dover_254324_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Dover_254324_1954_24000_geo.pdf\",\"label\":\"GeoPDF (14.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Dover_254324_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Dover_254324_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24c7e4b00f54eb3bf94e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Dover_254324_1954_24000_tn.jpg\"}"
+}

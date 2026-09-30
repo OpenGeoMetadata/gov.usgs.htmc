@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-109509",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Marfa, TX 1965",
+  "dct_alternative_sm": [
+    "Marfa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1965 edition of the Marfa, Texas, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1958; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 33.5 x 21.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1965",
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Presidio County, Texas",
+    "Jeff Davis County, Texas",
+    "Hudspeth County, Texas",
+    "Culberson County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d45e4b00f54eb403a4e",
+    "urn:uuid:fe8201f8-d8e9-b048-dd43-4e9299c52a67"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104 30,-104 31,-106 31,-106 30,-104 30))",
+  "dcat_bbox": "ENVELOPE(-106, -104, 31, 30)",
+  "dcat_centroid": "30.5,-105",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-109510",
+    "usgs-htmc-109511"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Marfa_109509_1965_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/250000/TX_Marfa_109509_1965_250000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Marfa_109509_1965_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/250000/TX_Marfa_109509_1965_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d45e4b00f54eb403a4e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/250000/TX_Marfa_109509_1965_250000_tn.jpg\"}"
+}

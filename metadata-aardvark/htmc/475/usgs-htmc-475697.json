@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-475697",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Augusta, SC 1921",
+  "dct_alternative_sm": [
+    "Augusta"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Augusta, South Carolina, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1919.",
+    "Sheet size: 16.97 x 20.14 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65dea57cd34eb64889e1a48f",
+    "urn:uuid:11441c97-a3a1-bd4a-336e-c9236f379bc0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.75 33.25,-81.75 33.5,-82 33.5,-82 33.25,-81.75 33.25))",
+  "dcat_bbox": "ENVELOPE(-82, -81.75, 33.5, 33.25)",
+  "dcat_centroid": "33.375,-81.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-261783",
+    "usgs-htmc-261784",
+    "usgs-htmc-261785",
+    "usgs-htmc-261786",
+    "usgs-htmc-475696"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-02-27T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/SC_Augusta_475697_1921_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/62500/SC_Augusta_475697_1921_62500_geo.pdf\",\"label\":\"GeoPDF (8.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/SC_Augusta_475697_1921_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/62500/SC_Augusta_475697_1921_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65dea57cd34eb64889e1a48f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/62500/SC_Augusta_475697_1921_62500_tn.jpg\"}"
+}

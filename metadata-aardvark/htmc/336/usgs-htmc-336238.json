@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-336238",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Paden, MS 1950 (printed 1954)",
+  "dct_alternative_sm": [
+    "Paden"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Paden, Mississippi, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Tennessee Valley Authority. Aerial photographs from 1948; field checked in 1950; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Tishomingo County, Mississippi",
+    "Prentiss County, Mississippi",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a3ee4b00f54eb3fe8e7",
+    "urn:uuid:b30ade4a-65d1-9822-5168-44ad8e17fe08"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.25 34.625,-88.25 34.75,-88.375 34.75,-88.375 34.625,-88.25 34.625))",
+  "dcat_bbox": "ENVELOPE(-88.375, -88.25, 34.75, 34.625)",
+  "dcat_centroid": "34.6875,-88.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335809",
+    "usgs-htmc-336237",
+    "usgs-htmc-336239"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Paden_336238_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Paden_336238_1950_24000_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Paden_336238_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/24000/MS_Paden_336238_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a3ee4b00f54eb3fe8e7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Paden_336238_1950_24000_tn.jpg\"}"
+}

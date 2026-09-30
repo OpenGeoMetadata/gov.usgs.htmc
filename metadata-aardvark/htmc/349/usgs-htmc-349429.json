@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-349429",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Keaiwa Reservoir, HI 1981 (printed 1983)",
+  "dct_alternative_sm": [
+    "Keaiwa Reservoir"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1981 edition of the Keaiwa Reservoir, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1980; last revised in 1981; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 24 x 26.7 inches. Printed projection: Transverse Mercator; horizontal datum: Old Hawaiian. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1981",
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a523fe4b00f54eb40d469",
+    "urn:uuid:abb98b9e-1502-27eb-e8e3-bafa96470303"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-155.5 19.25,-155.5 19.375,-155.625 19.375,-155.625 19.25,-155.5 19.25))",
+  "dcat_bbox": "ENVELOPE(-155.625, -155.5, 19.375, 19.25)",
+  "dcat_centroid": "19.3125,-155.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349427",
+    "usgs-htmc-349428",
+    "usgs-htmc-349730"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Keaiwa%20Reservoir_349429_1981_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Keaiwa%20Reservoir_349429_1981_24000_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Keaiwa%20Reservoir_349429_1981_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Keaiwa_Reservoir_349429_1981_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a523fe4b00f54eb40d469\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Keaiwa%20Reservoir_349429_1981_24000_tn.jpg\"}"
+}

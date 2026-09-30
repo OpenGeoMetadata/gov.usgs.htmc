@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-469162",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for New Albany, IN 1946",
+  "dct_alternative_sm": [
+    "New Albany"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the New Albany, Indiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 20.97 x 26.65 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5dc5718de4b06957975a3c7d",
+    "urn:uuid:931872df-37a3-ce7c-3f26-730f25294577"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.75 38.25,-85.75 38.375,-85.875 38.375,-85.875 38.25,-85.75 38.25))",
+  "dcat_bbox": "ENVELOPE(-85.875, -85.75, 38.375, 38.25)",
+  "dcat_centroid": "38.3125,-85.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-159306",
+    "usgs-htmc-159308",
+    "usgs-htmc-159309",
+    "usgs-htmc-160012",
+    "usgs-htmc-160013",
+    "usgs-htmc-160014",
+    "usgs-htmc-160015",
+    "usgs-htmc-160016",
+    "usgs-htmc-160017",
+    "usgs-htmc-160018",
+    "usgs-htmc-160019",
+    "usgs-htmc-160020",
+    "usgs-htmc-469161"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_New%20Albany_469162_1946_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_New%20Albany_469162_1946_24000_geo.pdf\",\"label\":\"GeoPDF (12.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_New%20Albany_469162_1946_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IN/24000/IN_New_Albany_469162_1946_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5dc5718de4b06957975a3c7d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_New%20Albany_469162_1946_24000_tn.jpg\"}"
+}

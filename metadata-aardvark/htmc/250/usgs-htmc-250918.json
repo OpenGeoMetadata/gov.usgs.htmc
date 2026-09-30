@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-250918",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Navajo Mountain 4 NW, UT 1953 (printed 1954)",
+  "dct_alternative_sm": [
+    "Navajo Mountain 4 NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Navajo Mountain 4 NW, Utah, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; printed in 1954.",
+    "Release: Preliminary. Sheet size: 21.9 x 26.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "San Juan County, Utah",
+    "Utah"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a563de4b00f54eb413458",
+    "urn:uuid:cc45046d-b659-d032-fd2c-6db59fbbc1bc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.625 37.125,-110.625 37.25,-110.75 37.25,-110.75 37.125,-110.625 37.125))",
+  "dcat_bbox": "ENVELOPE(-110.75, -110.625, 37.25, 37.125)",
+  "dcat_centroid": "37.1875,-110.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-248842"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Navajo%20Mountain%204%20NW_250918_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Navajo%20Mountain%204%20NW_250918_1953_24000_geo.pdf\",\"label\":\"GeoPDF (15.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Navajo%20Mountain%204%20NW_250918_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/24000/UT_Navajo_Mountain_4_NW_250918_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a563de4b00f54eb413458\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Navajo%20Mountain%204%20NW_250918_1953_24000_tn.jpg\"}"
+}

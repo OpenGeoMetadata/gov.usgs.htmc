@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-139608",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Goshen, NY 1908 (printed 1925)",
+  "dct_alternative_sm": [
+    "Goshen"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1908 edition of the Goshen, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1906; printed in 1925.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a337ce4b00f54eb3d7219",
+    "urn:uuid:83378882-ddbf-48bc-cb91-8ef9a16c92b2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.25 41.25,-74.25 41.5,-74.5 41.5,-74.5 41.25,-74.25 41.25))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.25, 41.5, 41.25)",
+  "dcat_centroid": "41.375,-74.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-129566",
+    "usgs-htmc-129567",
+    "usgs-htmc-129569",
+    "usgs-htmc-129574",
+    "usgs-htmc-139603",
+    "usgs-htmc-139604",
+    "usgs-htmc-139605",
+    "usgs-htmc-139606",
+    "usgs-htmc-139609"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Goshen_139608_1908_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Goshen_139608_1908_62500_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Goshen_139608_1908_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Goshen_139608_1908_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a337ce4b00f54eb3d7219\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Goshen_139608_1908_62500_tn.jpg\"}"
+}

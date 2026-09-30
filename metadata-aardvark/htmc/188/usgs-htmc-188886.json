@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-188886",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Buena Vista, VA 1894 (printed 1939)",
+  "dct_alternative_sm": [
+    "Buena Vista"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Buena Vista, Virginia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1888; printed in 1939.",
+    "Sheet size: 16.4 x 19.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "Amherst County, Virginia",
+    "Rockbridge County, Virginia",
+    "Augusta County, Virginia",
+    "Nelson County, Virginia",
+    "Bedford County, Virginia",
+    "Buena Vista, Virginia",
+    "Lexington, Virginia",
+    "Botetourt County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4bd1e4b00f54eb4012ae",
+    "urn:uuid:529211ed-64e4-2f2c-2fcf-40557c2a95e5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79 37.5,-79 38,-79.5 38,-79.5 37.5,-79 37.5))",
+  "dcat_bbox": "ENVELOPE(-79.5, -79, 38, 37.5)",
+  "dcat_centroid": "37.75,-79.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-188888",
+    "usgs-htmc-189042",
+    "usgs-htmc-189043",
+    "usgs-htmc-189044",
+    "usgs-htmc-189046",
+    "usgs-htmc-189047"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Buena%20Vista_188886_1894_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Buena%20Vista_188886_1894_125000_geo.pdf\",\"label\":\"GeoPDF (9.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Buena%20Vista_188886_1894_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/125000/VA_Buena_Vista_188886_1894_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4bd1e4b00f54eb4012ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Buena%20Vista_188886_1894_125000_tn.jpg\"}"
+}

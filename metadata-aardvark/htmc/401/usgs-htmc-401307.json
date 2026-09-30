@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-401307",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Johnny Moore Mountain, CO 1956 (printed 1958)",
+  "dct_alternative_sm": [
+    "Johnny Moore Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Johnny Moore Mountain, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; field checked in 1956; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.3 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Jackson County, Colorado",
+    "Larimer County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a0ce4b00f54eb3e2abe",
+    "urn:uuid:09694998-1911-b824-d385-17093e4b2e54"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 40.625,-106 40.75,-106.125 40.75,-106.125 40.625,-106 40.625))",
+  "dcat_bbox": "ENVELOPE(-106.125, -106, 40.75, 40.625)",
+  "dcat_centroid": "40.6875,-106.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233417",
+    "usgs-htmc-233418",
+    "usgs-htmc-233419",
+    "usgs-htmc-233420",
+    "usgs-htmc-401305",
+    "usgs-htmc-401306",
+    "usgs-htmc-401308"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Johnny%20Moore%20Mountain_401307_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Johnny%20Moore%20Mountain_401307_1956_24000_geo.pdf\",\"label\":\"GeoPDF (8.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Johnny%20Moore%20Mountain_401307_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Johnny_Moore_Mountain_401307_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a0ce4b00f54eb3e2abe\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Johnny%20Moore%20Mountain_401307_1956_24000_tn.jpg\"}"
+}

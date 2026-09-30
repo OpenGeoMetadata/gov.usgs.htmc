@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-254936",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tuckahoe, NJ 1956 (printed 1966)",
+  "dct_alternative_sm": [
+    "Tuckahoe"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Tuckahoe, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1956; aerial photographs from 1951; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic County, New Jersey",
+    "Cape May County, New Jersey",
+    "Cumberland County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a25a4e4b00f54eb3c0da6",
+    "urn:uuid:3fdb76cb-cdc9-616d-7dd5-8c9e9fe0c228"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.75 39.25,-74.75 39.375,-74.875 39.375,-74.875 39.25,-74.75 39.25))",
+  "dcat_bbox": "ENVELOPE(-74.875, -74.75, 39.375, 39.25)",
+  "dcat_centroid": "39.3125,-74.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254937",
+    "usgs-htmc-254938",
+    "usgs-htmc-254939",
+    "usgs-htmc-254940",
+    "usgs-htmc-472552"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Tuckahoe_254936_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Tuckahoe_254936_1956_24000_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Tuckahoe_254936_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Tuckahoe_254936_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a25a4e4b00f54eb3c0da6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Tuckahoe_254936_1956_24000_tn.jpg\"}"
+}

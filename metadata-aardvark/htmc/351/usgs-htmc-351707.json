@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-351707",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Franklin, MA 1946",
+  "dct_alternative_sm": [
+    "Franklin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the Franklin, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1939.",
+    "Sheet size: 17 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a38e4b00f54eb3e2f53",
+    "urn:uuid:01d85140-4be4-30b2-4b42-e34c03cb1e90"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.375 42,-71.375 42.125,-71.5 42.125,-71.5 42,-71.375 42))",
+  "dcat_bbox": "ENVELOPE(-71.5, -71.375, 42.125, 42)",
+  "dcat_centroid": "42.0625,-71.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350147",
+    "usgs-htmc-350148",
+    "usgs-htmc-350149",
+    "usgs-htmc-350150",
+    "usgs-htmc-350962",
+    "usgs-htmc-350965",
+    "usgs-htmc-350966",
+    "usgs-htmc-351703",
+    "usgs-htmc-351704",
+    "usgs-htmc-351705",
+    "usgs-htmc-351706",
+    "usgs-htmc-351708"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Franklin_351707_1946_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Franklin_351707_1946_31680_geo.pdf\",\"label\":\"GeoPDF (10.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Franklin_351707_1946_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Franklin_351707_1946_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a38e4b00f54eb3e2f53\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Franklin_351707_1946_31680_tn.jpg\"}"
+}

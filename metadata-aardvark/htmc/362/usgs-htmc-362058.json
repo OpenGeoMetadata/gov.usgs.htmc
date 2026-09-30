@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-362058",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Caguas, PR 1964 (printed 1989)",
+  "dct_alternative_sm": [
+    "Caguas"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Caguas, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; aerial photographs from 1977; photo revised in 1982; last revised in 1982; printed in 1989.",
+    "Sheet size: 29.6 x 32.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Caguas, Puerto Rico",
+    "Cayey, Puerto Rico",
+    "Cidra, Puerto Rico",
+    "San Lorenzo, Puerto Rico",
+    "Aguas Buenas, Puerto Rico",
+    "Gurabo, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a7ae4b00f54eb3fee0b",
+    "urn:uuid:6f334dd1-8617-f821-eddf-190b3e4f6848"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66 18.125,-66 18.25,-66.125 18.25,-66.125 18.125,-66 18.125))",
+  "dcat_bbox": "ENVELOPE(-66.125, -66, 18.25, 18.125)",
+  "dcat_centroid": "18.1875,-66.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362054",
+    "usgs-htmc-362055",
+    "usgs-htmc-362056",
+    "usgs-htmc-362057",
+    "usgs-htmc-362352",
+    "usgs-htmc-362353",
+    "usgs-htmc-362354",
+    "usgs-htmc-475461",
+    "usgs-htmc-475462"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Caguas_362058_1964_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Caguas_362058_1964_20000_geo.pdf\",\"label\":\"GeoPDF (20.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Caguas_362058_1964_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Caguas_362058_1964_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a7ae4b00f54eb3fee0b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Caguas_362058_1964_20000_tn.jpg\"}"
+}

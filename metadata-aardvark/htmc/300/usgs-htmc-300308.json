@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-300308",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Santa Rosa Island North, CA 1943 (printed 1974)",
+  "dct_alternative_sm": [
+    "Santa Rosa Island North"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Santa Rosa Island North, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Aerial photographs from 1943; field checked in 1943; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a346fe4b00f54eb3d9570",
+    "urn:uuid:e70a2ac5-4d7b-ae78-a573-b5d02b8390a4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120.0416667 33.9583333,-120.0416667 34.0833333,-120.1666667 34.0833333,-120.1666667 33.9583333,-120.0416667 33.9583333))",
+  "dcat_bbox": "ENVELOPE(-120.1666667, -120.0416667, 34.0833333, 33.9583333)",
+  "dcat_centroid": "34.0208333,-120.1041667",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-300305",
+    "usgs-htmc-300306",
+    "usgs-htmc-300307"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Santa%20Rosa%20Island%20North_300308_1943_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Santa%20Rosa%20Island%20North_300308_1943_24000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Santa%20Rosa%20Island%20North_300308_1943_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Santa_Rosa_Island_North_300308_1943_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a346fe4b00f54eb3d9570\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Santa%20Rosa%20Island%20North_300308_1943_24000_tn.jpg\"}"
+}

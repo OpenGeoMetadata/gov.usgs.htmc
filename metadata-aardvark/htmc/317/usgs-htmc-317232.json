@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-317232",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Spring Canyon, NE 1985",
+  "dct_alternative_sm": [
+    "Spring Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Spring Canyon, Nebraska, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1980; field checked in 1983; last revised in 1985; printed in 1985.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Cherry County, Nebraska",
+    "Nebraska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a44d5e4b00f54eb3f5159",
+    "urn:uuid:0bdfe557-15e3-1aea-d519-935cc34404d7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-101.125 42.75,-101.125 42.875,-101.25 42.875,-101.25 42.75,-101.125 42.75))",
+  "dcat_bbox": "ENVELOPE(-101.25, -101.125, 42.875, 42.75)",
+  "dcat_centroid": "42.8125,-101.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Spring%20Canyon_317232_1985_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/24000/NE_Spring%20Canyon_317232_1985_24000_geo.pdf\",\"label\":\"GeoPDF (11.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NE/NE_Spring%20Canyon_317232_1985_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NE/24000/NE_Spring_Canyon_317232_1985_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a44d5e4b00f54eb3f5159\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/24000/NE_Spring%20Canyon_317232_1985_24000_tn.jpg\"}"
+}

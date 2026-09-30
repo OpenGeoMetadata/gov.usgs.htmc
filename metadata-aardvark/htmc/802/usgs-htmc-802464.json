@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-802464",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Winding Stair, OK 1909 (printed 1944)",
+  "dct_alternative_sm": [
+    "Winding Stair"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1909 edition of the Winding Stair, Oklahoma, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1898; printed in 1944.",
+    "Sheet size: 17 x 21.3 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1909",
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    1909
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Le Flore County, Oklahoma",
+    "Pushmataha County, Oklahoma",
+    "Latimer County, Oklahoma",
+    "McCurtain County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a525ae4b00f54eb40d7d4",
+    "urn:uuid:42f1cb4c-964c-0649-f39d-bb82f5c90ef6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94.5 34.5,-94.5 35,-95 35,-95 34.5,-94.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-95, -94.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-94.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-475443",
+    "usgs-htmc-802463",
+    "usgs-htmc-802615",
+    "usgs-htmc-802616",
+    "usgs-htmc-802617"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Winding%20Stair_802464_1909_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Winding%20Stair_802464_1909_125000_geo.pdf\",\"label\":\"GeoPDF (7.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Winding%20Stair_802464_1909_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/125000/OK_Winding_Stair_802464_1909_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a525ae4b00f54eb40d7d4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Winding%20Stair_802464_1909_125000_tn.jpg\"}"
+}

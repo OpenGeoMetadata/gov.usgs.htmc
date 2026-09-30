@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-360980",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Juneau, AK 1962 (printed 1992)",
+  "dct_alternative_sm": [
+    "Juneau"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Juneau, Alaska, topographic map at 1:250,000 scale (1 x 2 degree series). Surveyed in 1962; aerial photographs from 1979; last revised in 1985; printed in 1992.",
+    "Variations: woodland tint. Sheet size: 22.3 x 22.5 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1992]"
+  ],
+  "dct_spatial_sm": [
+    "Juneau, Alaska",
+    "Hoonah-Angoon Census Area, Alaska",
+    "Haines, Alaska",
+    "Sitka, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a78e4b00f54eb3e35c4",
+    "urn:uuid:8538c47a-c666-77b0-b7d9-0a847e6fe92d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-134 58,-134 59,-136 59,-136 58,-134 58))",
+  "dcat_bbox": "ENVELOPE(-136, -134, 59, 58)",
+  "dcat_centroid": "58.5,-135",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360981",
+    "usgs-htmc-360982",
+    "usgs-htmc-360983",
+    "usgs-htmc-360984",
+    "usgs-htmc-360985",
+    "usgs-htmc-360986",
+    "usgs-htmc-360987",
+    "usgs-htmc-360988",
+    "usgs-htmc-360989",
+    "usgs-htmc-360990"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Juneau_360980_1962_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Juneau_360980_1962_250000_geo.pdf\",\"label\":\"GeoPDF (30.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Juneau_360980_1962_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Juneau_360980_1962_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a78e4b00f54eb3e35c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Juneau_360980_1962_250000_tn.jpg\"}"
+}

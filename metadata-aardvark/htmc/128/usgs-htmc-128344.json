@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-128344",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Seabrook, TX 1932",
+  "dct_alternative_sm": [
+    "Seabrook"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Seabrook, Texas, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1929.",
+    "Sheet size: 17 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Harris County, Texas",
+    "Galveston County, Texas",
+    "Chambers County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a251be4b00f54eb3c00d9",
+    "urn:uuid:af5c01e2-1816-bb5b-7504-45c7fe1013f4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95 29.5,-95 29.625,-95.125 29.625,-95.125 29.5,-95 29.5))",
+  "dcat_bbox": "ENVELOPE(-95.125, -95, 29.625, 29.5)",
+  "dcat_centroid": "29.5625,-95.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-110348",
+    "usgs-htmc-110349",
+    "usgs-htmc-110350",
+    "usgs-htmc-110351",
+    "usgs-htmc-111526",
+    "usgs-htmc-118017",
+    "usgs-htmc-118018",
+    "usgs-htmc-118019",
+    "usgs-htmc-128216",
+    "usgs-htmc-128218",
+    "usgs-htmc-128302",
+    "usgs-htmc-128345"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Seabrook_128344_1932_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Seabrook_128344_1932_31680_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Seabrook_128344_1932_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/31680/TX_Seabrook_128344_1932_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a251be4b00f54eb3c00d9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Seabrook_128344_1932_31680_tn.jpg\"}"
+}

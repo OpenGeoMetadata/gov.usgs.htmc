@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-110174",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Laguna Atascosa, TX 1936 (printed 1945)",
+  "dct_alternative_sm": [
+    "Laguna Atascosa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1936 edition of the Laguna Atascosa, Texas, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1930; printed in 1945.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "gbl_indexYear_im": [
+    1936
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Cameron County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2500e4b00f54eb3bfe5a",
+    "urn:uuid:a2d51231-1a10-85ad-c7c0-dfecf4dfcc67"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.375 26.125,-97.375 26.25,-97.5 26.25,-97.5 26.125,-97.375 26.125))",
+  "dcat_bbox": "ENVELOPE(-97.5, -97.375, 26.25, 26.125)",
+  "dcat_centroid": "26.1875,-97.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-110173",
+    "usgs-htmc-110175",
+    "usgs-htmc-128267"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Laguna%20Atascosa_110174_1936_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Laguna%20Atascosa_110174_1936_31680_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Laguna%20Atascosa_110174_1936_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/31680/TX_Laguna_Atascosa_110174_1936_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2500e4b00f54eb3bfe5a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Laguna%20Atascosa_110174_1936_31680_tn.jpg\"}"
+}

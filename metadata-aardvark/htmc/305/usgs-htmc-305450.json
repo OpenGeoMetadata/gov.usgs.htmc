@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-305450",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Barton, AL 1926",
+  "dct_alternative_sm": [
+    "Barton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1926 edition of the Barton, Alabama, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1925.",
+    "Release: Advance. Sheet size: 21.9 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "gbl_indexYear_im": [
+    1926
+  ],
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1926]"
+  ],
+  "dct_spatial_sm": [
+    "Colbert County, Alabama",
+    "Franklin County, Alabama",
+    "Lauderdale County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24abe4b00f54eb3bf687",
+    "urn:uuid:30eaf307-e2d1-ffdb-31e3-dbc2467a818c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.75 34.5,-87.75 34.75,-88 34.75,-88 34.5,-87.75 34.5))",
+  "dcat_bbox": "ENVELOPE(-88, -87.75, 34.75, 34.5)",
+  "dcat_centroid": "34.625,-87.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-305480",
+    "usgs-htmc-305481",
+    "usgs-htmc-305482",
+    "usgs-htmc-305483"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Barton_305450_1926_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/48000/AL_Barton_305450_1926_48000_geo.pdf\",\"label\":\"GeoPDF (16.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Barton_305450_1926_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/48000/AL_Barton_305450_1926_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24abe4b00f54eb3bf687\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/48000/AL_Barton_305450_1926_48000_tn.jpg\"}"
+}

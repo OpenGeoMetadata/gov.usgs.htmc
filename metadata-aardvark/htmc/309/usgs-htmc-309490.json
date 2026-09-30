@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-309490",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Galesburg, IL 1927",
+  "dct_alternative_sm": [
+    "Galesburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1927 edition of the Galesburg, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1925.",
+    "Variations: woodland tint. Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "gbl_indexYear_im": [
+    1927
+  ],
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1927]"
+  ],
+  "dct_spatial_sm": [
+    "Knox County, Illinois",
+    "Warren County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a236fe4b00f54eb3bda62",
+    "urn:uuid:c501eda2-0e21-1ce0-f2fd-be185442d5f6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.25 40.75,-90.25 41,-90.5 41,-90.5 40.75,-90.25 40.75))",
+  "dcat_bbox": "ENVELOPE(-90.5, -90.25, 41, 40.75)",
+  "dcat_centroid": "40.875,-90.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309487",
+    "usgs-htmc-309488",
+    "usgs-htmc-309489",
+    "usgs-htmc-468452"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Galesburg_309490_1927_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Galesburg_309490_1927_62500_geo.pdf\",\"label\":\"GeoPDF (8.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Galesburg_309490_1927_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Galesburg_309490_1927_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a236fe4b00f54eb3bda62\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Galesburg_309490_1927_62500_tn.jpg\"}"
+}

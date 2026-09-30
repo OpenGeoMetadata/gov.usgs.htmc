@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-801026",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Seminole, OK 1972 (printed 1983)",
+  "dct_alternative_sm": [
+    "Seminole"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Seminole, Oklahoma, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; photo revised in 1979; last revised in 1979; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22 x 27.2 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Seminole County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4902e4b00f54eb3fc7e3",
+    "urn:uuid:01381f42-7e90-1182-0c3c-a6b4c418920e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.625 35.125,-96.625 35.25,-96.75 35.25,-96.75 35.125,-96.625 35.125))",
+  "dcat_bbox": "ENVELOPE(-96.75, -96.625, 35.25, 35.125)",
+  "dcat_centroid": "35.1875,-96.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-706772",
+    "usgs-htmc-706773"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Seminole_801026_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/24000/OK_Seminole_801026_1972_24000_geo.pdf\",\"label\":\"GeoPDF (9.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Seminole_801026_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/24000/OK_Seminole_801026_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4902e4b00f54eb3fc7e3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/24000/OK_Seminole_801026_1972_24000_tn.jpg\"}"
+}

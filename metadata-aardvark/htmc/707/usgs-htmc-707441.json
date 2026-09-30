@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-707441",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Lawton, OK 1955 (printed 1976)",
+  "dct_alternative_sm": [
+    "Lawton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Lawton, Oklahoma, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1973; photo revised in 1974; last revised in 1974; printed in 1976.",
+    "Release: Advance. Variations: woodland tint. Sheet size: 32.4 x 22.4 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Oklahoma",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e02e4b00f54eb3e9b80",
+    "urn:uuid:2b431109-bd02-fd8c-6f0b-34282194e402"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98 34,-98 35,-100 35,-100 34,-98 34))",
+  "dcat_bbox": "ENVELOPE(-100, -98, 35, 34)",
+  "dcat_centroid": "34.5,-99",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-475333",
+    "usgs-htmc-800910",
+    "usgs-htmc-800911",
+    "usgs-htmc-802672"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Lawton_707441_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/250000/OK_Lawton_707441_1955_250000_geo.pdf\",\"label\":\"GeoPDF (14.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Lawton_707441_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/250000/OK_Lawton_707441_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e02e4b00f54eb3e9b80\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/250000/OK_Lawton_707441_1955_250000_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-247994",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Avon SE, UT 1950 (printed 1979)",
+  "dct_alternative_sm": [
+    "Avon SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Avon SE, Utah, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1950; aerial photographs from 1976; photo revised in 1978; last revised in 1978; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Iron County, Utah",
+    "Utah"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a53ece4b00f54eb410a09",
+    "urn:uuid:cf2cc710-e618-7a5e-e716-44b1cb46742f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-113.25 37.75,-113.25 37.875,-113.375 37.875,-113.375 37.75,-113.25 37.75))",
+  "dcat_bbox": "ENVELOPE(-113.375, -113.25, 37.875, 37.75)",
+  "dcat_centroid": "37.8125,-113.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247992",
+    "usgs-htmc-247993"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Avon%20SE_247994_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Avon%20SE_247994_1950_24000_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Avon%20SE_247994_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/24000/UT_Avon_SE_247994_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a53ece4b00f54eb410a09\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Avon%20SE_247994_1950_24000_tn.jpg\"}"
+}

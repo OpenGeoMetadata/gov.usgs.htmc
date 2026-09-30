@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-463130",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Westport, MA 1942",
+  "dct_alternative_sm": [
+    "Westport"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Westport, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1940.",
+    "Sheet size: 16.64 x 23.36 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ce50339e4b0bc180232e60b",
+    "urn:uuid:eaf8ba14-0a98-cd5c-472a-525459fb194c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71 41.475,-71 41.625,-71.125 41.625,-71.125 41.475,-71 41.475))",
+  "dcat_bbox": "ENVELOPE(-71.125, -71, 41.625, 41.475)",
+  "dcat_centroid": "41.55,-71.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350717",
+    "usgs-htmc-350718",
+    "usgs-htmc-350719",
+    "usgs-htmc-350720",
+    "usgs-htmc-350721",
+    "usgs-htmc-350722",
+    "usgs-htmc-350723",
+    "usgs-htmc-351415",
+    "usgs-htmc-351416",
+    "usgs-htmc-352350",
+    "usgs-htmc-352351",
+    "usgs-htmc-463128",
+    "usgs-htmc-463129"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MA_Westport_463130_1942_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Westport_463130_1942_31680_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MA_Westport_463130_1942_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Westport_463130_1942_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ce50339e4b0bc180232e60b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Westport_463130_1942_31680_tn.jpg\"}"
+}

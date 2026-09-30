@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-255281",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mount Holly, NJ 1898 (printed 1910)",
+  "dct_alternative_sm": [
+    "Mount Holly"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1898 edition of the Mount Holly, New Jersey, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1885; printed in 1910.",
+    "Sheet size: 16.6 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1898",
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    1898
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Burlington County, New Jersey",
+    "Camden County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a261de4b00f54eb3c18d4",
+    "urn:uuid:94a90bca-0433-5f91-b751-3c5c4b5fc20a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.75 39.75,-74.75 40,-75 40,-75 39.75,-74.75 39.75))",
+  "dcat_bbox": "ENVELOPE(-75, -74.75, 40, 39.75)",
+  "dcat_centroid": "39.875,-74.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255277",
+    "usgs-htmc-255278",
+    "usgs-htmc-255282",
+    "usgs-htmc-255283",
+    "usgs-htmc-255284",
+    "usgs-htmc-472451",
+    "usgs-htmc-472452",
+    "usgs-htmc-472453"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Mount%20Holly_255281_1898_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Mount%20Holly_255281_1898_62500_geo.pdf\",\"label\":\"GeoPDF (7.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Mount%20Holly_255281_1898_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/62500/NJ_Mount_Holly_255281_1898_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a261de4b00f54eb3c18d4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Mount%20Holly_255281_1898_62500_tn.jpg\"}"
+}

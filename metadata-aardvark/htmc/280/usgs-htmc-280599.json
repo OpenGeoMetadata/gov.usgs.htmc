@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-280599",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mack Point, OR 1985 (printed 1986)",
+  "dct_alternative_sm": [
+    "Mack Point"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Mack Point, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1982; last revised in 1985; printed in 1986.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.8 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Curry County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a27cde4b00f54eb3c453c",
+    "urn:uuid:d57021e6-bcd2-50c6-ece9-99d4a2ec58a6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124.375 42.125,-124.375 42.25,-124.5 42.25,-124.5 42.125,-124.375 42.125))",
+  "dcat_bbox": "ENVELOPE(-124.5, -124.375, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-124.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Mack%20Point_280599_1985_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Mack%20Point_280599_1985_24000_geo.pdf\",\"label\":\"GeoPDF (15.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Mack%20Point_280599_1985_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Mack_Point_280599_1985_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a27cde4b00f54eb3c453c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Mack%20Point_280599_1985_24000_tn.jpg\"}"
+}

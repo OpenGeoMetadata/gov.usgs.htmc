@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-192828",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Harden Cienega, NM 2005 (printed 2006)",
+  "dct_alternative_sm": [
+    "Harden Cienega"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2005 edition of the Harden Cienega, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 2004; last revised in 2005; printed in 2006.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2005",
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_dateRange_drsim": [
+    "[2004 TO 2006]"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b90e4b00f54eb3e5229",
+    "urn:uuid:5f69fa29-2a31-bc8f-8516-04a6eb0470f2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-109 33.125,-109 33.25,-109.125 33.25,-109.125 33.125,-109 33.125))",
+  "dcat_bbox": "ENVELOPE(-109.125, -109, 33.25, 33.125)",
+  "dcat_centroid": "33.1875,-109.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-192825",
+    "usgs-htmc-192826"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Harden%20Cienega_192828_2005_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Harden%20Cienega_192828_2005_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Harden%20Cienega_192828_2005_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Harden_Cienega_192828_2005_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b90e4b00f54eb3e5229\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Harden%20Cienega_192828_2005_24000_tn.jpg\"}"
+}

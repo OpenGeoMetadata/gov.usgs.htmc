@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-189651",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Aspen Basin, NM 1953 (printed 1974)",
+  "dct_alternative_sm": [
+    "Aspen Basin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Aspen Basin, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1948; field checked in 1953; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Fe County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a39b8e4b00f54eb3e2381",
+    "urn:uuid:7e4e059c-f76f-3429-dfbb-85e04e303bba"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.75 35.75,-105.75 35.875,-105.875 35.875,-105.875 35.75,-105.75 35.75))",
+  "dcat_bbox": "ENVELOPE(-105.875, -105.75, 35.875, 35.75)",
+  "dcat_centroid": "35.8125,-105.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-189652",
+    "usgs-htmc-189653",
+    "usgs-htmc-189654",
+    "usgs-htmc-189656",
+    "usgs-htmc-189657",
+    "usgs-htmc-193765"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Aspen%20Basin_189651_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Aspen%20Basin_189651_1953_24000_geo.pdf\",\"label\":\"GeoPDF (15.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Aspen%20Basin_189651_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Aspen_Basin_189651_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a39b8e4b00f54eb3e2381\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Aspen%20Basin_189651_1953_24000_tn.jpg\"}"
+}

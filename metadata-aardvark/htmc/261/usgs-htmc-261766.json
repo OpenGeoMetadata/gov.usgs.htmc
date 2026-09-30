@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-261766",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Ridgeville, SC 1919",
+  "dct_alternative_sm": [
+    "Ridgeville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Ridgeville, South Carolina, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1919.",
+    "Sheet size: 22 x 27.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Dorchester County, South Carolina",
+    "Berkeley County, South Carolina",
+    "Colleton County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a22abe4b00f54eb3bcfc0",
+    "urn:uuid:16ff824f-3672-01fe-3428-945b03e37ea7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.25 33,-80.25 33.25,-80.5 33.25,-80.5 33,-80.25 33))",
+  "dcat_bbox": "ENVELOPE(-80.5, -80.25, 33.25, 33)",
+  "dcat_centroid": "33.125,-80.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-261926",
+    "usgs-htmc-261928",
+    "usgs-htmc-9475796",
+    "usgs-htmc-9475797"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Ridgeville_261766_1919_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Ridgeville_261766_1919_48000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Ridgeville_261766_1919_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/48000/SC_Ridgeville_261766_1919_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a22abe4b00f54eb3bcfc0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Ridgeville_261766_1919_48000_tn.jpg\"}"
+}

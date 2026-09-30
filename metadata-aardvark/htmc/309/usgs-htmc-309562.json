@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-309562",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Herrin, IL 1910 (printed 1940)",
+  "dct_alternative_sm": [
+    "Herrin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Herrin, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1908; printed in 1940.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Illinois",
+    "Jackson County, Illinois",
+    "Williamson County, Illinois",
+    "Perry County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2399e4b00f54eb3bdd76",
+    "urn:uuid:8f818919-8c7d-30a7-73e3-48f718f4eeeb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89 37.75,-89 38,-89.25 38,-89.25 37.75,-89 37.75))",
+  "dcat_bbox": "ENVELOPE(-89.25, -89, 38, 37.75)",
+  "dcat_centroid": "37.875,-89.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309560",
+    "usgs-htmc-309561",
+    "usgs-htmc-309563"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Herrin_309562_1910_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Herrin_309562_1910_62500_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Herrin_309562_1910_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Herrin_309562_1910_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2399e4b00f54eb3bdd76\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Herrin_309562_1910_62500_tn.jpg\"}"
+}

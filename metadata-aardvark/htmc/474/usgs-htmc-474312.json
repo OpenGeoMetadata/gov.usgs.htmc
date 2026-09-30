@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-474312",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Alger, OH 1915 (printed 1932)",
+  "dct_alternative_sm": [
+    "Alger"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1915 edition of the Alger, Ohio, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1913; printed in 1932.",
+    "Sheet size: 16.5 x 20.13 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_dateRange_drsim": [
+    "[1913 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Hardin County, Ohio",
+    "Auglaize County, Ohio",
+    "Allen County, Ohio",
+    "Logan County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/662b0aded34ea70bd5f0c32b",
+    "urn:uuid:8958d888-a0e6-9228-d3a0-8ca8681bff18"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.75 40.5,-83.75 40.75,-84 40.75,-84 40.5,-83.75 40.5))",
+  "dcat_bbox": "ENVELOPE(-84, -83.75, 40.75, 40.5)",
+  "dcat_centroid": "40.625,-83.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224720",
+    "usgs-htmc-224721",
+    "usgs-htmc-474311",
+    "usgs-htmc-474313",
+    "usgs-htmc-474315",
+    "usgs-htmc-525946"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-04-25T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Alger_474312_1915_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/62500/OH_Alger_474312_1915_62500_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Alger_474312_1915_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/62500/OH_Alger_474312_1915_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/662b0aded34ea70bd5f0c32b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/62500/OH_Alger_474312_1915_62500_tn.jpg\"}"
+}

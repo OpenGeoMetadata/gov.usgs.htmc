@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-309898",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Pittsfield, IL 1926",
+  "dct_alternative_sm": [
+    "Pittsfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1926 edition of the Pittsfield, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1924.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "gbl_indexYear_im": [
+    1926
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1926]"
+  ],
+  "dct_spatial_sm": [
+    "Pike County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2421e4b00f54eb3be8dd",
+    "urn:uuid:bc7685ce-67c1-72ee-0cd5-e65ecece3b54"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.75 39.5,-90.75 39.75,-91 39.75,-91 39.5,-90.75 39.5))",
+  "dcat_bbox": "ENVELOPE(-91, -90.75, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-90.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309896",
+    "usgs-htmc-309897"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Pittsfield_309898_1926_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Pittsfield_309898_1926_62500_geo.pdf\",\"label\":\"GeoPDF (9.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Pittsfield_309898_1926_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Pittsfield_309898_1926_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2421e4b00f54eb3be8dd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Pittsfield_309898_1926_62500_tn.jpg\"}"
+}

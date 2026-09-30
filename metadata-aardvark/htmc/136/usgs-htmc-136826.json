@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-136826",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Port Jervis South, NY 1995 (printed 2000)",
+  "dct_alternative_sm": [
+    "Port Jervis South"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1995 edition of the Port Jervis South, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1995; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_dateRange_drsim": [
+    "[1995 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a488ce4b00f54eb3fba76",
+    "urn:uuid:77df517e-a594-6664-4a18-9d3390e73cfe"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.625 41.25,-74.625 41.375,-74.75 41.375,-74.75 41.25,-74.625 41.25))",
+  "dcat_bbox": "ENVELOPE(-74.75, -74.625, 41.375, 41.25)",
+  "dcat_centroid": "41.3125,-74.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-129102",
+    "usgs-htmc-129103",
+    "usgs-htmc-129104",
+    "usgs-htmc-129105",
+    "usgs-htmc-129106",
+    "usgs-htmc-129107",
+    "usgs-htmc-254786",
+    "usgs-htmc-254787"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Port%20Jervis%20South_136826_1995_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Port%20Jervis%20South_136826_1995_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Port%20Jervis%20South_136826_1995_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Port_Jervis_South_136826_1995_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a488ce4b00f54eb3fba76\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Port%20Jervis%20South_136826_1995_24000_tn.jpg\"}"
+}

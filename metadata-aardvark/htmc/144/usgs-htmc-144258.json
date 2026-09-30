@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-144258",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Stamford, NY 1899 (printed 1905)",
+  "dct_alternative_sm": [
+    "Stamford"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the Stamford, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1905.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a34d8e4b00f54eb3da384",
+    "urn:uuid:40b1d06f-65b8-9a17-0382-8112df27c7e4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.5 41,-73.5 41.25,-73.75 41.25,-73.75 41,-73.5 41))",
+  "dcat_bbox": "ENVELOPE(-73.75, -73.5, 41.25, 41)",
+  "dcat_centroid": "41.125,-73.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-139868",
+    "usgs-htmc-139871",
+    "usgs-htmc-144253",
+    "usgs-htmc-144254",
+    "usgs-htmc-144255",
+    "usgs-htmc-144256",
+    "usgs-htmc-144257",
+    "usgs-htmc-144259",
+    "usgs-htmc-144260",
+    "usgs-htmc-144261",
+    "usgs-htmc-144262",
+    "usgs-htmc-144263",
+    "usgs-htmc-144264",
+    "usgs-htmc-144265"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/NY_Stamford_144258_1899_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Stamford_144258_1899_62500_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/NY_Stamford_144258_1899_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Stamford_144258_1899_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a34d8e4b00f54eb3da384\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Stamford_144258_1899_62500_tn.jpg\"}"
+}

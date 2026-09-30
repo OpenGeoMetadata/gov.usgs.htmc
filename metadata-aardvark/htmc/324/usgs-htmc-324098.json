@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-324098",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Selma, MO 1993 (printed 1996)",
+  "dct_alternative_sm": [
+    "Selma"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1993 edition of the Selma, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1993; last revised in 1996; printed in 1996.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1996]"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2753e4b00f54eb3c3af4",
+    "urn:uuid:cea6276c-7b4a-939f-dbca-c4c240ddd599"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.25 38.125,-90.25 38.25,-90.375 38.25,-90.375 38.125,-90.25 38.125))",
+  "dcat_bbox": "ENVELOPE(-90.375, -90.25, 38.25, 38.125)",
+  "dcat_centroid": "38.1875,-90.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-308709",
+    "usgs-htmc-324096",
+    "usgs-htmc-324097"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Selma_324098_1993_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Selma_324098_1993_24000_geo.pdf\",\"label\":\"GeoPDF (12.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Selma_324098_1993_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Selma_324098_1993_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2753e4b00f54eb3c3af4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Selma_324098_1993_24000_tn.jpg\"}"
+}

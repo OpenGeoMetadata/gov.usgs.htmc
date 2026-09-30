@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-128209",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Rose Hill, TX 1916",
+  "dct_alternative_sm": [
+    "Rose Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1916 edition of the Rose Hill, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1916.",
+    "Release: Advance. Sheet size: 23.1 x 27 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Harris County, Texas",
+    "Montgomery County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5268e4b00f54eb40d988",
+    "urn:uuid:2e8f081f-4638-d452-1bc9-d5469df2ebab"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.625 30,-95.625 30.125,-95.75 30.125,-95.75 30,-95.625 30))",
+  "dcat_bbox": "ENVELOPE(-95.75, -95.625, 30.125, 30)",
+  "dcat_centroid": "30.0625,-95.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-116460",
+    "usgs-htmc-116461",
+    "usgs-htmc-116462",
+    "usgs-htmc-128298"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Rose%20Hill_128209_1916_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Rose%20Hill_128209_1916_24000_geo.pdf\",\"label\":\"GeoPDF (13.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Rose%20Hill_128209_1916_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Rose_Hill_128209_1916_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5268e4b00f54eb40d988\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Rose%20Hill_128209_1916_24000_tn.jpg\"}"
+}

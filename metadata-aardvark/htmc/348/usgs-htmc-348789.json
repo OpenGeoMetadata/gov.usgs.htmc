@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-348789",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Tampa, FL 1956 (printed 1964)",
+  "dct_alternative_sm": [
+    "Tampa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Tampa, Florida, topographic map at 1:250,000 scale (2 x 1 degree series), published by the U.S. Geological Survey. Field checked in 1956; last revised in 1964; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 20.1 x 37.3 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Hillsborough County, Florida",
+    "Manatee County, Florida",
+    "Sarasota County, Florida",
+    "Lee County, Florida",
+    "Pinellas County, Florida",
+    "Charlotte County, Florida",
+    "Polk County, Florida",
+    "DeSoto County, Florida",
+    "Hardee County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a42c5e4b00f54eb3f168d",
+    "urn:uuid:467b2484-0c74-5f6d-8d9e-11d4f9797657"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "2 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82 26,-82 28,-83 28,-83 26,-82 26))",
+  "dcat_bbox": "ENVELOPE(-83, -82, 28, 26)",
+  "dcat_centroid": "27,-82.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-348779",
+    "usgs-htmc-348788",
+    "usgs-htmc-348790",
+    "usgs-htmc-467557",
+    "usgs-htmc-467558"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Tampa_348789_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/250000/FL_Tampa_348789_1956_250000_geo.pdf\",\"label\":\"GeoPDF (11.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Tampa_348789_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/250000/FL_Tampa_348789_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a42c5e4b00f54eb3f168d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/250000/FL_Tampa_348789_1956_250000_tn.jpg\"}"
+}

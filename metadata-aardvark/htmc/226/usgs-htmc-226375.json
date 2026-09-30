@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-226375",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Champion, OH 1960 (printed 1985)",
+  "dct_alternative_sm": [
+    "Champion"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Champion, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1960; aerial photographs from 1982; photo revised in 1984; last revised in 1984; printed in 1985.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Trumbull County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a23d3e4b00f54eb3be1cf",
+    "urn:uuid:2ae7b6fe-5a40-2c1d-6463-4c6f30ba5300"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.75 41.25,-80.75 41.375,-80.875 41.375,-80.875 41.25,-80.75 41.25))",
+  "dcat_bbox": "ENVELOPE(-80.875, -80.75, 41.375, 41.25)",
+  "dcat_centroid": "41.3125,-80.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224378",
+    "usgs-htmc-224379",
+    "usgs-htmc-224380",
+    "usgs-htmc-226376",
+    "usgs-htmc-226378"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Champion_226375_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Champion_226375_1960_24000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Champion_226375_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Champion_226375_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a23d3e4b00f54eb3be1cf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Champion_226375_1960_24000_tn.jpg\"}"
+}

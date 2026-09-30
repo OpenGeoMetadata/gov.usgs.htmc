@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-465400",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Caliente, CA 1914 (printed 1942)",
+  "dct_alternative_sm": [
+    "Caliente"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1914 edition of the Caliente, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1912; printed in 1942.",
+    "Variations: woodland tint. Sheet size: 17.43 x 22.69 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cc44408e4b09b8c0b77c6a5",
+    "urn:uuid:646b87cc-009e-0d91-7ff4-407e3cd63cdc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.5 35,-118.5 35.5,-119 35.5,-119 35,-118.5 35))",
+  "dcat_bbox": "ENVELOPE(-119, -118.5, 35.5, 35)",
+  "dcat_centroid": "35.25,-118.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299251",
+    "usgs-htmc-299252",
+    "usgs-htmc-299253",
+    "usgs-htmc-299254",
+    "usgs-htmc-299255",
+    "usgs-htmc-299256"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Caliente_465400_1914_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Caliente_465400_1914_125000_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Caliente_465400_1914_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Caliente_465400_1914_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cc44408e4b09b8c0b77c6a5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Caliente_465400_1914_125000_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-807994",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kennebago, ME 1990",
+  "dct_alternative_sm": [
+    "Kennebago"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the Kennebago, Maine, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1987; last revised in 1990; printed in 1990.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.5 x 27.3 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Oxford County, Maine",
+    "Franklin County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a48cae4b00f54eb3fc141",
+    "urn:uuid:bd755fe8-e263-c218-6f0a-f18c1f2e58bc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 45,-70.75 45.125,-70.875 45.125,-70.875 45,-70.75 45))",
+  "dcat_bbox": "ENVELOPE(-70.875, -70.75, 45.125, 45)",
+  "dcat_centroid": "45.0625,-70.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-105255",
+    "usgs-htmc-806806"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Kennebago_807994_1990_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Kennebago_807994_1990_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Kennebago_807994_1990_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/24000/ME_Kennebago_807994_1990_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a48cae4b00f54eb3fc141\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Kennebago_807994_1990_24000_tn.jpg\"}"
+}

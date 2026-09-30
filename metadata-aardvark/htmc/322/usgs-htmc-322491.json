@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-322491",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dillon, MO 1992 (printed 1995)",
+  "dct_alternative_sm": [
+    "Dillon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1992 edition of the Dillon, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1983; field checked in 1984; last revised in 1995; printed in 1995.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1992",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "Phelps County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24e4e4b00f54eb3bfc16",
+    "urn:uuid:c2dad12a-225b-8d0d-5929-0768e4b8e055"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.625 37.875,-91.625 38,-91.75 38,-91.75 37.875,-91.625 37.875))",
+  "dcat_bbox": "ENVELOPE(-91.75, -91.625, 38, 37.875)",
+  "dcat_centroid": "37.9375,-91.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-322486",
+    "usgs-htmc-322487",
+    "usgs-htmc-322488",
+    "usgs-htmc-322489",
+    "usgs-htmc-322490"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Dillon_322491_1992_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Dillon_322491_1992_24000_geo.pdf\",\"label\":\"GeoPDF (15.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Dillon_322491_1992_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Dillon_322491_1992_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24e4e4b00f54eb3bfc16\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Dillon_322491_1992_24000_tn.jpg\"}"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-232845",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dome Peak, CO 1977 (printed 1978)",
+  "dct_alternative_sm": [
+    "Dome Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1977 edition of the Dome Peak, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1965; field checked in 1974; last revised in 1977; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1977",
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_dateRange_drsim": [
+    "[1965 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Garfield County, Colorado",
+    "Eagle County, Colorado",
+    "Routt County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a380fe4b00f54eb3df79d",
+    "urn:uuid:49591ff4-4f45-50e5-74c8-80cf49b05769"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 39.875,-107 40,-107.125 40,-107.125 39.875,-107 39.875))",
+  "dcat_bbox": "ENVELOPE(-107.125, -107, 40, 39.875)",
+  "dcat_centroid": "39.9375,-107.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Dome%20Peak_232845_1977_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Dome%20Peak_232845_1977_24000_geo.pdf\",\"label\":\"GeoPDF (13.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Dome%20Peak_232845_1977_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Dome_Peak_232845_1977_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a380fe4b00f54eb3df79d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Dome%20Peak_232845_1977_24000_tn.jpg\"}"
+}

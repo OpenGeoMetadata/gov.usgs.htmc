@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-253810",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Ravenswood, WV 1908 (printed 1919)",
+  "dct_alternative_sm": [
+    "Ravenswood"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1908 edition of the Ravenswood, West Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1906; printed in 1919.",
+    "Sheet size: 16.8 x 20.7 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2751e4b00f54eb3c3a97",
+    "urn:uuid:713c914a-0cf0-238e-8fd7-0a1d485a0cb3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.75 38.75,-81.75 39,-82 39,-82 38.75,-81.75 38.75))",
+  "dcat_bbox": "ENVELOPE(-82, -81.75, 39, 38.75)",
+  "dcat_centroid": "38.875,-81.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253809",
+    "usgs-htmc-253811",
+    "usgs-htmc-253814",
+    "usgs-htmc-253815",
+    "usgs-htmc-701352"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Ravenswood_253810_1908_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Ravenswood_253810_1908_62500_geo.pdf\",\"label\":\"GeoPDF (13.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Ravenswood_253810_1908_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/62500/WV_Ravenswood_253810_1908_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2751e4b00f54eb3c3a97\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Ravenswood_253810_1908_62500_tn.jpg\"}"
+}

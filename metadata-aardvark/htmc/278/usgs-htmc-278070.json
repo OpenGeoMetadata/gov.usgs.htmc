@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-278070",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Cross Village, MI 1958 (printed 1977)",
+  "dct_alternative_sm": [
+    "Cross Village"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Cross Village, Michigan, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1958; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 15.5 x 21.6 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Emmet County, Michigan",
+    "Charlevoix County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a389be4b00f54eb3e070b",
+    "urn:uuid:71aa1997-9753-e939-ca61-96b8f8db898c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85 45.5,-85 45.75,-85.25 45.75,-85.25 45.5,-85 45.5))",
+  "dcat_bbox": "ENVELOPE(-85.25, -85, 45.75, 45.5)",
+  "dcat_centroid": "45.625,-85.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-278069"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Cross%20Village_278070_1958_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/62500/MI_Cross%20Village_278070_1958_62500_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Cross%20Village_278070_1958_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/62500/MI_Cross_Village_278070_1958_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a389be4b00f54eb3e070b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/62500/MI_Cross%20Village_278070_1958_62500_tn.jpg\"}"
+}

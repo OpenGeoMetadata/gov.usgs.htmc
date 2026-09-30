@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-9475840",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Big Bend Dam, SD 1985 (printed 1986)",
+  "dct_alternative_sm": [
+    "Big Bend Dam"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1985 edition of the Big Bend Dam, South Dakota, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; last revised in 1985; printed in 1986.",
+    "Variations: woodland tint, planimetric. Sheet size: 40.49 x 24.31 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1985",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "gbl_indexYear_im": [
+    1985
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Hughes County, South Dakota",
+    "Hyde County, South Dakota",
+    "Buffalo County, South Dakota",
+    "Hand County, South Dakota",
+    "Lyman County, South Dakota",
+    "Stanley County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65fe37f3d34e64ff1548da0a",
+    "urn:uuid:dbfa2f1b-e616-6611-2ba1-e1226eaf7633"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-99 44,-99 44.5,-100 44.5,-100 44,-99 44))",
+  "dcat_bbox": "ENVELOPE(-100, -99, 44.5, 44)",
+  "dcat_centroid": "44.25,-99.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-344661"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-03-22T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Big%20Bend%20Dam_9475840_1985_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/100000/SD_Big%20Bend%20Dam_9475840_1985_100000_geo.pdf\",\"label\":\"GeoPDF (19.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Big%20Bend%20Dam_9475840_1985_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/100000/SD_Big_Bend_Dam_9475840_1985_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65fe37f3d34e64ff1548da0a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/100000/SD_Big%20Bend%20Dam_9475840_1985_100000_tn.jpg\"}"
+}

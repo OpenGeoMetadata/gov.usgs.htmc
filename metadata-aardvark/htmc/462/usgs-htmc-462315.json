@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-462315",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tutuila Island, AS 1989",
+  "dct_alternative_sm": [
+    "Tutuila Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1989 edition of the Tutuila Island, American Samoa, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1987; last revised in 1989; printed in 1989.",
+    "Variations: woodland tint. Sheet size: 57.8 x 32 inches. Printed projection: Universal Transverse Mercator; horizontal datum: American Samoa of 1962. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1989",
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Eastern, American Samoa",
+    "Western, American Samoa",
+    "American Samoa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a526ae4b00f54eb40d9d4",
+    "urn:uuid:1d31fdb5-a2d3-4e6b-2582-f001ee071932"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-170.5333333 -14.3833333,-170.5333333 -14.2166667,-170.85 -14.2166667,-170.85 -14.3833333,-170.5333333 -14.3833333))",
+  "dcat_bbox": "ENVELOPE(-170.85, -170.5333333, -14.2166667, -14.3833333)",
+  "dcat_centroid": "-14.3,-170.69166665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-462312"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AS/AS_Tutuila%20Island_462315_1989_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AS/24000/AS_Tutuila%20Island_462315_1989_24000_geo.pdf\",\"label\":\"GeoPDF (66.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AS/AS_Tutuila%20Island_462315_1989_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AS/24000/AS_Tutuila_Island_462315_1989_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a526ae4b00f54eb40d9d4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AS/24000/AS_Tutuila%20Island_462315_1989_24000_tn.jpg\"}"
+}

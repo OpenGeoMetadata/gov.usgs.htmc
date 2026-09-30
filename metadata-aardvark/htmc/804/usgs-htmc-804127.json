@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-804127",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Big Clifty, KY 1932",
+  "dct_alternative_sm": [
+    "Big Clifty"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Big Clifty, Kentucky, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1928.",
+    "Variations: woodland tint. Sheet size: 16.2 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Hardin County, Kentucky",
+    "Grayson County, Kentucky",
+    "Breckinridge County, Kentucky",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4eaae4b00f54eb40640a",
+    "urn:uuid:eaa24f76-9c74-6c24-7ada-c6b395a3b11e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86 37.5,-86 37.75,-86.25 37.75,-86.25 37.5,-86 37.5))",
+  "dcat_bbox": "ENVELOPE(-86.25, -86, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-86.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-708163",
+    "usgs-htmc-708165",
+    "usgs-htmc-803327",
+    "usgs-htmc-803328",
+    "usgs-htmc-803329"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Big%20Clifty_804127_1932_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Big%20Clifty_804127_1932_62500_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Big%20Clifty_804127_1932_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/62500/KY_Big_Clifty_804127_1932_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4eaae4b00f54eb40640a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Big%20Clifty_804127_1932_62500_tn.jpg\"}"
+}

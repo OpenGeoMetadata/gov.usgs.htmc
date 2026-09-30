@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-361374",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for St Lawrence, AK 1948 (printed 1958)",
+  "dct_alternative_sm": [
+    "St Lawrence"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the St Lawrence, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1948; printed in 1958.",
+    "Variations: shaded relief. Sheet size: 30.6 x 22.6 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Nome Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b1de4b00f54eb3e46e2",
+    "urn:uuid:c1627220-f8ea-e482-6323-b8a8aceddfd5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-168.5 62.8666667,-168.5 63.8666667,-172 63.8666667,-172 62.8666667,-168.5 62.8666667))",
+  "dcat_bbox": "ENVELOPE(-172, -168.5, 63.8666667, 62.8666667)",
+  "dcat_centroid": "63.3666667,-170.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361371",
+    "usgs-htmc-361377",
+    "usgs-htmc-361378",
+    "usgs-htmc-361379",
+    "usgs-htmc-464128",
+    "usgs-htmc-464130",
+    "usgs-htmc-464131",
+    "usgs-htmc-464132",
+    "usgs-htmc-464133"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_St%20Lawrence_361374_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_St%20Lawrence_361374_1948_250000_geo.pdf\",\"label\":\"GeoPDF (30.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_St%20Lawrence_361374_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_St_Lawrence_361374_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b1de4b00f54eb3e46e2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_St%20Lawrence_361374_1948_250000_tn.jpg\"}"
+}

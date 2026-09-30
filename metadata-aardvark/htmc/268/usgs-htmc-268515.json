@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-268515",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Cherry Ridge, MT 1913 (printed 1946)",
+  "dct_alternative_sm": [
+    "Cherry Ridge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1913 edition of the Cherry Ridge, Montana, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1910; printed in 1946.",
+    "Sheet size: 17.1 x 20.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Blaine County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b03e4b00f54eb3c971f",
+    "urn:uuid:e2a1b941-fd7c-aa09-eb9c-72d74f580310"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.5 48.5,-108.5 49,-109 49,-109 48.5,-108.5 48.5))",
+  "dcat_bbox": "ENVELOPE(-109, -108.5, 49, 48.5)",
+  "dcat_centroid": "48.75,-108.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268513",
+    "usgs-htmc-268514"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Cherry%20Ridge_268515_1913_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Cherry%20Ridge_268515_1913_125000_geo.pdf\",\"label\":\"GeoPDF (10.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Cherry%20Ridge_268515_1913_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/125000/MT_Cherry_Ridge_268515_1913_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b03e4b00f54eb3c971f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Cherry%20Ridge_268515_1913_125000_tn.jpg\"}"
+}

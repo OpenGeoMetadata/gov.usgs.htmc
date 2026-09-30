@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-315579",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Prescott, AZ 1954 (printed 1973)",
+  "dct_alternative_sm": [
+    "Prescott"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Prescott, Arizona, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. military. Aerial photographs from 1954; field checked in 1954; last revised in 1970; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 32 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Yavapai County, Arizona",
+    "Mohave County, Arizona",
+    "La Paz County, Arizona",
+    "Coconino County, Arizona",
+    "Maricopa County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f14e4b00f54eb3eb195",
+    "urn:uuid:d2da4729-6df7-f0d5-183e-4f451e6dc6e7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 34,-112 35,-114 35,-114 34,-112 34))",
+  "dcat_bbox": "ENVELOPE(-114, -112, 35, 34)",
+  "dcat_centroid": "34.5,-113",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315573",
+    "usgs-htmc-315574",
+    "usgs-htmc-315575",
+    "usgs-htmc-315576",
+    "usgs-htmc-315577",
+    "usgs-htmc-464835",
+    "usgs-htmc-464836",
+    "usgs-htmc-464837",
+    "usgs-htmc-707530",
+    "usgs-htmc-707531"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Prescott_315579_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Prescott_315579_1954_250000_geo.pdf\",\"label\":\"GeoPDF (21.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Prescott_315579_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/250000/AZ_Prescott_315579_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f14e4b00f54eb3eb195\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Prescott_315579_1954_250000_tn.jpg\"}"
+}

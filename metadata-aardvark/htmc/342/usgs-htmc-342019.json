@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-342019",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Como Ridge, WY 1915",
+  "dct_alternative_sm": [
+    "Como Ridge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1915 edition of the Como Ridge, Wyoming, topographic map at 1:48,000 scale (15 x 15 minute series). Surveyed in 1915.",
+    "Release: Advance. Sheet size: 20.5 x 27.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "1915",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    1915
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "dct_spatial_sm": [
+    "Carbon County, Wyoming",
+    "Albany County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a512de4b00f54eb40b351",
+    "urn:uuid:185dfb79-3bdd-10a9-74a0-6685eeb953b7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 41.75,-106 42,-106.25 42,-106.25 41.75,-106 41.75))",
+  "dcat_bbox": "ENVELOPE(-106.25, -106, 42, 41.75)",
+  "dcat_centroid": "41.875,-106.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-342065",
+    "usgs-htmc-342066",
+    "usgs-htmc-342067"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Como%20Ridge_342019_1915_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/48000/WY_Como%20Ridge_342019_1915_48000_geo.pdf\",\"label\":\"GeoPDF (14.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Como%20Ridge_342019_1915_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/48000/WY_Como_Ridge_342019_1915_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a512de4b00f54eb40b351\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/48000/WY_Como%20Ridge_342019_1915_48000_tn.jpg\"}"
+}

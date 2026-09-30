@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-352940",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Pittsfield, MA 1897 (printed 1908)",
+  "dct_alternative_sm": [
+    "Pittsfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Pittsfield, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1888; printed in 1908.",
+    "Sheet size: 15.8 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f07e4b00f54eb3d00d1",
+    "urn:uuid:7cbf818c-8592-4860-68c4-ad866b269ea4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.25 42.25,-73.25 42.5,-73.5 42.5,-73.5 42.25,-73.25 42.25))",
+  "dcat_bbox": "ENVELOPE(-73.5, -73.25, 42.5, 42.25)",
+  "dcat_centroid": "42.375,-73.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-352928",
+    "usgs-htmc-352931",
+    "usgs-htmc-352932",
+    "usgs-htmc-352934",
+    "usgs-htmc-352935",
+    "usgs-htmc-352936",
+    "usgs-htmc-352937",
+    "usgs-htmc-352938",
+    "usgs-htmc-352939",
+    "usgs-htmc-352942",
+    "usgs-htmc-352943",
+    "usgs-htmc-352944",
+    "usgs-htmc-352945",
+    "usgs-htmc-463012"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Pittsfield_352940_1897_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Pittsfield_352940_1897_62500_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Pittsfield_352940_1897_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Pittsfield_352940_1897_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f07e4b00f54eb3d00d1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Pittsfield_352940_1897_62500_tn.jpg\"}"
+}

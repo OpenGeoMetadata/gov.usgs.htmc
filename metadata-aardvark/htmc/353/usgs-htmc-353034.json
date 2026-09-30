@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-353034",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Springfield, MA 1895 (printed 1940)",
+  "dct_alternative_sm": [
+    "Springfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1895 edition of the Springfield, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1940.",
+    "Sheet size: 15.8 x 19.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1895",
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "gbl_indexYear_im": [
+    1895
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f25e4b00f54eb3d0430",
+    "urn:uuid:124e90e1-9f5e-bf7f-3a68-f96061748cd6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.5 42,-72.5 42.25,-72.75 42.25,-72.75 42,-72.5 42))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.5, 42.25, 42)",
+  "dcat_centroid": "42.125,-72.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353036",
+    "usgs-htmc-353037",
+    "usgs-htmc-353039",
+    "usgs-htmc-353041",
+    "usgs-htmc-353043",
+    "usgs-htmc-353044",
+    "usgs-htmc-353045",
+    "usgs-htmc-353049",
+    "usgs-htmc-353052",
+    "usgs-htmc-353053",
+    "usgs-htmc-353054",
+    "usgs-htmc-353055",
+    "usgs-htmc-353056",
+    "usgs-htmc-463076"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Springfield_353034_1895_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Springfield_353034_1895_62500_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Springfield_353034_1895_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Springfield_353034_1895_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f25e4b00f54eb3d0430\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Springfield_353034_1895_62500_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-185726",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Loretto, VA 1968 (printed 1978)",
+  "dct_alternative_sm": [
+    "Loretto"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Loretto, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1968; photo revised in 1978; last revised in 1978; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Essex County, Virginia",
+    "Westmoreland County, Virginia",
+    "Caroline County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a34d9e4b00f54eb3da3aa",
+    "urn:uuid:615ab782-f9c8-de63-dd67-b17e20026f14"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77 38,-77 38.125,-77.125 38.125,-77.125 38,-77 38))",
+  "dcat_bbox": "ENVELOPE(-77.125, -77, 38.125, 38)",
+  "dcat_centroid": "38.0625,-77.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-185724",
+    "usgs-htmc-185725",
+    "usgs-htmc-185727",
+    "usgs-htmc-186183",
+    "usgs-htmc-187512"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Loretto_185726_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Loretto_185726_1968_24000_geo.pdf\",\"label\":\"GeoPDF (12.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Loretto_185726_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Loretto_185726_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a34d9e4b00f54eb3da3aa\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Loretto_185726_1968_24000_tn.jpg\"}"
+}

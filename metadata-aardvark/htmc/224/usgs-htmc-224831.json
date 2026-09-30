@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-224831",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Athalia, OH 1968 (printed 1970)",
+  "dct_alternative_sm": [
+    "Athalia"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Athalia, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1967; field checked in 1968; printed in 1970.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "West Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2313e4b00f54eb3bd4b3",
+    "urn:uuid:f2c79114-86fb-0125-ea6a-2113089add90"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 38.5,-82.25 38.625,-82.375 38.625,-82.375 38.5,-82.25 38.5))",
+  "dcat_bbox": "ENVELOPE(-82.375, -82.25, 38.625, 38.5)",
+  "dcat_centroid": "38.5625,-82.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224830",
+    "usgs-htmc-224832",
+    "usgs-htmc-226251",
+    "usgs-htmc-226252",
+    "usgs-htmc-226253",
+    "usgs-htmc-474335"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Athalia_224831_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Athalia_224831_1968_24000_geo.pdf\",\"label\":\"GeoPDF (15.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Athalia_224831_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Athalia_224831_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2313e4b00f54eb3bd4b3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Athalia_224831_1968_24000_tn.jpg\"}"
+}

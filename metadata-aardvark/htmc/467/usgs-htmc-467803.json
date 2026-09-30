@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-467803",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Pembroke, GA 1920",
+  "dct_alternative_sm": [
+    "Pembroke"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1920 edition of the Pembroke, Georgia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1919.",
+    "Sheet size: 16.73 x 19.98 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Bryan County, Georgia",
+    "Bulloch County, Georgia",
+    "Liberty County, Georgia",
+    "Evans County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e19240ce4b0ecf25c5c2f39",
+    "urn:uuid:f0c4db58-c8d7-b0ef-4b25-094af9e72bf2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.5 32,-81.5 32.25,-81.75 32.25,-81.75 32,-81.5 32))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.5, 32.25, 32)",
+  "dcat_centroid": "32.125,-81.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247538",
+    "usgs-htmc-247539",
+    "usgs-htmc-247540",
+    "usgs-htmc-247541",
+    "usgs-htmc-247542"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Pembroke_467803_1920_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Pembroke_467803_1920_62500_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Pembroke_467803_1920_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/62500/GA_Pembroke_467803_1920_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e19240ce4b0ecf25c5c2f39\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Pembroke_467803_1920_62500_tn.jpg\"}"
+}

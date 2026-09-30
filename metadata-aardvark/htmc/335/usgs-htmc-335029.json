@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-335029",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for St. Bernard, LA 1892 (printed 1905)",
+  "dct_alternative_sm": [
+    "St. Bernard"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the St. Bernard, Louisiana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1905.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "St. Bernard Parish, Louisiana",
+    "Plaquemines Parish, Louisiana",
+    "Orleans Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e74e4b00f54eb405e10",
+    "urn:uuid:0629e66c-40ac-3ab9-0458-79ae15501eb3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 29.75,-89.75 30,-90 30,-90 29.75,-89.75 29.75))",
+  "dcat_bbox": "ENVELOPE(-90, -89.75, 30, 29.75)",
+  "dcat_centroid": "29.875,-89.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335027",
+    "usgs-htmc-335028",
+    "usgs-htmc-335030",
+    "usgs-htmc-335032",
+    "usgs-htmc-335033",
+    "usgs-htmc-335034"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_St%20Bernard_335029_1892_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_St%20Bernard_335029_1892_62500_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_St%20Bernard_335029_1892_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/62500/LA_St_Bernard_335029_1892_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e74e4b00f54eb405e10\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_St%20Bernard_335029_1892_62500_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-351907",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Monomoy Point, MA 1953 (printed 1954)",
+  "dct_alternative_sm": [
+    "Monomoy Point"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Monomoy Point, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1940; last revised in 1953; printed in 1954.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Barnstable County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a66e4b00f54eb3e33f3",
+    "urn:uuid:333275d6-83bc-52fc-a4df-223647428078"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-69.9583333 41.5,-69.9583333 41.625,-70.0833333 41.625,-70.0833333 41.5,-69.9583333 41.5))",
+  "dcat_bbox": "ENVELOPE(-70.0833333, -69.9583333, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-70.0208333",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350299",
+    "usgs-htmc-350300",
+    "usgs-htmc-350301",
+    "usgs-htmc-350302",
+    "usgs-htmc-350303",
+    "usgs-htmc-351108",
+    "usgs-htmc-351109",
+    "usgs-htmc-351110",
+    "usgs-htmc-351905",
+    "usgs-htmc-351906"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Monomoy%20Point_351907_1953_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Monomoy%20Point_351907_1953_31680_geo.pdf\",\"label\":\"GeoPDF (4.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Monomoy%20Point_351907_1953_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Monomoy_Point_351907_1953_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a66e4b00f54eb3e33f3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Monomoy%20Point_351907_1953_31680_tn.jpg\"}"
+}

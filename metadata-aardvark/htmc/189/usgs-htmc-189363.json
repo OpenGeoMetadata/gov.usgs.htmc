@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-189363",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Las Cruces, NM 1893 (printed 1908)",
+  "dct_alternative_sm": [
+    "Las Cruces"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Las Cruces, New Mexico, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1891; printed in 1908.",
+    "Sheet size: 16.6 x 20 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32cbe4b00f54eb3d5d75",
+    "urn:uuid:97eb7ff1-f4f7-0241-d106-3a728887bcfa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106.5 32,-106.5 32.5,-107 32.5,-107 32,-106.5 32))",
+  "dcat_bbox": "ENVELOPE(-107, -106.5, 32.5, 32)",
+  "dcat_centroid": "32.25,-106.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-189360",
+    "usgs-htmc-189361",
+    "usgs-htmc-189362",
+    "usgs-htmc-189364"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Las%20Cruces_189363_1893_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/125000/NM_Las%20Cruces_189363_1893_125000_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Las%20Cruces_189363_1893_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/125000/NM_Las_Cruces_189363_1893_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32cbe4b00f54eb3d5d75\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/125000/NM_Las%20Cruces_189363_1893_125000_tn.jpg\"}"
+}

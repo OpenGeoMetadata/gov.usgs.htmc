@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-362101",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Corozal, PR 1972 (printed 1974)",
+  "dct_alternative_sm": [
+    "Corozal"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Corozal, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1972; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 29.5 x 31.8 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Corozal, Puerto Rico",
+    "Naranjito, Puerto Rico",
+    "Toa Alta, Puerto Rico",
+    "Vega Alta, Puerto Rico",
+    "Morovis, Puerto Rico",
+    "Orocovis, Puerto Rico",
+    "Vega Baja, Puerto Rico",
+    "Comerío, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a8be4b00f54eb3fefac",
+    "urn:uuid:d054941d-2570-e69e-c531-d0d58b5123f5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.25 18.25,-66.25 18.375,-66.375 18.375,-66.375 18.25,-66.25 18.25))",
+  "dcat_bbox": "ENVELOPE(-66.375, -66.25, 18.375, 18.25)",
+  "dcat_centroid": "18.3125,-66.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362099",
+    "usgs-htmc-362100",
+    "usgs-htmc-362102",
+    "usgs-htmc-362391",
+    "usgs-htmc-362392",
+    "usgs-htmc-362393",
+    "usgs-htmc-362394",
+    "usgs-htmc-475475",
+    "usgs-htmc-475476"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Corozal_362101_1972_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Corozal_362101_1972_20000_geo.pdf\",\"label\":\"GeoPDF (29.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Corozal_362101_1972_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Corozal_362101_1972_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a8be4b00f54eb3fefac\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Corozal_362101_1972_20000_tn.jpg\"}"
+}

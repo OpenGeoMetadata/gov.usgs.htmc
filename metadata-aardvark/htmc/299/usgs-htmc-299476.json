@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-299476",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Mt. Goddard, CA 1912 (printed 1940)",
+  "dct_alternative_sm": [
+    "Mt. Goddard"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1912 edition of the Mt. Goddard, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1909; printed in 1940.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Fresno County, California",
+    "Inyo County, California",
+    "Mono County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a53b4e4b00f54eb4102eb",
+    "urn:uuid:f06bc271-059a-7364-e7ab-fc9f3a43a723"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.5 37,-118.5 37.5,-119 37.5,-119 37,-118.5 37))",
+  "dcat_bbox": "ENVELOPE(-119, -118.5, 37.5, 37)",
+  "dcat_centroid": "37.25,-118.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299469",
+    "usgs-htmc-299470",
+    "usgs-htmc-299471",
+    "usgs-htmc-299472",
+    "usgs-htmc-299473",
+    "usgs-htmc-299474",
+    "usgs-htmc-299477",
+    "usgs-htmc-299478",
+    "usgs-htmc-299479"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Mt%20Goddard_299476_1912_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Mt%20Goddard_299476_1912_125000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Mt%20Goddard_299476_1912_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Mt_Goddard_299476_1912_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a53b4e4b00f54eb4102eb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Mt%20Goddard_299476_1912_125000_tn.jpg\"}"
+}

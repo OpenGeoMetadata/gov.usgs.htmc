@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-801505",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Denzer, WI 1901 (printed 1948)",
+  "dct_alternative_sm": [
+    "Denzer"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Denzer, Wisconsin, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1898; printed in 1948.",
+    "Sheet size: 17.32 x 21.22 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Sauk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a304ee4b00f54eb3d218d",
+    "urn:uuid:f7a0f5b3-f4bc-57e7-4ddd-0605be4a6fda"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.75 43.25,-89.75 43.5,-90 43.5,-90 43.25,-89.75 43.25))",
+  "dcat_bbox": "ENVELOPE(-90, -89.75, 43.5, 43.25)",
+  "dcat_centroid": "43.375,-89.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-700052",
+    "usgs-htmc-801146",
+    "usgs-htmc-801147",
+    "usgs-htmc-801149",
+    "usgs-htmc-801506",
+    "usgs-htmc-802915",
+    "usgs-htmc-802916",
+    "usgs-htmc-802917",
+    "usgs-htmc-803251",
+    "usgs-htmc-803252"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Denzer_801505_1901_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Denzer_801505_1901_62500_geo.pdf\",\"label\":\"GeoPDF (5.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Denzer_801505_1901_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/62500/WI_Denzer_801505_1901_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a304ee4b00f54eb3d218d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/62500/WI_Denzer_801505_1901_62500_tn.jpg\"}"
+}

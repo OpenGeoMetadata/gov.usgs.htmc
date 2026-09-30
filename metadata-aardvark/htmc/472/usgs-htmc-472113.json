@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-472113",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Clear Springs, MO 1948",
+  "dct_alternative_sm": [
+    "Clear Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Clear Springs, Missouri, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 17.11 x 21.29 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Texas County, Missouri",
+    "Howell County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d011579e4b0573a18f77994",
+    "urn:uuid:84b73b63-2023-67d3-0369-fb4d03ec0ed6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.75 37,-91.75 37.25,-92 37.25,-92 37,-91.75 37))",
+  "dcat_bbox": "ENVELOPE(-92, -91.75, 37.25, 37)",
+  "dcat_centroid": "37.125,-91.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324805",
+    "usgs-htmc-324806",
+    "usgs-htmc-324807"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Clear%20Springs_472113_1948_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Clear%20Springs_472113_1948_62500_geo.pdf\",\"label\":\"GeoPDF (11.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Clear%20Springs_472113_1948_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/62500/MO_Clear_Springs_472113_1948_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d011579e4b0573a18f77994\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Clear%20Springs_472113_1948_62500_tn.jpg\"}"
+}

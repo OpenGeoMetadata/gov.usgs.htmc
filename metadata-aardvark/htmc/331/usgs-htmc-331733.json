@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-331733",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Comite, LA 1996 (printed 1999)",
+  "dct_alternative_sm": [
+    "Comite"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1996 edition of the Comite, Louisiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1996; printed in 1999.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_dateRange_drsim": [
+    "[1996 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "East Baton Rouge Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c29e4b00f54eb3e64b7",
+    "urn:uuid:f16626a4-fafa-9fa0-380c-7488541bfc8d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91 30.5,-91 30.625,-91.125 30.625,-91.125 30.5,-91 30.5))",
+  "dcat_bbox": "ENVELOPE(-91.125, -91, 30.625, 30.5)",
+  "dcat_centroid": "30.5625,-91.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-331726",
+    "usgs-htmc-331727",
+    "usgs-htmc-331728",
+    "usgs-htmc-331729",
+    "usgs-htmc-331730",
+    "usgs-htmc-331731",
+    "usgs-htmc-331732"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Comite_331733_1996_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Comite_331733_1996_24000_geo.pdf\",\"label\":\"GeoPDF (11.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Comite_331733_1996_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/24000/LA_Comite_331733_1996_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c29e4b00f54eb3e64b7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Comite_331733_1996_24000_tn.jpg\"}"
+}

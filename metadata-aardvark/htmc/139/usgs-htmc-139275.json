@@ -1,0 +1,87 @@
+{
+  "id": "usgs-htmc-139275",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bolton, NY 1897",
+  "dct_alternative_sm": [
+    "Bolton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Bolton, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1895.",
+    "Sheet size: 15.6 x 20.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Warren County, New York",
+    "Washington County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32c4e4b00f54eb3d5cde",
+    "urn:uuid:9a83230f-6ed0-74b2-a988-15d299f086a7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.5 43.5,-73.5 43.75,-73.75 43.75,-73.75 43.5,-73.5 43.5))",
+  "dcat_bbox": "ENVELOPE(-73.75, -73.5, 43.75, 43.5)",
+  "dcat_centroid": "43.625,-73.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123341",
+    "usgs-htmc-123342",
+    "usgs-htmc-123343",
+    "usgs-htmc-123345",
+    "usgs-htmc-123348",
+    "usgs-htmc-123349",
+    "usgs-htmc-123350",
+    "usgs-htmc-123353",
+    "usgs-htmc-139276",
+    "usgs-htmc-139277",
+    "usgs-htmc-139278",
+    "usgs-htmc-139279",
+    "usgs-htmc-139280",
+    "usgs-htmc-139281",
+    "usgs-htmc-139282",
+    "usgs-htmc-139283",
+    "usgs-htmc-139285"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Bolton_139275_1897_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Bolton_139275_1897_62500_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Bolton_139275_1897_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Bolton_139275_1897_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32c4e4b00f54eb3d5cde\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Bolton_139275_1897_62500_tn.jpg\"}"
+}

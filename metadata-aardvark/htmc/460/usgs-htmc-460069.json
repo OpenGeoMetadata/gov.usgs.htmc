@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-460069",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Weare, NH 1967 (printed 1985)",
+  "dct_alternative_sm": [
+    "Weare"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Weare, New Hampshire, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1967; field checked in 1967; photo revised in 1985; last revised in 1985; printed in 1985.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.6 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1985]"
+  ],
+  "dct_spatial_sm": [
+    "Hillsborough County, New Hampshire",
+    "Merrimack County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f57e4b00f54eb40785d",
+    "urn:uuid:b0078395-1d7c-766a-38b7-b7017f9cd7dd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.625 43,-71.625 43.125,-71.75 43.125,-71.75 43,-71.625 43))",
+  "dcat_bbox": "ENVELOPE(-71.75, -71.625, 43.125, 43)",
+  "dcat_centroid": "43.0625,-71.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-329850",
+    "usgs-htmc-329851",
+    "usgs-htmc-329852"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Weare_460069_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Weare_460069_1967_24000_geo.pdf\",\"label\":\"GeoPDF (14.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Weare_460069_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/24000/NH_Weare_460069_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f57e4b00f54eb40785d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Weare_460069_1967_24000_tn.jpg\"}"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-298954",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Santa Monica, CA 1921",
+  "dct_alternative_sm": [
+    "Santa Monica"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Santa Monica, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the U.S. military. Aerial photographs from 1919; last revised in 1920; printed in 1921.",
+    "Variations: woodland tint. Sheet size: 16.7 x 20.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Los Angeles County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a427be4b00f54eb3f0dbb",
+    "urn:uuid:88e43396-30de-008a-6530-ab894459ace4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.25 34,-118.25 34.25,-118.5 34.25,-118.5 34,-118.25 34))",
+  "dcat_bbox": "ENVELOPE(-118.5, -118.25, 34.25, 34)",
+  "dcat_centroid": "34.125,-118.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-298946",
+    "usgs-htmc-298947",
+    "usgs-htmc-298948",
+    "usgs-htmc-298949",
+    "usgs-htmc-298950",
+    "usgs-htmc-298951",
+    "usgs-htmc-298952",
+    "usgs-htmc-298953",
+    "usgs-htmc-466370"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Santa%20Monica_298954_1921_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Santa%20Monica_298954_1921_62500_geo.pdf\",\"label\":\"GeoPDF (10.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Santa%20Monica_298954_1921_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Santa_Monica_298954_1921_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a427be4b00f54eb3f0dbb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Santa%20Monica_298954_1921_62500_tn.jpg\"}"
+}

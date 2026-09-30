@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-293341",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mt. Morgan, CA 1982 (printed 1986)",
+  "dct_alternative_sm": [
+    "Mt. Morgan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1982 edition of the Mt. Morgan, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; field checked in 1978; last revised in 1982; printed in 1986.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.6 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1982",
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Inyo County, California",
+    "Mono County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a31f1e4b00f54eb3d4a05",
+    "urn:uuid:f686c884-85df-c4d3-4796-e92e03f89928"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.625 37.375,-118.625 37.5,-118.75 37.5,-118.75 37.375,-118.625 37.375))",
+  "dcat_bbox": "ENVELOPE(-118.75, -118.625, 37.5, 37.375)",
+  "dcat_centroid": "37.4375,-118.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102293",
+    "usgs-htmc-293340",
+    "usgs-htmc-293342"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Mt%20Morgan_293341_1982_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Mt%20Morgan_293341_1982_24000_geo.pdf\",\"label\":\"GeoPDF (15.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Mt%20Morgan_293341_1982_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Mt_Morgan_293341_1982_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a31f1e4b00f54eb3d4a05\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Mt%20Morgan_293341_1982_24000_tn.jpg\"}"
+}

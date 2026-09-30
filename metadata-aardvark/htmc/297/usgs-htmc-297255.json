@@ -1,0 +1,89 @@
+{
+  "id": "usgs-htmc-297255",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Cucamonga, CA 1903 (printed 1939)",
+  "dct_alternative_sm": [
+    "Cucamonga"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Cucamonga, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1894; printed in 1939.",
+    "Sheet size: 16.6 x 19.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino County, California",
+    "Los Angeles County, California",
+    "Riverside County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4058e4b00f54eb3ed0c0",
+    "urn:uuid:48725b86-30a0-17ab-2383-9e8db9af5e96"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.5 34,-117.5 34.25,-117.75 34.25,-117.75 34,-117.5 34))",
+  "dcat_bbox": "ENVELOPE(-117.75, -117.5, 34.25, 34)",
+  "dcat_centroid": "34.125,-117.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297244",
+    "usgs-htmc-297245",
+    "usgs-htmc-297247",
+    "usgs-htmc-297249",
+    "usgs-htmc-297250",
+    "usgs-htmc-297251",
+    "usgs-htmc-297252",
+    "usgs-htmc-297253",
+    "usgs-htmc-297254",
+    "usgs-htmc-297256",
+    "usgs-htmc-298398",
+    "usgs-htmc-298399",
+    "usgs-htmc-298400",
+    "usgs-htmc-298401",
+    "usgs-htmc-465541",
+    "usgs-htmc-465542",
+    "usgs-htmc-465543",
+    "usgs-htmc-466062"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Cucamonga_297255_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Cucamonga_297255_1903_62500_geo.pdf\",\"label\":\"GeoPDF (9.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Cucamonga_297255_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Cucamonga_297255_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4058e4b00f54eb3ed0c0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Cucamonga_297255_1903_62500_tn.jpg\"}"
+}

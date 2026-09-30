@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-283306",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Burns, OR 1955 (printed 1972)",
+  "dct_alternative_sm": [
+    "Burns"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Burns, Oregon, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1953; field checked in 1955; last revised in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 28.9 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Harney County, Oregon",
+    "Malheur County, Oregon",
+    "Crook County, Oregon",
+    "Lake County, Oregon",
+    "Grant County, Oregon",
+    "Deschutes County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5473e4b00f54eb411a18",
+    "urn:uuid:e5e3e7c1-452d-a0f8-e809-3c98993164db"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 43,-118 44,-120 44,-120 43,-118 43))",
+  "dcat_bbox": "ENVELOPE(-120, -118, 44, 43)",
+  "dcat_centroid": "43.5,-119",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283303",
+    "usgs-htmc-283304",
+    "usgs-htmc-283305",
+    "usgs-htmc-463247"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Burns_283306_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Burns_283306_1955_250000_geo.pdf\",\"label\":\"GeoPDF (22.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Burns_283306_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/250000/OR_Burns_283306_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5473e4b00f54eb411a18\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Burns_283306_1955_250000_tn.jpg\"}"
+}

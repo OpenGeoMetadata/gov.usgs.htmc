@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-345865",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Dog Island, FL 1943",
+  "dct_alternative_sm": [
+    "Dog Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Dog Island, Florida, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department.",
+    "Variations: woodland tint. Sheet size: 17 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4cd1e4b00f54eb402ead",
+    "urn:uuid:dc24f2a5-24f0-5c0a-12fe-3cfb49a928a8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.5 29.75,-84.5 29.875,-84.625 29.875,-84.625 29.75,-84.5 29.75))",
+  "dcat_bbox": "ENVELOPE(-84.625, -84.5, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-84.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-345860",
+    "usgs-htmc-345861",
+    "usgs-htmc-345862",
+    "usgs-htmc-345863",
+    "usgs-htmc-345864",
+    "usgs-htmc-467361"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Dog%20Island_345865_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/31680/FL_Dog%20Island_345865_1943_31680_geo.pdf\",\"label\":\"GeoPDF (4.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Dog%20Island_345865_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/31680/FL_Dog_Island_345865_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4cd1e4b00f54eb402ead\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/31680/FL_Dog%20Island_345865_1943_31680_tn.jpg\"}"
+}

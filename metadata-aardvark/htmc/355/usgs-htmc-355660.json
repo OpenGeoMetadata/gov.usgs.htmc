@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-355660",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for False Pass D-6, AK 1989",
+  "dct_alternative_sm": [
+    "False Pass D-6"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1989 edition of the False Pass D-6, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1983; last revised in 1989; printed in 1989.",
+    "Release: Provisional. Sheet size: 18 x 21.7 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1989",
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Aleutians East, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51ade4b00f54eb40c2c4",
+    "urn:uuid:edb0dddd-9720-93d8-6b56-e41cb2c83b02"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-163.6666667 54.75,-163.6666667 55,-164 55,-164 54.75,-163.6666667 54.75))",
+  "dcat_bbox": "ENVELOPE(-164, -163.6666667, 55, 54.75)",
+  "dcat_centroid": "54.875,-163.83333335",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_False%20Pass%20D-6_355660_1989_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_False%20Pass%20D-6_355660_1989_63360_geo.pdf\",\"label\":\"GeoPDF (8.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_False%20Pass%20D-6_355660_1989_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_False_Pass_D6_355660_1989_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51ade4b00f54eb40c2c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_False%20Pass%20D-6_355660_1989_63360_tn.jpg\"}"
+}

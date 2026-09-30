@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-306496",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Buckfield, ME 1911 (printed 1958)",
+  "dct_alternative_sm": [
+    "Buckfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1911 edition of the Buckfield, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1911; printed in 1958.",
+    "Sheet size: 16.5 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Oxford County, Maine",
+    "Androscoggin County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4be7e4b00f54eb401504",
+    "urn:uuid:99d0c8de-ac57-fbf0-6280-c0d7bfe9a94a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.25 44.25,-70.25 44.5,-70.5 44.5,-70.5 44.25,-70.25 44.25))",
+  "dcat_bbox": "ENVELOPE(-70.5, -70.25, 44.5, 44.25)",
+  "dcat_centroid": "44.375,-70.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306495",
+    "usgs-htmc-460259",
+    "usgs-htmc-460260",
+    "usgs-htmc-460261",
+    "usgs-htmc-460262",
+    "usgs-htmc-807411"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Buckfield_306496_1911_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Buckfield_306496_1911_62500_geo.pdf\",\"label\":\"GeoPDF (8.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Buckfield_306496_1911_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Buckfield_306496_1911_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4be7e4b00f54eb401504\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Buckfield_306496_1911_62500_tn.jpg\"}"
+}

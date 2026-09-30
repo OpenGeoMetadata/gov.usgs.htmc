@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-804692",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Hibbing, MN 1954 (printed 1980)",
+  "dct_alternative_sm": [
+    "Hibbing"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Hibbing, Minnesota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1954; last revised in 1979; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 21.53 x 27.23 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis County, Minnesota",
+    "Itasca County, Minnesota",
+    "Koochiching County, Minnesota",
+    "Cass County, Minnesota",
+    "Aitkin County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ea8e4b00f54eb4063c7",
+    "urn:uuid:d0e2dcbb-ade8-9f1f-3d12-4f6c73d0bbd7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 47,-92 48,-94 48,-94 47,-92 47))",
+  "dcat_bbox": "ENVELOPE(-94, -92, 48, 47)",
+  "dcat_centroid": "47.5,-93",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-471383",
+    "usgs-htmc-804693",
+    "usgs-htmc-804694",
+    "usgs-htmc-804695",
+    "usgs-htmc-804696"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Hibbing_804692_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Hibbing_804692_1954_250000_geo.pdf\",\"label\":\"GeoPDF (13.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Hibbing_804692_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/250000/MN_Hibbing_804692_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ea8e4b00f54eb4063c7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/250000/MN_Hibbing_804692_1954_250000_tn.jpg\"}"
+}

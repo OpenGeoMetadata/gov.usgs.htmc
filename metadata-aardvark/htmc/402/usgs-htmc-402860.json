@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-402860",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Dillon, CO 1929 (printed 1955)",
+  "dct_alternative_sm": [
+    "Dillon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1929 edition of the Dillon, Colorado, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1929; printed in 1955.",
+    "Variations: woodland tint. Sheet size: 17 x 21.2 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Summit County, Colorado",
+    "Eagle County, Colorado",
+    "Grand County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3d70e4b00f54eb3e8c08",
+    "urn:uuid:4a0edfdb-e235-8fb3-0c16-2d5eda212f82"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 39.5,-106 39.75,-106.25 39.75,-106.25 39.5,-106 39.5))",
+  "dcat_bbox": "ENVELOPE(-106.25, -106, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-106.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-402858",
+    "usgs-htmc-402862",
+    "usgs-htmc-466873",
+    "usgs-htmc-466874"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Dillon_402860_1929_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Dillon_402860_1929_62500_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Dillon_402860_1929_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/62500/CO_Dillon_402860_1929_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3d70e4b00f54eb3e8c08\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Dillon_402860_1929_62500_tn.jpg\"}"
+}

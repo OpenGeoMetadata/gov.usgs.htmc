@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-296291",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Marcuse, CA 1910 (printed 1947)",
+  "dct_alternative_sm": [
+    "Marcuse"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Marcuse, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1908; printed in 1947.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Sutter County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51bae4b00f54eb40c424",
+    "urn:uuid:df91680d-3f29-a982-d777-af7806420fd6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.625 38.875,-121.625 39,-121.75 39,-121.75 38.875,-121.625 38.875))",
+  "dcat_bbox": "ENVELOPE(-121.75, -121.625, 39, 38.875)",
+  "dcat_centroid": "38.9375,-121.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-296289",
+    "usgs-htmc-296290",
+    "usgs-htmc-300760",
+    "usgs-htmc-300761",
+    "usgs-htmc-300762",
+    "usgs-htmc-300763"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Marcuse_296291_1910_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Marcuse_296291_1910_31680_geo.pdf\",\"label\":\"GeoPDF (4.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Marcuse_296291_1910_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Marcuse_296291_1910_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51bae4b00f54eb40c424\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Marcuse_296291_1910_31680_tn.jpg\"}"
+}

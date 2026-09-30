@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-353318",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Narragansett Pier, RI 1957 (printed 1973)",
+  "dct_alternative_sm": [
+    "Narragansett Pier"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Narragansett Pier, Rhode Island, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942; aerial photographs from 1970; photo revised in 1970; last revised in 1957; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 22.11 x 27.81 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Rhode Island",
+    "Newport County, Rhode Island",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e43e4b00f54eb3ea179",
+    "urn:uuid:d10ff0d1-9c5a-132c-7ac2-1544e0ab5ff8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.375 41.375,-71.375 41.5,-71.5 41.5,-71.5 41.375,-71.375 41.375))",
+  "dcat_bbox": "ENVELOPE(-71.5, -71.375, 41.5, 41.375)",
+  "dcat_centroid": "41.4375,-71.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353314",
+    "usgs-htmc-353315",
+    "usgs-htmc-353316",
+    "usgs-htmc-353317",
+    "usgs-htmc-353319",
+    "usgs-htmc-353425",
+    "usgs-htmc-353426",
+    "usgs-htmc-353427"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Narragansett%20Pier_353318_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Narragansett%20Pier_353318_1957_24000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Narragansett%20Pier_353318_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/RI/24000/RI_Narragansett_Pier_353318_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e43e4b00f54eb3ea179\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Narragansett%20Pier_353318_1957_24000_tn.jpg\"}"
+}

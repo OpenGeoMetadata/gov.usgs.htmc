@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-149062",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mansfield, TN 1936",
+  "dct_alternative_sm": [
+    "Mansfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1936 edition of the Mansfield, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Field checked in 1936.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 21.99 x 27.44 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "gbl_indexYear_im": [
+    1936
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1936]"
+  ],
+  "dct_spatial_sm": [
+    "Henry County, Tennessee",
+    "Carroll County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a41c9e4b00f54eb3efdb9",
+    "urn:uuid:c7bf634f-c045-c834-0645-01be5ad57280"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.25 36.125,-88.25 36.25,-88.375 36.25,-88.375 36.125,-88.25 36.125))",
+  "dcat_bbox": "ENVELOPE(-88.375, -88.25, 36.25, 36.125)",
+  "dcat_centroid": "36.1875,-88.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-148559",
+    "usgs-htmc-149064",
+    "usgs-htmc-149065"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Mansfield_149062_1936_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Mansfield_149062_1936_24000_geo.pdf\",\"label\":\"GeoPDF (8.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Mansfield_149062_1936_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Mansfield_149062_1936_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a41c9e4b00f54eb3efdb9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Mansfield_149062_1936_24000_tn.jpg\"}"
+}

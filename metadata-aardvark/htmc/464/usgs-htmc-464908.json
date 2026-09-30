@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-464908",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Whetstone, AZ 1926",
+  "dct_alternative_sm": [
+    "Whetstone"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1926 edition of the Whetstone, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers.",
+    "Sheet size: 16.42 x 22.08 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "gbl_indexYear_im": [
+    1926
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1926]"
+  ],
+  "dct_spatial_sm": [
+    "Cochise County, Arizona",
+    "Pima County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ca4f1efe4b0b8a7f6358503",
+    "urn:uuid:2d768ce8-045f-5d4b-69e4-a0801665c4f2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.25 31.75,-110.25 32,-110.5 32,-110.5 31.75,-110.25 31.75))",
+  "dcat_bbox": "ENVELOPE(-110.5, -110.25, 32, 31.75)",
+  "dcat_centroid": "31.875,-110.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-314361",
+    "usgs-htmc-314362",
+    "usgs-htmc-314363"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Whetstone_464908_1926_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Whetstone_464908_1926_62500_geo.pdf\",\"label\":\"GeoPDF (7.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Whetstone_464908_1926_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Whetstone_464908_1926_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ca4f1efe4b0b8a7f6358503\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Whetstone_464908_1926_62500_tn.jpg\"}"
+}

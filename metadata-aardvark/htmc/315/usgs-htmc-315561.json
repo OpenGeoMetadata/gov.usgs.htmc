@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-315561",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Nogales, AZ 1956 (printed 1973)",
+  "dct_alternative_sm": [
+    "Nogales"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Nogales, Arizona, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1955; field checked in 1956; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 34 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Cruz County, Arizona",
+    "Pima County, Arizona",
+    "Cochise County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f10e4b00f54eb3eb128",
+    "urn:uuid:a0589017-6e26-39ae-0861-afdc8c75e524"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110 31,-110 32,-112 32,-112 31,-110 31))",
+  "dcat_bbox": "ENVELOPE(-112, -110, 32, 31)",
+  "dcat_centroid": "31.5,-111",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315558",
+    "usgs-htmc-315559",
+    "usgs-htmc-315560",
+    "usgs-htmc-315562",
+    "usgs-htmc-464804"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Nogales_315561_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Nogales_315561_1956_250000_geo.pdf\",\"label\":\"GeoPDF (15.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Nogales_315561_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/250000/AZ_Nogales_315561_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f10e4b00f54eb3eb128\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Nogales_315561_1956_250000_tn.jpg\"}"
+}

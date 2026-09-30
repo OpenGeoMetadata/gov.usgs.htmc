@@ -1,0 +1,65 @@
+{
+  "id": "usgs-htmc-475386",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Okmulgee, OK 1900",
+  "dct_alternative_sm": [
+    "Okmulgee"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1900 edition of the Okmulgee, Oklahoma, topographic map at 1:125,000 scale, published by the U.S. Geological Survey. Surveyed in 1896.",
+    "Sheet size: 16.56 x 20.24 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65bc5abed34e18c6baf2f110",
+    "urn:uuid:8eb20ec7-ac4e-c039-07e1-59f7078b8731"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.5 35.5,-95.5 36,-96 36,-96 35.5,-95.5 35.5))",
+  "dcat_bbox": "ENVELOPE(-96, -95.5, 36, 35.5)",
+  "dcat_centroid": "35.75,-95.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-02-01T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Okmulgee_475386_1900_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Okmulgee_475386_1900_125000_geo.pdf\",\"label\":\"GeoPDF (7.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Okmulgee_475386_1900_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/125000/OK_Okmulgee_475386_1900_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65bc5abed34e18c6baf2f110\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Okmulgee_475386_1900_125000_tn.jpg\"}"
+}

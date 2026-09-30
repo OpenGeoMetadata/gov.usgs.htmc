@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-468984",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Girard, KS 1949",
+  "dct_alternative_sm": [
+    "Girard"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Girard, Kansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1948; aerial photographs from 1938.",
+    "Variations: woodland tint. Sheet size: 16.65 x 20.56 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Kansas",
+    "Bourbon County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5dcd2ba8e4b069579760aeab",
+    "urn:uuid:53983c20-5e20-4212-9abe-6b8d2c32ba06"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94.75 37.5,-94.75 37.75,-95 37.75,-95 37.5,-94.75 37.5))",
+  "dcat_bbox": "ENVELOPE(-95, -94.75, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-94.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-511416",
+    "usgs-htmc-801766"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Girard_468984_1949_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/62500/KS_Girard_468984_1949_62500_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Girard_468984_1949_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/62500/KS_Girard_468984_1949_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5dcd2ba8e4b069579760aeab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/62500/KS_Girard_468984_1949_62500_tn.jpg\"}"
+}

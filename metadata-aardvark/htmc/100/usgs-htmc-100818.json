@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-100818",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Indian Meadows, CA 1994 (printed 1997)",
+  "dct_alternative_sm": [
+    "Indian Meadows"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Indian Meadows, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1993; field checked in 1993; printed in 1997.",
+    "Variations: woodland tint. Sheet size: 21.4 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1997]"
+  ],
+  "dct_spatial_sm": [
+    "Mono County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f41e4b00f54eb3d06a9",
+    "urn:uuid:dc17edeb-4d8d-69ed-8720-b1a47c54da3b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.625 37.875,-118.625 38,-118.75 38,-118.75 37.875,-118.625 37.875))",
+  "dcat_bbox": "ENVELOPE(-118.75, -118.625, 38, 37.875)",
+  "dcat_centroid": "37.9375,-118.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-291549",
+    "usgs-htmc-291550"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Indian%20Meadows_100818_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Indian%20Meadows_100818_1994_24000_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Indian%20Meadows_100818_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Indian_Meadows_100818_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f41e4b00f54eb3d06a9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Indian%20Meadows_100818_1994_24000_tn.jpg\"}"
+}

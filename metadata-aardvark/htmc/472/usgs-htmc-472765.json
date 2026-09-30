@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-472765",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Hogan, MT 1943",
+  "dct_alternative_sm": [
+    "Hogan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Hogan, Montana, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers. Printed in 1943.",
+    "Release: Advance. Sheet size: 17.76 x 22.42 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Lewis and Clark County, Montana",
+    "Cascade County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e62ca74e4b01d509257dd30",
+    "urn:uuid:be8eb5a6-d1f4-244e-4a75-fe417dd38a89"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 47,-112 47.5,-112.5 47.5,-112.5 47,-112 47))",
+  "dcat_bbox": "ENVELOPE(-112.5, -112, 47.5, 47)",
+  "dcat_centroid": "47.25,-112.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Hogan_472765_1943_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Hogan_472765_1943_125000_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Hogan_472765_1943_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/125000/MT_Hogan_472765_1943_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e62ca74e4b01d509257dd30\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/125000/MT_Hogan_472765_1943_125000_tn.jpg\"}"
+}

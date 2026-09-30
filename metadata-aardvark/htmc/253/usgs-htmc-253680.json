@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-253680",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Matewan, WV 1928",
+  "dct_alternative_sm": [
+    "Matewan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1928 edition of the Matewan, West Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1915.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Kentucky",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a272ae4b00f54eb3c3611",
+    "urn:uuid:ed4c0813-8f96-38fc-e77b-8b81f0b8b368"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82 37.5,-82 37.75,-82.25 37.75,-82.25 37.5,-82 37.5))",
+  "dcat_bbox": "ENVELOPE(-82.25, -82, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-82.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253257",
+    "usgs-htmc-253259",
+    "usgs-htmc-253678",
+    "usgs-htmc-253681",
+    "usgs-htmc-253682",
+    "usgs-htmc-701016",
+    "usgs-htmc-803764"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Matewan_253680_1928_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Matewan_253680_1928_62500_geo.pdf\",\"label\":\"GeoPDF (13.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Matewan_253680_1928_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/62500/WV_Matewan_253680_1928_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a272ae4b00f54eb3c3611\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Matewan_253680_1928_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-285505",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Wyndmere, ND 1907 (printed 1941)",
+  "dct_alternative_sm": [
+    "Wyndmere"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1907 edition of the Wyndmere, North Dakota, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1904; printed in 1941.",
+    "Sheet size: 16.6 x 19.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Richland County, North Dakota",
+    "Sargent County, North Dakota",
+    "Ransom County, North Dakota",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5416e4b00f54eb410f3f",
+    "urn:uuid:482af528-891c-88d7-24aa-b389e601194f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97 46,-97 46.5,-97.5 46.5,-97.5 46,-97 46))",
+  "dcat_bbox": "ENVELOPE(-97.5, -97, 46.5, 46)",
+  "dcat_centroid": "46.25,-97.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-285506"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Wyndmere_285505_1907_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/125000/ND_Wyndmere_285505_1907_125000_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Wyndmere_285505_1907_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/125000/ND_Wyndmere_285505_1907_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5416e4b00f54eb410f3f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/125000/ND_Wyndmere_285505_1907_125000_tn.jpg\"}"
+}

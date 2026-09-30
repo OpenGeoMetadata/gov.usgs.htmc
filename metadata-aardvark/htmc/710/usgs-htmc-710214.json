@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-710214",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Batavia South, NY 1950 (printed 1979)",
+  "dct_alternative_sm": [
+    "Batavia South"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Batavia South, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1950; aerial photographs from 1976; photo revised in 1978; last revised in 1978; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 22 x 27.3 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Genesee County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a461ee4b00f54eb3f74d1",
+    "urn:uuid:acf203d8-5f83-4b60-6bc4-57e4343f9911"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78.125 42.875,-78.125 43,-78.25 43,-78.25 42.875,-78.125 42.875))",
+  "dcat_bbox": "ENVELOPE(-78.25, -78.125, 43, 42.875)",
+  "dcat_centroid": "42.9375,-78.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123193",
+    "usgs-htmc-123194"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Batavia%20South_710214_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Batavia%20South_710214_1950_24000_geo.pdf\",\"label\":\"GeoPDF (8.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Batavia%20South_710214_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Batavia_South_710214_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a461ee4b00f54eb3f74d1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Batavia%20South_710214_1950_24000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-296111",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Garden Grove, CA 1935",
+  "dct_alternative_sm": [
+    "Garden Grove"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Garden Grove, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1932.",
+    "Variations: woodland tint. Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1935]"
+  ],
+  "dct_spatial_sm": [
+    "Orange County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5186e4b00f54eb40beaf",
+    "urn:uuid:04aa5702-a250-8ca8-80aa-b567f0e1670b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.875 33.75,-117.875 33.875,-118 33.875,-118 33.75,-117.875 33.75))",
+  "dcat_bbox": "ENVELOPE(-118, -117.875, 33.875, 33.75)",
+  "dcat_centroid": "33.8125,-117.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-287965",
+    "usgs-htmc-287966",
+    "usgs-htmc-287967",
+    "usgs-htmc-287968",
+    "usgs-htmc-287969",
+    "usgs-htmc-287970",
+    "usgs-htmc-296112",
+    "usgs-htmc-465676"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Garden%20Grove_296111_1935_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Garden%20Grove_296111_1935_31680_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Garden%20Grove_296111_1935_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Garden_Grove_296111_1935_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5186e4b00f54eb40beaf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Garden%20Grove_296111_1935_31680_tn.jpg\"}"
+}

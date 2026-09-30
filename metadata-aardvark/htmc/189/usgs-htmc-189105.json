@@ -1,0 +1,66 @@
+{
+  "id": "usgs-htmc-189105",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Norfolk, VA 1907",
+  "dct_alternative_sm": [
+    "Norfolk"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1907 edition of the Norfolk, Virginia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1907.",
+    "Sheet size: 19.8 x 16.36 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c02e4b00f54eb401838",
+    "urn:uuid:a320390b-2edf-c72c-d52c-7f6eec1fa905"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.8333333 36.6666667,-75.8333333 37.05,-76.5 37.05,-76.5 36.6666667,-75.8333333 36.6666667))",
+  "dcat_bbox": "ENVELOPE(-76.5, -75.8333333, 37.05, 36.6666667)",
+  "dcat_centroid": "36.85833335,-76.16666665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Norfolk_189105_1907_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Norfolk_189105_1907_125000_geo.pdf\",\"label\":\"GeoPDF (9.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Norfolk_189105_1907_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/125000/VA_Norfolk_189105_1907_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c02e4b00f54eb401838\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/125000/VA_Norfolk_189105_1907_125000_tn.jpg\"}"
+}

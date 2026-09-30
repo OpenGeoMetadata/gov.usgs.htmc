@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-137420",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Niagara Falls, NY 1995 (printed 1999)",
+  "dct_alternative_sm": [
+    "Niagara Falls"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1995 edition of the Niagara Falls, New York, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1995; last revised in 1999; printed in 1999.",
+    "Variations: woodland tint. Sheet size: 21 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_dateRange_drsim": [
+    "[1995 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Ontario"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52dbe4b00f54eb40e768",
+    "urn:uuid:f87200e5-456f-c4cc-7b0d-870ba39d01f1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79 43,-79 43.125,-79.125 43.125,-79.125 43,-79 43))",
+  "dcat_bbox": "ENVELOPE(-79.125, -79, 43.125, 43)",
+  "dcat_centroid": "43.0625,-79.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-128711",
+    "usgs-htmc-128712",
+    "usgs-htmc-130855"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Niagara%20Falls_137420_1995_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Niagara%20Falls_137420_1995_25000_geo.pdf\",\"label\":\"GeoPDF (11.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Niagara%20Falls_137420_1995_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/25000/NY_Niagara_Falls_137420_1995_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52dbe4b00f54eb40e768\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Niagara%20Falls_137420_1995_25000_tn.jpg\"}"
+}

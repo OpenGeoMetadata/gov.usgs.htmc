@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-806516",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Big Squaw Pond, ME 1977 (printed 1981)",
+  "dct_alternative_sm": [
+    "Big Squaw Pond"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1977 edition of the Big Squaw Pond, Maine, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; printed in 1981.",
+    "Variations: orthophotoquad. Sheet size: 21.5 x 27.6 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1977",
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Piscataquis County, Maine",
+    "Somerset County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4832e4b00f54eb3faf09",
+    "urn:uuid:78b5fe0b-d738-bd07-b9d2-7a3fc6734b32"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-69.625 45.375,-69.625 45.5,-69.75 45.5,-69.75 45.375,-69.625 45.375))",
+  "dcat_bbox": "ENVELOPE(-69.75, -69.625, 45.5, 45.375)",
+  "dcat_centroid": "45.4375,-69.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-104928"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Big%20Squaw%20Pond_806516_1977_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Big%20Squaw%20Pond_806516_1977_24000_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Big%20Squaw%20Pond_806516_1977_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/24000/ME_Big_Squaw_Pond_806516_1977_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4832e4b00f54eb3faf09\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Big%20Squaw%20Pond_806516_1977_24000_tn.jpg\"}"
+}

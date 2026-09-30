@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-260075",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Gravelly, AR 1960 (printed 1979)",
+  "dct_alternative_sm": [
+    "Gravelly"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Gravelly, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1955; field checked in 1960; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 18 x 21.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Yell County, Arkansas",
+    "Scott County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4524e4b00f54eb3f5a29",
+    "urn:uuid:73858b9f-defc-5763-c0ac-fe6c7760ed74"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.5 34.75,-93.5 35,-93.75 35,-93.75 34.75,-93.5 34.75))",
+  "dcat_bbox": "ENVELOPE(-93.75, -93.5, 35, 34.75)",
+  "dcat_centroid": "34.875,-93.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260076",
+    "usgs-htmc-260077"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Gravelly_260075_1960_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Gravelly_260075_1960_62500_geo.pdf\",\"label\":\"GeoPDF (9.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Gravelly_260075_1960_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Gravelly_260075_1960_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4524e4b00f54eb3f5a29\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Gravelly_260075_1960_62500_tn.jpg\"}"
+}

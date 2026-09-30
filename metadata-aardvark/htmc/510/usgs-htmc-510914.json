@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-510914",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bird City South SW, KS 1981",
+  "dct_alternative_sm": [
+    "Bird City South SW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1981 edition of the Bird City South SW, Kansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1978; last revised in 1981; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 21.11 x 27.07 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1981",
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Sherman County, Kansas",
+    "Cheyenne County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c60e4b00f54eb3e6b03",
+    "urn:uuid:3f9d4d28-594f-b46b-822b-a4cd73a08997"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-101.625 39.5,-101.625 39.625,-101.75 39.625,-101.75 39.5,-101.625 39.5))",
+  "dcat_bbox": "ENVELOPE(-101.75, -101.625, 39.625, 39.5)",
+  "dcat_centroid": "39.5625,-101.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Bird%20City%20South%20SW_510914_1981_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Bird%20City%20South%20SW_510914_1981_24000_geo.pdf\",\"label\":\"GeoPDF (5.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Bird%20City%20South%20SW_510914_1981_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/24000/KS_Bird_City_South_SW_510914_1981_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c60e4b00f54eb3e6b03\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Bird%20City%20South%20SW_510914_1981_24000_tn.jpg\"}"
+}

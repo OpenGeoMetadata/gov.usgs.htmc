@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-192869",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hubbell Spring, NM 1991 (printed 1996)",
+  "dct_alternative_sm": [
+    "Hubbell Spring"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1991 edition of the Hubbell Spring, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1991; last revised in 1995; printed in 1996.",
+    "Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1991",
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1996]"
+  ],
+  "dct_spatial_sm": [
+    "Bernalillo County, New Mexico",
+    "Valencia County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bb8e4b00f54eb3e5737",
+    "urn:uuid:4e7ff58d-1f87-d35c-07fd-506377757e88"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106.5 34.875,-106.5 35,-106.625 35,-106.625 34.875,-106.5 34.875))",
+  "dcat_bbox": "ENVELOPE(-106.625, -106.5, 35, 34.875)",
+  "dcat_centroid": "34.9375,-106.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-190989",
+    "usgs-htmc-190990",
+    "usgs-htmc-190991",
+    "usgs-htmc-190992",
+    "usgs-htmc-192870"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Hubbell%20Spring_192869_1991_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Hubbell%20Spring_192869_1991_24000_geo.pdf\",\"label\":\"GeoPDF (9.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Hubbell%20Spring_192869_1991_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Hubbell_Spring_192869_1991_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bb8e4b00f54eb3e5737\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Hubbell%20Spring_192869_1991_24000_tn.jpg\"}"
+}

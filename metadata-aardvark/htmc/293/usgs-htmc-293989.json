@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-293989",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Paso Robles, CA 1948 (printed 1971)",
+  "dct_alternative_sm": [
+    "Paso Robles"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Paso Robles, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1947; field checked in 1948; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22 x 27.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "San Luis Obispo County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32eae4b00f54eb3d60d1",
+    "urn:uuid:f77f14c1-8c0e-b74a-e066-d70c7c7843ca"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120.625 35.625,-120.625 35.75,-120.75 35.75,-120.75 35.625,-120.625 35.625))",
+  "dcat_bbox": "ENVELOPE(-120.75, -120.625, 35.75, 35.625)",
+  "dcat_centroid": "35.6875,-120.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-101746",
+    "usgs-htmc-293988",
+    "usgs-htmc-293991",
+    "usgs-htmc-466115",
+    "usgs-htmc-466116",
+    "usgs-htmc-466117"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Paso%20Robles_293989_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Paso%20Robles_293989_1948_24000_geo.pdf\",\"label\":\"GeoPDF (13.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Paso%20Robles_293989_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Paso_Robles_293989_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32eae4b00f54eb3d60d1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Paso%20Robles_293989_1948_24000_tn.jpg\"}"
+}

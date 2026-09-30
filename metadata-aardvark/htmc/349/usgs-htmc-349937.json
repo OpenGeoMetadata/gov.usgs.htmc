@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-349937",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Oahu, HI 1965",
+  "dct_alternative_sm": [
+    "Oahu"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1965 edition of the Oahu, Hawaii, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1952; field checked in 1952; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 27.8 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1965",
+  "dct_temporal_sm": [
+    "1965"
+  ],
+  "gbl_indexYear_im": [
+    1965
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Honolulu County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5136e4b00f54eb40b4ac",
+    "urn:uuid:0a920627-b3ef-c269-0958-2c73fa530d25"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-157.5 21,-157.5 22,-159 22,-159 21,-157.5 21))",
+  "dcat_bbox": "ENVELOPE(-159, -157.5, 22, 21)",
+  "dcat_centroid": "21.5,-158.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349935",
+    "usgs-htmc-349936",
+    "usgs-htmc-349938",
+    "usgs-htmc-349939",
+    "usgs-htmc-349940"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Oahu_349937_1965_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/250000/HI_Oahu_349937_1965_250000_geo.pdf\",\"label\":\"GeoPDF (17.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Oahu_349937_1965_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/250000/HI_Oahu_349937_1965_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5136e4b00f54eb40b4ac\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/250000/HI_Oahu_349937_1965_250000_tn.jpg\"}"
+}

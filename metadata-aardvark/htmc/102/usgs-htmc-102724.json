@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-102724",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Marlborough, NH 1998 (printed 2002)",
+  "dct_alternative_sm": [
+    "Marlborough"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Marlborough, New Hampshire, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1998; printed in 2002.",
+    "Variations: woodland tint. Sheet size: 21.1 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2002]"
+  ],
+  "dct_spatial_sm": [
+    "Cheshire County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f14e4b00f54eb40710b",
+    "urn:uuid:6bf37c80-5c03-9eed-915c-b24ffc561011"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.125 42.875,-72.125 43,-72.25 43,-72.25 42.875,-72.125 42.875))",
+  "dcat_bbox": "ENVELOPE(-72.25, -72.125, 43, 42.875)",
+  "dcat_centroid": "42.9375,-72.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Marlborough_102724_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Marlborough_102724_1998_24000_geo.pdf\",\"label\":\"GeoPDF (15.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Marlborough_102724_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/24000/NH_Marlborough_102724_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f14e4b00f54eb40710b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/24000/NH_Marlborough_102724_1998_24000_tn.jpg\"}"
+}

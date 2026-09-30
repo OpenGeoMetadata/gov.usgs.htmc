@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-468667",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tower Hill, IL 1998 (printed 2003)",
+  "dct_alternative_sm": [
+    "Tower Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Tower Hill, Illinois, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Printed in 2003.",
+    "Variations: woodland tint. Sheet size: 21.3 x 26.78 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Shelby County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e510d83e4b0ff554f74e7e2",
+    "urn:uuid:56d2846b-a8a1-0be0-6c8b-cc9751579624"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.875 39.375,-88.875 39.5,-89 39.5,-89 39.375,-88.875 39.375))",
+  "dcat_bbox": "ENVELOPE(-89, -88.875, 39.5, 39.375)",
+  "dcat_centroid": "39.4375,-88.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-308904"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Tower%20Hill_468667_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Tower%20Hill_468667_1998_24000_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Tower%20Hill_468667_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/24000/IL_Tower_Hill_468667_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e510d83e4b0ff554f74e7e2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Tower%20Hill_468667_1998_24000_tn.jpg\"}"
+}

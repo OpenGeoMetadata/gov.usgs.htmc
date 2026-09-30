@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-247351",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bolingbroke, GA 1956 (printed 1965)",
+  "dct_alternative_sm": [
+    "Bolingbroke"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Bolingbroke, Georgia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1956; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 16.8 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Monroe County, Georgia",
+    "Bibb County, Georgia",
+    "Crawford County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4460e4b00f54eb3f43aa",
+    "urn:uuid:a97d9f18-dec6-9c2e-0cc5-db571e2b080d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.75 32.75,-83.75 33,-84 33,-84 32.75,-83.75 32.75))",
+  "dcat_bbox": "ENVELOPE(-84, -83.75, 33, 32.75)",
+  "dcat_centroid": "32.875,-83.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247352"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Bolingbroke_247351_1956_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Bolingbroke_247351_1956_62500_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Bolingbroke_247351_1956_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/62500/GA_Bolingbroke_247351_1956_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4460e4b00f54eb3f43aa\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Bolingbroke_247351_1956_62500_tn.jpg\"}"
+}

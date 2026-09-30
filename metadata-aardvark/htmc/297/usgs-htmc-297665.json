@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-297665",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Haywards, CA 1899 (printed 1901)",
+  "dct_alternative_sm": [
+    "Haywards"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the Haywards, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1896; printed in 1901.",
+    "Sheet size: 16.6 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Alameda County, California",
+    "San Mateo County, California",
+    "Contra Costa County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40cde4b00f54eb3edf5b",
+    "urn:uuid:7b36a586-e075-4f30-9208-ae9da0aa40b5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 37.5,-122 37.75,-122.25 37.75,-122.25 37.5,-122 37.5))",
+  "dcat_bbox": "ENVELOPE(-122.25, -122, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-122.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297660",
+    "usgs-htmc-297662",
+    "usgs-htmc-297663",
+    "usgs-htmc-297666",
+    "usgs-htmc-297667",
+    "usgs-htmc-297668",
+    "usgs-htmc-297670",
+    "usgs-htmc-465728",
+    "usgs-htmc-465729",
+    "usgs-htmc-465730",
+    "usgs-htmc-465731"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Haywards_297665_1899_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Haywards_297665_1899_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Haywards_297665_1899_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Haywards_297665_1899_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40cde4b00f54eb3edf5b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Haywards_297665_1899_62500_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-187717",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Middletown, VA 1937",
+  "dct_alternative_sm": [
+    "Middletown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1937 edition of the Middletown, Virginia, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1937.",
+    "Release: Advance. Sheet size: 20.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "gbl_indexYear_im": [
+    1937
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "Frederick County, Virginia",
+    "Shenandoah County, Virginia",
+    "Hampshire County, Virginia",
+    "Warren County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f19e4b00f54eb3eb1da",
+    "urn:uuid:de81c825-c776-86cf-d06b-5f1f008752ec"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78.25 39,-78.25 39.25,-78.5 39.25,-78.5 39,-78.25 39))",
+  "dcat_bbox": "ENVELOPE(-78.5, -78.25, 39.25, 39)",
+  "dcat_centroid": "39.125,-78.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-188349",
+    "usgs-htmc-188350",
+    "usgs-htmc-188351",
+    "usgs-htmc-701045"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Middletown_187717_1937_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/48000/VA_Middletown_187717_1937_48000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Middletown_187717_1937_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/48000/VA_Middletown_187717_1937_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f19e4b00f54eb3eb1da\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/48000/VA_Middletown_187717_1937_48000_tn.jpg\"}"
+}

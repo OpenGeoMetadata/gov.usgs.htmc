@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-361534",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Tanana, AK 1951 (printed 1955)",
+  "dct_alternative_sm": [
+    "Tanana"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Tanana, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1941; printed in 1955.",
+    "Sheet size: 24.5 x 22.6 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b3de4b00f54eb3e49f5",
+    "urn:uuid:b061e5ad-a1a9-ca13-5feb-8ea7e7c7f195"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-150 65,-150 66,-153 66,-153 65,-150 65))",
+  "dcat_bbox": "ENVELOPE(-153, -150, 66, 65)",
+  "dcat_centroid": "65.5,-151.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361531",
+    "usgs-htmc-361533",
+    "usgs-htmc-361535",
+    "usgs-htmc-361537",
+    "usgs-htmc-361538",
+    "usgs-htmc-361539",
+    "usgs-htmc-361540",
+    "usgs-htmc-361541",
+    "usgs-htmc-707883",
+    "usgs-htmc-708031"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Tanana_361534_1951_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Tanana_361534_1951_250000_geo.pdf\",\"label\":\"GeoPDF (22.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Tanana_361534_1951_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Tanana_361534_1951_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b3de4b00f54eb3e49f5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Tanana_361534_1951_250000_tn.jpg\"}"
+}

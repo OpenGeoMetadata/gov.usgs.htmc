@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-465257",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Woodson, AR 1940 (printed 1945)",
+  "dct_alternative_sm": [
+    "Woodson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1940 edition of the Woodson, Arkansas, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Printed in 1945.",
+    "Sheet size: 16.5 x 20.55 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Pulaski County, Arkansas",
+    "Saline County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cb744f4e4b0c3b0065d7ad1",
+    "urn:uuid:a88b52f3-f10c-cbde-5822-9853c8986c99"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.125 34.5,-92.125 34.625,-92.25 34.625,-92.25 34.5,-92.125 34.5))",
+  "dcat_bbox": "ENVELOPE(-92.25, -92.125, 34.625, 34.5)",
+  "dcat_centroid": "34.5625,-92.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-259910",
+    "usgs-htmc-259911",
+    "usgs-htmc-259912",
+    "usgs-htmc-259913",
+    "usgs-htmc-259914",
+    "usgs-htmc-259958"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Woodson_465257_1940_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/31680/AR_Woodson_465257_1940_31680_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Woodson_465257_1940_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/31680/AR_Woodson_465257_1940_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cb744f4e4b0c3b0065d7ad1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/31680/AR_Woodson_465257_1940_31680_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-311181",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Douglas NE, AZ 1996 (printed 2003)",
+  "dct_alternative_sm": [
+    "Douglas NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1996 edition of the Douglas NE, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1956; aerial photographs from 1996; printed in 2003.",
+    "Sheet size: 21.5 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Cochise County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c09e4b00f54eb4018e7",
+    "urn:uuid:410f5491-90ee-eed8-0a27-7c2f0cbaf444"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-109.5 31.375,-109.5 31.5,-109.625 31.5,-109.625 31.375,-109.5 31.375))",
+  "dcat_bbox": "ENVELOPE(-109.625, -109.5, 31.5, 31.375)",
+  "dcat_centroid": "31.4375,-109.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-311179",
+    "usgs-htmc-311180"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Douglas%20NE_311181_1996_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Douglas%20NE_311181_1996_24000_geo.pdf\",\"label\":\"GeoPDF (7.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Douglas%20NE_311181_1996_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_Douglas_NE_311181_1996_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c09e4b00f54eb4018e7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_Douglas%20NE_311181_1996_24000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-147620",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Greystone, TN 1939 (printed 1979)",
+  "dct_alternative_sm": [
+    "Greystone"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1939 edition of the Greystone, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Aerial photographs from 1976; field checked in 1939; photo revised in 1978; last revised in 1978; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.4 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a410ae4b00f54eb3ee706",
+    "urn:uuid:6761b7f3-9823-9de6-6ba7-300f69243b09"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.625 36,-82.625 36.125,-82.75 36.125,-82.75 36,-82.625 36))",
+  "dcat_bbox": "ENVELOPE(-82.75, -82.625, 36.125, 36)",
+  "dcat_centroid": "36.0625,-82.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-143947",
+    "usgs-htmc-147613",
+    "usgs-htmc-147614",
+    "usgs-htmc-147615",
+    "usgs-htmc-147616",
+    "usgs-htmc-147617",
+    "usgs-htmc-147618",
+    "usgs-htmc-147619"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Greystone_147620_1939_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Greystone_147620_1939_24000_geo.pdf\",\"label\":\"GeoPDF (17.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Greystone_147620_1939_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Greystone_147620_1939_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a410ae4b00f54eb3ee706\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Greystone_147620_1939_24000_tn.jpg\"}"
+}

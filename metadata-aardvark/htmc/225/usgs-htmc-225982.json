@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-225982",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cumberland, OH 1961 (printed 1987)",
+  "dct_alternative_sm": [
+    "Cumberland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1961 edition of the Cumberland, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1961; photo revised in 1987; last revised in 1987; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1961",
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "gbl_indexYear_im": [
+    1961
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Muskingum County, Ohio",
+    "Noble County, Ohio",
+    "Guernsey County, Ohio",
+    "Morgan County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a242ae4b00f54eb3be95c",
+    "urn:uuid:aa411529-45ef-158f-21c9-ed57dde56e1c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.625 39.75,-81.625 39.875,-81.75 39.875,-81.75 39.75,-81.625 39.75))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.625, 39.875, 39.75)",
+  "dcat_centroid": "39.8125,-81.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-224602",
+    "usgs-htmc-224603",
+    "usgs-htmc-224604",
+    "usgs-htmc-225984"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Cumberland_225982_1961_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Cumberland_225982_1961_24000_geo.pdf\",\"label\":\"GeoPDF (18.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Cumberland_225982_1961_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Cumberland_225982_1961_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a242ae4b00f54eb3be95c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Cumberland_225982_1961_24000_tn.jpg\"}"
+}

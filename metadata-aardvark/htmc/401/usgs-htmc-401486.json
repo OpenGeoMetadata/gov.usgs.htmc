@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-401486",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pine, CO 1948",
+  "dct_alternative_sm": [
+    "Pine"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Pine, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1945.",
+    "Sheet size: 22 x 27.2 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c22e4b00f54eb3e63a2",
+    "urn:uuid:aa053579-98c4-37ec-c740-fba00d8227ea"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.25 39.375,-105.25 39.5,-105.375 39.5,-105.375 39.375,-105.25 39.375))",
+  "dcat_bbox": "ENVELOPE(-105.375, -105.25, 39.5, 39.375)",
+  "dcat_centroid": "39.4375,-105.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-234112",
+    "usgs-htmc-234113",
+    "usgs-htmc-234114",
+    "usgs-htmc-234116",
+    "usgs-htmc-401482",
+    "usgs-htmc-401483",
+    "usgs-htmc-401484",
+    "usgs-htmc-401485",
+    "usgs-htmc-401487",
+    "usgs-htmc-401488",
+    "usgs-htmc-401489",
+    "usgs-htmc-467137",
+    "usgs-htmc-467138"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Pine_401486_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Pine_401486_1948_24000_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Pine_401486_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Pine_401486_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c22e4b00f54eb3e63a2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Pine_401486_1948_24000_tn.jpg\"}"
+}

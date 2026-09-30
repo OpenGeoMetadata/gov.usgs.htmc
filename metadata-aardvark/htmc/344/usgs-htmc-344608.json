@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-344608",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Conde, SD 1894",
+  "dct_alternative_sm": [
+    "Conde"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Conde, South Dakota, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1893.",
+    "Sheet size: 16.5 x 19.3 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1894]"
+  ],
+  "dct_spatial_sm": [
+    "Spink County, South Dakota",
+    "Brown County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a498ae4b00f54eb3fd861",
+    "urn:uuid:f258679a-6eb3-345f-32a0-ed53fd0265cd"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98 45,-98 45.25,-98.25 45.25,-98.25 45,-98 45))",
+  "dcat_bbox": "ENVELOPE(-98.25, -98, 45.25, 45)",
+  "dcat_centroid": "45.125,-98.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Conde_344608_1894_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/62500/SD_Conde_344608_1894_62500_geo.pdf\",\"label\":\"GeoPDF (4.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Conde_344608_1894_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/62500/SD_Conde_344608_1894_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a498ae4b00f54eb3fd861\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/62500/SD_Conde_344608_1894_62500_tn.jpg\"}"
+}

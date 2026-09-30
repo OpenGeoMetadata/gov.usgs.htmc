@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-351227",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Pittsfield West, MA 1998 (printed 2000)",
+  "dct_alternative_sm": [
+    "Pittsfield West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Pittsfield West, Massachusetts, topographic map at 1:25,000 scale (7.5 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; photo inspected in 1998; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 38.3 x 24 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2451e4b00f54eb3bedb9",
+    "urn:uuid:108f46db-cff1-51ed-cd69-3d522659cb8c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.25 42.375,-73.25 42.5,-73.5 42.5,-73.5 42.375,-73.25 42.375))",
+  "dcat_bbox": "ENVELOPE(-73.5, -73.25, 42.5, 42.375)",
+  "dcat_centroid": "42.4375,-73.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-463070",
+    "usgs-htmc-463071"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Pittsfield%20West_351227_1998_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Pittsfield%20West_351227_1998_25000_geo.pdf\",\"label\":\"GeoPDF (32.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Pittsfield%20West_351227_1998_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/25000/MA_Pittsfield_West_351227_1998_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2451e4b00f54eb3bedb9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/25000/MA_Pittsfield%20West_351227_1998_25000_tn.jpg\"}"
+}

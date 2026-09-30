@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-108046",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Farmersville, TX 1962 (printed 1965)",
+  "dct_alternative_sm": [
+    "Farmersville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Farmersville, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1961; field checked in 1962; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 23 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1961 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Collin County, Texas",
+    "Hunt County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4dfae4b00f54eb404f1b",
+    "urn:uuid:4623bde0-5c6a-0602-48d7-a46055315dea"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.25 33.125,-96.25 33.25,-96.375 33.25,-96.375 33.125,-96.25 33.125))",
+  "dcat_bbox": "ENVELOPE(-96.375, -96.25, 33.25, 33.125)",
+  "dcat_centroid": "33.1875,-96.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-108044",
+    "usgs-htmc-108045"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Farmersville_108046_1962_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Farmersville_108046_1962_24000_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Farmersville_108046_1962_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Farmersville_108046_1962_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4dfae4b00f54eb404f1b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Farmersville_108046_1962_24000_tn.jpg\"}"
+}

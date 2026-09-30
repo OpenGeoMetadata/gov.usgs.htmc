@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-299763",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for El Centro, CA 1958 (printed 1972)",
+  "dct_alternative_sm": [
+    "El Centro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the El Centro, California, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1955; field checked in 1958; last revised in 1969; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 34.2 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3be7e4b00f54eb3e5c5b",
+    "urn:uuid:be12ce49-5bd5-e57a-5b25-14cb34c2abe0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114 32,-114 33,-116 33,-116 32,-114 32))",
+  "dcat_bbox": "ENVELOPE(-116, -114, 33, 32)",
+  "dcat_centroid": "32.5,-115",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299759",
+    "usgs-htmc-299760",
+    "usgs-htmc-299761",
+    "usgs-htmc-299762",
+    "usgs-htmc-299764",
+    "usgs-htmc-465584",
+    "usgs-htmc-465585"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Centro_299763_1958_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_El%20Centro_299763_1958_250000_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Centro_299763_1958_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/250000/CA_El_Centro_299763_1958_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3be7e4b00f54eb3e5c5b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_El%20Centro_299763_1958_250000_tn.jpg\"}"
+}

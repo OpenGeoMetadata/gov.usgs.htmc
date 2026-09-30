@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-123853",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Cedar Bayou, TX 1919",
+  "dct_alternative_sm": [
+    "Cedar Bayou"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Cedar Bayou, Texas, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1916.",
+    "Release: Preliminary. Variations: woodland tint. Sheet size: 16.6 x 19.7 inches. Printed projection: not stated; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Harris County, Texas",
+    "Chambers County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24d3e4b00f54eb3bfa53",
+    "urn:uuid:b660799b-c9ad-8e7b-57f8-9ba5a49290fe"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94.875 29.75,-94.875 29.875,-95 29.875,-95 29.75,-94.875 29.75))",
+  "dcat_bbox": "ENVELOPE(-95, -94.875, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-94.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-106630",
+    "usgs-htmc-106632",
+    "usgs-htmc-109833",
+    "usgs-htmc-109834",
+    "usgs-htmc-109836",
+    "usgs-htmc-118204",
+    "usgs-htmc-123852"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Cedar%20Bayou_123853_1919_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Cedar%20Bayou_123853_1919_31680_geo.pdf\",\"label\":\"GeoPDF (5.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Cedar%20Bayou_123853_1919_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/31680/TX_Cedar_Bayou_123853_1919_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24d3e4b00f54eb3bfa53\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Cedar%20Bayou_123853_1919_31680_tn.jpg\"}"
+}

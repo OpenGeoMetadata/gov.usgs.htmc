@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-344841",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Huron, SD 1954 (printed 1977)",
+  "dct_alternative_sm": [
+    "Huron"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Huron, South Dakota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. military. Aerial photographs from 1974; field checked in 1953; last revised in 1976; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 27.7 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Beadle County, South Dakota",
+    "Hand County, South Dakota",
+    "Spink County, South Dakota",
+    "Hyde County, South Dakota",
+    "Hughes County, South Dakota",
+    "Jerauld County, South Dakota",
+    "Buffalo County, South Dakota",
+    "Sully County, South Dakota",
+    "Faulk County, South Dakota",
+    "Lyman County, South Dakota",
+    "Sanborn County, South Dakota",
+    "Potter County, South Dakota",
+    "Stanley County, South Dakota",
+    "South Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4141e4b00f54eb3eecff",
+    "urn:uuid:cae9daea-cfed-73eb-efb4-c07c0beddb1b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98 44,-98 45,-100 45,-100 44,-98 44))",
+  "dcat_bbox": "ENVELOPE(-100, -98, 45, 44)",
+  "dcat_centroid": "44.5,-99",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-344839",
+    "usgs-htmc-344840",
+    "usgs-htmc-9475877"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Huron_344841_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/250000/SD_Huron_344841_1954_250000_geo.pdf\",\"label\":\"GeoPDF (18.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/SD_Huron_344841_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SD/250000/SD_Huron_344841_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4141e4b00f54eb3eecff\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SD/250000/SD_Huron_344841_1954_250000_tn.jpg\"}"
+}

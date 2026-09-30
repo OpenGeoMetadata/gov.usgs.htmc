@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-468626",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Rockford, IL 1918",
+  "dct_alternative_sm": [
+    "Rockford"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1918 edition of the Rockford, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1917.",
+    "Variations: woodland tint. Sheet size: 16.38 x 20.03 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e5107b9e4b0ff554f74d4b4",
+    "urn:uuid:f48523c6-71f9-1751-9e99-9d93005079ec"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89 42.25,-89 42.5,-89.25 42.5,-89.25 42.25,-89 42.25))",
+  "dcat_bbox": "ENVELOPE(-89.25, -89, 42.5, 42.25)",
+  "dcat_centroid": "42.375,-89.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309940",
+    "usgs-htmc-309941",
+    "usgs-htmc-468620",
+    "usgs-htmc-468621",
+    "usgs-htmc-468625"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Rockford_468626_1918_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Rockford_468626_1918_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Rockford_468626_1918_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Rockford_468626_1918_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e5107b9e4b0ff554f74d4b4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Rockford_468626_1918_62500_tn.jpg\"}"
+}

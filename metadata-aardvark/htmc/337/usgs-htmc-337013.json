@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-337013",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Nicholson, MS 1914 (printed 1957)",
+  "dct_alternative_sm": [
+    "Nicholson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1914 edition of the Nicholson, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Printed in 1957.",
+    "Sheet size: 18.2 x 22 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a426ae4b00f54eb3f0bab",
+    "urn:uuid:c6e97c8d-5037-7e87-2dfa-2bf98fea5b33"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.5 30.25,-89.5 30.5,-89.75 30.5,-89.75 30.25,-89.5 30.25))",
+  "dcat_bbox": "ENVELOPE(-89.75, -89.5, 30.5, 30.25)",
+  "dcat_centroid": "30.375,-89.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-334870",
+    "usgs-htmc-334872",
+    "usgs-htmc-337014",
+    "usgs-htmc-337015",
+    "usgs-htmc-337016"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Nicholson_337013_1914_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Nicholson_337013_1914_62500_geo.pdf\",\"label\":\"GeoPDF (7.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Nicholson_337013_1914_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/62500/MS_Nicholson_337013_1914_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a426ae4b00f54eb3f0bab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/62500/MS_Nicholson_337013_1914_62500_tn.jpg\"}"
+}

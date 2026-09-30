@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-401331",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pryor Creek, CO 1973 (printed 1975)",
+  "dct_alternative_sm": [
+    "Pryor Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1973 edition of the Pryor Creek, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1964; field checked in 1973; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 21.9 x 27.1 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1973",
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Ouray County, Colorado",
+    "Montrose County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c52e4b00f54eb3e693c",
+    "urn:uuid:6894afe8-0316-37ec-1d84-e6642199cea7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108 38.25,-108 38.375,-108.125 38.375,-108.125 38.25,-108 38.25))",
+  "dcat_bbox": "ENVELOPE(-108.125, -108, 38.375, 38.25)",
+  "dcat_centroid": "38.3125,-108.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-234180",
+    "usgs-htmc-234181",
+    "usgs-htmc-401332"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Pryor%20Creek_401331_1973_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Pryor%20Creek_401331_1973_24000_geo.pdf\",\"label\":\"GeoPDF (6.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Pryor%20Creek_401331_1973_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Pryor_Creek_401331_1973_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c52e4b00f54eb3e693c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Pryor%20Creek_401331_1973_24000_tn.jpg\"}"
+}

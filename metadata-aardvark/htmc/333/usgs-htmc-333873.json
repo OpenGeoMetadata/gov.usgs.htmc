@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-333873",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Lac Des Allemands NW, LA 1932",
+  "dct_alternative_sm": [
+    "Lac Des Allemands NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Lac Des Allemands NW, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Field checked in 1932.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 17.3 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "St. James Parish, Louisiana",
+    "St. John the Baptist Parish, Louisiana",
+    "Lafourche Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49eee4b00f54eb3fe350",
+    "urn:uuid:0d1df377-de89-2b53-6e2e-35401bb28d93"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.625 29.875,-90.625 30,-90.75 30,-90.75 29.875,-90.625 29.875))",
+  "dcat_bbox": "ENVELOPE(-90.75, -90.625, 30, 29.875)",
+  "dcat_centroid": "29.9375,-90.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-332648",
+    "usgs-htmc-332649",
+    "usgs-htmc-332650",
+    "usgs-htmc-332651",
+    "usgs-htmc-332652"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Lac%20Des%20Allemands%20NW_333873_1932_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Lac%20Des%20Allemands%20NW_333873_1932_31680_geo.pdf\",\"label\":\"GeoPDF (5.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Lac%20Des%20Allemands%20NW_333873_1932_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Lac_Des_Allemands_NW_333873_1932_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49eee4b00f54eb3fe350\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Lac%20Des%20Allemands%20NW_333873_1932_31680_tn.jpg\"}"
+}

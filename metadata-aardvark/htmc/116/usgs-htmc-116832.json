@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-116832",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Valentine, TX 1897 (printed 1949)",
+  "dct_alternative_sm": [
+    "Valentine"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Valentine, Texas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1894; printed in 1949.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1894 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Jeff Davis County, Texas",
+    "Culberson County, Texas",
+    "Presidio County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b76e4b00f54eb3e5015",
+    "urn:uuid:9334c219-8f4a-ad26-55cd-298a3a45d8bf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104 30.5,-104 31,-104.5 31,-104.5 30.5,-104 30.5))",
+  "dcat_bbox": "ENVELOPE(-104.5, -104, 31, 30.5)",
+  "dcat_centroid": "30.75,-104.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-116830",
+    "usgs-htmc-116831",
+    "usgs-htmc-137550",
+    "usgs-htmc-137551",
+    "usgs-htmc-137552",
+    "usgs-htmc-137553",
+    "usgs-htmc-137554"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Valentine_116832_1897_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Valentine_116832_1897_125000_geo.pdf\",\"label\":\"GeoPDF (7.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Valentine_116832_1897_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/125000/TX_Valentine_116832_1897_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b76e4b00f54eb3e5015\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Valentine_116832_1897_125000_tn.jpg\"}"
+}

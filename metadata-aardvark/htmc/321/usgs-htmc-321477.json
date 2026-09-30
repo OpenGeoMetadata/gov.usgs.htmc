@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-321477",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Cactus Flat, NV 1988 (printed 1989)",
+  "dct_alternative_sm": [
+    "Cactus Flat"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1988 edition of the Cactus Flat, Nevada, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Last revised in 1988; printed in 1989.",
+    "Variations: woodland tint. Sheet size: 41.6 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1988",
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Nye County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bc6e4b00f54eb3e58db",
+    "urn:uuid:6b0ccc1a-7eaa-e2d1-e6e0-3e7ebb62b77d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116 37.5,-116 38,-117 38,-117 37.5,-116 37.5))",
+  "dcat_bbox": "ENVELOPE(-117, -116, 38, 37.5)",
+  "dcat_centroid": "37.75,-116.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Cactus%20Flat_321477_1988_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Cactus%20Flat_321477_1988_100000_geo.pdf\",\"label\":\"GeoPDF (21.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Cactus%20Flat_321477_1988_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/100000/NV_Cactus_Flat_321477_1988_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bc6e4b00f54eb3e58db\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/100000/NV_Cactus%20Flat_321477_1988_100000_tn.jpg\"}"
+}

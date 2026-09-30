@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-350061",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cuttyhunk, MA 1951 (printed 1958)",
+  "dct_alternative_sm": [
+    "Cuttyhunk"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Cuttyhunk, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942; last revised in 1951; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Dukes County, Massachusetts",
+    "Bristol County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5298e4b00f54eb40dfb3",
+    "urn:uuid:6758adc7-a5ed-d0f6-2651-d1c8e26990e0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.8333333 41.375,-70.8333333 41.5,-70.9583333 41.5,-70.9583333 41.375,-70.8333333 41.375))",
+  "dcat_bbox": "ENVELOPE(-70.9583333, -70.8333333, 41.5, 41.375)",
+  "dcat_centroid": "41.4375,-70.8958333",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350062",
+    "usgs-htmc-350063",
+    "usgs-htmc-350903",
+    "usgs-htmc-350904",
+    "usgs-htmc-350906",
+    "usgs-htmc-351603",
+    "usgs-htmc-351604",
+    "usgs-htmc-351605"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Cuttyhunk_350061_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Cuttyhunk_350061_1951_24000_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Cuttyhunk_350061_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Cuttyhunk_350061_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5298e4b00f54eb40dfb3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Cuttyhunk_350061_1951_24000_tn.jpg\"}"
+}

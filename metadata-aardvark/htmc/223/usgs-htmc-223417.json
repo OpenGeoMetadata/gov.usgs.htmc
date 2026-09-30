@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-223417",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bangor, PA 1997 (printed 1999)",
+  "dct_alternative_sm": [
+    "Bangor"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1997 edition of the Bangor, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1991; printed in 1999.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_dateRange_drsim": [
+    "[1991 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3106e4b00f54eb3d336c",
+    "urn:uuid:6c3f70d5-82d8-83bf-a942-4b71fa01b74d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.125 40.75,-75.125 40.875,-75.25 40.875,-75.25 40.75,-75.125 40.75))",
+  "dcat_bbox": "ENVELOPE(-75.25, -75.125, 40.875, 40.75)",
+  "dcat_centroid": "40.8125,-75.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-168078",
+    "usgs-htmc-168079",
+    "usgs-htmc-168080",
+    "usgs-htmc-168081",
+    "usgs-htmc-168082",
+    "usgs-htmc-223414",
+    "usgs-htmc-223415",
+    "usgs-htmc-461638"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Bangor_223417_1997_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Bangor_223417_1997_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Bangor_223417_1997_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Bangor_223417_1997_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3106e4b00f54eb3d336c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Bangor_223417_1997_24000_tn.jpg\"}"
+}

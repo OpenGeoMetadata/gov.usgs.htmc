@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-353089",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Webster, MA 1892 (printed 1902)",
+  "dct_alternative_sm": [
+    "Webster"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the Webster, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1902.",
+    "Sheet size: 15.7 x 20 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1902]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f2de4b00f54eb3d04c2",
+    "urn:uuid:0a9f4c8d-7005-ff00-7ee8-570c4971de3c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.75 42,-71.75 42.25,-72 42.25,-72 42,-71.75 42))",
+  "dcat_bbox": "ENVELOPE(-72, -71.75, 42.25, 42)",
+  "dcat_centroid": "42.125,-71.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353082",
+    "usgs-htmc-353084",
+    "usgs-htmc-353086",
+    "usgs-htmc-353087",
+    "usgs-htmc-353088",
+    "usgs-htmc-353090",
+    "usgs-htmc-353091",
+    "usgs-htmc-353092",
+    "usgs-htmc-353095",
+    "usgs-htmc-353096"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Webster_353089_1892_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Webster_353089_1892_62500_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Webster_353089_1892_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Webster_353089_1892_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f2de4b00f54eb3d04c2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Webster_353089_1892_62500_tn.jpg\"}"
+}

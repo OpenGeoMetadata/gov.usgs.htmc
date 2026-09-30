@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-341643",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Teton Pass, WY 1963 (printed 1991)",
+  "dct_alternative_sm": [
+    "Teton Pass"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the Teton Pass, Wyoming, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1962; field checked in 1963; photo inspected in 1974; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 21.3 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Teton County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ce5e4b00f54eb3ccbec",
+    "urn:uuid:fb961b71-90a0-874d-ae4d-9c7b04027224"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.875 43.375,-110.875 43.5,-111 43.5,-111 43.375,-110.875 43.375))",
+  "dcat_bbox": "ENVELOPE(-111, -110.875, 43.5, 43.375)",
+  "dcat_centroid": "43.4375,-110.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-341641",
+    "usgs-htmc-341642",
+    "usgs-htmc-341644"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Teton%20Pass_341643_1963_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Teton%20Pass_341643_1963_24000_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Teton%20Pass_341643_1963_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/24000/WY_Teton_Pass_341643_1963_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ce5e4b00f54eb3ccbec\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Teton%20Pass_341643_1963_24000_tn.jpg\"}"
+}

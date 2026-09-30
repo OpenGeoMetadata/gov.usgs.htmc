@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-255814",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Wyoming, DE 1930 (printed 1945)",
+  "dct_alternative_sm": [
+    "Wyoming"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1930 edition of the Wyoming, Delaware, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1926; printed in 1945.",
+    "Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Maryland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c90e4b00f54eb40286c",
+    "urn:uuid:46fcaed6-0690-c4d9-fb9d-299ebf53db09"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.5 39,-75.5 39.25,-75.75 39.25,-75.75 39,-75.5 39))",
+  "dcat_bbox": "ENVELOPE(-75.75, -75.5, 39.25, 39)",
+  "dcat_centroid": "39.125,-75.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255726",
+    "usgs-htmc-255810",
+    "usgs-htmc-463188"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Wyoming_255814_1930_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/62500/DE_Wyoming_255814_1930_62500_geo.pdf\",\"label\":\"GeoPDF (8.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/DE/DE_Wyoming_255814_1930_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/DE/62500/DE_Wyoming_255814_1930_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c90e4b00f54eb40286c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/DE/62500/DE_Wyoming_255814_1930_62500_tn.jpg\"}"
+}

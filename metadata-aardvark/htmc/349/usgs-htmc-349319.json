@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-349319",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kaena, HI 1998 (printed 2000)",
+  "dct_alternative_sm": [
+    "Kaena"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Kaena, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1998; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 24 x 26.7 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Honolulu County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5222e4b00f54eb40d0e3",
+    "urn:uuid:bea66aa4-9fb4-cd04-fbe2-b6f5eea6f6b3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-158.15 21.5,-158.15 21.625,-158.275 21.625,-158.275 21.5,-158.15 21.5))",
+  "dcat_bbox": "ENVELOPE(-158.275, -158.15, 21.625, 21.5)",
+  "dcat_centroid": "21.5625,-158.2125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349316",
+    "usgs-htmc-349317",
+    "usgs-htmc-349318"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kaena_349319_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kaena_349319_1998_24000_geo.pdf\",\"label\":\"GeoPDF (12.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kaena_349319_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Kaena_349319_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5222e4b00f54eb40d0e3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kaena_349319_1998_24000_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-309378",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for De Kalb, IL 1937",
+  "dct_alternative_sm": [
+    "De Kalb"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1937 edition of the De Kalb, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1934.",
+    "Variations: woodland tint. Sheet size: 16.4 x 19.4 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1937",
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "gbl_indexYear_im": [
+    1937
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "DeKalb County, Illinois",
+    "Lee County, Illinois",
+    "Ogle County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a232ce4b00f54eb3bd67f",
+    "urn:uuid:a7b2c035-d33d-97ee-6b4b-83139581be55"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.75 41.75,-88.75 42,-89 42,-89 41.75,-88.75 41.75))",
+  "dcat_bbox": "ENVELOPE(-89, -88.75, 42, 41.75)",
+  "dcat_centroid": "41.875,-88.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-309377",
+    "usgs-htmc-468417"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_De%20Kalb_309378_1937_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_De%20Kalb_309378_1937_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_De%20Kalb_309378_1937_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_De_Kalb_309378_1937_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a232ce4b00f54eb3bd67f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_De%20Kalb_309378_1937_62500_tn.jpg\"}"
+}

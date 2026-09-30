@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-172396",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Coudersport, PA 1938",
+  "dct_alternative_sm": [
+    "Coudersport"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1938 edition of the Coudersport, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1934.",
+    "Variations: woodland tint. Sheet size: 16.5 x 20 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1938",
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "gbl_indexYear_im": [
+    1938
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4522e4b00f54eb3f59e8",
+    "urn:uuid:11bee10a-1f8c-ae25-37d8-a10f20ec411c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78 41.75,-78 42,-78.25 42,-78.25 41.75,-78 41.75))",
+  "dcat_bbox": "ENVELOPE(-78.25, -78, 42, 41.75)",
+  "dcat_centroid": "41.875,-78.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-172395",
+    "usgs-htmc-172397",
+    "usgs-htmc-172483",
+    "usgs-htmc-172484",
+    "usgs-htmc-461694"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Coudersport_172396_1938_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Coudersport_172396_1938_62500_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Coudersport_172396_1938_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Coudersport_172396_1938_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4522e4b00f54eb3f59e8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Coudersport_172396_1938_62500_tn.jpg\"}"
+}

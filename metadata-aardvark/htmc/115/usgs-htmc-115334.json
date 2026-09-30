@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-115334",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Pecos, TX 1954 (printed 1980)",
+  "dct_alternative_sm": [
+    "Pecos"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Pecos, Texas, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1973; last revised in 1973; printed in 1980.",
+    "Sheet size: 32.1 x 22.2 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Reeves County, Texas",
+    "Pecos County, Texas",
+    "Ward County, Texas",
+    "Crane County, Texas",
+    "Winkler County, Texas",
+    "Ector County, Texas",
+    "Upton County, Texas",
+    "Loving County, Texas",
+    "Midland County, Texas",
+    "Crockett County, Texas",
+    "Jeff Davis County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d50e4b00f54eb403b87",
+    "urn:uuid:7e4a4325-9205-879b-4852-eaba461c107d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-102 31,-102 32,-104 32,-104 31,-102 31))",
+  "dcat_bbox": "ENVELOPE(-104, -102, 32, 31)",
+  "dcat_centroid": "31.5,-103",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-115332",
+    "usgs-htmc-115333",
+    "usgs-htmc-707513"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Pecos_115334_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/250000/TX_Pecos_115334_1954_250000_geo.pdf\",\"label\":\"GeoPDF (15.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Pecos_115334_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/250000/TX_Pecos_115334_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d50e4b00f54eb403b87\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/250000/TX_Pecos_115334_1954_250000_tn.jpg\"}"
+}

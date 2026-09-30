@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-346920",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Key West, FL 1983 (printed 1984)",
+  "dct_alternative_sm": [
+    "Key West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1983 edition of the Key West, Florida, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1980; last revised in 1983; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 46.8 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1983",
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Monroe County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ec3e4b00f54eb406722",
+    "urn:uuid:54a73011-8d6d-2fc9-1d63-ddf15e74a8e2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81 24.5,-81 25,-82 25,-82 24.5,-81 24.5))",
+  "dcat_bbox": "ENVELOPE(-82, -81, 25, 24.5)",
+  "dcat_centroid": "24.75,-81.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346921"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Key%20West_346920_1983_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/100000/FL_Key%20West_346920_1983_100000_geo.pdf\",\"label\":\"GeoPDF (31.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Key%20West_346920_1983_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/100000/FL_Key_West_346920_1983_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ec3e4b00f54eb406722\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/100000/FL_Key%20West_346920_1983_100000_tn.jpg\"}"
+}

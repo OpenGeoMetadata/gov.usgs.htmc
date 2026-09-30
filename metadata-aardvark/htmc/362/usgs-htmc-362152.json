@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-362152",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Maricao, PR 1960 (printed 1961)",
+  "dct_alternative_sm": [
+    "Maricao"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Maricao, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1943; last revised in 1960; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 29.2 x 32.2 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Maricao, Puerto Rico",
+    "Las Marías, Puerto Rico",
+    "Lares, Puerto Rico",
+    "Sabana Grande, Puerto Rico",
+    "Yauco, Puerto Rico",
+    "San Germán, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4aa1e4b00f54eb3ff1cf",
+    "urn:uuid:62e46644-18db-9a7e-a0e0-7bbc35145c70"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.875 18.125,-66.875 18.25,-67 18.25,-67 18.125,-66.875 18.125))",
+  "dcat_bbox": "ENVELOPE(-67, -66.875, 18.25, 18.125)",
+  "dcat_centroid": "18.1875,-66.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362151",
+    "usgs-htmc-362153",
+    "usgs-htmc-362466",
+    "usgs-htmc-362467",
+    "usgs-htmc-362468",
+    "usgs-htmc-362469",
+    "usgs-htmc-475526"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Maricao_362152_1960_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Maricao_362152_1960_20000_geo.pdf\",\"label\":\"GeoPDF (25.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Maricao_362152_1960_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Maricao_362152_1960_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4aa1e4b00f54eb3ff1cf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Maricao_362152_1960_20000_tn.jpg\"}"
+}

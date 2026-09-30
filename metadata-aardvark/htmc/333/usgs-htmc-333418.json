@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-333418",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tiger Island, LA 1969 (printed 1971)",
+  "dct_alternative_sm": [
+    "Tiger Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Tiger Island, Louisiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1969; aerial photographs from 1968; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "St. Martin Parish, Louisiana",
+    "St. Mary Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e55e4b00f54eb3ea372",
+    "urn:uuid:775551c8-6546-0770-edc4-d1bbc7a69696"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.25 29.75,-91.25 29.875,-91.375 29.875,-91.375 29.75,-91.25 29.75))",
+  "dcat_bbox": "ENVELOPE(-91.375, -91.25, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-91.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-333417",
+    "usgs-htmc-333419"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Tiger%20Island_333418_1969_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Tiger%20Island_333418_1969_24000_geo.pdf\",\"label\":\"GeoPDF (13.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Tiger%20Island_333418_1969_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/24000/LA_Tiger_Island_333418_1969_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e55e4b00f54eb3ea372\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/24000/LA_Tiger%20Island_333418_1969_24000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-707315",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Dubois, ID 1955",
+  "dct_alternative_sm": [
+    "Dubois"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Dubois, Idaho, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Surveyed in 1955; aerial photographs from 1976; last revised in 1978.",
+    "Variations: woodland tint. Sheet size: 28.9 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Idaho",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b77e4b00f54eb400837",
+    "urn:uuid:040306b6-c2dd-c624-152c-5997ae80cb20"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 44,-112 45,-114 45,-114 44,-112 44))",
+  "dcat_bbox": "ENVELOPE(-114, -112, 45, 44)",
+  "dcat_centroid": "44.5,-113",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-239626",
+    "usgs-htmc-239627",
+    "usgs-htmc-239628",
+    "usgs-htmc-239629",
+    "usgs-htmc-239630"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Dubois_707315_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/250000/ID_Dubois_707315_1955_250000_geo.pdf\",\"label\":\"GeoPDF (21.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Dubois_707315_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ID/250000/ID_Dubois_707315_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b77e4b00f54eb400837\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/250000/ID_Dubois_707315_1955_250000_tn.jpg\"}"
+}

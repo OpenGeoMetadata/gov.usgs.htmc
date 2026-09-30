@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-361257",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Nulato, AK 1952 (printed 1958)",
+  "dct_alternative_sm": [
+    "Nulato"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Nulato, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1952; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 26.7 x 23 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3adee4b00f54eb3e40f6",
+    "urn:uuid:7f9437ec-f4b4-4f4c-687c-9d28f0481c9a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-156 64,-156 65,-159 65,-159 64,-156 64))",
+  "dcat_bbox": "ENVELOPE(-159, -156, 65, 64)",
+  "dcat_centroid": "64.5,-157.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361253",
+    "usgs-htmc-361254",
+    "usgs-htmc-361255",
+    "usgs-htmc-361256",
+    "usgs-htmc-361258",
+    "usgs-htmc-361259",
+    "usgs-htmc-361260",
+    "usgs-htmc-463997"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Nulato_361257_1952_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Nulato_361257_1952_250000_geo.pdf\",\"label\":\"GeoPDF (29.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Nulato_361257_1952_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Nulato_361257_1952_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3adee4b00f54eb3e40f6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Nulato_361257_1952_250000_tn.jpg\"}"
+}

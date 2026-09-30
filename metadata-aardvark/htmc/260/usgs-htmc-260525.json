@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-260525",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Morrilton No. 3, AR 1889",
+  "dct_alternative_sm": [
+    "Morrilton No. 3"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1889 edition of the Morrilton No. 3, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 16.5 x 20 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1889",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "dct_spatial_sm": [
+    "Conway County, Arkansas",
+    "Perry County, Arkansas",
+    "Pope County, Arkansas",
+    "Yell County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4552e4b00f54eb3f5e8e",
+    "urn:uuid:3b82628f-a251-99b4-20bc-6dea7222e42b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.75 35,-92.75 35.25,-93 35.25,-93 35,-92.75 35))",
+  "dcat_bbox": "ENVELOPE(-93, -92.75, 35.25, 35)",
+  "dcat_centroid": "35.125,-92.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Morrilton%20No%203_260525_1889_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Morrilton%20No%203_260525_1889_62500_geo.pdf\",\"label\":\"GeoPDF (6.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Morrilton%20No%203_260525_1889_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Morrilton_No_3_260525_1889_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4552e4b00f54eb3f5e8e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Morrilton%20No%203_260525_1889_62500_tn.jpg\"}"
+}

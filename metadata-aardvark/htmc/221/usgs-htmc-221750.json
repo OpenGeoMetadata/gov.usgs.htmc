@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-221750",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Saylorsburg, PA 1960 (printed 1972)",
+  "dct_alternative_sm": [
+    "Saylorsburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Saylorsburg, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1970; field checked in 1960; photo revised in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Monroe County, Pennsylvania",
+    "Northampton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a34c3e4b00f54eb3da0b0",
+    "urn:uuid:eb5653ff-e54b-ceb7-d34d-f6674b5b531d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.25 40.875,-75.25 41,-75.375 41,-75.375 40.875,-75.25 40.875))",
+  "dcat_bbox": "ENVELOPE(-75.375, -75.25, 41, 40.875)",
+  "dcat_centroid": "40.9375,-75.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-221749",
+    "usgs-htmc-221751",
+    "usgs-htmc-221752",
+    "usgs-htmc-221753",
+    "usgs-htmc-223911",
+    "usgs-htmc-223912",
+    "usgs-htmc-223914"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Saylorsburg_221750_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Saylorsburg_221750_1960_24000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Saylorsburg_221750_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Saylorsburg_221750_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a34c3e4b00f54eb3da0b0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Saylorsburg_221750_1960_24000_tn.jpg\"}"
+}

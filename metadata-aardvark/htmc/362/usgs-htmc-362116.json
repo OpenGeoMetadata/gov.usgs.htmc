@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-362116",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Guayama, PR 1970 (printed 1972)",
+  "dct_alternative_sm": [
+    "Guayama"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1970 edition of the Guayama, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1967; field checked in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 29.38 x 32.32 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Guayama, Puerto Rico",
+    "Arroyo, Puerto Rico",
+    "Patillas, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a99e4b00f54eb3ff10b",
+    "urn:uuid:51ff08be-fd60-c874-b603-9498399413de"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66 17.875,-66 18,-66.125 18,-66.125 17.875,-66 17.875))",
+  "dcat_bbox": "ENVELOPE(-66.125, -66, 18, 17.875)",
+  "dcat_centroid": "17.9375,-66.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362115",
+    "usgs-htmc-362117",
+    "usgs-htmc-362118",
+    "usgs-htmc-362119",
+    "usgs-htmc-362426",
+    "usgs-htmc-362427",
+    "usgs-htmc-362428",
+    "usgs-htmc-362429",
+    "usgs-htmc-475492",
+    "usgs-htmc-475493",
+    "usgs-htmc-475494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Guayama_362116_1970_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Guayama_362116_1970_20000_geo.pdf\",\"label\":\"GeoPDF (22.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Guayama_362116_1970_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Guayama_362116_1970_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a99e4b00f54eb3ff10b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Guayama_362116_1970_20000_tn.jpg\"}"
+}

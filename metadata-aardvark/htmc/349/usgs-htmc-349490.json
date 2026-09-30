@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-349490",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Koko Head, HI 1999 (printed 2000)",
+  "dct_alternative_sm": [
+    "Koko Head"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1999 edition of the Koko Head, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1999; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 23.2 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1999",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_dateRange_drsim": [
+    "[1999 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Honolulu County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d684",
+    "urn:uuid:a5dd9c5b-82d0-5383-a3a2-21755fe92d72"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-157.65 21.25,-157.65 21.375,-157.775 21.375,-157.775 21.25,-157.65 21.25))",
+  "dcat_bbox": "ENVELOPE(-157.775, -157.65, 21.375, 21.25)",
+  "dcat_centroid": "21.3125,-157.7125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349485",
+    "usgs-htmc-349486",
+    "usgs-htmc-349487",
+    "usgs-htmc-349488",
+    "usgs-htmc-349489"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Koko%20Head_349490_1999_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Koko%20Head_349490_1999_24000_geo.pdf\",\"label\":\"GeoPDF (13.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Koko%20Head_349490_1999_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Koko_Head_349490_1999_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d684\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Koko%20Head_349490_1999_24000_tn.jpg\"}"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-143901",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Elverton, TN 1968 (printed 1990)",
+  "dct_alternative_sm": [
+    "Elverton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Elverton, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Aerial photographs from 1987; field checked in 1968; photo revised in 1990; last revised in 1990; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 22 x 27.5 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Roane County, Tennessee",
+    "Morgan County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a40a7e4b00f54eb3eda76",
+    "urn:uuid:6b15102c-2406-7c0e-2db2-16b074b1f50b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.375 35.875,-84.375 36,-84.5 36,-84.5 35.875,-84.375 35.875))",
+  "dcat_bbox": "ENVELOPE(-84.5, -84.375, 36, 35.875)",
+  "dcat_centroid": "35.9375,-84.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-143900",
+    "usgs-htmc-147557",
+    "usgs-htmc-147558",
+    "usgs-htmc-147559",
+    "usgs-htmc-147560",
+    "usgs-htmc-147561",
+    "usgs-htmc-147562",
+    "usgs-htmc-147563"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Elverton_143901_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Elverton_143901_1968_24000_geo.pdf\",\"label\":\"GeoPDF (17.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Elverton_143901_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Elverton_143901_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a40a7e4b00f54eb3eda76\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Elverton_143901_1968_24000_tn.jpg\"}"
+}

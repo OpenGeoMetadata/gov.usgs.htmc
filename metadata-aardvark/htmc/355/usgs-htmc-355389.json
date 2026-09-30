@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-355389",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Demarcation Point D-2, AK 1955 (printed 1969)",
+  "dct_alternative_sm": [
+    "Demarcation Point D-2"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Demarcation Point D-2, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey and the Army Map Service. Aerial photographs from 1955; printed in 1969.",
+    "Sheet size: 18.1 x 20.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "North Slope, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5150e4b00f54eb40b7ae",
+    "urn:uuid:933b4a24-2de6-9089-ece7-ff496fec7385"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-141.6 69.75,-141.6 70,-142.2 70,-142.2 69.75,-141.6 69.75))",
+  "dcat_bbox": "ENVELOPE(-142.2, -141.6, 70, 69.75)",
+  "dcat_centroid": "69.875,-141.9",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-355390"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Demarcation%20Point%20D-2_355389_1955_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Demarcation%20Point%20D-2_355389_1955_63360_geo.pdf\",\"label\":\"GeoPDF (30.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Demarcation%20Point%20D-2_355389_1955_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Demarcation_Point_D2_355389_1955_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5150e4b00f54eb40b7ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Demarcation%20Point%20D-2_355389_1955_63360_tn.jpg\"}"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-402355",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Spanish Peaks, CO 1900",
+  "dct_alternative_sm": [
+    "Spanish Peaks"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1900 edition of the Spanish Peaks, Colorado, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1895.",
+    "Sheet size: 16.6 x 20.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Las Animas County, Colorado",
+    "Huerfano County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b86e4b00f54eb400a23",
+    "urn:uuid:3ff1f9ff-9ed9-14f2-aa84-988434641db8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104.5 37,-104.5 37.5,-105 37.5,-105 37,-104.5 37))",
+  "dcat_bbox": "ENVELOPE(-105, -104.5, 37.5, 37)",
+  "dcat_centroid": "37.25,-104.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-234497",
+    "usgs-htmc-234498",
+    "usgs-htmc-402354",
+    "usgs-htmc-402356",
+    "usgs-htmc-402357",
+    "usgs-htmc-402358",
+    "usgs-htmc-402359",
+    "usgs-htmc-402360",
+    "usgs-htmc-402371",
+    "usgs-htmc-402372"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Spanish%20Peaks_402355_1900_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Spanish%20Peaks_402355_1900_125000_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Spanish%20Peaks_402355_1900_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/125000/CO_Spanish_Peaks_402355_1900_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b86e4b00f54eb400a23\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Spanish%20Peaks_402355_1900_125000_tn.jpg\"}"
+}

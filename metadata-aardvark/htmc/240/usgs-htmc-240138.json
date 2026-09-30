@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-240138",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bodie Mountain, WA 1951",
+  "dct_alternative_sm": [
+    "Bodie Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Bodie Mountain, Washington, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1944; field checked in 1948.",
+    "Variations: woodland tint. Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Okanogan County, Washington",
+    "Ferry County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c4ae4b00f54eb3e686c",
+    "urn:uuid:ea134336-0597-1ff6-ae17-644c76453731"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.75 48.75,-118.75 49,-119 49,-119 48.75,-118.75 48.75))",
+  "dcat_bbox": "ENVELOPE(-119, -118.75, 49, 48.75)",
+  "dcat_centroid": "48.875,-118.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-240142"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Bodie%20Mountain_240138_1951_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Bodie%20Mountain_240138_1951_62500_geo.pdf\",\"label\":\"GeoPDF (8.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Bodie%20Mountain_240138_1951_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/62500/WA_Bodie_Mountain_240138_1951_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c4ae4b00f54eb3e686c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Bodie%20Mountain_240138_1951_62500_tn.jpg\"}"
+}

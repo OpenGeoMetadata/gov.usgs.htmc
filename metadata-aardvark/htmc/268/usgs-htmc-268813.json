@@ -1,0 +1,87 @@
+{
+  "id": "usgs-htmc-268813",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for White Sulphur Springs, MT 1948 (printed 1951)",
+  "dct_alternative_sm": [
+    "White Sulphur Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the White Sulphur Springs, Montana, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Aerial photographs from 1938; printed in 1951.",
+    "Variations: shaded relief. Sheet size: 28.5 x 23.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "Meagher County, Montana",
+    "Broadwater County, Montana",
+    "Judith Basin County, Montana",
+    "Lewis and Clark County, Montana",
+    "Wheatland County, Montana",
+    "Jefferson County, Montana",
+    "Gallatin County, Montana",
+    "Park County, Montana",
+    "Sweet Grass County, Montana",
+    "Cascade County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a97e4b00f54eb3ff0db",
+    "urn:uuid:c57f56b9-a986-b550-3584-3abbfd8cb40c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110 46,-110 47,-112 47,-112 46,-110 46))",
+  "dcat_bbox": "ENVELOPE(-112, -110, 47, 46)",
+  "dcat_centroid": "46.5,-111",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268814",
+    "usgs-htmc-268815",
+    "usgs-htmc-268816",
+    "usgs-htmc-268817",
+    "usgs-htmc-268818"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_White%20Sulphur%20Springs_268813_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_White%20Sulphur%20Springs_268813_1948_250000_geo.pdf\",\"label\":\"GeoPDF (18.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_White%20Sulphur%20Springs_268813_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/250000/MT_White_Sulphur_Springs_268813_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a97e4b00f54eb3ff0db\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_White%20Sulphur%20Springs_268813_1948_250000_tn.jpg\"}"
+}

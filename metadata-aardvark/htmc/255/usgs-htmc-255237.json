@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-255237",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Lambertville, NJ 1890",
+  "dct_alternative_sm": [
+    "Lambertville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1890 edition of the Lambertville, New Jersey, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1888.",
+    "Sheet size: 16.7 x 20.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1890",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    1890
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a260ce4b00f54eb3c1706",
+    "urn:uuid:0966612b-5b94-f8e8-609b-f7de948ba0e2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.75 40.25,-74.75 40.5,-75 40.5,-75 40.25,-74.75 40.25))",
+  "dcat_bbox": "ENVELOPE(-75, -74.75, 40.5, 40.25)",
+  "dcat_centroid": "40.375,-74.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255238",
+    "usgs-htmc-255239",
+    "usgs-htmc-255240",
+    "usgs-htmc-255241",
+    "usgs-htmc-255242",
+    "usgs-htmc-255243",
+    "usgs-htmc-255244",
+    "usgs-htmc-255245",
+    "usgs-htmc-255246",
+    "usgs-htmc-255247",
+    "usgs-htmc-255248"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/NJ_Lambertville_255237_1890_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Lambertville_255237_1890_62500_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/NJ_Lambertville_255237_1890_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/62500/NJ_Lambertville_255237_1890_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a260ce4b00f54eb3c1706\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Lambertville_255237_1890_62500_tn.jpg\"}"
+}

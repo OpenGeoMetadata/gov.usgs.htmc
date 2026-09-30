@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-469083",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Perry, KS 1950",
+  "dct_alternative_sm": [
+    "Perry"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Perry, Kansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1949; aerial photographs from 1948; field checked in 1949.",
+    "Variations: woodland tint. Sheet size: 21.75 x 26.89 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Kansas",
+    "Douglas County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5dcea0c0e4b06957976270dd",
+    "urn:uuid:0c140228-5ffc-c025-f621-b1f40f3c6059"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.375 39,-95.375 39.125,-95.5 39.125,-95.5 39,-95.375 39))",
+  "dcat_bbox": "ENVELOPE(-95.5, -95.375, 39.125, 39)",
+  "dcat_centroid": "39.0625,-95.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-512251",
+    "usgs-htmc-512252",
+    "usgs-htmc-512253",
+    "usgs-htmc-801939",
+    "usgs-htmc-801940",
+    "usgs-htmc-8030630"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Perry_469083_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Perry_469083_1950_24000_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Perry_469083_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/24000/KS_Perry_469083_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5dcea0c0e4b06957976270dd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Perry_469083_1950_24000_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-463386",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Roaring Creek, OR 1979",
+  "dct_alternative_sm": [
+    "Roaring Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Roaring Creek, Oregon, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1973; field checked in 1974; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 21.82 x 26.5 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Oregon",
+    "Tillamook County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c1d129ae4b0708288ca10d9",
+    "urn:uuid:f4c0b9c5-35a8-954e-7f48-dd4fe7ea53da"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123.25 45.5,-123.25 45.625,-123.375 45.625,-123.375 45.5,-123.25 45.5))",
+  "dcat_bbox": "ENVELOPE(-123.375, -123.25, 45.625, 45.5)",
+  "dcat_centroid": "45.5625,-123.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-281284"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Roaring%20Creek_463386_1979_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Roaring%20Creek_463386_1979_24000_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Roaring%20Creek_463386_1979_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/24000/OR_Roaring_Creek_463386_1979_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c1d129ae4b0708288ca10d9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/24000/OR_Roaring%20Creek_463386_1979_24000_tn.jpg\"}"
+}

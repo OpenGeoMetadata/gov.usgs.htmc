@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-465437",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Cape Vizcaino, CA 1921 (printed 1929)",
+  "dct_alternative_sm": [
+    "Cape Vizcaino"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Cape Vizcaino, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Field checked in 1916; printed in 1929.",
+    "Variations: woodland tint. Sheet size: 17.86 x 21.87 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Mendocino County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cde762ee4b038687e29677f",
+    "urn:uuid:8f9689a7-917f-5700-8ed9-47bcea7d505c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123.75 39.5,-123.75 39.75,-124 39.75,-124 39.5,-123.75 39.5))",
+  "dcat_bbox": "ENVELOPE(-124, -123.75, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-123.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297012",
+    "usgs-htmc-297013",
+    "usgs-htmc-297015",
+    "usgs-htmc-297016",
+    "usgs-htmc-466572"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Cape%20Vizcaino_465437_1921_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Cape%20Vizcaino_465437_1921_62500_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Cape%20Vizcaino_465437_1921_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Cape_Vizcaino_465437_1921_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cde762ee4b038687e29677f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Cape%20Vizcaino_465437_1921_62500_tn.jpg\"}"
+}

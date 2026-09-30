@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-322241",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Centertown NW, MO 1969 (printed 1971)",
+  "dct_alternative_sm": [
+    "Centertown NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Centertown NW, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1969; aerial photographs from 1967; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Moniteau County, Missouri",
+    "Cole County, Missouri",
+    "Boone County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a247ce4b00f54eb3bf272",
+    "urn:uuid:e1754f82-610a-942b-3e66-c7e7749c5fe2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.375 38.625,-92.375 38.75,-92.5 38.75,-92.5 38.625,-92.375 38.625))",
+  "dcat_bbox": "ENVELOPE(-92.5, -92.375, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-92.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Centertown%20NW_322241_1969_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Centertown%20NW_322241_1969_24000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Centertown%20NW_322241_1969_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Centertown_NW_322241_1969_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a247ce4b00f54eb3bf272\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Centertown%20NW_322241_1969_24000_tn.jpg\"}"
+}

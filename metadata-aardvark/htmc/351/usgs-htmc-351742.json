@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-351742",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Grafton, MA 1953 (printed 1955)",
+  "dct_alternative_sm": [
+    "Grafton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Grafton, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; last revised in 1953; printed in 1955.",
+    "Variations: woodland tint. Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1955]"
+  ],
+  "dct_spatial_sm": [
+    "Worcester County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a3be4b00f54eb3e2fef",
+    "urn:uuid:1897cb45-6170-f81f-5662-35e1213c0b15"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.625 42.125,-71.625 42.25,-71.75 42.25,-71.75 42.125,-71.625 42.125))",
+  "dcat_bbox": "ENVELOPE(-71.75, -71.625, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-71.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350165",
+    "usgs-htmc-350166",
+    "usgs-htmc-350167",
+    "usgs-htmc-350980",
+    "usgs-htmc-350981",
+    "usgs-htmc-351735",
+    "usgs-htmc-351737",
+    "usgs-htmc-351738",
+    "usgs-htmc-351740",
+    "usgs-htmc-351743",
+    "usgs-htmc-462960"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Grafton_351742_1953_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Grafton_351742_1953_31680_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Grafton_351742_1953_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Grafton_351742_1953_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a3be4b00f54eb3e2fef\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Grafton_351742_1953_31680_tn.jpg\"}"
+}

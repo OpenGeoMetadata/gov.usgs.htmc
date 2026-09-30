@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-322276",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Chesterfield, MO 1994 (printed 1995)",
+  "dct_alternative_sm": [
+    "Chesterfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Chesterfield, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1990; field checked in 1993; last revised in 1994; printed in 1995.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis County, Missouri",
+    "St. Charles County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a248de4b00f54eb3bf41d",
+    "urn:uuid:38cde89d-9649-523c-2c26-42971ebbc8b1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.5 38.625,-90.5 38.75,-90.625 38.75,-90.625 38.625,-90.5 38.625))",
+  "dcat_bbox": "ENVELOPE(-90.625, -90.5, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-90.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-322269",
+    "usgs-htmc-322270",
+    "usgs-htmc-322271",
+    "usgs-htmc-322272",
+    "usgs-htmc-322273",
+    "usgs-htmc-322274",
+    "usgs-htmc-322275",
+    "usgs-htmc-323384",
+    "usgs-htmc-513368"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Chesterfield_322276_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Chesterfield_322276_1994_24000_geo.pdf\",\"label\":\"GeoPDF (17.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Chesterfield_322276_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Chesterfield_322276_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a248de4b00f54eb3bf41d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Chesterfield_322276_1994_24000_tn.jpg\"}"
+}

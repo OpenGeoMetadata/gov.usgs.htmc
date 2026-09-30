@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-451381",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mc Intosh Mountain, CO 1954 (printed 1963)",
+  "dct_alternative_sm": [
+    "Mc Intosh Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Mc Intosh Mountain, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1950; field checked in 1954; printed in 1963.",
+    "Sheet size: 22.29 x 26.97 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Gunnison County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b08e4b00f54eb3e44e0",
+    "urn:uuid:247302b7-a7e0-7e64-d1e9-47d378242d97"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 38.5,-107 38.625,-107.125 38.625,-107.125 38.5,-107 38.5))",
+  "dcat_bbox": "ENVELOPE(-107.125, -107, 38.625, 38.5)",
+  "dcat_centroid": "38.5625,-107.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-233732",
+    "usgs-htmc-451375",
+    "usgs-htmc-451376",
+    "usgs-htmc-451377",
+    "usgs-htmc-451378",
+    "usgs-htmc-451379",
+    "usgs-htmc-451380",
+    "usgs-htmc-451382"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Mc%20Intosh%20Mountain_451381_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Mc%20Intosh%20Mountain_451381_1954_24000_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Mc%20Intosh%20Mountain_451381_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Mc_Intosh_Mountain_451381_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b08e4b00f54eb3e44e0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Mc%20Intosh%20Mountain_451381_1954_24000_tn.jpg\"}"
+}

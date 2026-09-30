@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-174332",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Clinton, IA 1894 (printed 1908)",
+  "dct_alternative_sm": [
+    "Clinton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Clinton, Iowa, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1908.",
+    "Sheet size: 15.5 x 19.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b99e4b00f54eb3e5305",
+    "urn:uuid:f4012619-7f50-cb2f-c2b9-5831e734dbaf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90 41.75,-90 42,-90.25 42,-90.25 41.75,-90 41.75))",
+  "dcat_bbox": "ENVELOPE(-90.25, -90, 42, 41.75)",
+  "dcat_centroid": "41.875,-90.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-174326",
+    "usgs-htmc-174327",
+    "usgs-htmc-174331",
+    "usgs-htmc-309352",
+    "usgs-htmc-309353"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Clinton_174332_1894_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Clinton_174332_1894_62500_geo.pdf\",\"label\":\"GeoPDF (5.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Clinton_174332_1894_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/62500/IA_Clinton_174332_1894_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b99e4b00f54eb3e5305\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/62500/IA_Clinton_174332_1894_62500_tn.jpg\"}"
+}

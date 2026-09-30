@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-465364",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Branch Mountain, CA 1942",
+  "dct_alternative_sm": [
+    "Branch Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Branch Mountain, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1937.",
+    "Sheet size: 16.18 x 19.77 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "San Luis Obispo County, California",
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cc0a3e4e4b09b8c0b7251ae",
+    "urn:uuid:36b5ccae-a89a-ac1f-796f-a4f647e677d6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120 35,-120 35.25,-120.25 35.25,-120.25 35,-120 35))",
+  "dcat_bbox": "ENVELOPE(-120.25, -120, 35.25, 35)",
+  "dcat_centroid": "35.125,-120.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-296619",
+    "usgs-htmc-296888",
+    "usgs-htmc-296889",
+    "usgs-htmc-296890",
+    "usgs-htmc-296891",
+    "usgs-htmc-465363"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Branch%20Mountain_465364_1942_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Branch%20Mountain_465364_1942_62500_geo.pdf\",\"label\":\"GeoPDF (11.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Branch%20Mountain_465364_1942_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Branch_Mountain_465364_1942_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cc0a3e4e4b09b8c0b7251ae\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Branch%20Mountain_465364_1942_62500_tn.jpg\"}"
+}

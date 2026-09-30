@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-100496",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Buckhorn Peak, CA 2001 (printed 2004)",
+  "dct_alternative_sm": [
+    "Buckhorn Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2001 edition of the Buckhorn Peak, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1998; last revised in 2001; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 21.4 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Mariposa County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2a35e4b00f54eb3c824d",
+    "urn:uuid:03d008c2-1104-6e06-ea35-6990a0d4980a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120 37.625,-120 37.75,-120.125 37.75,-120.125 37.625,-120 37.625))",
+  "dcat_bbox": "ENVELOPE(-120.125, -120, 37.75, 37.625)",
+  "dcat_centroid": "37.6875,-120.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-288648",
+    "usgs-htmc-288649",
+    "usgs-htmc-288650",
+    "usgs-htmc-288651",
+    "usgs-htmc-300033",
+    "usgs-htmc-300034",
+    "usgs-htmc-302514",
+    "usgs-htmc-302515"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Buckhorn%20Peak_100496_2001_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Buckhorn%20Peak_100496_2001_24000_geo.pdf\",\"label\":\"GeoPDF (18.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Buckhorn%20Peak_100496_2001_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Buckhorn_Peak_100496_2001_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2a35e4b00f54eb3c824d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Buckhorn%20Peak_100496_2001_24000_tn.jpg\"}"
+}

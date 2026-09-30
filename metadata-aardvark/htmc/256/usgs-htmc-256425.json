@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-256425",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Havre De Grace, MD 1953 (printed 1977)",
+  "dct_alternative_sm": [
+    "Havre De Grace"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Havre De Grace, Maryland, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1940; aerial photographs from 1975; photo revised in 1975; last revised in 1953; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Cecil County, Maryland",
+    "Harford County, Maryland",
+    "Maryland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a42f1e4b00f54eb3f1b61",
+    "urn:uuid:556dac06-b831-a135-020c-453313ea3892"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76 39.5,-76 39.625,-76.125 39.625,-76.125 39.5,-76 39.5))",
+  "dcat_bbox": "ENVELOPE(-76.125, -76, 39.625, 39.5)",
+  "dcat_centroid": "39.5625,-76.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-256421",
+    "usgs-htmc-256422",
+    "usgs-htmc-256423",
+    "usgs-htmc-256424",
+    "usgs-htmc-256426",
+    "usgs-htmc-256427",
+    "usgs-htmc-256428",
+    "usgs-htmc-256429",
+    "usgs-htmc-461519"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Havre%20De%20Grace_256425_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Havre%20De%20Grace_256425_1953_24000_geo.pdf\",\"label\":\"GeoPDF (13.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Havre%20De%20Grace_256425_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MD/24000/MD_Havre_De_Grace_256425_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a42f1e4b00f54eb3f1b61\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/24000/MD_Havre%20De%20Grace_256425_1953_24000_tn.jpg\"}"
+}

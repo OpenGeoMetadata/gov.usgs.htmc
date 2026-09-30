@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-295205",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Silver Bell Mine, CA 1993",
+  "dct_alternative_sm": [
+    "Silver Bell Mine"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1993 edition of the Silver Bell Mine, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1952; field checked in 1955; last revised in 1993; printed in 1993.",
+    "Sheet size: 22 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a34c5e4b00f54eb3da106",
+    "urn:uuid:22507b60-be0e-0e1b-9dd8-aed8e09ca085"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.5 34.625,-116.5 34.75,-116.625 34.75,-116.625 34.625,-116.5 34.625))",
+  "dcat_bbox": "ENVELOPE(-116.625, -116.5, 34.75, 34.625)",
+  "dcat_centroid": "34.6875,-116.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-295204",
+    "usgs-htmc-300492",
+    "usgs-htmc-300493"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Silver%20Bell%20Mine_295205_1993_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Silver%20Bell%20Mine_295205_1993_24000_geo.pdf\",\"label\":\"GeoPDF (11.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Silver%20Bell%20Mine_295205_1993_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Silver_Bell_Mine_295205_1993_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a34c5e4b00f54eb3da106\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Silver%20Bell%20Mine_295205_1993_24000_tn.jpg\"}"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-122015",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Brushy Creek, TX 2003 (printed 2004)",
+  "dct_alternative_sm": [
+    "Brushy Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2003 edition of the Brushy Creek, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1996; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_dateRange_drsim": [
+    "[1996 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4bfae4b00f54eb40171a",
+    "urn:uuid:94f6dad5-06bd-1c3e-838f-9a74a409ab36"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.75 31.625,-93.75 31.75,-93.875 31.75,-93.875 31.625,-93.75 31.625))",
+  "dcat_bbox": "ENVELOPE(-93.875, -93.75, 31.75, 31.625)",
+  "dcat_centroid": "31.6875,-93.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-106005"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Brushy%20Creek_122015_2003_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Brushy%20Creek_122015_2003_24000_geo.pdf\",\"label\":\"GeoPDF (18.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Brushy%20Creek_122015_2003_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Brushy_Creek_122015_2003_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4bfae4b00f54eb40171a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Brushy%20Creek_122015_2003_24000_tn.jpg\"}"
+}

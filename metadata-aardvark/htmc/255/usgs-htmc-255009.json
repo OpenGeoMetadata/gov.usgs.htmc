@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-255009",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Woodbury, NJ 1967 (printed 1994)",
+  "dct_alternative_sm": [
+    "Woodbury"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the Woodbury, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Aerial photographs from 1990; field checked in 1967; last revised in 1994; printed in 1994.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1994]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a25b7e4b00f54eb3c0fdf",
+    "urn:uuid:fa617c37-59bc-f405-bcf5-78c256314307"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.125 39.75,-75.125 39.875,-75.25 39.875,-75.25 39.75,-75.125 39.75))",
+  "dcat_bbox": "ENVELOPE(-75.25, -75.125, 39.875, 39.75)",
+  "dcat_centroid": "39.8125,-75.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255003",
+    "usgs-htmc-255004",
+    "usgs-htmc-255006",
+    "usgs-htmc-255007",
+    "usgs-htmc-255008",
+    "usgs-htmc-255010",
+    "usgs-htmc-255032"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Woodbury_255009_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Woodbury_255009_1967_24000_geo.pdf\",\"label\":\"GeoPDF (16.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Woodbury_255009_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Woodbury_255009_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a25b7e4b00f54eb3c0fdf\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Woodbury_255009_1967_24000_tn.jpg\"}"
+}

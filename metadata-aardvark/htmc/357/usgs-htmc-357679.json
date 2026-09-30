@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-357679",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Mount Hayes D-1, AK 1954 (printed 1958)",
+  "dct_alternative_sm": [
+    "Mount Hayes D-1"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Mount Hayes D-1, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 18 x 20.7 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Southeast Fairbanks Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a542fe4b00f54eb41123f",
+    "urn:uuid:484e5ab8-16ef-2fdc-a464-13d098d6bf3f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-144 63.75,-144 64,-144.5 64,-144.5 63.75,-144 63.75))",
+  "dcat_bbox": "ENVELOPE(-144.5, -144, 64, 63.75)",
+  "dcat_centroid": "63.875,-144.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-357680",
+    "usgs-htmc-357868",
+    "usgs-htmc-357869",
+    "usgs-htmc-463959"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Mount%20Hayes%20D-1_357679_1954_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Mount%20Hayes%20D-1_357679_1954_63360_geo.pdf\",\"label\":\"GeoPDF (14.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Mount%20Hayes%20D-1_357679_1954_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Mount_Hayes_D1_357679_1954_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a542fe4b00f54eb41123f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Mount%20Hayes%20D-1_357679_1954_63360_tn.jpg\"}"
+}

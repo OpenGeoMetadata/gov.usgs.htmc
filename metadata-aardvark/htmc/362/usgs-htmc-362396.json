@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-362396",
+  "dct_title_s": "USGS 1:30000-scale Quadrangle for Culebra And Adjacent Islands, PR 1948 (printed 1966)",
+  "dct_alternative_sm": [
+    "Culebra And Adjacent Islands"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Culebra And Adjacent Islands, Puerto Rico, topographic map at 1:30,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. military. Printed in 1966.",
+    "Variations: woodland tint. Sheet size: 27.7 x 19.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Humacao, Puerto Rico",
+    "Culebra, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2fe2e4b00f54eb3d1786",
+    "urn:uuid:d09c9066-a983-3639-724a-5bc10da9243e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-65.2166667 18.2666667,-65.2166667 18.3666667,-65.4 18.3666667,-65.4 18.2666667,-65.2166667 18.2666667))",
+  "dcat_bbox": "ENVELOPE(-65.4, -65.2166667, 18.3666667, 18.2666667)",
+  "dcat_centroid": "18.3166667,-65.30833335",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362397",
+    "usgs-htmc-362398",
+    "usgs-htmc-362399"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Culebra%20And%20Adjacent%20Islands_362396_1948_30000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Culebra%20And%20Adjacent%20Islands_362396_1948_30000_geo.pdf\",\"label\":\"GeoPDF (6.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Culebra%20And%20Adjacent%20Islands_362396_1948_30000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/30000/PR_Culebra_And_Adjacent_Islands_362396_1948_30000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2fe2e4b00f54eb3d1786\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Culebra%20And%20Adjacent%20Islands_362396_1948_30000_tn.jpg\"}"
+}

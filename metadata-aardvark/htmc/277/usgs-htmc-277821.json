@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-277821",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Gould City NE, MI 1931",
+  "dct_alternative_sm": [
+    "Gould City NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1931 edition of the Gould City NE, Michigan, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1931.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 15.8 x 21.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_spatial_sm": [
+    "Mackinac County, Michigan",
+    "Luce County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3289e4b00f54eb3d564b",
+    "urn:uuid:80c01881-1544-47a2-59e1-182ffb4ac6fc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.5 46.125,-85.5 46.25,-85.625 46.25,-85.625 46.125,-85.5 46.125))",
+  "dcat_bbox": "ENVELOPE(-85.625, -85.5, 46.25, 46.125)",
+  "dcat_centroid": "46.1875,-85.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-276698"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Gould%20City%20NE_277821_1931_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Gould%20City%20NE_277821_1931_31680_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Gould%20City%20NE_277821_1931_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/31680/MI_Gould_City_NE_277821_1931_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3289e4b00f54eb3d564b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Gould%20City%20NE_277821_1931_31680_tn.jpg\"}"
+}

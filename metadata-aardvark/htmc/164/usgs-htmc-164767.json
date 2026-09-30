@@ -1,0 +1,92 @@
+{
+  "id": "usgs-htmc-164767",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Rocky Mount, NC 1953 (printed 1980)",
+  "dct_alternative_sm": [
+    "Rocky Mount"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Rocky Mount, North Carolina, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1976; field checked in 1953; last revised in 1980; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 32 x 21.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Nash County, North Carolina",
+    "Hyde County, North Carolina",
+    "Beaufort County, North Carolina",
+    "Pitt County, North Carolina",
+    "Pamlico County, North Carolina",
+    "Craven County, North Carolina",
+    "Tyrrell County, North Carolina",
+    "Martin County, North Carolina",
+    "Washington County, North Carolina",
+    "Lenoir County, North Carolina",
+    "Edgecombe County, North Carolina",
+    "Carteret County, North Carolina",
+    "Jones County, North Carolina",
+    "Wayne County, North Carolina",
+    "Wilson County, North Carolina",
+    "Greene County, North Carolina",
+    "Bertie County, North Carolina",
+    "Duplin County, North Carolina",
+    "Dare County, North Carolina",
+    "Chowan County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2bb8e4b00f54eb3caadd",
+    "urn:uuid:1752fedb-6864-85d5-358b-08e87be9007e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76 35,-76 36,-78 36,-78 35,-76 35))",
+  "dcat_bbox": "ENVELOPE(-78, -76, 36, 35)",
+  "dcat_centroid": "35.5,-77",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-164763",
+    "usgs-htmc-164764",
+    "usgs-htmc-164768",
+    "usgs-htmc-164769"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Rocky%20Mount_164767_1953_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/250000/NC_Rocky%20Mount_164767_1953_250000_geo.pdf\",\"label\":\"GeoPDF (23.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Rocky%20Mount_164767_1953_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/250000/NC_Rocky_Mount_164767_1953_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2bb8e4b00f54eb3caadd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/250000/NC_Rocky%20Mount_164767_1953_250000_tn.jpg\"}"
+}

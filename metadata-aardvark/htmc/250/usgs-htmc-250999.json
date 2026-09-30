@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-250999",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for North Ogden, UT 1955 (printed 1978)",
+  "dct_alternative_sm": [
+    "North Ogden"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the North Ogden, Utah, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1955; aerial photographs from 1975; photo revised in 1975; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Weber County, Utah",
+    "Box Elder County, Utah",
+    "Utah"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a564be4b00f54eb413518",
+    "urn:uuid:7feaff04-6d84-9d30-ef36-eed2e34cfe33"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111.875 41.25,-111.875 41.375,-112 41.375,-112 41.25,-111.875 41.25))",
+  "dcat_bbox": "ENVELOPE(-112, -111.875, 41.375, 41.25)",
+  "dcat_centroid": "41.3125,-111.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-250996",
+    "usgs-htmc-250997",
+    "usgs-htmc-250998",
+    "usgs-htmc-251000",
+    "usgs-htmc-251001",
+    "usgs-htmc-251002",
+    "usgs-htmc-251003"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_North%20Ogden_250999_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_North%20Ogden_250999_1955_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_North%20Ogden_250999_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/24000/UT_North_Ogden_250999_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a564be4b00f54eb413518\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_North%20Ogden_250999_1955_24000_tn.jpg\"}"
+}

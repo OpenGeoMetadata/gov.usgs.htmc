@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-296132",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Grimes, CA 1911",
+  "dct_alternative_sm": [
+    "Grimes"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1911 edition of the Grimes, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1909.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Colusa County, California",
+    "Sutter County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5189e4b00f54eb40bedc",
+    "urn:uuid:e92e3795-0e41-da84-178f-5327b630e199"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.875 39,-121.875 39.125,-122 39.125,-122 39,-121.875 39))",
+  "dcat_bbox": "ENVELOPE(-122, -121.875, 39.125, 39)",
+  "dcat_centroid": "39.0625,-121.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102279",
+    "usgs-htmc-291033",
+    "usgs-htmc-291034",
+    "usgs-htmc-291035",
+    "usgs-htmc-291036"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Grimes_296132_1911_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Grimes_296132_1911_31680_geo.pdf\",\"label\":\"GeoPDF (5.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Grimes_296132_1911_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Grimes_296132_1911_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5189e4b00f54eb40bedc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Grimes_296132_1911_31680_tn.jpg\"}"
+}

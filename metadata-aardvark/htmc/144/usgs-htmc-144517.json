@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-144517",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Winfield, NY 1907 (printed 1932)",
+  "dct_alternative_sm": [
+    "Winfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1907 edition of the Winfield, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1905; printed in 1932.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1907",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    1907
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Otsego County, New York",
+    "Herkimer County, New York",
+    "Oneida County, New York",
+    "Madison County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3547e4b00f54eb3db061",
+    "urn:uuid:574b7ab5-7440-88c2-3c5f-01b7627b8c47"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75 42.75,-75 43,-75.25 43,-75.25 42.75,-75 42.75))",
+  "dcat_bbox": "ENVELOPE(-75.25, -75, 43, 42.75)",
+  "dcat_centroid": "42.875,-75.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-140354",
+    "usgs-htmc-140356",
+    "usgs-htmc-144514",
+    "usgs-htmc-144515",
+    "usgs-htmc-144516"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Winfield_144517_1907_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Winfield_144517_1907_62500_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Winfield_144517_1907_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Winfield_144517_1907_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3547e4b00f54eb3db061\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Winfield_144517_1907_62500_tn.jpg\"}"
+}

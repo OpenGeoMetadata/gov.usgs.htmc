@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-103216",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Roxbury, CT 1955 (printed 1984)",
+  "dct_alternative_sm": [
+    "Roxbury"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Roxbury, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1945; aerial photographs from 1982; photo revised in 1984; last revised in 1984; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 21.5 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Litchfield County, Connecticut",
+    "New Haven County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50ace4b00f54eb40a41b",
+    "urn:uuid:18cf39b7-c820-e99e-9b82-96042a07c7ac"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.25 41.5,-73.25 41.625,-73.375 41.625,-73.375 41.5,-73.25 41.5))",
+  "dcat_bbox": "ENVELOPE(-73.375, -73.25, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-73.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-461261",
+    "usgs-htmc-461262",
+    "usgs-htmc-461263",
+    "usgs-htmc-461264",
+    "usgs-htmc-461265",
+    "usgs-htmc-461267"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Roxbury_103216_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Roxbury_103216_1955_24000_geo.pdf\",\"label\":\"GeoPDF (21.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Roxbury_103216_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Roxbury_103216_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50ace4b00f54eb40a41b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Roxbury_103216_1955_24000_tn.jpg\"}"
+}

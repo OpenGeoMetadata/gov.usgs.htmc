@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-262022",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Walterboro, SC 1990",
+  "dct_alternative_sm": [
+    "Walterboro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the Walterboro, South Carolina, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1988; last revised in 1990; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 43.4 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Colleton County, South Carolina",
+    "Charleston County, South Carolina",
+    "Dorchester County, South Carolina",
+    "Beaufort County, South Carolina",
+    "Hampton County, South Carolina",
+    "Jasper County, South Carolina",
+    "Berkeley County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f69e4b00f54eb3eb872",
+    "urn:uuid:9978a5d5-8e9c-e1ae-86d8-05914ab973c3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 32.5,-80 33,-81 33,-81 32.5,-80 32.5))",
+  "dcat_bbox": "ENVELOPE(-81, -80, 33, 32.5)",
+  "dcat_centroid": "32.75,-80.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-262021"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Walterboro_262022_1990_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/100000/SC_Walterboro_262022_1990_100000_geo.pdf\",\"label\":\"GeoPDF (27.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Walterboro_262022_1990_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/100000/SC_Walterboro_262022_1990_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f69e4b00f54eb3eb872\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/100000/SC_Walterboro_262022_1990_100000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-335149",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Zwolle, LA 1957 (printed 1983)",
+  "dct_alternative_sm": [
+    "Zwolle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Zwolle, Louisiana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1943; aerial photographs from 1969; field checked in 1957; photo revised in 1969; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 18 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Louisiana",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e92e4b00f54eb40623a",
+    "urn:uuid:d96092af-0436-1f52-464b-5787811cefa5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.5 31.5,-93.5 31.75,-93.75 31.75,-93.75 31.5,-93.5 31.5))",
+  "dcat_bbox": "ENVELOPE(-93.75, -93.5, 31.75, 31.5)",
+  "dcat_centroid": "31.625,-93.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335143",
+    "usgs-htmc-335144",
+    "usgs-htmc-335145",
+    "usgs-htmc-335146",
+    "usgs-htmc-335147",
+    "usgs-htmc-335148"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Zwolle_335149_1957_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_Zwolle_335149_1957_62500_geo.pdf\",\"label\":\"GeoPDF (11.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Zwolle_335149_1957_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/62500/LA_Zwolle_335149_1957_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e92e4b00f54eb40623a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/62500/LA_Zwolle_335149_1957_62500_tn.jpg\"}"
+}

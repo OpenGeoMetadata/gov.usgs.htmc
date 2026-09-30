@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-466329",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for San Quentin, CA 1948",
+  "dct_alternative_sm": [
+    "San Quentin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the San Quentin, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1947; field checked in 1947; printed in 1948.",
+    "Sheet size: 21.99 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Marin County, California",
+    "Contra Costa County, California",
+    "San Francisco County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e27090be4b014c85308fb8b",
+    "urn:uuid:c3bcbb85-24a5-5c00-a318-141d6fd56b6e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.375 37.875,-122.375 38,-122.5 38,-122.5 37.875,-122.375 37.875))",
+  "dcat_bbox": "ENVELOPE(-122.5, -122.375, 38, 37.875)",
+  "dcat_centroid": "37.9375,-122.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102337",
+    "usgs-htmc-295041",
+    "usgs-htmc-300193",
+    "usgs-htmc-300194",
+    "usgs-htmc-300195",
+    "usgs-htmc-300196",
+    "usgs-htmc-300197",
+    "usgs-htmc-300198",
+    "usgs-htmc-300199"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Quentin_466329_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_San%20Quentin_466329_1948_24000_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Quentin_466329_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_San_Quentin_466329_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e27090be4b014c85308fb8b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_San%20Quentin_466329_1948_24000_tn.jpg\"}"
+}

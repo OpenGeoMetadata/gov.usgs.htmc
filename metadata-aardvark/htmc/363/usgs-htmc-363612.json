@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-363612",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Manua Islands East, AS 2001 (printed 2004)",
+  "dct_alternative_sm": [
+    "Manua Islands East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2001 edition of the Manua Islands East, American Samoa, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 2001; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 29.96 x 28.07 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Manu‘a District, American Samoa",
+    "American Samoa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5268e4b00f54eb40d998",
+    "urn:uuid:e9c25945-01ca-5f41-b829-7320529c2ae5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-169.4 -14.2916667,-169.4 -14.15,-169.55 -14.15,-169.55 -14.2916667,-169.4 -14.2916667))",
+  "dcat_bbox": "ENVELOPE(-169.55, -169.4, -14.15, -14.2916667)",
+  "dcat_centroid": "-14.22083335,-169.475",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AS/AS_Manua%20Islands%20East_363612_2001_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AS/24000/AS_Manua%20Islands%20East_363612_2001_24000_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AS/AS_Manua%20Islands%20East_363612_2001_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AS/24000/AS_Manua_Islands_East_363612_2001_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5268e4b00f54eb40d998\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AS/24000/AS_Manua%20Islands%20East_363612_2001_24000_tn.jpg\"}"
+}

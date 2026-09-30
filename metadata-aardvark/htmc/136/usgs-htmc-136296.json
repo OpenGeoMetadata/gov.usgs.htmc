@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-136296",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Seneca Falls, NY 1943 (printed 1954)",
+  "dct_alternative_sm": [
+    "Seneca Falls"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Seneca Falls, New York, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1942; field checked in 1943; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 17 x 22 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Seneca County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2392e4b00f54eb3bdcd7",
+    "urn:uuid:8e652fd9-4cd7-d5eb-0b40-9e1172b2e55c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.75 42.875,-76.75 43,-76.875 43,-76.875 42.875,-76.75 42.875))",
+  "dcat_bbox": "ENVELOPE(-76.875, -76.75, 43, 42.875)",
+  "dcat_centroid": "42.9375,-76.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-136137",
+    "usgs-htmc-136138",
+    "usgs-htmc-136139",
+    "usgs-htmc-136140",
+    "usgs-htmc-136141"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Seneca%20Falls_136296_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/31680/NY_Seneca%20Falls_136296_1943_31680_geo.pdf\",\"label\":\"GeoPDF (5.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Seneca%20Falls_136296_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/31680/NY_Seneca_Falls_136296_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2392e4b00f54eb3bdcd7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/31680/NY_Seneca%20Falls_136296_1943_31680_tn.jpg\"}"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-191143",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Laguna Gatuna NW, NM 1984",
+  "dct_alternative_sm": [
+    "Laguna Gatuna NW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Laguna Gatuna NW, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1977; field checked in 1978; last revised in 1984; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1977 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Lea County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3bf8e4b00f54eb3e5e93",
+    "urn:uuid:70507f00-37bb-4a0f-75d3-a66446b39369"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103.625 32.625,-103.625 32.75,-103.75 32.75,-103.75 32.625,-103.625 32.625))",
+  "dcat_bbox": "ENVELOPE(-103.75, -103.625, 32.75, 32.625)",
+  "dcat_centroid": "32.6875,-103.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Laguna%20Gatuna%20NW_191143_1984_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Laguna%20Gatuna%20NW_191143_1984_24000_geo.pdf\",\"label\":\"GeoPDF (7.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Laguna%20Gatuna%20NW_191143_1984_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Laguna_Gatuna_NW_191143_1984_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3bf8e4b00f54eb3e5e93\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Laguna%20Gatuna%20NW_191143_1984_24000_tn.jpg\"}"
+}

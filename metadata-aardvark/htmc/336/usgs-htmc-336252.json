@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-336252",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pass Christian, MS 1955 (printed 1965)",
+  "dct_alternative_sm": [
+    "Pass Christian"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Pass Christian, Mississippi, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Surveyed in 1950; aerial photographs from 1950; field checked in 1955; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 22.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Harrison County, Mississippi",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a4fe4b00f54eb3fe9f0",
+    "urn:uuid:07a1ff8b-107e-c747-5b6e-228d08fcc94f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.125 30.25,-89.125 30.375,-89.25 30.375,-89.25 30.25,-89.125 30.25))",
+  "dcat_bbox": "ENVELOPE(-89.25, -89.125, 30.375, 30.25)",
+  "dcat_centroid": "30.3125,-89.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-336248",
+    "usgs-htmc-336249",
+    "usgs-htmc-336250",
+    "usgs-htmc-336251",
+    "usgs-htmc-336253",
+    "usgs-htmc-336254"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Pass%20Christian_336252_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Pass%20Christian_336252_1955_24000_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Pass%20Christian_336252_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/24000/MS_Pass_Christian_336252_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a4fe4b00f54eb3fe9f0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Pass%20Christian_336252_1955_24000_tn.jpg\"}"
+}

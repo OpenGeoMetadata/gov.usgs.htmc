@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-227068",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Shaker Heights, OH 1963 (printed 1971)",
+  "dct_alternative_sm": [
+    "Shaker Heights"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the Shaker Heights, Ohio, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1953; aerial photographs from 1970; field checked in 1963; photo revised in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Cuyahoga County, Ohio",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a26bae4b00f54eb3c2a26",
+    "urn:uuid:9bf727ba-c238-1350-8b10-2e4c7fc78beb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.5 41.375,-81.5 41.5,-81.625 41.5,-81.625 41.375,-81.5 41.375))",
+  "dcat_bbox": "ENVELOPE(-81.625, -81.5, 41.5, 41.375)",
+  "dcat_centroid": "41.4375,-81.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-226962",
+    "usgs-htmc-227067",
+    "usgs-htmc-227069",
+    "usgs-htmc-227070",
+    "usgs-htmc-228146"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Shaker%20Heights_227068_1963_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Shaker%20Heights_227068_1963_24000_geo.pdf\",\"label\":\"GeoPDF (15.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OH/OH_Shaker%20Heights_227068_1963_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OH/24000/OH_Shaker_Heights_227068_1963_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a26bae4b00f54eb3c2a26\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OH/24000/OH_Shaker%20Heights_227068_1963_24000_tn.jpg\"}"
+}

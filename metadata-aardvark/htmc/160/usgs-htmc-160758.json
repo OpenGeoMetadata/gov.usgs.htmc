@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-160758",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Oolitic, IN 1935 (printed 1968)",
+  "dct_alternative_sm": [
+    "Oolitic"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the Oolitic, Indiana, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1935; printed in 1968.",
+    "Variations: woodland tint. Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1968]"
+  ],
+  "dct_spatial_sm": [
+    "Lawrence County, Indiana",
+    "Martin County, Indiana",
+    "Greene County, Indiana",
+    "Monroe County, Indiana",
+    "Indiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a472ee4b00f54eb3f8dc3",
+    "urn:uuid:417036ab-72bf-9f20-915c-99f4d2a96bfe"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.5 38.75,-86.5 39,-86.75 39,-86.75 38.75,-86.5 38.75))",
+  "dcat_bbox": "ENVELOPE(-86.75, -86.5, 39, 38.75)",
+  "dcat_centroid": "38.875,-86.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-160756",
+    "usgs-htmc-160757",
+    "usgs-htmc-160760",
+    "usgs-htmc-160763",
+    "usgs-htmc-160764",
+    "usgs-htmc-160765",
+    "usgs-htmc-160767"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Oolitic_160758_1935_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/62500/IN_Oolitic_160758_1935_62500_geo.pdf\",\"label\":\"GeoPDF (9.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Oolitic_160758_1935_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IN/62500/IN_Oolitic_160758_1935_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a472ee4b00f54eb3f8dc3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/62500/IN_Oolitic_160758_1935_62500_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-361245",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Norton Bay, AK 1948 (printed 1954)",
+  "dct_alternative_sm": [
+    "Norton Bay"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Norton Bay, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey and the Army Map Service. Surveyed in 1944; printed in 1954.",
+    "Variations: shaded relief. Sheet size: 27.3 x 23 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Nome Census Area, Alaska",
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3ad3e4b00f54eb3e402b",
+    "urn:uuid:a66e7958-1dff-b33c-fa13-74221ad82768"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-159 64,-159 65,-162 65,-162 64,-159 64))",
+  "dcat_bbox": "ENVELOPE(-162, -159, 65, 64)",
+  "dcat_centroid": "64.5,-160.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361246",
+    "usgs-htmc-361247",
+    "usgs-htmc-361248",
+    "usgs-htmc-361249",
+    "usgs-htmc-361250",
+    "usgs-htmc-361251",
+    "usgs-htmc-361252"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Norton%20Bay_361245_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Norton%20Bay_361245_1948_250000_geo.pdf\",\"label\":\"GeoPDF (34.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Norton%20Bay_361245_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Norton_Bay_361245_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3ad3e4b00f54eb3e402b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Norton%20Bay_361245_1948_250000_tn.jpg\"}"
+}

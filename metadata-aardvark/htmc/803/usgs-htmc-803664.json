@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-803664",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Keene, KY 1952 (printed 1972)",
+  "dct_alternative_sm": [
+    "Keene"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Keene, Kentucky, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1950; field checked in 1952; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Jessamine County, Kentucky",
+    "Woodford County, Kentucky",
+    "Fayette County, Kentucky",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b51e4b00f54eb4003ab",
+    "urn:uuid:6753b5dd-58c6-191a-6eb7-df7534cfe849"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.625 37.875,-84.625 38,-84.75 38,-84.75 37.875,-84.625 37.875))",
+  "dcat_bbox": "ENVELOPE(-84.75, -84.625, 38, 37.875)",
+  "dcat_centroid": "37.9375,-84.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-709003",
+    "usgs-htmc-709004"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Keene_803664_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/24000/KY_Keene_803664_1952_24000_geo.pdf\",\"label\":\"GeoPDF (9.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Keene_803664_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/24000/KY_Keene_803664_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b51e4b00f54eb4003ab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/24000/KY_Keene_803664_1952_24000_tn.jpg\"}"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-330340",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Second Lake, NH 1932 (printed 1948)",
+  "dct_alternative_sm": [
+    "Second Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Second Lake, New Hampshire, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1927; printed in 1948.",
+    "Sheet size: 17 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5113e4b00f54eb40b042",
+    "urn:uuid:6b2877fe-72a1-0539-9bd6-53d0ce78b8f7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71 45,-71 45.25,-71.25 45.25,-71.25 45,-71 45))",
+  "dcat_bbox": "ENVELOPE(-71.25, -71, 45.25, 45)",
+  "dcat_centroid": "45.125,-71.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306773",
+    "usgs-htmc-330334",
+    "usgs-htmc-330335",
+    "usgs-htmc-330336",
+    "usgs-htmc-330337",
+    "usgs-htmc-330338",
+    "usgs-htmc-330339",
+    "usgs-htmc-330341",
+    "usgs-htmc-330342"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Second%20Lake_330340_1932_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Second%20Lake_330340_1932_62500_geo.pdf\",\"label\":\"GeoPDF (12.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Second%20Lake_330340_1932_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/62500/NH_Second_Lake_330340_1932_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5113e4b00f54eb40b042\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Second%20Lake_330340_1932_62500_tn.jpg\"}"
+}

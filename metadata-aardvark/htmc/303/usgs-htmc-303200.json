@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-303200",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bee Branch, AL 1960 (printed 1961)",
+  "dct_alternative_sm": [
+    "Bee Branch"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Bee Branch, Alabama, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1950; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Lawrence County, Alabama",
+    "Winston County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4357e4b00f54eb3f27af",
+    "urn:uuid:575b3b7b-bab6-ed4a-2f1f-7152b398ea10"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.375 34.25,-87.375 34.375,-87.5 34.375,-87.5 34.25,-87.375 34.25))",
+  "dcat_bbox": "ENVELOPE(-87.5, -87.375, 34.375, 34.25)",
+  "dcat_centroid": "34.3125,-87.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-303199",
+    "usgs-htmc-303201",
+    "usgs-htmc-303202",
+    "usgs-htmc-303203"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Bee%20Branch_303200_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Bee%20Branch_303200_1960_24000_geo.pdf\",\"label\":\"GeoPDF (17.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Bee%20Branch_303200_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/24000/AL_Bee_Branch_303200_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4357e4b00f54eb3f27af\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Bee%20Branch_303200_1960_24000_tn.jpg\"}"
+}

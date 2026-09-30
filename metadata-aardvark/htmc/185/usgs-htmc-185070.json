@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-185070",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Gainesville, VA 1953 (printed 1960)",
+  "dct_alternative_sm": [
+    "Gainesville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Gainesville, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1953; aerial photographs from 1943; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Prince William County, Virginia",
+    "Fairfax County, Virginia",
+    "Loudoun County, Virginia",
+    "Manassas, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3434e4b00f54eb3d8d4f",
+    "urn:uuid:461094d7-3a09-a9cc-98eb-35decb916029"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.5 38.75,-77.5 38.875,-77.625 38.875,-77.625 38.75,-77.5 38.75))",
+  "dcat_bbox": "ENVELOPE(-77.625, -77.5, 38.875, 38.75)",
+  "dcat_centroid": "38.8125,-77.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-185071",
+    "usgs-htmc-185072",
+    "usgs-htmc-185073",
+    "usgs-htmc-185074",
+    "usgs-htmc-185075",
+    "usgs-htmc-185076",
+    "usgs-htmc-185077",
+    "usgs-htmc-185079",
+    "usgs-htmc-185080",
+    "usgs-htmc-185081",
+    "usgs-htmc-185082"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Gainesville_185070_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Gainesville_185070_1953_24000_geo.pdf\",\"label\":\"GeoPDF (8.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Gainesville_185070_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Gainesville_185070_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3434e4b00f54eb3d8d4f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Gainesville_185070_1953_24000_tn.jpg\"}"
+}

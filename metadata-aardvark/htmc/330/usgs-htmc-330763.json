@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-330763",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Norwalk North, CT 1960 (printed 1973)",
+  "dct_alternative_sm": [
+    "Norwalk North"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Norwalk North, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1971; field checked in 1951; photo revised in 1971; last revised in 1960; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 21.6 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a509de4b00f54eb40a246",
+    "urn:uuid:38255616-c511-946d-cd90-38d6c737b5a7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.375 41.125,-73.375 41.25,-73.5 41.25,-73.5 41.125,-73.375 41.125))",
+  "dcat_bbox": "ENVELOPE(-73.5, -73.375, 41.25, 41.125)",
+  "dcat_centroid": "41.1875,-73.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330757",
+    "usgs-htmc-330758",
+    "usgs-htmc-330759",
+    "usgs-htmc-330760",
+    "usgs-htmc-330761",
+    "usgs-htmc-330762",
+    "usgs-htmc-330966",
+    "usgs-htmc-330967",
+    "usgs-htmc-330968",
+    "usgs-htmc-330969"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Norwalk%20North_330763_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Norwalk%20North_330763_1960_24000_geo.pdf\",\"label\":\"GeoPDF (17.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Norwalk%20North_330763_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Norwalk_North_330763_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a509de4b00f54eb40a246\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Norwalk%20North_330763_1960_24000_tn.jpg\"}"
+}

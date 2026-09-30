@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-322453",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Decaturville, MO 1975 (printed 1978)",
+  "dct_alternative_sm": [
+    "Decaturville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the Decaturville, Missouri, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; field checked in 1975; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Camden County, Missouri",
+    "Laclede County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24dce4b00f54eb3bfb41",
+    "urn:uuid:9b350e03-7a2c-b953-1ea7-4f89e0e233e9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.625 37.875,-92.625 38,-92.75 38,-92.75 37.875,-92.625 37.875))",
+  "dcat_bbox": "ENVELOPE(-92.75, -92.625, 38, 37.875)",
+  "dcat_centroid": "37.9375,-92.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Decaturville_322453_1975_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Decaturville_322453_1975_24000_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Decaturville_322453_1975_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/24000/MO_Decaturville_322453_1975_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24dce4b00f54eb3bfb41\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/24000/MO_Decaturville_322453_1975_24000_tn.jpg\"}"
+}

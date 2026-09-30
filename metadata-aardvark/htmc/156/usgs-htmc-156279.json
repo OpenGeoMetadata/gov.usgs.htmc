@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-156279",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Borden, IN 1966 (printed 1984)",
+  "dct_alternative_sm": [
+    "Borden"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Borden, Indiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1939; photo inspected in 1978; last revised in 1966; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Clark County, Indiana",
+    "Floyd County, Indiana",
+    "Washington County, Indiana",
+    "Indiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f39e4b00f54eb3eb422",
+    "urn:uuid:b027af70-a7a9-f0c7-1420-5a8a8a4ee438"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.875 38.375,-85.875 38.5,-86 38.5,-86 38.375,-85.875 38.375))",
+  "dcat_bbox": "ENVELOPE(-86, -85.875, 38.5, 38.375)",
+  "dcat_centroid": "38.4375,-85.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-156280",
+    "usgs-htmc-156281",
+    "usgs-htmc-156282",
+    "usgs-htmc-156283",
+    "usgs-htmc-156704",
+    "usgs-htmc-156705"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Borden_156279_1966_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_Borden_156279_1966_24000_geo.pdf\",\"label\":\"GeoPDF (17.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Borden_156279_1966_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IN/24000/IN_Borden_156279_1966_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f39e4b00f54eb3eb422\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_Borden_156279_1966_24000_tn.jpg\"}"
+}

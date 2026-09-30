@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-105069",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dark Cove Mountain, ME 1990",
+  "dct_alternative_sm": [
+    "Dark Cove Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the Dark Cove Mountain, Maine, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1986; last revised in 1990; printed in 1990.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.5 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a486de4b00f54eb3fb64e",
+    "urn:uuid:b8d5b1d5-bb8f-3f33-3390-cce77ea4cb59"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-67.875 45.125,-67.875 45.25,-68 45.25,-68 45.125,-67.875 45.125))",
+  "dcat_bbox": "ENVELOPE(-68, -67.875, 45.25, 45.125)",
+  "dcat_centroid": "45.1875,-67.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-807262"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Dark%20Cove%20Mountain_105069_1990_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Dark%20Cove%20Mountain_105069_1990_24000_geo.pdf\",\"label\":\"GeoPDF (15.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Dark%20Cove%20Mountain_105069_1990_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/24000/ME_Dark_Cove_Mountain_105069_1990_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a486de4b00f54eb3fb64e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Dark%20Cove%20Mountain_105069_1990_24000_tn.jpg\"}"
+}

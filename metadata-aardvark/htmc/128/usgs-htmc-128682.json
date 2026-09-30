@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-128682",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Independence Draw Quadrangle, TX 1929",
+  "dct_alternative_sm": [
+    "Independence Draw Quadrangle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1929 edition of the Independence Draw Quadrangle, Texas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey.",
+    "Release: Advance. Sheet size: 18.1 x 21 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1929",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "gbl_indexYear_im": [
+    1929
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Pecos County, Texas",
+    "Terrell County, Texas",
+    "Crockett County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b43e4b00f54eb3e4ad1",
+    "urn:uuid:5ab17306-b23f-c65e-5f3f-75f8ea3f27c0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-102 30.5,-102 31,-102.5 31,-102.5 30.5,-102 30.5))",
+  "dcat_bbox": "ENVELOPE(-102.5, -102, 31, 30.5)",
+  "dcat_centroid": "30.75,-102.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Independence%20Draw%20Quadrangle_128682_1929_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Independence%20Draw%20Quadrangle_128682_1929_125000_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Independence%20Draw%20Quadrangle_128682_1929_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/125000/TX_Independence_Draw_Quadrangle_128682_1929_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b43e4b00f54eb3e4ad1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Independence%20Draw%20Quadrangle_128682_1929_125000_tn.jpg\"}"
+}

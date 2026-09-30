@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-296863",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Bonanza King, CA 1969 (printed 1971)",
+  "dct_alternative_sm": [
+    "Bonanza King"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Bonanza King, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1951; field checked in 1955; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 16.7 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Trinity County, California",
+    "Shasta County, California",
+    "Siskiyou County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3fbfe4b00f54eb3ec100",
+    "urn:uuid:d21aa512-437a-4022-94a9-d96c1355ff50"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.5 41,-122.5 41.25,-122.75 41.25,-122.75 41,-122.5 41))",
+  "dcat_bbox": "ENVELOPE(-122.75, -122.5, 41.25, 41)",
+  "dcat_centroid": "41.125,-122.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-296860",
+    "usgs-htmc-296861",
+    "usgs-htmc-296862",
+    "usgs-htmc-296864"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bonanza%20King_296863_1969_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Bonanza%20King_296863_1969_62500_geo.pdf\",\"label\":\"GeoPDF (11.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bonanza%20King_296863_1969_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Bonanza_King_296863_1969_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3fbfe4b00f54eb3ec100\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Bonanza%20King_296863_1969_62500_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-258194",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Chickalah Mountain East, AR 1972 (printed 1974)",
+  "dct_alternative_sm": [
+    "Chickalah Mountain East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1972 edition of the Chickalah Mountain East, Arkansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1971; field checked in 1972; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1972",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "gbl_indexYear_im": [
+    1972
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Yell County, Arkansas",
+    "Logan County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a285ee4b00f54eb3c51f1",
+    "urn:uuid:c43b70bf-1f5b-6921-1ca3-a26e7890ddde"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-93.25 35.125,-93.25 35.25,-93.375 35.25,-93.375 35.125,-93.25 35.125))",
+  "dcat_bbox": "ENVELOPE(-93.375, -93.25, 35.25, 35.125)",
+  "dcat_centroid": "35.1875,-93.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-258195"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Chickalah%20Mountain%20East_258194_1972_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Chickalah%20Mountain%20East_258194_1972_24000_geo.pdf\",\"label\":\"GeoPDF (13.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Chickalah%20Mountain%20East_258194_1972_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/24000/AR_Chickalah_Mountain_East_258194_1972_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a285ee4b00f54eb3c51f1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Chickalah%20Mountain%20East_258194_1972_24000_tn.jpg\"}"
+}

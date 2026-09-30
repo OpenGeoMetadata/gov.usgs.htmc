@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-349412",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Kawaihae, HI 1956 (printed 1957)",
+  "dct_alternative_sm": [
+    "Kawaihae"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Kawaihae, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1956; printed in 1957.",
+    "Variations: woodland tint. Sheet size: 24 x 26.5 inches. Printed projection: Polyconic; horizontal datum: Old Hawaiian. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a523de4b00f54eb40d3c4",
+    "urn:uuid:eeb751ac-5e13-9bde-366e-5f1499b0294a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-155.75 20,-155.75 20.125,-155.875 20.125,-155.875 20,-155.75 20))",
+  "dcat_bbox": "ENVELOPE(-155.875, -155.75, 20.125, 20)",
+  "dcat_centroid": "20.0625,-155.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349413",
+    "usgs-htmc-349414",
+    "usgs-htmc-349415",
+    "usgs-htmc-349416"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kawaihae_349412_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kawaihae_349412_1956_24000_geo.pdf\",\"label\":\"GeoPDF (11.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Kawaihae_349412_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Kawaihae_349412_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a523de4b00f54eb40d3c4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Kawaihae_349412_1956_24000_tn.jpg\"}"
+}

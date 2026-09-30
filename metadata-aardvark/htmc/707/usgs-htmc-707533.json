@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-707533",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Presque Isle, ME 1954 (printed 1968)",
+  "dct_alternative_sm": [
+    "Presque Isle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Presque Isle, Maine, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1953; field checked in 1954; last revised in 1967; printed in 1968.",
+    "Variations: woodland tint. Sheet size: 27.6 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1968]"
+  ],
+  "dct_spatial_sm": [
+    "Aroostook County, Maine",
+    "Piscataquis County, Maine",
+    "Somerset County, Maine",
+    "Penobscot County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a378ce4b00f54eb3dec71",
+    "urn:uuid:5f1663e3-d946-8e28-299b-cf65b2c0552a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-68 46,-68 47,-70 47,-70 46,-68 46))",
+  "dcat_bbox": "ENVELOPE(-70, -68, 47, 46)",
+  "dcat_centroid": "46.5,-69",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-460779",
+    "usgs-htmc-460780",
+    "usgs-htmc-460781",
+    "usgs-htmc-460783",
+    "usgs-htmc-807064"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Presque%20Isle_707533_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Presque%20Isle_707533_1954_250000_geo.pdf\",\"label\":\"GeoPDF (16.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Presque%20Isle_707533_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/250000/ME_Presque_Isle_707533_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a378ce4b00f54eb3dec71\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Presque%20Isle_707533_1954_250000_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-337536",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mount Holly, VT 1986 (printed 1987)",
+  "dct_alternative_sm": [
+    "Mount Holly"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1986 edition of the Mount Holly, Vermont, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1983; last revised in 1986; printed in 1987.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Rutland County, Vermont",
+    "Windsor County, Vermont",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a35afe4b00f54eb3dbe00",
+    "urn:uuid:9af8fa97-32f7-647b-f729-0fe9f8fc9801"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.75 43.375,-72.75 43.5,-72.875 43.5,-72.875 43.375,-72.75 43.375))",
+  "dcat_bbox": "ENVELOPE(-72.875, -72.75, 43.5, 43.375)",
+  "dcat_centroid": "43.4375,-72.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-337537",
+    "usgs-htmc-337538"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Mount%20Holly_337536_1986_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/24000/VT_Mount%20Holly_337536_1986_24000_geo.pdf\",\"label\":\"GeoPDF (14.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Mount%20Holly_337536_1986_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VT/24000/VT_Mount_Holly_337536_1986_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a35afe4b00f54eb3dbe00\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/24000/VT_Mount%20Holly_337536_1986_24000_tn.jpg\"}"
+}

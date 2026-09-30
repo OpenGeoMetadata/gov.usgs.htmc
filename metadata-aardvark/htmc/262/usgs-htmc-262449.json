@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-262449",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Big Salmon Lake East, MT 1994 (printed 1997)",
+  "dct_alternative_sm": [
+    "Big Salmon Lake East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Big Salmon Lake East, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1990; field checked in 1994; printed in 1997.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1997]"
+  ],
+  "dct_spatial_sm": [
+    "Powell County, Montana",
+    "Flathead County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2b63e4b00f54eb3ca1bc",
+    "urn:uuid:940daefd-3164-ff04-727c-993e8bac80bf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-113.25 47.5,-113.25 47.625,-113.375 47.625,-113.375 47.5,-113.25 47.5))",
+  "dcat_bbox": "ENVELOPE(-113.375, -113.25, 47.625, 47.5)",
+  "dcat_centroid": "47.5625,-113.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-262448"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Big%20Salmon%20Lake%20East_262449_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Big%20Salmon%20Lake%20East_262449_1994_24000_geo.pdf\",\"label\":\"GeoPDF (16.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Big%20Salmon%20Lake%20East_262449_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Big_Salmon_Lake_East_262449_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2b63e4b00f54eb3ca1bc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Big%20Salmon%20Lake%20East_262449_1994_24000_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-253590",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Hinton, WV 1892",
+  "dct_alternative_sm": [
+    "Hinton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the Hinton, West Virginia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1887.",
+    "Sheet size: 16.82 x 20.71 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1892]"
+  ],
+  "dct_spatial_sm": [
+    "Summers County, West Virginia",
+    "Greenbrier County, West Virginia",
+    "Monroe County, West Virginia",
+    "Fayette County, West Virginia",
+    "Raleigh County, West Virginia",
+    "Mercer County, West Virginia",
+    "West Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3813e4b00f54eb3df82f",
+    "urn:uuid:702c536a-3ebe-0fb5-6051-16e6c5663187"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.5 37.5,-80.5 38,-81 38,-81 37.5,-80.5 37.5))",
+  "dcat_bbox": "ENVELOPE(-81, -80.5, 38, 37.5)",
+  "dcat_centroid": "37.75,-80.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253968",
+    "usgs-htmc-253969",
+    "usgs-htmc-253970",
+    "usgs-htmc-253972",
+    "usgs-htmc-700840"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Hinton_253590_1892_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/125000/WV_Hinton_253590_1892_125000_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Hinton_253590_1892_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/125000/WV_Hinton_253590_1892_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3813e4b00f54eb3df82f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/125000/WV_Hinton_253590_1892_125000_tn.jpg\"}"
+}

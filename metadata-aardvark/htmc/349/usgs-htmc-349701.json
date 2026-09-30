@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-349701",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Puu Lehua, HI 1959 (printed 1960)",
+  "dct_alternative_sm": [
+    "Puu Lehua"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Puu Lehua, Hawaii, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1959; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 24 x 26.7 inches. Printed projection: Polyconic; horizontal datum: Old Hawaiian. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County, Hawaii",
+    "Hawaii"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a528be4b00f54eb40de0b",
+    "urn:uuid:8fd4e326-d48f-0422-73ea-d179e5d2fa13"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-155.75 19.5,-155.75 19.625,-155.875 19.625,-155.875 19.5,-155.75 19.5))",
+  "dcat_bbox": "ENVELOPE(-155.875, -155.75, 19.625, 19.5)",
+  "dcat_centroid": "19.5625,-155.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-349702",
+    "usgs-htmc-349703",
+    "usgs-htmc-349704",
+    "usgs-htmc-349732"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Puu%20Lehua_349701_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Puu%20Lehua_349701_1959_24000_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/HI/HI_Puu%20Lehua_349701_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/HI/24000/HI_Puu_Lehua_349701_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a528be4b00f54eb40de0b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/HI/24000/HI_Puu%20Lehua_349701_1959_24000_tn.jpg\"}"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-291452",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hot Springs Mtn., CA 1960 (printed 1988)",
+  "dct_alternative_sm": [
+    "Hot Springs Mtn."
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Hot Springs Mtn., California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1984; field checked in 1960; photo revised in 1988; last revised in 1988; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "San Diego County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f1ae4b00f54eb3d02b8",
+    "urn:uuid:a433c655-0ee3-6fb0-f755-743681cb47cb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.5 33.25,-116.5 33.375,-116.625 33.375,-116.625 33.25,-116.5 33.25))",
+  "dcat_bbox": "ENVELOPE(-116.625, -116.5, 33.375, 33.25)",
+  "dcat_centroid": "33.3125,-116.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100782",
+    "usgs-htmc-291441",
+    "usgs-htmc-291448",
+    "usgs-htmc-291449",
+    "usgs-htmc-291450",
+    "usgs-htmc-291451"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Hot%20Springs%20Mtn_291452_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Hot%20Springs%20Mtn_291452_1960_24000_geo.pdf\",\"label\":\"GeoPDF (15.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Hot%20Springs%20Mtn_291452_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Hot_Springs_Mtn_291452_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f1ae4b00f54eb3d02b8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Hot%20Springs%20Mtn_291452_1960_24000_tn.jpg\"}"
+}

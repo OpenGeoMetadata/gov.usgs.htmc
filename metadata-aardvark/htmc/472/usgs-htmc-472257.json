@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-472257",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Long Lane, MO 1942",
+  "dct_alternative_sm": [
+    "Long Lane"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1942 edition of the Long Lane, Missouri, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1939.",
+    "Sheet size: 16.56 x 21.27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1942",
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Dallas County, Missouri",
+    "Laclede County, Missouri",
+    "Missouri"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d13984ae4b0941bde58e6fb",
+    "urn:uuid:16b54f4e-fb75-5f8e-aac0-825ee733e62a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.75 37.5,-92.75 37.75,-93 37.75,-93 37.5,-92.75 37.5))",
+  "dcat_bbox": "ENVELOPE(-93, -92.75, 37.75, 37.5)",
+  "dcat_centroid": "37.625,-92.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-325034",
+    "usgs-htmc-325036",
+    "usgs-htmc-325037"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Long%20Lane_472257_1942_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Long%20Lane_472257_1942_62500_geo.pdf\",\"label\":\"GeoPDF (10.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Long%20Lane_472257_1942_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/62500/MO_Long_Lane_472257_1942_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d13984ae4b0941bde58e6fb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Long%20Lane_472257_1942_62500_tn.jpg\"}"
+}

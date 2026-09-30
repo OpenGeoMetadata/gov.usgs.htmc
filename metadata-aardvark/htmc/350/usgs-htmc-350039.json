@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-350039",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bridgewater, MA 1962 (printed 1964)",
+  "dct_alternative_sm": [
+    "Bridgewater"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Bridgewater, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1937; last revised in 1962; printed in 1964.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1937 TO 1964]"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth County, Massachusetts",
+    "Bristol County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5289e4b00f54eb40ddd8",
+    "urn:uuid:3d1e39f5-6081-2496-95bb-b17ba81b99c4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.875 41.875,-70.875 42,-71 42,-71 41.875,-70.875 41.875))",
+  "dcat_bbox": "ENVELOPE(-71, -70.875, 42, 41.875)",
+  "dcat_centroid": "41.9375,-70.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350038",
+    "usgs-htmc-350040",
+    "usgs-htmc-350288",
+    "usgs-htmc-350877",
+    "usgs-htmc-350878",
+    "usgs-htmc-350879",
+    "usgs-htmc-351581",
+    "usgs-htmc-351582",
+    "usgs-htmc-351583",
+    "usgs-htmc-462896"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Bridgewater_350039_1962_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Bridgewater_350039_1962_24000_geo.pdf\",\"label\":\"GeoPDF (13.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Bridgewater_350039_1962_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Bridgewater_350039_1962_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5289e4b00f54eb40ddd8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Bridgewater_350039_1962_24000_tn.jpg\"}"
+}

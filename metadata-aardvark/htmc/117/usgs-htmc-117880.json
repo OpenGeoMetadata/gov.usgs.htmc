@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-117880",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hurst, TX 1995 (printed 2001)",
+  "dct_alternative_sm": [
+    "Hurst"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1995 edition of the Hurst, Texas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1995; printed in 2001.",
+    "Variations: woodland tint. Sheet size: 23 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_dateRange_drsim": [
+    "[1995 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "Tarrant County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f34e4b00f54eb407490",
+    "urn:uuid:ef55ef8d-539a-c0b4-50a8-f82b22569f74"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.125 32.75,-97.125 32.875,-97.25 32.875,-97.25 32.75,-97.125 32.75))",
+  "dcat_bbox": "ENVELOPE(-97.25, -97.125, 32.875, 32.75)",
+  "dcat_centroid": "32.8125,-97.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-110928",
+    "usgs-htmc-110929",
+    "usgs-htmc-110930",
+    "usgs-htmc-110931",
+    "usgs-htmc-110932",
+    "usgs-htmc-117879"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Hurst_117880_1995_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Hurst_117880_1995_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Hurst_117880_1995_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/24000/TX_Hurst_117880_1995_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f34e4b00f54eb407490\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/24000/TX_Hurst_117880_1995_24000_tn.jpg\"}"
+}

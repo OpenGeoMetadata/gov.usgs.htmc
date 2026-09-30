@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-186169",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Occoquan, VA 1948",
+  "dct_alternative_sm": [
+    "Occoquan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Occoquan, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Army Map Service. Aerial photographs from 1943; field checked in 1943.",
+    "Variations: woodland tint. Sheet size: 21.9 x 28.6 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Prince William County, Virginia",
+    "Fairfax County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a355ae4b00f54eb3db304",
+    "urn:uuid:d885c063-0fef-6771-34e7-784e2130c6ce"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.25 38.625,-77.25 38.75,-77.375 38.75,-77.375 38.625,-77.25 38.625))",
+  "dcat_bbox": "ENVELOPE(-77.375, -77.25, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-77.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-186170",
+    "usgs-htmc-186172",
+    "usgs-htmc-186173",
+    "usgs-htmc-186174",
+    "usgs-htmc-186176",
+    "usgs-htmc-186177",
+    "usgs-htmc-186178",
+    "usgs-htmc-186179",
+    "usgs-htmc-186180",
+    "usgs-htmc-186181",
+    "usgs-htmc-187511",
+    "usgs-htmc-8031160"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Occoquan_186169_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Occoquan_186169_1948_24000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Occoquan_186169_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Occoquan_186169_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a355ae4b00f54eb3db304\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Occoquan_186169_1948_24000_tn.jpg\"}"
+}

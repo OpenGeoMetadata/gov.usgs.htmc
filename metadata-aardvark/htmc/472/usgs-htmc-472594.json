@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-472594",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Belt NE, MT 1975",
+  "dct_alternative_sm": [
+    "Belt NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the Belt NE, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975.",
+    "Release: Advance. Variations: orthophotoquad. Sheet size: 18.69 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Cascade County, Montana",
+    "Chouteau County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d04c10ee4b0e3d3115a355e",
+    "urn:uuid:6ae25e2f-047f-d7b2-1565-65dc40ef775b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.75 47.375,-110.75 47.5,-110.875 47.5,-110.875 47.375,-110.75 47.375))",
+  "dcat_bbox": "ENVELOPE(-110.875, -110.75, 47.5, 47.375)",
+  "dcat_centroid": "47.4375,-110.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-262394"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Belt%20NE_472594_1975_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Belt%20NE_472594_1975_24000_geo.pdf\",\"label\":\"GeoPDF (30.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Belt%20NE_472594_1975_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Belt_NE_472594_1975_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d04c10ee4b0e3d3115a355e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Belt%20NE_472594_1975_24000_tn.jpg\"}"
+}

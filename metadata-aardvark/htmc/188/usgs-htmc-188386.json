@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-188386",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mouth of Wilson, VA 1940 (printed 1947)",
+  "dct_alternative_sm": [
+    "Mouth of Wilson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1940 edition of the Mouth of Wilson, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1935; printed in 1947.",
+    "Sheet size: 17 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4e50e4b00f54eb40597f",
+    "urn:uuid:2e5b0044-d726-4617-de11-29428ce289d4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.25 36.5,-81.25 36.75,-81.5 36.75,-81.5 36.5,-81.25 36.5))",
+  "dcat_bbox": "ENVELOPE(-81.5, -81.25, 36.75, 36.5)",
+  "dcat_centroid": "36.625,-81.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-187721",
+    "usgs-htmc-188383",
+    "usgs-htmc-188384"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Mouth%20of%20Wilson_188386_1940_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Mouth%20of%20Wilson_188386_1940_62500_geo.pdf\",\"label\":\"GeoPDF (9.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Mouth%20of%20Wilson_188386_1940_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/62500/VA_Mouth_of_Wilson_188386_1940_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4e50e4b00f54eb40597f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/62500/VA_Mouth%20of%20Wilson_188386_1940_62500_tn.jpg\"}"
+}

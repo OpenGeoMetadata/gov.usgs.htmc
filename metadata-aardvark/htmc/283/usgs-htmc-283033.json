@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-283033",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Yaquina, OR 1957 (printed 1977)",
+  "dct_alternative_sm": [
+    "Yaquina"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Yaquina, Oregon, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1939; aerial photographs from 1952; field checked in 1957; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 15.7 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a39ebe4b00f54eb3e27d0",
+    "urn:uuid:2350811c-71c5-80cb-a748-5b9de2aba11a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 44.5,-124 44.75,-124.25 44.75,-124.25 44.5,-124 44.5))",
+  "dcat_bbox": "ENVELOPE(-124.25, -124, 44.75, 44.5)",
+  "dcat_centroid": "44.625,-124.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283030",
+    "usgs-htmc-283031",
+    "usgs-htmc-283032",
+    "usgs-htmc-283034",
+    "usgs-htmc-283035",
+    "usgs-htmc-283036"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Yaquina_283033_1957_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Yaquina_283033_1957_62500_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Yaquina_283033_1957_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/62500/OR_Yaquina_283033_1957_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a39ebe4b00f54eb3e27d0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Yaquina_283033_1957_62500_tn.jpg\"}"
+}

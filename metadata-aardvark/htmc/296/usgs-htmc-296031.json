@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-296031",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Crows Landing, CA 1916",
+  "dct_alternative_sm": [
+    "Crows Landing"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1916 edition of the Crows Landing, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1914.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1916",
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "gbl_indexYear_im": [
+    1916
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Stanislaus County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a516ae4b00f54eb40baf9",
+    "urn:uuid:d7627d13-4406-b445-419e-63f4a8583220"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121 37.375,-121 37.5,-121.125 37.5,-121.125 37.375,-121 37.375))",
+  "dcat_bbox": "ENVELOPE(-121.125, -121, 37.5, 37.375)",
+  "dcat_centroid": "37.4375,-121.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100406",
+    "usgs-htmc-289657",
+    "usgs-htmc-289658",
+    "usgs-htmc-289659",
+    "usgs-htmc-296030",
+    "usgs-htmc-302834",
+    "usgs-htmc-302835",
+    "usgs-htmc-465539"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crows%20Landing_296031_1916_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Crows%20Landing_296031_1916_31680_geo.pdf\",\"label\":\"GeoPDF (5.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crows%20Landing_296031_1916_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Crows_Landing_296031_1916_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a516ae4b00f54eb40baf9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Crows%20Landing_296031_1916_31680_tn.jpg\"}"
+}

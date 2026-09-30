@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-304135",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Heiberger, AL 2002 (printed 2003)",
+  "dct_alternative_sm": [
+    "Heiberger"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2002 edition of the Heiberger, Alabama, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1997; last revised in 2002; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_dateRange_drsim": [
+    "[1997 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Perry County, Alabama",
+    "Bibb County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4480e4b00f54eb3f4760",
+    "urn:uuid:3c29f67b-3d09-f0ff-6ba5-748ce7a9be56"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.25 32.75,-87.25 32.875,-87.375 32.875,-87.375 32.75,-87.25 32.75))",
+  "dcat_bbox": "ENVELOPE(-87.375, -87.25, 32.875, 32.75)",
+  "dcat_centroid": "32.8125,-87.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-304134",
+    "usgs-htmc-304136"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Heiberger_304135_2002_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Heiberger_304135_2002_24000_geo.pdf\",\"label\":\"GeoPDF (16.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Heiberger_304135_2002_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/24000/AL_Heiberger_304135_2002_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4480e4b00f54eb3f4760\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Heiberger_304135_2002_24000_tn.jpg\"}"
+}

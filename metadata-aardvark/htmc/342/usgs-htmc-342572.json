@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-342572",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Casper, WY 1988",
+  "dct_alternative_sm": [
+    "Casper"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1988 edition of the Casper, Wyoming, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1980; last revised in 1988; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 33.1 x 22.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1988",
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Natrona County, Wyoming",
+    "Carbon County, Wyoming",
+    "Fremont County, Wyoming",
+    "Sweetwater County, Wyoming",
+    "Converse County, Wyoming",
+    "Albany County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3864e4b00f54eb3e00f2",
+    "urn:uuid:343fc4d7-5669-9054-6fc7-1595397ef2e0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 42,-106 43,-108 43,-108 42,-106 42))",
+  "dcat_bbox": "ENVELOPE(-108, -106, 43, 42)",
+  "dcat_centroid": "42.5,-107",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-342568",
+    "usgs-htmc-342569",
+    "usgs-htmc-342570",
+    "usgs-htmc-342571"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Casper_342572_1988_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/250000/WY_Casper_342572_1988_250000_geo.pdf\",\"label\":\"GeoPDF (25.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Casper_342572_1988_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/250000/WY_Casper_342572_1988_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3864e4b00f54eb3e00f2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/250000/WY_Casper_342572_1988_250000_tn.jpg\"}"
+}

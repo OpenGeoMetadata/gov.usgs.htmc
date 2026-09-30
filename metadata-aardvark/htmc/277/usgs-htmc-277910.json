@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-277910",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Seney SE, MI 1931",
+  "dct_alternative_sm": [
+    "Seney SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1931 edition of the Seney SE, Michigan, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1931.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 16 x 23.6 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_spatial_sm": [
+    "Luce County, Michigan",
+    "Schoolcraft County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32a3e4b00f54eb3d5952",
+    "urn:uuid:0d94beea-df6d-fb21-01d6-65b115e48bff"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.75 46.25,-85.75 46.375,-85.875 46.375,-85.875 46.25,-85.75 46.25))",
+  "dcat_bbox": "ENVELOPE(-85.875, -85.75, 46.375, 46.25)",
+  "dcat_centroid": "46.3125,-85.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-276297",
+    "usgs-htmc-470781"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Seney%20SE_277910_1931_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Seney%20SE_277910_1931_31680_geo.pdf\",\"label\":\"GeoPDF (4.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Seney%20SE_277910_1931_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/31680/MI_Seney_SE_277910_1931_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32a3e4b00f54eb3d5952\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Seney%20SE_277910_1931_31680_tn.jpg\"}"
+}

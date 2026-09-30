@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-285522",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Grand Forks, ND 1966",
+  "dct_alternative_sm": [
+    "Grand Forks"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Grand Forks, North Dakota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1952; field checked in 1952; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 27.1 x 22.4 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "North Dakota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a38bde4b00f54eb3e0a99",
+    "urn:uuid:d8484d66-bcd1-54a8-f4ff-b16960e2b251"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96 47,-96 48,-98 48,-98 47,-96 47))",
+  "dcat_bbox": "ENVELOPE(-98, -96, 48, 47)",
+  "dcat_centroid": "47.5,-97",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-285521",
+    "usgs-htmc-285523",
+    "usgs-htmc-285524",
+    "usgs-htmc-285525"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Grand%20Forks_285522_1966_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/250000/ND_Grand%20Forks_285522_1966_250000_geo.pdf\",\"label\":\"GeoPDF (16.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_Grand%20Forks_285522_1966_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/250000/ND_Grand_Forks_285522_1966_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a38bde4b00f54eb3e0a99\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/250000/ND_Grand%20Forks_285522_1966_250000_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-254629",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for New Gretna, NJ 1951 (printed 1954)",
+  "dct_alternative_sm": [
+    "New Gretna"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the New Gretna, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Department of Commerce. Surveyed in 1950; aerial photographs from 1950; field checked in 1951; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 21.9 x 27.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Burlington County, New Jersey",
+    "Atlantic County, New Jersey",
+    "Ocean County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2530e4b00f54eb3c02c0",
+    "urn:uuid:26731da5-6b64-05de-729c-4d66a9cd8f02"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.375 39.5,-74.375 39.625,-74.5 39.625,-74.5 39.5,-74.375 39.5))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.375, 39.625, 39.5)",
+  "dcat_centroid": "39.5625,-74.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254627",
+    "usgs-htmc-254628",
+    "usgs-htmc-254630",
+    "usgs-htmc-254631",
+    "usgs-htmc-254632",
+    "usgs-htmc-472528"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_New%20Gretna_254629_1951_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_New%20Gretna_254629_1951_24000_geo.pdf\",\"label\":\"GeoPDF (13.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_New%20Gretna_254629_1951_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_New_Gretna_254629_1951_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2530e4b00f54eb3c02c0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_New%20Gretna_254629_1951_24000_tn.jpg\"}"
+}

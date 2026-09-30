@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-339886",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Horse Creek Springs, WY 1959 (printed 1976)",
+  "dct_alternative_sm": [
+    "Horse Creek Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Horse Creek Springs, Wyoming, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1954; field checked in 1959; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 21.7 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Natrona County, Wyoming",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2a83e4b00f54eb3c8a3f",
+    "urn:uuid:09ddc051-9ef2-4de1-c0d3-6dffee0d3df1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 42.625,-107 42.75,-107.125 42.75,-107.125 42.625,-107 42.625))",
+  "dcat_bbox": "ENVELOPE(-107.125, -107, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-107.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-339885",
+    "usgs-htmc-339887"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Horse%20Creek%20Springs_339886_1959_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Horse%20Creek%20Springs_339886_1959_24000_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WY/WY_Horse%20Creek%20Springs_339886_1959_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WY/24000/WY_Horse_Creek_Springs_339886_1959_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2a83e4b00f54eb3c8a3f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WY/24000/WY_Horse%20Creek%20Springs_339886_1959_24000_tn.jpg\"}"
+}

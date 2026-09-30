@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-171199",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mercersburg, PA 1943 (printed 1958)",
+  "dct_alternative_sm": [
+    "Mercersburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Mercersburg, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1943; field checked in 1943; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Pennsylvania",
+    "Fulton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a45e0e4b00f54eb3f6d65",
+    "urn:uuid:8a4ba1d7-7fe8-092f-9969-2fed585b0a14"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.75 39.75,-77.75 40,-78 40,-78 39.75,-77.75 39.75))",
+  "dcat_bbox": "ENVELOPE(-78, -77.75, 40, 39.75)",
+  "dcat_centroid": "39.875,-77.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170198",
+    "usgs-htmc-170199",
+    "usgs-htmc-170200",
+    "usgs-htmc-170201",
+    "usgs-htmc-171200",
+    "usgs-htmc-171204",
+    "usgs-htmc-461839"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Mercersburg_171199_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Mercersburg_171199_1943_62500_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Mercersburg_171199_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Mercersburg_171199_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a45e0e4b00f54eb3f6d65\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Mercersburg_171199_1943_62500_tn.jpg\"}"
+}

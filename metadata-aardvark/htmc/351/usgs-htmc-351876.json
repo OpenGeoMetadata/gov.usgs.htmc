@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-351876",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Marion, MA 1941",
+  "dct_alternative_sm": [
+    "Marion"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1941 edition of the Marion, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1936.",
+    "Variations: woodland tint. Sheet size: 16.3 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1941",
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "gbl_indexYear_im": [
+    1941
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth County, Massachusetts",
+    "Bristol County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a5fe4b00f54eb3e335c",
+    "urn:uuid:0e32374b-19bd-0bab-f173-3d4dd6b905db"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 41.625,-70.75 41.75,-70.875 41.75,-70.875 41.625,-70.75 41.625))",
+  "dcat_bbox": "ENVELOPE(-70.875, -70.75, 41.75, 41.625)",
+  "dcat_centroid": "41.6875,-70.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350272",
+    "usgs-htmc-350274",
+    "usgs-htmc-350275",
+    "usgs-htmc-351080",
+    "usgs-htmc-351081",
+    "usgs-htmc-351082",
+    "usgs-htmc-351083",
+    "usgs-htmc-351877",
+    "usgs-htmc-351878"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Marion_351876_1941_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Marion_351876_1941_31680_geo.pdf\",\"label\":\"GeoPDF (8.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Marion_351876_1941_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Marion_351876_1941_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a5fe4b00f54eb3e335c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Marion_351876_1941_31680_tn.jpg\"}"
+}

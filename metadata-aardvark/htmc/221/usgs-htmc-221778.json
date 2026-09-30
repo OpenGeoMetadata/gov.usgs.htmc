@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-221778",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Scotland, PA 1944",
+  "dct_alternative_sm": [
+    "Scotland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Scotland, Pennsylvania, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department. Printed in 1944.",
+    "Variations: woodland tint. Sheet size: 17.8 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3651e4b00f54eb3dd0d7",
+    "urn:uuid:30b2c807-3f61-9b85-5105-e7d280e1ad91"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.5 39.875,-77.5 40,-77.625 40,-77.625 39.875,-77.5 39.875))",
+  "dcat_bbox": "ENVELOPE(-77.625, -77.5, 40, 39.875)",
+  "dcat_centroid": "39.9375,-77.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-221777",
+    "usgs-htmc-221779",
+    "usgs-htmc-221780",
+    "usgs-htmc-221781",
+    "usgs-htmc-223920",
+    "usgs-htmc-223921",
+    "usgs-htmc-461996"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Scotland_221778_1944_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Scotland_221778_1944_31680_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Scotland_221778_1944_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/31680/PA_Scotland_221778_1944_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3651e4b00f54eb3dd0d7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Scotland_221778_1944_31680_tn.jpg\"}"
+}

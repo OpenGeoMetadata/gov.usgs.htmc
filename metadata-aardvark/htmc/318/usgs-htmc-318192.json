@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-318192",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Boone Spring, NV 1986",
+  "dct_alternative_sm": [
+    "Boone Spring"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1986 edition of the Boone Spring, Nevada, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1974; field checked in 1982; last revised in 1986; printed in 1986.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Elko County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2c3ae4b00f54eb3cb8fe",
+    "urn:uuid:36fa1dc9-cc65-dd11-9a46-1a2ec3f3a19e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.625 40.5,-114.625 40.625,-114.75 40.625,-114.75 40.5,-114.625 40.5))",
+  "dcat_bbox": "ENVELOPE(-114.75, -114.625, 40.625, 40.5)",
+  "dcat_centroid": "40.5625,-114.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Boone%20Spring_318192_1986_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Boone%20Spring_318192_1986_24000_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Boone%20Spring_318192_1986_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/24000/NV_Boone_Spring_318192_1986_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2c3ae4b00f54eb3cb8fe\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Boone%20Spring_318192_1986_24000_tn.jpg\"}"
+}

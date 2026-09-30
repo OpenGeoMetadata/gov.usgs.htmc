@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-350415",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Onset, MA 1953 (printed 1965)",
+  "dct_alternative_sm": [
+    "Onset"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Onset, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1936; last revised in 1953; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth County, Massachusetts",
+    "Barnstable County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52f3e4b00f54eb40eade",
+    "urn:uuid:542b7992-1558-8e35-722d-c31e4edd535b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.625 41.625,-70.625 41.75,-70.75 41.75,-70.75 41.625,-70.625 41.625))",
+  "dcat_bbox": "ENVELOPE(-70.75, -70.625, 41.75, 41.625)",
+  "dcat_centroid": "41.6875,-70.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350412",
+    "usgs-htmc-350414",
+    "usgs-htmc-350416",
+    "usgs-htmc-351185",
+    "usgs-htmc-351186",
+    "usgs-htmc-351187",
+    "usgs-htmc-352016",
+    "usgs-htmc-352017",
+    "usgs-htmc-352018",
+    "usgs-htmc-352020",
+    "usgs-htmc-463024",
+    "usgs-htmc-463025"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Onset_350415_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Onset_350415_1953_24000_geo.pdf\",\"label\":\"GeoPDF (10.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Onset_350415_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Onset_350415_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52f3e4b00f54eb40eade\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Onset_350415_1953_24000_tn.jpg\"}"
+}

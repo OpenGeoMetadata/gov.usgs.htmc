@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-469114",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for St Francis 3, KS 1952",
+  "dct_alternative_sm": [
+    "St Francis 3"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the St Francis 3, Kansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1951; aerial photographs from 1946; field checked in 1951.",
+    "Sheet size: 16.82 x 20.86 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Cheyenne County, Kansas",
+    "Sherman County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5dd83052e4b06957976720a0",
+    "urn:uuid:14f5a544-1217-0302-5100-397467c61e56"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-101.75 39.5,-101.75 39.75,-102 39.75,-102 39.5,-101.75 39.5))",
+  "dcat_bbox": "ENVELOPE(-102, -101.75, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-101.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-512427"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_St%20Francis%203_469114_1952_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/62500/KS_St%20Francis%203_469114_1952_62500_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_St%20Francis%203_469114_1952_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/62500/KS_St_Francis_3_469114_1952_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5dd83052e4b06957976720a0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/62500/KS_St%20Francis%203_469114_1952_62500_tn.jpg\"}"
+}

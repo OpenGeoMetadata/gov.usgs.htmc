@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-260317",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Stuttgart, AR 1939 (printed 1947)",
+  "dct_alternative_sm": [
+    "Stuttgart"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1939 edition of the Stuttgart, Arkansas, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1939; printed in 1947.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Prairie County, Arkansas",
+    "Lonoke County, Arkansas",
+    "Arkansas County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4574e4b00f54eb3f6232",
+    "urn:uuid:e62432e9-8f90-4c0b-a82a-b698edcba7bf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.5 34.5,-91.5 34.75,-91.75 34.75,-91.75 34.5,-91.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-91.75, -91.5, 34.75, 34.5)",
+  "dcat_centroid": "34.625,-91.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260315",
+    "usgs-htmc-260316",
+    "usgs-htmc-260319",
+    "usgs-htmc-260320"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Stuttgart_260317_1939_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Stuttgart_260317_1939_62500_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Stuttgart_260317_1939_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/62500/AR_Stuttgart_260317_1939_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4574e4b00f54eb3f6232\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/62500/AR_Stuttgart_260317_1939_62500_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-130815",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for New York, NY 1957 (printed 1975)",
+  "dct_alternative_sm": [
+    "New York"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the New York, New York, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Photo revised in 1969; last revised in 1969; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 32.2 x 22.2 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ab7e4b00f54eb3c903c",
+    "urn:uuid:cc36b727-3381-6e6a-4722-7191af5158ad"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72 40,-72 41,-74 41,-74 40,-72 40))",
+  "dcat_bbox": "ENVELOPE(-74, -72, 41, 40)",
+  "dcat_centroid": "40.5,-73",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130809",
+    "usgs-htmc-130810",
+    "usgs-htmc-130811",
+    "usgs-htmc-130812",
+    "usgs-htmc-130813",
+    "usgs-htmc-130814",
+    "usgs-htmc-130816",
+    "usgs-htmc-130817",
+    "usgs-htmc-707497"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_New%20York_130815_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/250000/NY_New%20York_130815_1957_250000_geo.pdf\",\"label\":\"GeoPDF (14.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_New%20York_130815_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/250000/NY_New_York_130815_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ab7e4b00f54eb3c903c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/250000/NY_New%20York_130815_1957_250000_tn.jpg\"}"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-139177",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Antwerp, NY 1911 (printed 1932)",
+  "dct_alternative_sm": [
+    "Antwerp"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1911 edition of the Antwerp, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1909; printed in 1932.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, New York",
+    "Lewis County, New York",
+    "St. Lawrence County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a328be4b00f54eb3d568d",
+    "urn:uuid:37e088b0-d7ae-4016-afe3-f00c052fbbb2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.5 44,-75.5 44.25,-75.75 44.25,-75.75 44,-75.5 44))",
+  "dcat_bbox": "ENVELOPE(-75.75, -75.5, 44.25, 44)",
+  "dcat_centroid": "44.125,-75.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-136651",
+    "usgs-htmc-136653",
+    "usgs-htmc-136654",
+    "usgs-htmc-136657",
+    "usgs-htmc-136659",
+    "usgs-htmc-139175",
+    "usgs-htmc-139176"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Antwerp_139177_1911_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Antwerp_139177_1911_62500_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Antwerp_139177_1911_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Antwerp_139177_1911_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a328be4b00f54eb3d568d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Antwerp_139177_1911_62500_tn.jpg\"}"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-472532",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Newark, NJ 1960",
+  "dct_alternative_sm": [
+    "Newark"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Newark, New Jersey, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1944; printed in 1960.",
+    "Sheet size: 34.88 x 24.19 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5cde7551e4b038687e296651",
+    "urn:uuid:c037687b-7c95-3db7-d9aa-b74f38627a2c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74 40,-74 41,-76 41,-76 40,-74 40))",
+  "dcat_bbox": "ENVELOPE(-76, -74, 41, 40)",
+  "dcat_centroid": "40.5,-75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255456",
+    "usgs-htmc-255457",
+    "usgs-htmc-255458",
+    "usgs-htmc-255459",
+    "usgs-htmc-255460",
+    "usgs-htmc-255461",
+    "usgs-htmc-255462",
+    "usgs-htmc-255463",
+    "usgs-htmc-472530",
+    "usgs-htmc-472531",
+    "usgs-htmc-472533",
+    "usgs-htmc-472534",
+    "usgs-htmc-472535",
+    "usgs-htmc-472536"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Newark_472532_1960_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/250000/NJ_Newark_472532_1960_250000_geo.pdf\",\"label\":\"GeoPDF (21.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Newark_472532_1960_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/250000/NJ_Newark_472532_1960_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5cde7551e4b038687e296651\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/250000/NJ_Newark_472532_1960_250000_tn.jpg\"}"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "usgs-htmc-298461",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Palo Alto, CA 1899",
+  "dct_alternative_sm": [
+    "Palo Alto"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1899 edition of the Palo Alto, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1895.",
+    "Sheet size: 18.8 x 23.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1899",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "gbl_indexYear_im": [
+    1899
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1899]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Clara County, California",
+    "San Mateo County, California",
+    "Alameda County, California",
+    "Santa Cruz County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a41b8e4b00f54eb3efb7a",
+    "urn:uuid:fa0da697-7cd4-8f60-5086-82db1955d89c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122 37.25,-122 37.5,-122.25 37.5,-122.25 37.25,-122 37.25))",
+  "dcat_bbox": "ENVELOPE(-122.25, -122, 37.5, 37.25)",
+  "dcat_centroid": "37.375,-122.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-298452",
+    "usgs-htmc-298453",
+    "usgs-htmc-298454",
+    "usgs-htmc-298455",
+    "usgs-htmc-298456",
+    "usgs-htmc-298457",
+    "usgs-htmc-298458",
+    "usgs-htmc-298459",
+    "usgs-htmc-298460",
+    "usgs-htmc-298462",
+    "usgs-htmc-298463",
+    "usgs-htmc-298464",
+    "usgs-htmc-298465",
+    "usgs-htmc-298466",
+    "usgs-htmc-298467",
+    "usgs-htmc-466097",
+    "usgs-htmc-466099"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Palo%20Alto_298461_1899_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Palo%20Alto_298461_1899_62500_geo.pdf\",\"label\":\"GeoPDF (12.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Palo%20Alto_298461_1899_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Palo_Alto_298461_1899_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a41b8e4b00f54eb3efb7a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Palo%20Alto_298461_1899_62500_tn.jpg\"}"
+}

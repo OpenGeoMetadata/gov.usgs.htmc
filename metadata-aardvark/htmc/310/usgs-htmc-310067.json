@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-310067",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Waukegan, IL 1906 (printed 1959)",
+  "dct_alternative_sm": [
+    "Waukegan"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1906 edition of the Waukegan, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1906; printed in 1959.",
+    "Sheet size: 17 x 20.7 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2454e4b00f54eb3bee9e",
+    "urn:uuid:aac7182e-9c3b-88f7-d78d-0e0f4fbcf255"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.75 42.25,-87.75 42.5,-88 42.5,-88 42.25,-87.75 42.25))",
+  "dcat_bbox": "ENVELOPE(-88, -87.75, 42.5, 42.25)",
+  "dcat_centroid": "42.375,-87.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310048",
+    "usgs-htmc-310049",
+    "usgs-htmc-310050",
+    "usgs-htmc-310051",
+    "usgs-htmc-310068",
+    "usgs-htmc-468683"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Waukegan_310067_1906_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Waukegan_310067_1906_62500_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Waukegan_310067_1906_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Waukegan_310067_1906_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2454e4b00f54eb3bee9e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Waukegan_310067_1906_62500_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-192810",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Guaje Mountain, NM 2002 (printed 2003)",
+  "dct_alternative_sm": [
+    "Guaje Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2002 edition of the Guaje Mountain, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1996; last revised in 2002; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_dateRange_drsim": [
+    "[1996 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Los Alamos County, New Mexico",
+    "Sandoval County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b8ae4b00f54eb3e519e",
+    "urn:uuid:4319fcdb-5b79-7b15-cb7e-e9c85c1f18d2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106.25 35.875,-106.25 36,-106.375 36,-106.375 35.875,-106.25 35.875))",
+  "dcat_bbox": "ENVELOPE(-106.375, -106.25, 36, 35.875)",
+  "dcat_centroid": "35.9375,-106.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-190842",
+    "usgs-htmc-190844",
+    "usgs-htmc-190845",
+    "usgs-htmc-190846",
+    "usgs-htmc-192807",
+    "usgs-htmc-192808"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Guaje%20Mountain_192810_2002_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Guaje%20Mountain_192810_2002_24000_geo.pdf\",\"label\":\"GeoPDF (20.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Guaje%20Mountain_192810_2002_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Guaje_Mountain_192810_2002_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b8ae4b00f54eb3e519e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Guaje%20Mountain_192810_2002_24000_tn.jpg\"}"
+}

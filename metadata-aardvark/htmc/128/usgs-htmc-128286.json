@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-128286",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Humble, TX 1919",
+  "dct_alternative_sm": [
+    "Humble"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Humble, Texas, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1916.",
+    "Variations: woodland tint. Sheet size: 17 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Harris County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a24ebe4b00f54eb3bfce3",
+    "urn:uuid:f9377b00-88a2-1e61-d635-b023a5ff6391"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.25 29.875,-95.25 30,-95.375 30,-95.375 29.875,-95.25 29.875))",
+  "dcat_bbox": "ENVELOPE(-95.375, -95.25, 30, 29.875)",
+  "dcat_centroid": "29.9375,-95.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-110898",
+    "usgs-htmc-110899",
+    "usgs-htmc-110900",
+    "usgs-htmc-110901",
+    "usgs-htmc-110902",
+    "usgs-htmc-110903",
+    "usgs-htmc-117865",
+    "usgs-htmc-128185",
+    "usgs-htmc-128200",
+    "usgs-htmc-128349"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Humble_128286_1919_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Humble_128286_1919_31680_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Humble_128286_1919_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/31680/TX_Humble_128286_1919_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a24ebe4b00f54eb3bfce3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/31680/TX_Humble_128286_1919_31680_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-129379",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Saranac Lake, NY 1979",
+  "dct_alternative_sm": [
+    "Saranac Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Saranac Lake, New York, topographic map at 1:25,000 scale (7.5 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; field checked in 1976; last revised in 1979.",
+    "Variations: woodland tint. Sheet size: 37.7 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, New York",
+    "Essex County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52e0e4b00f54eb40e822",
+    "urn:uuid:d59e44f5-6d5d-e37f-f982-34e507b819ea"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74 44.25,-74 44.375,-74.25 44.375,-74.25 44.25,-74 44.25))",
+  "dcat_bbox": "ENVELOPE(-74.25, -74, 44.375, 44.25)",
+  "dcat_centroid": "44.3125,-74.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-129377",
+    "usgs-htmc-129378",
+    "usgs-htmc-136887"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Saranac%20Lake_129379_1979_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Saranac%20Lake_129379_1979_25000_geo.pdf\",\"label\":\"GeoPDF (19.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Saranac%20Lake_129379_1979_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/25000/NY_Saranac_Lake_129379_1979_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52e0e4b00f54eb40e822\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Saranac%20Lake_129379_1979_25000_tn.jpg\"}"
+}

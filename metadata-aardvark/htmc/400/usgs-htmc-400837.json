@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-400837",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Coal Creek, CO 1957 (printed 1958)",
+  "dct_alternative_sm": [
+    "Coal Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Coal Creek, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1939; aerial photographs from 1955; last revised in 1957; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.2 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Arapahoe County, Colorado",
+    "Adams County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a377ce4b00f54eb3deaf0",
+    "urn:uuid:04dc2137-ee6e-6bf2-02e4-94f5526c15ff"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104.625 39.625,-104.625 39.75,-104.75 39.75,-104.75 39.625,-104.625 39.625))",
+  "dcat_bbox": "ENVELOPE(-104.75, -104.625, 39.75, 39.625)",
+  "dcat_centroid": "39.6875,-104.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232586",
+    "usgs-htmc-232587",
+    "usgs-htmc-232588",
+    "usgs-htmc-400830",
+    "usgs-htmc-400832",
+    "usgs-htmc-400833",
+    "usgs-htmc-400834",
+    "usgs-htmc-400835",
+    "usgs-htmc-400836",
+    "usgs-htmc-402534"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Coal%20Creek_400837_1957_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Coal%20Creek_400837_1957_24000_geo.pdf\",\"label\":\"GeoPDF (6.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Coal%20Creek_400837_1957_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_Coal_Creek_400837_1957_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a377ce4b00f54eb3deaf0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_Coal%20Creek_400837_1957_24000_tn.jpg\"}"
+}

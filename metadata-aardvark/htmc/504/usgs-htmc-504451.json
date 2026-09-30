@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-504451",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Ensign Lake, MN 1957 (printed 1959)",
+  "dct_alternative_sm": [
+    "Ensign Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Ensign Lake, Minnesota, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1956; field checked in 1957; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 21.53 x 27.23 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4edee4b00f54eb406a4a",
+    "urn:uuid:a83d73cd-ec87-a5cb-ce66-7eb922abfbab"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.25 48,-91.25 48.25,-91.5 48.25,-91.5 48,-91.25 48))",
+  "dcat_bbox": "ENVELOPE(-91.5, -91.25, 48.25, 48)",
+  "dcat_centroid": "48.125,-91.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804929"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Ensign%20Lake_504451_1957_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/62500/MN_Ensign%20Lake_504451_1957_62500_geo.pdf\",\"label\":\"GeoPDF (3.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Ensign%20Lake_504451_1957_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/62500/MN_Ensign_Lake_504451_1957_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4edee4b00f54eb406a4a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/62500/MN_Ensign%20Lake_504451_1957_62500_tn.jpg\"}"
+}

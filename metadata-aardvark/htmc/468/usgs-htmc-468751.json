@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-468751",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Storm Lake NE, IA 1979",
+  "dct_alternative_sm": [
+    "Storm Lake NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1979 edition of the Storm Lake NE, Iowa, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1973; field checked in 1974; last revised in 1979; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 21.73 x 26.54 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1979",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "gbl_indexYear_im": [
+    1979
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Buena Vista County, Iowa",
+    "Iowa"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ae65f69e4b0e2c2dd33e91e",
+    "urn:uuid:91c38d09-d2a8-fc6e-08ab-eaefb700444d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95 42.625,-95 42.75,-95.125 42.75,-95.125 42.625,-95 42.625))",
+  "dcat_bbox": "ENVELOPE(-95.125, -95, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-95.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Storm%20Lake%20NE_468751_1979_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/24000/IA_Storm%20Lake%20NE_468751_1979_24000_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IA/IA_Storm%20Lake%20NE_468751_1979_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IA/24000/IA_Storm_Lake_NE_468751_1979_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ae65f69e4b0e2c2dd33e91e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IA/24000/IA_Storm%20Lake%20NE_468751_1979_24000_tn.jpg\"}"
+}

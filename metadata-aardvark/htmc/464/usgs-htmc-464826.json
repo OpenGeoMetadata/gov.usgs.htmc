@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-464826",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Phoenix, AZ 1969 (printed 1970)",
+  "dct_alternative_sm": [
+    "Phoenix"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1969 edition of the Phoenix, Arizona, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1969; printed in 1970.",
+    "Variations: shaded relief. Sheet size: 34.23 x 21.98 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1969",
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "gbl_indexYear_im": [
+    1969
+  ],
+  "gbl_dateRange_drsim": [
+    "[1969 TO 1970]"
+  ],
+  "dct_spatial_sm": [
+    "Maricopa County, Arizona",
+    "La Paz County, Arizona",
+    "Yuma County, Arizona",
+    "Pinal County, Arizona",
+    "Yavapai County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c8119aee4b0938824476126",
+    "urn:uuid:7bb947dc-8739-3e58-d0e6-f547b49af9fb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 33,-112 34,-114 34,-114 33,-112 33))",
+  "dcat_bbox": "ENVELOPE(-114, -112, 34, 33)",
+  "dcat_centroid": "33.5,-113",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315565",
+    "usgs-htmc-315566",
+    "usgs-htmc-315567",
+    "usgs-htmc-315568",
+    "usgs-htmc-315569",
+    "usgs-htmc-315570",
+    "usgs-htmc-315571",
+    "usgs-htmc-464825",
+    "usgs-htmc-464827",
+    "usgs-htmc-464828"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Phoenix_464826_1969_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Phoenix_464826_1969_250000_geo.pdf\",\"label\":\"GeoPDF (18.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Phoenix_464826_1969_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/250000/AZ_Phoenix_464826_1969_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c8119aee4b0938824476126\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Phoenix_464826_1969_250000_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-277931",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Steuben SW, MI 1931",
+  "dct_alternative_sm": [
+    "Steuben SW"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1931 edition of the Steuben SW, Michigan, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1931.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 15.9 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1931",
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "gbl_indexYear_im": [
+    1931
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_spatial_sm": [
+    "Schoolcraft County, Michigan",
+    "Delta County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32abe4b00f54eb3d59d2",
+    "urn:uuid:1be6a27a-4fc6-7608-52dc-b5cf3c67fc21"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.375 46,-86.375 46.125,-86.5 46.125,-86.5 46,-86.375 46))",
+  "dcat_bbox": "ENVELOPE(-86.5, -86.375, 46.125, 46)",
+  "dcat_centroid": "46.0625,-86.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-277396"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Steuben%20SW_277931_1931_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Steuben%20SW_277931_1931_31680_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Steuben%20SW_277931_1931_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/31680/MI_Steuben_SW_277931_1931_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32abe4b00f54eb3d59d2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/31680/MI_Steuben%20SW_277931_1931_31680_tn.jpg\"}"
+}

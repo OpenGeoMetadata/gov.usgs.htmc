@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-123729",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Austin, TX 1910 (printed 1921)",
+  "dct_alternative_sm": [
+    "Austin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Austin, Texas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1896; printed in 1921.",
+    "Sheet size: 16.8 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Travis County, Texas",
+    "Hays County, Texas",
+    "Bastrop County, Texas",
+    "Williamson County, Texas",
+    "Caldwell County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b10e4b00f54eb3e45b2",
+    "urn:uuid:4450793b-e422-3fd6-db82-db86ead19260"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.5 30,-97.5 30.5,-98 30.5,-98 30,-97.5 30))",
+  "dcat_bbox": "ENVELOPE(-98, -97.5, 30.5, 30)",
+  "dcat_centroid": "30.25,-97.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-106259",
+    "usgs-htmc-108170",
+    "usgs-htmc-123727",
+    "usgs-htmc-123728"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Austin_123729_1910_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Austin_123729_1910_125000_geo.pdf\",\"label\":\"GeoPDF (9.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Austin_123729_1910_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/125000/TX_Austin_123729_1910_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b10e4b00f54eb3e45b2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Austin_123729_1910_125000_tn.jpg\"}"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-285539",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for New Rockford, ND 1971 (printed 1974)",
+  "dct_alternative_sm": [
+    "New Rockford"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1971 edition of the New Rockford, North Dakota, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1970; field checked in 1952; photo revised in 1971; last revised in 1971; printed in 1974.",
+    "Variations: woodland tint. Sheet size: 26.6 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1971",
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "gbl_indexYear_im": [
+    1971
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1974]"
+  ],
+  "dct_spatial_sm": [
+    "Eddy County, North Dakota",
+    "Wells County, North Dakota",
+    "Stutsman County, North Dakota",
+    "Griggs County, North Dakota",
+    "Foster County, North Dakota",
+    "Benson County, North Dakota",
+    "Nelson County, North Dakota",
+    "Kidder County, North Dakota",
+    "Barnes County, North Dakota",
+    "Pierce County, North Dakota",
+    "Ramsey County, North Dakota",
+    "North Dakota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a38c0e4b00f54eb3e0b09",
+    "urn:uuid:c743ab5a-b494-4983-a428-2af007aceea1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98 47,-98 48,-100 48,-100 47,-98 47))",
+  "dcat_bbox": "ENVELOPE(-100, -98, 48, 47)",
+  "dcat_centroid": "47.5,-99",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-285537",
+    "usgs-htmc-285538",
+    "usgs-htmc-285540",
+    "usgs-htmc-285541"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_New%20Rockford_285539_1971_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/250000/ND_New%20Rockford_285539_1971_250000_geo.pdf\",\"label\":\"GeoPDF (17.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ND/ND_New%20Rockford_285539_1971_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ND/250000/ND_New_Rockford_285539_1971_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a38c0e4b00f54eb3e0b09\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ND/250000/ND_New%20Rockford_285539_1971_250000_tn.jpg\"}"
+}

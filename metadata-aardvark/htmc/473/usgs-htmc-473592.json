@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-473592",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Cashiers, NC 1946 (printed 1991)",
+  "dct_alternative_sm": [
+    "Cashiers"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the Cashiers, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Tennessee Valley Authority. Aerial photographs from 1987; field checked in 1946; photo revised in 1991; last revised in 1991; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 21.77 x 27.26 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "South Carolina",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5eb3ec9282ce25b5135a8060",
+    "urn:uuid:1fe0e604-9ae1-afca-8275-0317d98416be"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83 35,-83 35.125,-83.125 35.125,-83.125 35,-83 35))",
+  "dcat_bbox": "ENVELOPE(-83.125, -83, 35.125, 35)",
+  "dcat_centroid": "35.0625,-83.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-162026",
+    "usgs-htmc-162028",
+    "usgs-htmc-164134",
+    "usgs-htmc-164135",
+    "usgs-htmc-164137",
+    "usgs-htmc-164138",
+    "usgs-htmc-473593",
+    "usgs-htmc-473594"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Cashiers_473592_1946_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Cashiers_473592_1946_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Cashiers_473592_1946_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Cashiers_473592_1946_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5eb3ec9282ce25b5135a8060\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Cashiers_473592_1946_24000_tn.jpg\"}"
+}

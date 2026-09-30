@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-233606",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Limon, CO 1984",
+  "dct_alternative_sm": [
+    "Limon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1984 edition of the Limon, Colorado, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Last revised in 1984; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 41 x 24 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1984",
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "gbl_indexYear_im": [
+    1984
+  ],
+  "gbl_dateRange_drsim": [
+    "[1984 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County, Colorado",
+    "Elbert County, Colorado",
+    "Kit Carson County, Colorado",
+    "Cheyenne County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2693e4b00f54eb3c2625",
+    "urn:uuid:41650e14-558f-6433-306f-f8386716dbd8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103 39,-103 39.5,-104 39.5,-104 39,-103 39))",
+  "dcat_bbox": "ENVELOPE(-104, -103, 39.5, 39)",
+  "dcat_centroid": "39.25,-103.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Limon_233606_1984_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/100000/CO_Limon_233606_1984_100000_geo.pdf\",\"label\":\"GeoPDF (24.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Limon_233606_1984_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/100000/CO_Limon_233606_1984_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2693e4b00f54eb3c2625\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/100000/CO_Limon_233606_1984_100000_tn.jpg\"}"
+}

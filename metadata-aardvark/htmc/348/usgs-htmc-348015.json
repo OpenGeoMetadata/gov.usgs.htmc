@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-348015",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Pardon Island, FL 1994 (printed 1998)",
+  "dct_alternative_sm": [
+    "Pardon Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Pardon Island, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Department of Commerce. Aerial photographs from 1994; printed in 1998.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1994 TO 1998]"
+  ],
+  "dct_spatial_sm": [
+    "Volusia County, Florida",
+    "Brevard County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a42d2e4b00f54eb3f1834",
+    "urn:uuid:5c335dda-d456-f2e4-bbb9-c59aa9c50506"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.625 28.75,-80.625 28.875,-80.75 28.875,-80.75 28.75,-80.625 28.75))",
+  "dcat_bbox": "ENVELOPE(-80.75, -80.625, 28.875, 28.75)",
+  "dcat_centroid": "28.8125,-80.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-348014",
+    "usgs-htmc-348016",
+    "usgs-htmc-348017",
+    "usgs-htmc-348018",
+    "usgs-htmc-348019"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Pardon%20Island_348015_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Pardon%20Island_348015_1994_24000_geo.pdf\",\"label\":\"GeoPDF (22.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Pardon%20Island_348015_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Pardon_Island_348015_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a42d2e4b00f54eb3f1834\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Pardon%20Island_348015_1994_24000_tn.jpg\"}"
+}

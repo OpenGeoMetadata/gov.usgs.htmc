@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-465495",
+  "dct_title_s": "USGS 1:50000-scale Quadrangle for Chloride Cliff, CA 1952",
+  "dct_alternative_sm": [
+    "Chloride Cliff"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Chloride Cliff, California, topographic map at 1:50,000 scale (15 x 15 minute series), published by the Army Map Service. Aerial photographs from 1948; field checked in 1952.",
+    "Sheet size: 22.6 x 29.45 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d149b8de4b0941bde5b72c5",
+    "urn:uuid:c8dfba4f-4af4-a67f-9b05-cd70ccbde007"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.75 36.5,-116.75 36.75,-117 36.75,-117 36.5,-116.75 36.5))",
+  "dcat_bbox": "ENVELOPE(-117, -116.75, 36.75, 36.5)",
+  "dcat_centroid": "36.625,-116.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297090",
+    "usgs-htmc-297092",
+    "usgs-htmc-465494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Chloride%20Cliff_465495_1952_50000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/50000/CA_Chloride%20Cliff_465495_1952_50000_geo.pdf\",\"label\":\"GeoPDF (10.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Chloride%20Cliff_465495_1952_50000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/50000/CA_Chloride_Cliff_465495_1952_50000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d149b8de4b0941bde5b72c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/50000/CA_Chloride%20Cliff_465495_1952_50000_tn.jpg\"}"
+}

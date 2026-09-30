@@ -1,0 +1,69 @@
+{
+  "id": "usgs-htmc-358208",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Nunivak Island C-1, AK 1954 (printed 1971)",
+  "dct_alternative_sm": [
+    "Nunivak Island C-1"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Nunivak Island C-1, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1957; printed in 1971.",
+    "Sheet size: 16.4 x 20.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1954 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Bethel Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a54dee4b00f54eb41203c",
+    "urn:uuid:d28ab3b7-d575-c5af-4210-0a1941f7a0e6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-165 60.5,-165 60.75,-165.375 60.75,-165.375 60.5,-165 60.5))",
+  "dcat_bbox": "ENVELOPE(-165.375, -165, 60.75, 60.5)",
+  "dcat_centroid": "60.625,-165.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Nunivak%20Island%20C-1_358208_1954_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Nunivak%20Island%20C-1_358208_1954_63360_geo.pdf\",\"label\":\"GeoPDF (15.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Nunivak%20Island%20C-1_358208_1954_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Nunivak_Island_C1_358208_1954_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a54dee4b00f54eb41203c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Nunivak%20Island%20C-1_358208_1954_63360_tn.jpg\"}"
+}

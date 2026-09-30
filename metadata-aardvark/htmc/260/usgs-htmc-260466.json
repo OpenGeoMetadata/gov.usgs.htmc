@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-260466",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for De Queen, AR 1913 (printed 1949)",
+  "dct_alternative_sm": [
+    "De Queen"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1913 edition of the De Queen, Arkansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1911; printed in 1949.",
+    "Sheet size: 17 x 20.6 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f0ee4b00f54eb3eb0b3",
+    "urn:uuid:dbf6fffe-b9ca-5d47-89da-1892d68559bc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-94 34,-94 34.5,-94.5 34.5,-94.5 34,-94 34))",
+  "dcat_bbox": "ENVELOPE(-94.5, -94, 34.5, 34)",
+  "dcat_centroid": "34.25,-94.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260463",
+    "usgs-htmc-260464",
+    "usgs-htmc-260465"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_De%20Queen_260466_1913_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_De%20Queen_260466_1913_125000_geo.pdf\",\"label\":\"GeoPDF (11.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_De%20Queen_260466_1913_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/125000/AR_De_Queen_260466_1913_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f0ee4b00f54eb3eb0b3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_De%20Queen_260466_1913_125000_tn.jpg\"}"
+}

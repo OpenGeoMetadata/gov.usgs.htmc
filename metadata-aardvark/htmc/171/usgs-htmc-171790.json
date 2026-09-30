@@ -1,0 +1,101 @@
+{
+  "id": "usgs-htmc-171790",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Harrisburg, PA 1943 (printed 1956)",
+  "dct_alternative_sm": [
+    "Harrisburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Harrisburg, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Aerial photographs from 1942; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Dauphin County, Pennsylvania",
+    "Perry County, Pennsylvania",
+    "Cumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a457ae4b00f54eb3f62c3",
+    "urn:uuid:a99f74bf-b6eb-0f46-b9d6-8fb5e22d487a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.75 40.25,-76.75 40.5,-77 40.5,-77 40.25,-76.75 40.25))",
+  "dcat_bbox": "ENVELOPE(-77, -76.75, 40.5, 40.25)",
+  "dcat_centroid": "40.375,-76.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-167833",
+    "usgs-htmc-167835",
+    "usgs-htmc-167836",
+    "usgs-htmc-167837",
+    "usgs-htmc-167838",
+    "usgs-htmc-167839",
+    "usgs-htmc-167840",
+    "usgs-htmc-167841",
+    "usgs-htmc-167842",
+    "usgs-htmc-167843",
+    "usgs-htmc-167844",
+    "usgs-htmc-167845",
+    "usgs-htmc-167846",
+    "usgs-htmc-167847",
+    "usgs-htmc-167848",
+    "usgs-htmc-171789",
+    "usgs-htmc-171791",
+    "usgs-htmc-171792",
+    "usgs-htmc-171793",
+    "usgs-htmc-171799",
+    "usgs-htmc-171801",
+    "usgs-htmc-171803",
+    "usgs-htmc-171804",
+    "usgs-htmc-171805",
+    "usgs-htmc-171806",
+    "usgs-htmc-171807"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Harrisburg_171790_1943_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Harrisburg_171790_1943_62500_geo.pdf\",\"label\":\"GeoPDF (10.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Harrisburg_171790_1943_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Harrisburg_171790_1943_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a457ae4b00f54eb3f62c3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Harrisburg_171790_1943_62500_tn.jpg\"}"
+}

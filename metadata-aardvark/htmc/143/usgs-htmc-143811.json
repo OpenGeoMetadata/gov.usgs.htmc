@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-143811",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Caney Creek, TN 2003 (printed 2004)",
+  "dct_alternative_sm": [
+    "Caney Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2003 edition of the Caney Creek, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 2001; last revised in 2003; printed in 2004.",
+    "Variations: woodland tint. Sheet size: 22 x 27.4 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_dateRange_drsim": [
+    "[2001 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Polk County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3ff6e4b00f54eb3ec696",
+    "urn:uuid:6848c000-0815-c6bd-3150-b0e83248f175"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.5 35,-84.5 35.125,-84.625 35.125,-84.625 35,-84.5 35))",
+  "dcat_bbox": "ENVELOPE(-84.625, -84.5, 35.125, 35)",
+  "dcat_centroid": "35.0625,-84.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-143809",
+    "usgs-htmc-148813",
+    "usgs-htmc-148814",
+    "usgs-htmc-148815",
+    "usgs-htmc-148816",
+    "usgs-htmc-148817",
+    "usgs-htmc-9476093"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Caney%20Creek_143811_2003_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Caney%20Creek_143811_2003_24000_geo.pdf\",\"label\":\"GeoPDF (16.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Caney%20Creek_143811_2003_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Caney_Creek_143811_2003_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3ff6e4b00f54eb3ec696\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Caney%20Creek_143811_2003_24000_tn.jpg\"}"
+}

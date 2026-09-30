@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-170612",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Doylestown, PA 1943",
+  "dct_alternative_sm": [
+    "Doylestown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Doylestown, Pennsylvania, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department.",
+    "Variations: woodland tint. Sheet size: 18 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Bucks County, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3642e4b00f54eb3dcec2",
+    "urn:uuid:9cf4aece-f3ff-249b-2f98-0f0fb6a939a2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.125 40.25,-75.125 40.375,-75.25 40.375,-75.25 40.25,-75.125 40.25))",
+  "dcat_bbox": "ENVELOPE(-75.25, -75.125, 40.375, 40.25)",
+  "dcat_centroid": "40.3125,-75.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170615",
+    "usgs-htmc-170616",
+    "usgs-htmc-170617",
+    "usgs-htmc-170618",
+    "usgs-htmc-170619",
+    "usgs-htmc-223308",
+    "usgs-htmc-223310",
+    "usgs-htmc-223311"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Doylestown_170612_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Doylestown_170612_1943_31680_geo.pdf\",\"label\":\"GeoPDF (7.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Doylestown_170612_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/31680/PA_Doylestown_170612_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3642e4b00f54eb3dcec2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Doylestown_170612_1943_31680_tn.jpg\"}"
+}

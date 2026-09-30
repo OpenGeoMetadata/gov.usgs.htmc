@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-320181",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Steamboat, NV 1994",
+  "dct_alternative_sm": [
+    "Steamboat"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1994 edition of the Steamboat, Nevada, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1966; field checked in 1967; last revised in 1994; printed in 1994.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1994",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "gbl_indexYear_im": [
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1994]"
+  ],
+  "dct_spatial_sm": [
+    "Washoe County, Nevada",
+    "Storey County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f35e4b00f54eb3d05a8",
+    "urn:uuid:8c07cce1-f181-8552-3693-6ef807f5df09"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.625 39.375,-119.625 39.5,-119.75 39.5,-119.75 39.375,-119.625 39.375))",
+  "dcat_bbox": "ENVELOPE(-119.75, -119.625, 39.5, 39.375)",
+  "dcat_centroid": "39.4375,-119.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-320180",
+    "usgs-htmc-320182",
+    "usgs-htmc-320183",
+    "usgs-htmc-320184",
+    "usgs-htmc-320185"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Steamboat_320181_1994_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Steamboat_320181_1994_24000_geo.pdf\",\"label\":\"GeoPDF (17.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Steamboat_320181_1994_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/24000/NV_Steamboat_320181_1994_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f35e4b00f54eb3d05a8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/24000/NV_Steamboat_320181_1994_24000_tn.jpg\"}"
+}

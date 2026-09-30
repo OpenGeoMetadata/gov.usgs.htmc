@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-313472",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for South of Somerton, AZ 1990 (printed 1991)",
+  "dct_alternative_sm": [
+    "South of Somerton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the South of Somerton, Arizona, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1985; field checked in 1988; last revised in 1990; printed in 1991.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "Sonora"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ec2e4b00f54eb4066f7",
+    "urn:uuid:72c33036-08a1-36de-a050-25a88a70675d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.625 32.375,-114.625 32.5,-114.75 32.5,-114.75 32.375,-114.625 32.375))",
+  "dcat_bbox": "ENVELOPE(-114.75, -114.625, 32.5, 32.375)",
+  "dcat_centroid": "32.4375,-114.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_South%20of%20Somerton_313472_1990_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_South%20of%20Somerton_313472_1990_24000_geo.pdf\",\"label\":\"GeoPDF (11.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_South%20of%20Somerton_313472_1990_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/24000/AZ_South_of_Somerton_313472_1990_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ec2e4b00f54eb4066f7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/24000/AZ_South%20of%20Somerton_313472_1990_24000_tn.jpg\"}"
+}

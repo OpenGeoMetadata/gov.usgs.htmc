@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-192635",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Dos Lomas, NM 1995 (printed 1997)",
+  "dct_alternative_sm": [
+    "Dos Lomas"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1995 edition of the Dos Lomas, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Surveyed in 1995; aerial photographs from 1993; field checked in 1995; printed in 1997.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 1997]"
+  ],
+  "dct_spatial_sm": [
+    "Cibola County, New Mexico",
+    "McKinley County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3aefe4b00f54eb3e4273",
+    "urn:uuid:62d20fbd-810e-4e1b-31aa-bfcb448169b2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107.75 35.25,-107.75 35.375,-107.875 35.375,-107.875 35.25,-107.75 35.25))",
+  "dcat_bbox": "ENVELOPE(-107.875, -107.75, 35.375, 35.25)",
+  "dcat_centroid": "35.3125,-107.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-190451",
+    "usgs-htmc-190452",
+    "usgs-htmc-190453"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Dos%20Lomas_192635_1995_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Dos%20Lomas_192635_1995_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Dos%20Lomas_192635_1995_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Dos_Lomas_192635_1995_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3aefe4b00f54eb3e4273\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Dos%20Lomas_192635_1995_24000_tn.jpg\"}"
+}

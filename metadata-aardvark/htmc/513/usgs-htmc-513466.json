@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-513466",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Craig, MO 1920",
+  "dct_alternative_sm": [
+    "Craig"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1920 edition of the Craig, Missouri, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1916.",
+    "Sheet size: 16.5 x 20.35 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Nebraska",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4767e4b00f54eb3f951f",
+    "urn:uuid:1900b7e1-23e4-e3d6-9c89-b1b2d9c2c5a3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95.25 40,-95.25 40.25,-95.5 40.25,-95.5 40,-95.25 40))",
+  "dcat_bbox": "ENVELOPE(-95.5, -95.25, 40.25, 40)",
+  "dcat_centroid": "40.125,-95.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324822",
+    "usgs-htmc-324823",
+    "usgs-htmc-324824",
+    "usgs-htmc-324825"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Craig_513466_1920_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Craig_513466_1920_62500_geo.pdf\",\"label\":\"GeoPDF (5.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Craig_513466_1920_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/62500/MO_Craig_513466_1920_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4767e4b00f54eb3f951f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Craig_513466_1920_62500_tn.jpg\"}"
+}

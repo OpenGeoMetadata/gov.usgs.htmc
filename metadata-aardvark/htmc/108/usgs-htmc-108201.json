@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-108201",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Chisos Mountains, TX 1905 (printed 1949)",
+  "dct_alternative_sm": [
+    "Chisos Mountains"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1905 edition of the Chisos Mountains, Texas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1903; printed in 1949.",
+    "Sheet size: 26.8 x 21.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    1905
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Brewster County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b22e4b00f54eb3e4756",
+    "urn:uuid:aa0c1a41-6223-af20-6216-dc0912f5a049"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103 29,-103 29.5,-103.5 29.5,-103.5 29,-103 29))",
+  "dcat_bbox": "ENVELOPE(-103.5, -103, 29.5, 29)",
+  "dcat_centroid": "29.25,-103.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-108199",
+    "usgs-htmc-108200"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Chisos%20Mountains_108201_1905_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Chisos%20Mountains_108201_1905_125000_geo.pdf\",\"label\":\"GeoPDF (11.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Chisos%20Mountains_108201_1905_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/125000/TX_Chisos_Mountains_108201_1905_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b22e4b00f54eb3e4756\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Chisos%20Mountains_108201_1905_125000_tn.jpg\"}"
+}

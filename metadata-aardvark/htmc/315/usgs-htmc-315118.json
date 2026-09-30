@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-315118",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Trigo Peaks, AZ 1939",
+  "dct_alternative_sm": [
+    "Trigo Peaks"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1939 edition of the Trigo Peaks, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1934.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1939",
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "gbl_indexYear_im": [
+    1939
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1939]"
+  ],
+  "dct_spatial_sm": [
+    "La Paz County, Arizona",
+    "Yuma County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a278ee4b00f54eb3c40c6",
+    "urn:uuid:d02fc0ea-303c-bf36-1520-ac2da84d108c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114.25 33.25,-114.25 33.5,-114.5 33.5,-114.5 33.25,-114.25 33.25))",
+  "dcat_bbox": "ENVELOPE(-114.5, -114.25, 33.5, 33.25)",
+  "dcat_centroid": "33.375,-114.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-314289",
+    "usgs-htmc-315119",
+    "usgs-htmc-315120",
+    "usgs-htmc-315121",
+    "usgs-htmc-315122"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Trigo%20Peaks_315118_1939_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Trigo%20Peaks_315118_1939_62500_geo.pdf\",\"label\":\"GeoPDF (9.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Trigo%20Peaks_315118_1939_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Trigo_Peaks_315118_1939_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a278ee4b00f54eb3c40c6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Trigo%20Peaks_315118_1939_62500_tn.jpg\"}"
+}

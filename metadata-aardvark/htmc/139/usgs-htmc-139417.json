@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-139417",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Tupper Lake, NY 1954 (printed 1959)",
+  "dct_alternative_sm": [
+    "Tupper Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Tupper Lake, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1953; field checked in 1954; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 16.8 x 20.6 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "St. Lawrence County, New York",
+    "Hamilton County, New York",
+    "Franklin County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3506e4b00f54eb3da902",
+    "urn:uuid:86e1e27d-46a2-f98a-863c-931c4752cd2a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.5 44,-74.5 44.25,-74.75 44.25,-74.75 44,-74.5 44))",
+  "dcat_bbox": "ENVELOPE(-74.75, -74.5, 44.25, 44)",
+  "dcat_centroid": "44.125,-74.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-139406",
+    "usgs-htmc-139408",
+    "usgs-htmc-139409",
+    "usgs-htmc-139414",
+    "usgs-htmc-139416",
+    "usgs-htmc-139418",
+    "usgs-htmc-144372",
+    "usgs-htmc-144373",
+    "usgs-htmc-144374",
+    "usgs-htmc-144375",
+    "usgs-htmc-144376"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Tupper%20Lake_139417_1954_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Tupper%20Lake_139417_1954_62500_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Tupper%20Lake_139417_1954_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Tupper_Lake_139417_1954_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3506e4b00f54eb3da902\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Tupper%20Lake_139417_1954_62500_tn.jpg\"}"
+}

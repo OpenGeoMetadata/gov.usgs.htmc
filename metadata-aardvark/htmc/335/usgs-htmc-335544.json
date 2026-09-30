@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-335544",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for De Kalb, MS 1963 (printed 1982)",
+  "dct_alternative_sm": [
+    "De Kalb"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1963 edition of the De Kalb, Mississippi, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1963; photo revised in 1982; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "gbl_indexYear_im": [
+    1963
+  ],
+  "gbl_dateRange_drsim": [
+    "[1963 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Kemper County, Mississippi",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a494be4b00f54eb3fd074",
+    "urn:uuid:1ddd0c29-64bb-9a8d-a6d8-97023a5dbd1b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88.625 32.75,-88.625 32.875,-88.75 32.875,-88.75 32.75,-88.625 32.75))",
+  "dcat_bbox": "ENVELOPE(-88.75, -88.625, 32.875, 32.75)",
+  "dcat_centroid": "32.8125,-88.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335542",
+    "usgs-htmc-335543"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_De%20Kalb_335544_1963_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_De%20Kalb_335544_1963_24000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_De%20Kalb_335544_1963_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/24000/MS_De_Kalb_335544_1963_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a494be4b00f54eb3fd074\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_De%20Kalb_335544_1963_24000_tn.jpg\"}"
+}

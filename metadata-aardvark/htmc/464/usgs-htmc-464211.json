@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-464211",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Teshekpuk, AK 1951",
+  "dct_alternative_sm": [
+    "Teshekpuk"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Teshekpuk, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey and the U.S. military. Surveyed in 1949.",
+    "Sheet size: 25.88 x 23.2 inches. Printed projection: Universal Transverse Mercator; horizontal datum: Regional. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1951]"
+  ],
+  "dct_spatial_sm": [
+    "North Slope, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5bacb100e4b08583a5d10bbc",
+    "urn:uuid:581653da-f918-1fa4-9e9b-84f6e1b9a879"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-153 70,-153 71,-156 71,-156 70,-153 70))",
+  "dcat_bbox": "ENVELOPE(-156, -153, 71, 70)",
+  "dcat_centroid": "70.5,-154.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361559",
+    "usgs-htmc-361560",
+    "usgs-htmc-361561",
+    "usgs-htmc-361562",
+    "usgs-htmc-361563",
+    "usgs-htmc-464212"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Teshekpuk_464211_1951_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Teshekpuk_464211_1951_250000_geo.pdf\",\"label\":\"GeoPDF (29.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Teshekpuk_464211_1951_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Teshekpuk_464211_1951_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5bacb100e4b08583a5d10bbc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Teshekpuk_464211_1951_250000_tn.jpg\"}"
+}

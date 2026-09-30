@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-301571",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Wolfskill, CA 1917 (printed 1947)",
+  "dct_alternative_sm": [
+    "Wolfskill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1917 edition of the Wolfskill, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1906; printed in 1947.",
+    "Sheet size: 17 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1917",
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "gbl_indexYear_im": [
+    1917
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Solano County, California",
+    "Yolo County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5224e4b00f54eb40d148",
+    "urn:uuid:895b8b2a-5853-d2c4-3f75-14cc3b5b35c0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.875 38.375,-121.875 38.5,-122 38.5,-122 38.375,-121.875 38.375))",
+  "dcat_bbox": "ENVELOPE(-122, -121.875, 38.5, 38.375)",
+  "dcat_centroid": "38.4375,-121.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100316",
+    "usgs-htmc-287903",
+    "usgs-htmc-287904",
+    "usgs-htmc-287905",
+    "usgs-htmc-287906",
+    "usgs-htmc-296610",
+    "usgs-htmc-302232"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Wolfskill_301571_1917_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Wolfskill_301571_1917_31680_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Wolfskill_301571_1917_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Wolfskill_301571_1917_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5224e4b00f54eb40d148\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Wolfskill_301571_1917_31680_tn.jpg\"}"
+}

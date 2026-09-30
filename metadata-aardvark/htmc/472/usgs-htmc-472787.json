@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-472787",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Kalispell, MT 1960",
+  "dct_alternative_sm": [
+    "Kalispell"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Kalispell, Montana, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Surveyed in 1942; aerial photographs from 1954; field checked in 1957; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 34.94 x 24.21 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Flathead County, Montana",
+    "Lincoln County, Montana",
+    "Sanders County, Montana",
+    "Glacier County, Montana",
+    "Lake County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e62cf36e4b01d509257dd9e",
+    "urn:uuid:c1a2d47b-1786-9d03-6a2d-64213780c84b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-114 48,-114 49,-116 49,-116 48,-114 48))",
+  "dcat_bbox": "ENVELOPE(-116, -114, 49, 48)",
+  "dcat_centroid": "48.5,-115",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-268768",
+    "usgs-htmc-268769",
+    "usgs-htmc-268770",
+    "usgs-htmc-268771"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Kalispell_472787_1960_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Kalispell_472787_1960_250000_geo.pdf\",\"label\":\"GeoPDF (38.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Kalispell_472787_1960_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/250000/MT_Kalispell_472787_1960_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e62cf36e4b01d509257dd9e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/250000/MT_Kalispell_472787_1960_250000_tn.jpg\"}"
+}

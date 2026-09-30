@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-802575",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Pryor, OK 1901",
+  "dct_alternative_sm": [
+    "Pryor"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Pryor, Oklahoma, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1896.",
+    "Sheet size: 16.5 x 19.7 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Mayes County, Oklahoma",
+    "Cherokee County, Oklahoma",
+    "Rogers County, Oklahoma",
+    "Wagoner County, Oklahoma",
+    "Delaware County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d681",
+    "urn:uuid:4b724eb9-4f47-6fd7-f28d-f33aafafbcf2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95 36,-95 36.5,-95.5 36.5,-95.5 36,-95 36))",
+  "dcat_bbox": "ENVELOPE(-95.5, -95, 36.5, 36)",
+  "dcat_centroid": "36.25,-95.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-706620",
+    "usgs-htmc-802370",
+    "usgs-htmc-802371",
+    "usgs-htmc-802573",
+    "usgs-htmc-802574"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Pryor_802575_1901_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Pryor_802575_1901_125000_geo.pdf\",\"label\":\"GeoPDF (6.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OK/OK_Pryor_802575_1901_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/125000/OK_Pryor_802575_1901_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a524fe4b00f54eb40d681\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/125000/OK_Pryor_802575_1901_125000_tn.jpg\"}"
+}

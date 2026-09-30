@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-801592",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fort Riley NE, KS 1992 (printed 1995)",
+  "dct_alternative_sm": [
+    "Fort Riley NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1992 edition of the Fort Riley NE, Kansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1980; last revised in 1995; printed in 1995.",
+    "Variations: woodland tint. Sheet size: 21.09 x 27.05 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1992",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1995]"
+  ],
+  "dct_spatial_sm": [
+    "Riley County, Kansas",
+    "Geary County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3cefe4b00f54eb3e7c77",
+    "urn:uuid:85c5f574-51f7-332a-7e1a-a2cd6f17850a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-96.75 39.125,-96.75 39.25,-96.875 39.25,-96.875 39.125,-96.75 39.125))",
+  "dcat_bbox": "ENVELOPE(-96.875, -96.75, 39.25, 39.125)",
+  "dcat_centroid": "39.1875,-96.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-468982",
+    "usgs-htmc-469049",
+    "usgs-htmc-511351",
+    "usgs-htmc-511352",
+    "usgs-htmc-511354",
+    "usgs-htmc-512838"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Fort%20Riley%20NE_801592_1992_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Fort%20Riley%20NE_801592_1992_24000_geo.pdf\",\"label\":\"GeoPDF (7.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Fort%20Riley%20NE_801592_1992_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/24000/KS_Fort_Riley_NE_801592_1992_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3cefe4b00f54eb3e7c77\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Fort%20Riley%20NE_801592_1992_24000_tn.jpg\"}"
+}

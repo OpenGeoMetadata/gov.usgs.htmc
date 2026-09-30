@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-806481",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Bangor, ME 1956 (printed 1966)",
+  "dct_alternative_sm": [
+    "Bangor"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Bangor, Maine, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Surveyed in 1956; last revised in 1965; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 29.4 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Penobscot County, Maine",
+    "Hancock County, Maine",
+    "Waldo County, Maine",
+    "Kennebec County, Maine",
+    "Somerset County, Maine",
+    "Knox County, Maine",
+    "Lincoln County, Maine",
+    "Sagadahoc County, Maine",
+    "Washington County, Maine",
+    "Franklin County, Maine",
+    "Androscoggin County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3780e4b00f54eb3deb33",
+    "urn:uuid:9feb0bec-7312-52a0-3af5-e38a794089c3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-68 44,-68 45,-70 45,-70 44,-68 44))",
+  "dcat_bbox": "ENVELOPE(-70, -68, 45, 44)",
+  "dcat_centroid": "44.5,-69",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-460144",
+    "usgs-htmc-707211",
+    "usgs-htmc-806479",
+    "usgs-htmc-806480",
+    "usgs-htmc-806482"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bangor_806481_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Bangor_806481_1956_250000_geo.pdf\",\"label\":\"GeoPDF (18.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Bangor_806481_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/250000/ME_Bangor_806481_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3780e4b00f54eb3deb33\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/250000/ME_Bangor_806481_1956_250000_tn.jpg\"}"
+}

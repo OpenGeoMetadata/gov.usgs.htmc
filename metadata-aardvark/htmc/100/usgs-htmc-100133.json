@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-100133",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Beverly Hills, CA 1995 (printed 1999)",
+  "dct_alternative_sm": [
+    "Beverly Hills"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1995 edition of the Beverly Hills, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; photo inspected in 1995; printed in 1999.",
+    "Variations: woodland tint. Sheet size: 21.5 x 26.9 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "gbl_indexYear_im": [
+    1995
+  ],
+  "gbl_dateRange_drsim": [
+    "[1978 TO 1999]"
+  ],
+  "dct_spatial_sm": [
+    "Los Angeles County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a297ee4b00f54eb3c6e11",
+    "urn:uuid:4ea813a4-b5e2-04f0-62b4-71da332a2cd9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.375 34,-118.375 34.125,-118.5 34.125,-118.5 34,-118.375 34))",
+  "dcat_bbox": "ENVELOPE(-118.5, -118.375, 34.125, 34)",
+  "dcat_centroid": "34.0625,-118.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-288347",
+    "usgs-htmc-288348",
+    "usgs-htmc-288350",
+    "usgs-htmc-288351",
+    "usgs-htmc-288352",
+    "usgs-htmc-288353",
+    "usgs-htmc-288354",
+    "usgs-htmc-288355",
+    "usgs-htmc-288356",
+    "usgs-htmc-302394",
+    "usgs-htmc-302395"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Beverly%20Hills_100133_1995_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Beverly%20Hills_100133_1995_24000_geo.pdf\",\"label\":\"GeoPDF (24.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Beverly%20Hills_100133_1995_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Beverly_Hills_100133_1995_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a297ee4b00f54eb3c6e11\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Beverly%20Hills_100133_1995_24000_tn.jpg\"}"
+}

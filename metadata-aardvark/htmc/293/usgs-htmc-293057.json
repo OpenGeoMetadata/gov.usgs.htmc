@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-293057",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Monocline Ridge, CA 1955 (printed 1961)",
+  "dct_alternative_sm": [
+    "Monocline Ridge"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Monocline Ridge, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1955; aerial photographs from 1953; printed in 1961.",
+    "Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Fresno County, California",
+    "San Benito County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a317ce4b00f54eb3d3e51",
+    "urn:uuid:ded7f4f6-dc65-0b5d-8223-5298dad9a122"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120.5 36.5,-120.5 36.625,-120.625 36.625,-120.625 36.5,-120.5 36.5))",
+  "dcat_bbox": "ENVELOPE(-120.625, -120.5, 36.625, 36.5)",
+  "dcat_centroid": "36.5625,-120.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-101620",
+    "usgs-htmc-293056",
+    "usgs-htmc-293058",
+    "usgs-htmc-296324",
+    "usgs-htmc-296325",
+    "usgs-htmc-296326"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Monocline%20Ridge_293057_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Monocline%20Ridge_293057_1955_24000_geo.pdf\",\"label\":\"GeoPDF (10.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Monocline%20Ridge_293057_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Monocline_Ridge_293057_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a317ce4b00f54eb3d3e51\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Monocline%20Ridge_293057_1955_24000_tn.jpg\"}"
+}

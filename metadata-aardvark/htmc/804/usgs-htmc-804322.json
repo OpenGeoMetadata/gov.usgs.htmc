@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-804322",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Tell City, KY 1903",
+  "dct_alternative_sm": [
+    "Tell City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Tell City, Kentucky, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1900.",
+    "Sheet size: 17 x 20.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Indiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ef2e4b00f54eb406ce2",
+    "urn:uuid:c39e009f-00c9-485c-a83d-cb0179b9a377"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.75 37.75,-86.75 38,-87 38,-87 37.75,-86.75 37.75))",
+  "dcat_bbox": "ENVELOPE(-87, -86.75, 38, 37.75)",
+  "dcat_centroid": "37.875,-86.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161011",
+    "usgs-htmc-161012",
+    "usgs-htmc-709853",
+    "usgs-htmc-804027",
+    "usgs-htmc-804320",
+    "usgs-htmc-804321"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/KY_Tell%20City_804322_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Tell%20City_804322_1903_62500_geo.pdf\",\"label\":\"GeoPDF (5.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/KY_Tell%20City_804322_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/62500/KY_Tell_City_804322_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ef2e4b00f54eb406ce2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Tell%20City_804322_1903_62500_tn.jpg\"}"
+}

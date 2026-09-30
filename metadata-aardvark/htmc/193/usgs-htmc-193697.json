@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-193697",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Albuquerque West, NM 1990 (printed 1996)",
+  "dct_alternative_sm": [
+    "Albuquerque West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the Albuquerque West, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1990; last revised in 1996; printed in 1996.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1996]"
+  ],
+  "dct_spatial_sm": [
+    "Bernalillo County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3973e4b00f54eb3e1ec2",
+    "urn:uuid:2b7b31cf-b36e-face-c3d0-c8de78506f60"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106.625 35,-106.625 35.125,-106.75 35.125,-106.75 35,-106.625 35))",
+  "dcat_bbox": "ENVELOPE(-106.75, -106.625, 35.125, 35)",
+  "dcat_centroid": "35.0625,-106.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-189532",
+    "usgs-htmc-189533",
+    "usgs-htmc-189534",
+    "usgs-htmc-189535",
+    "usgs-htmc-189536",
+    "usgs-htmc-193547",
+    "usgs-htmc-193696"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Albuquerque%20West_193697_1990_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Albuquerque%20West_193697_1990_24000_geo.pdf\",\"label\":\"GeoPDF (18.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Albuquerque%20West_193697_1990_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Albuquerque_West_193697_1990_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3973e4b00f54eb3e1ec2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Albuquerque%20West_193697_1990_24000_tn.jpg\"}"
+}

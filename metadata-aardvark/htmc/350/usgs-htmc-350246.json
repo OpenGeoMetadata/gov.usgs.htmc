@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-350246",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Lowell, MA 1950 (printed 1960)",
+  "dct_alternative_sm": [
+    "Lowell"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Lowell, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1944; last revised in 1950; printed in 1960.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52c6e4b00f54eb40e523",
+    "urn:uuid:b7a2674d-59c8-dbef-8cf4-4e6e4bbb7923"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.25 42.625,-71.25 42.75,-71.375 42.75,-71.375 42.625,-71.25 42.625))",
+  "dcat_bbox": "ENVELOPE(-71.375, -71.25, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-71.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350242",
+    "usgs-htmc-350243",
+    "usgs-htmc-350244",
+    "usgs-htmc-350245",
+    "usgs-htmc-350247",
+    "usgs-htmc-350248",
+    "usgs-htmc-351054",
+    "usgs-htmc-351839",
+    "usgs-htmc-351840",
+    "usgs-htmc-351842",
+    "usgs-htmc-351843",
+    "usgs-htmc-351844",
+    "usgs-htmc-462983"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Lowell_350246_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Lowell_350246_1950_24000_geo.pdf\",\"label\":\"GeoPDF (16.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Lowell_350246_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Lowell_350246_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52c6e4b00f54eb40e523\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Lowell_350246_1950_24000_tn.jpg\"}"
+}

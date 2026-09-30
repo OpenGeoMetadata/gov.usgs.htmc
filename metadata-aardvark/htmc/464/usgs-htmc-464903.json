@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-464903",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Samaniego Peak, AZ 1925",
+  "dct_alternative_sm": [
+    "Samaniego Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1925 edition of the Samaniego Peak, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1924.",
+    "Release: Advance. Sheet size: 17.56 x 22.25 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Pima County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ca4f1cde4b0b8a7f6358490",
+    "urn:uuid:bd97bf16-c5d0-d18d-cd2e-33f7ef9b5152"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111 31.75,-111 32,-111.25 32,-111.25 31.75,-111 31.75))",
+  "dcat_bbox": "ENVELOPE(-111.25, -111, 32, 31.75)",
+  "dcat_centroid": "31.875,-111.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315138",
+    "usgs-htmc-315139",
+    "usgs-htmc-315140",
+    "usgs-htmc-315142",
+    "usgs-htmc-315143",
+    "usgs-htmc-315144",
+    "usgs-htmc-464972",
+    "usgs-htmc-464973",
+    "usgs-htmc-464974"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Samaniego%20Peak_464903_1925_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Samaniego%20Peak_464903_1925_62500_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Samaniego%20Peak_464903_1925_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Samaniego_Peak_464903_1925_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ca4f1cde4b0b8a7f6358490\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Samaniego%20Peak_464903_1925_62500_tn.jpg\"}"
+}

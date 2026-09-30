@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-296105",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Fresno, CA 1923",
+  "dct_alternative_sm": [
+    "Fresno"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1923 edition of the Fresno, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1921.",
+    "Sheet size: 16.2 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "gbl_indexYear_im": [
+    1923
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1923]"
+  ],
+  "dct_spatial_sm": [
+    "Fresno County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5185e4b00f54eb40be97",
+    "urn:uuid:c20fd931-a804-0463-22a5-149df6d92f08"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.75 36.625,-119.75 36.75,-119.875 36.75,-119.875 36.625,-119.75 36.625))",
+  "dcat_bbox": "ENVELOPE(-119.875, -119.75, 36.75, 36.625)",
+  "dcat_centroid": "36.6875,-119.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102190",
+    "usgs-htmc-290704",
+    "usgs-htmc-290705",
+    "usgs-htmc-290706",
+    "usgs-htmc-290707",
+    "usgs-htmc-290708",
+    "usgs-htmc-296106"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Fresno_296105_1923_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Fresno_296105_1923_31680_geo.pdf\",\"label\":\"GeoPDF (5.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Fresno_296105_1923_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Fresno_296105_1923_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5185e4b00f54eb40be97\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Fresno_296105_1923_31680_tn.jpg\"}"
+}

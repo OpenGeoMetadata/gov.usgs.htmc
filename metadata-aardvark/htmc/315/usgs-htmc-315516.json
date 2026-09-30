@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-315516",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Kaibab, AZ 1886 (printed 1909)",
+  "dct_alternative_sm": [
+    "Kaibab"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1886 edition of the Kaibab, Arizona, topographic map at 1:250,000 scale (1 x 1 degree series), published by the U.S. Geological Survey. Printed in 1909.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1886",
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    1886
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Coconino County, Arizona",
+    "Mohave County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f01e4b00f54eb3eaf95",
+    "urn:uuid:8b75acf3-8d5d-262b-0b78-7e7ced8df03c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 36,-112 37,-113 37,-113 36,-112 36))",
+  "dcat_bbox": "ENVELOPE(-113, -112, 37, 36)",
+  "dcat_centroid": "36.5,-112.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315511",
+    "usgs-htmc-315512",
+    "usgs-htmc-315513",
+    "usgs-htmc-315514",
+    "usgs-htmc-315515",
+    "usgs-htmc-315517",
+    "usgs-htmc-315518",
+    "usgs-htmc-315519"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Kaibab_315516_1886_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Kaibab_315516_1886_250000_geo.pdf\",\"label\":\"GeoPDF (7.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Kaibab_315516_1886_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/250000/AZ_Kaibab_315516_1886_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f01e4b00f54eb3eaf95\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Kaibab_315516_1886_250000_tn.jpg\"}"
+}

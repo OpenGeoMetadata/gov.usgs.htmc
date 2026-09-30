@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-466900",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Eldorado Springs, CO 1944",
+  "dct_alternative_sm": [
+    "Eldorado Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Eldorado Springs, Colorado, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942.",
+    "Variations: woodland tint. Sheet size: 16.56 x 20.49 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Boulder County, Colorado",
+    "Jefferson County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5df21ee6e4b02caea0f94084",
+    "urn:uuid:b83a033a-a252-737a-4038-c37a5ef6c917"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.25 39.875,-105.25 40,-105.375 40,-105.375 39.875,-105.25 39.875))",
+  "dcat_bbox": "ENVELOPE(-105.375, -105.25, 40, 39.875)",
+  "dcat_centroid": "39.9375,-105.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232922",
+    "usgs-htmc-232923",
+    "usgs-htmc-402538",
+    "usgs-htmc-450116",
+    "usgs-htmc-450117",
+    "usgs-htmc-450118",
+    "usgs-htmc-450119",
+    "usgs-htmc-450120",
+    "usgs-htmc-450121",
+    "usgs-htmc-450122",
+    "usgs-htmc-450123",
+    "usgs-htmc-450124",
+    "usgs-htmc-466899"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Eldorado%20Springs_466900_1944_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/31680/CO_Eldorado%20Springs_466900_1944_31680_geo.pdf\",\"label\":\"GeoPDF (8.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Eldorado%20Springs_466900_1944_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/31680/CO_Eldorado_Springs_466900_1944_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5df21ee6e4b02caea0f94084\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/31680/CO_Eldorado%20Springs_466900_1944_31680_tn.jpg\"}"
+}

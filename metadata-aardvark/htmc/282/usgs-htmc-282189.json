@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-282189",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Soap Creek, OR 1914",
+  "dct_alternative_sm": [
+    "Soap Creek"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1914 edition of the Soap Creek, Oregon, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1914.",
+    "Release: Advance. Sheet size: 15.3 x 21 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1914",
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    1914
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "Benton County, Oregon",
+    "Polk County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a470ce4b00f54eb3f8a4f",
+    "urn:uuid:7215d70c-99bb-3957-e36f-a86348bd29d7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123.25 44.625,-123.25 44.75,-123.375 44.75,-123.375 44.625,-123.25 44.625))",
+  "dcat_bbox": "ENVELOPE(-123.375, -123.25, 44.75, 44.625)",
+  "dcat_centroid": "44.6875,-123.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-278797",
+    "usgs-htmc-278798"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Soap%20Creek_282189_1914_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/31680/OR_Soap%20Creek_282189_1914_31680_geo.pdf\",\"label\":\"GeoPDF (6.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Soap%20Creek_282189_1914_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/31680/OR_Soap_Creek_282189_1914_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a470ce4b00f54eb3f8a4f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/31680/OR_Soap%20Creek_282189_1914_31680_tn.jpg\"}"
+}

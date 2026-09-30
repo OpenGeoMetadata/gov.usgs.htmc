@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-292373",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Little Pine Mountain, CA 1964 (printed 1966)",
+  "dct_alternative_sm": [
+    "Little Pine Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Little Pine Mountain, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1958; field checked in 1964; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Barbara County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a306ce4b00f54eb3d24c1",
+    "urn:uuid:468df26f-cbe4-3407-7e2a-e9496bee1ba2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.625 34.5,-119.625 34.625,-119.75 34.625,-119.75 34.5,-119.625 34.5))",
+  "dcat_bbox": "ENVELOPE(-119.75, -119.625, 34.625, 34.5)",
+  "dcat_centroid": "34.5625,-119.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100929",
+    "usgs-htmc-292370",
+    "usgs-htmc-292371",
+    "usgs-htmc-292372",
+    "usgs-htmc-292374",
+    "usgs-htmc-296255"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Little%20Pine%20Mountain_292373_1964_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Little%20Pine%20Mountain_292373_1964_24000_geo.pdf\",\"label\":\"GeoPDF (18.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Little%20Pine%20Mountain_292373_1964_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Little_Pine_Mountain_292373_1964_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a306ce4b00f54eb3d24c1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Little%20Pine%20Mountain_292373_1964_24000_tn.jpg\"}"
+}

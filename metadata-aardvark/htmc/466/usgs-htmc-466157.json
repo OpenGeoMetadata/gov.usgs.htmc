@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-466157",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Plano, CA 1947",
+  "dct_alternative_sm": [
+    "Plano"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Plano, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Army Map Service. Aerial photographs from 1946; field checked in 1947; printed in 1947.",
+    "Sheet size: 22.08 x 29.09 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e0659efe4b0b207aa0b4b5e",
+    "urn:uuid:2d828a20-2c2a-f9c4-1e48-db97be7765b9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 35,-118 35.125,-118.125 35.125,-118.125 35,-118 35))",
+  "dcat_bbox": "ENVELOPE(-118.125, -118, 35.125, 35)",
+  "dcat_centroid": "35.0625,-118.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-295052",
+    "usgs-htmc-295053",
+    "usgs-htmc-295054",
+    "usgs-htmc-295055",
+    "usgs-htmc-466338"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Plano_466157_1947_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Plano_466157_1947_24000_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Plano_466157_1947_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Plano_466157_1947_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e0659efe4b0b207aa0b4b5e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Plano_466157_1947_24000_tn.jpg\"}"
+}

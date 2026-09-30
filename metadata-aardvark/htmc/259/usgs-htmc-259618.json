@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-259618",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Smyrna, AR 1980",
+  "dct_alternative_sm": [
+    "Smyrna"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1980 edition of the Smyrna, Arkansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; field checked in 1976; last revised in 1980; printed in 1980.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1980",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Pope County, Arkansas",
+    "Searcy County, Arkansas",
+    "Newton County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2a66e4b00f54eb3c86e5",
+    "urn:uuid:d082eaa8-3567-3133-6c58-f50bcb9af05b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.875 35.625,-92.875 35.75,-93 35.75,-93 35.625,-92.875 35.625))",
+  "dcat_bbox": "ENVELOPE(-93, -92.875, 35.75, 35.625)",
+  "dcat_centroid": "35.6875,-92.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-259614",
+    "usgs-htmc-259617"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Smyrna_259618_1980_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Smyrna_259618_1980_24000_geo.pdf\",\"label\":\"GeoPDF (11.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Smyrna_259618_1980_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/24000/AR_Smyrna_259618_1980_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2a66e4b00f54eb3c86e5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_Smyrna_259618_1980_24000_tn.jpg\"}"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-297842",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Junipero Serra, CA 1919 (printed 1930)",
+  "dct_alternative_sm": [
+    "Junipero Serra"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Junipero Serra, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1917; printed in 1930.",
+    "Sheet size: 16.6 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1917 TO 1930]"
+  ],
+  "dct_spatial_sm": [
+    "Monterey County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4106e4b00f54eb3ee614",
+    "urn:uuid:858bef73-3752-a7ad-c272-efad9f599df8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.25 36,-121.25 36.25,-121.5 36.25,-121.5 36,-121.25 36))",
+  "dcat_bbox": "ENVELOPE(-121.5, -121.25, 36.25, 36)",
+  "dcat_centroid": "36.125,-121.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297841",
+    "usgs-htmc-297843",
+    "usgs-htmc-297844",
+    "usgs-htmc-297845",
+    "usgs-htmc-297846",
+    "usgs-htmc-297848",
+    "usgs-htmc-465793",
+    "usgs-htmc-465794"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Junipero%20Serra_297842_1919_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Junipero%20Serra_297842_1919_62500_geo.pdf\",\"label\":\"GeoPDF (12.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Junipero%20Serra_297842_1919_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Junipero_Serra_297842_1919_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4106e4b00f54eb3ee614\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Junipero%20Serra_297842_1919_62500_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-463259",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Blalock Island, OR 1908 (printed 1944)",
+  "dct_alternative_sm": [
+    "Blalock Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1908 edition of the Blalock Island, Oregon, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1906; printed in 1944.",
+    "Sheet size: 16.89 x 20.82 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1908",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    1908
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5add2715e4b0e2c2dd2b78cd",
+    "urn:uuid:9d2ba1de-f0d7-42e1-f520-389827db850c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.5 45.5,-119.5 46,-120 46,-120 45.5,-119.5 45.5))",
+  "dcat_bbox": "ENVELOPE(-120, -119.5, 46, 45.5)",
+  "dcat_centroid": "45.75,-119.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283145",
+    "usgs-htmc-283146",
+    "usgs-htmc-283147",
+    "usgs-htmc-463258"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/OR_Blalock%20Island_463259_1908_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/125000/OR_Blalock%20Island_463259_1908_125000_geo.pdf\",\"label\":\"GeoPDF (8.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/OR_Blalock%20Island_463259_1908_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/125000/OR_Blalock_Island_463259_1908_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5add2715e4b0e2c2dd2b78cd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/125000/OR_Blalock%20Island_463259_1908_125000_tn.jpg\"}"
+}

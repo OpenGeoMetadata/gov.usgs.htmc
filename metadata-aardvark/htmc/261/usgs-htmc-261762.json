@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-261762",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Mayesville, SC 1920",
+  "dct_alternative_sm": [
+    "Mayesville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1920 edition of the Mayesville, South Carolina, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1919.",
+    "Release: Advance. Sheet size: 23 x 27.5 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1920",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "gbl_indexYear_im": [
+    1920
+  ],
+  "gbl_dateRange_drsim": [
+    "[1919 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "Clarendon County, South Carolina",
+    "Sumter County, South Carolina",
+    "Lee County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a22a9e4b00f54eb3bcfa7",
+    "urn:uuid:7328a68e-fa84-e657-449e-2bb0d4b05609"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 33.75,-80 34,-80.25 34,-80.25 33.75,-80 33.75))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80, 34, 33.75)",
+  "dcat_centroid": "33.875,-80.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-261897",
+    "usgs-htmc-261898",
+    "usgs-htmc-261899",
+    "usgs-htmc-9475780"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Mayesville_261762_1920_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Mayesville_261762_1920_48000_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Mayesville_261762_1920_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/48000/SC_Mayesville_261762_1920_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a22a9e4b00f54eb3bcfa7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/48000/SC_Mayesville_261762_1920_48000_tn.jpg\"}"
+}

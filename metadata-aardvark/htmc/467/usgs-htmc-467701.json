@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-467701",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Harrietts Bluff, GA 1958 (printed 1959)",
+  "dct_alternative_sm": [
+    "Harrietts Bluff"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Harrietts Bluff, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1958; aerial photographs from 1957; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 23.04 x 27.13 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Camden County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e17293ee4b0ecf25c59f762",
+    "urn:uuid:49fe50d2-198a-8398-423f-bc493440b724"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.5 30.75,-81.5 30.875,-81.625 30.875,-81.625 30.75,-81.5 30.75))",
+  "dcat_bbox": "ENVELOPE(-81.625, -81.5, 30.875, 30.75)",
+  "dcat_centroid": "30.8125,-81.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-245861",
+    "usgs-htmc-245862",
+    "usgs-htmc-245863",
+    "usgs-htmc-245865"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Harrietts%20Bluff_467701_1958_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Harrietts%20Bluff_467701_1958_24000_geo.pdf\",\"label\":\"GeoPDF (12.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Harrietts%20Bluff_467701_1958_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Harrietts_Bluff_467701_1958_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e17293ee4b0ecf25c59f762\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Harrietts%20Bluff_467701_1958_24000_tn.jpg\"}"
+}

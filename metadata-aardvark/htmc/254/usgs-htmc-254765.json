@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-254765",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Point Pleasant, NJ 1953 (printed 1981)",
+  "dct_alternative_sm": [
+    "Point Pleasant"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Point Pleasant, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Department of Commerce. Surveyed in 1951; aerial photographs from 1952; field checked in 1953; photo revised in 1971; printed in 1981.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Ocean County, New Jersey",
+    "Monmouth County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2567e4b00f54eb3c07a4",
+    "urn:uuid:8068c7e4-58b0-fa28-31ef-f3acf30b5f4d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74 40,-74 40.125,-74.125 40.125,-74.125 40,-74 40))",
+  "dcat_bbox": "ENVELOPE(-74.125, -74, 40.125, 40)",
+  "dcat_centroid": "40.0625,-74.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254761",
+    "usgs-htmc-254762",
+    "usgs-htmc-254763",
+    "usgs-htmc-254764",
+    "usgs-htmc-254766",
+    "usgs-htmc-254767",
+    "usgs-htmc-254768",
+    "usgs-htmc-254769"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Point%20Pleasant_254765_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Point%20Pleasant_254765_1953_24000_geo.pdf\",\"label\":\"GeoPDF (19.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Point%20Pleasant_254765_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Point_Pleasant_254765_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2567e4b00f54eb3c07a4\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Point%20Pleasant_254765_1953_24000_tn.jpg\"}"
+}

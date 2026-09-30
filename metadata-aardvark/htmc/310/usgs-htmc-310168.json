@@ -1,0 +1,95 @@
+{
+  "id": "usgs-htmc-310168",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Peoria, IL 1990",
+  "dct_alternative_sm": [
+    "Peoria"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1990 edition of the Peoria, Illinois, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Last revised in 1990; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 33.6 x 22 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1990",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "gbl_indexYear_im": [
+    1990
+  ],
+  "gbl_dateRange_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Peoria County, Illinois",
+    "McLean County, Illinois",
+    "Livingston County, Illinois",
+    "Champaign County, Illinois",
+    "Tazewell County, Illinois",
+    "Woodford County, Illinois",
+    "Logan County, Illinois",
+    "Ford County, Illinois",
+    "De Witt County, Illinois",
+    "Mason County, Illinois",
+    "Iroquois County, Illinois",
+    "Piatt County, Illinois",
+    "Menard County, Illinois",
+    "Marshall County, Illinois",
+    "Fulton County, Illinois",
+    "Macon County, Illinois",
+    "Stark County, Illinois",
+    "LaSalle County, Illinois",
+    "Knox County, Illinois",
+    "Cass County, Illinois",
+    "Kankakee County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a361be4b00f54eb3dc9b2",
+    "urn:uuid:f6506770-11f1-f631-c51e-641c68700965"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 40,-88 41,-90 41,-90 40,-88 40))",
+  "dcat_bbox": "ENVELOPE(-90, -88, 41, 40)",
+  "dcat_centroid": "40.5,-89",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310169",
+    "usgs-htmc-310170",
+    "usgs-htmc-310171",
+    "usgs-htmc-310172",
+    "usgs-htmc-468596",
+    "usgs-htmc-468597"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Peoria_310168_1990_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/250000/IL_Peoria_310168_1990_250000_geo.pdf\",\"label\":\"GeoPDF (24.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Peoria_310168_1990_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/250000/IL_Peoria_310168_1990_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a361be4b00f54eb3dc9b2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/250000/IL_Peoria_310168_1990_250000_tn.jpg\"}"
+}

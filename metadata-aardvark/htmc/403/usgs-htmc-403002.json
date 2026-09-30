@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-403002",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Apishapa, CO 1897",
+  "dct_alternative_sm": [
+    "Apishapa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Apishapa, Colorado, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1896.",
+    "Sheet size: 16.28 x 19.75 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Las Animas County, Colorado",
+    "Pueblo County, Colorado",
+    "Otero County, Colorado",
+    "Huerfano County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/604ea820d34eb1203120372d",
+    "urn:uuid:80c9415a-642b-20e7-2040-2f92f7afc919"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-104 37.5,-104 38,-104.5 38,-104.5 37.5,-104 37.5))",
+  "dcat_bbox": "ENVELOPE(-104.5, -104, 38, 37.5)",
+  "dcat_centroid": "37.75,-104.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232137",
+    "usgs-htmc-403003",
+    "usgs-htmc-403004",
+    "usgs-htmc-403005",
+    "usgs-htmc-466653"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Apishapa_403002_1897_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Apishapa_403002_1897_125000_geo.pdf\",\"label\":\"GeoPDF (4.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Apishapa_403002_1897_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/125000/CO_Apishapa_403002_1897_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/604ea820d34eb1203120372d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Apishapa_403002_1897_125000_tn.jpg\"}"
+}

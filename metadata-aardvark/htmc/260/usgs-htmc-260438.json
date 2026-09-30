@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-260438",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Benton, AR 1894",
+  "dct_alternative_sm": [
+    "Benton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Benton, Arkansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1888.",
+    "Sheet size: 16.5 x 20.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1894]"
+  ],
+  "dct_spatial_sm": [
+    "Saline County, Arkansas",
+    "Perry County, Arkansas",
+    "Pulaski County, Arkansas",
+    "Garland County, Arkansas",
+    "Faulkner County, Arkansas",
+    "Hot Spring County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f09e4b00f54eb3eb013",
+    "urn:uuid:507b76e7-11e1-c2ae-0eaa-d657f9c71ee5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.5 34.5,-92.5 35,-93 35,-93 34.5,-92.5 34.5))",
+  "dcat_bbox": "ENVELOPE(-93, -92.5, 35, 34.5)",
+  "dcat_centroid": "34.75,-92.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260437",
+    "usgs-htmc-260439",
+    "usgs-htmc-260440",
+    "usgs-htmc-260441",
+    "usgs-htmc-260442"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Benton_260438_1894_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Benton_260438_1894_125000_geo.pdf\",\"label\":\"GeoPDF (8.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_Benton_260438_1894_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/125000/AR_Benton_260438_1894_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f09e4b00f54eb3eb013\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/125000/AR_Benton_260438_1894_125000_tn.jpg\"}"
+}

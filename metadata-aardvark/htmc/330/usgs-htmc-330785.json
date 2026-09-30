@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-330785",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Southington, CT 1968 (printed 1992)",
+  "dct_alternative_sm": [
+    "Southington"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Southington, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; aerial photographs from 1991; field checked in 1968; photo revised in 1992; last revised in 1992; printed in 1992.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1992]"
+  ],
+  "dct_spatial_sm": [
+    "New Haven County, Connecticut",
+    "Hartford County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50b8e4b00f54eb40a565",
+    "urn:uuid:b56f005c-ce34-5db7-4e06-c01e6cc93716"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.875 41.5,-72.875 41.625,-73 41.625,-73 41.5,-72.875 41.5))",
+  "dcat_bbox": "ENVELOPE(-73, -72.875, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-72.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330784",
+    "usgs-htmc-461076",
+    "usgs-htmc-461217",
+    "usgs-htmc-461218",
+    "usgs-htmc-461219",
+    "usgs-htmc-461220",
+    "usgs-htmc-461221"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Southington_330785_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Southington_330785_1968_24000_geo.pdf\",\"label\":\"GeoPDF (17.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Southington_330785_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Southington_330785_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50b8e4b00f54eb40a565\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Southington_330785_1968_24000_tn.jpg\"}"
+}

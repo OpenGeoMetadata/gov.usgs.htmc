@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-807467",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Deer Isle, ME 1904",
+  "dct_alternative_sm": [
+    "Deer Isle"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1904 edition of the Deer Isle, Maine, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 15.6 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Hancock County, Maine",
+    "Knox County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c1fe4b00f54eb401b7b",
+    "urn:uuid:537698b4-2012-6b8c-cee1-1e3486f72d21"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-68.5 44,-68.5 44.25,-68.75 44.25,-68.75 44,-68.5 44))",
+  "dcat_bbox": "ENVELOPE(-68.75, -68.5, 44.25, 44)",
+  "dcat_centroid": "44.125,-68.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-306536",
+    "usgs-htmc-306537",
+    "usgs-htmc-306538",
+    "usgs-htmc-460352",
+    "usgs-htmc-460353",
+    "usgs-htmc-460354",
+    "usgs-htmc-807465",
+    "usgs-htmc-807466"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Deer%20Isle_807467_1904_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Deer%20Isle_807467_1904_62500_geo.pdf\",\"label\":\"GeoPDF (6.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Deer%20Isle_807467_1904_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/62500/ME_Deer_Isle_807467_1904_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c1fe4b00f54eb401b7b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/62500/ME_Deer%20Isle_807467_1904_62500_tn.jpg\"}"
+}

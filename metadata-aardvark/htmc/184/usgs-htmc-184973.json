@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-184973",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fine Creek Mills, VA 1943 (printed 1961)",
+  "dct_alternative_sm": [
+    "Fine Creek Mills"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Fine Creek Mills, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers. Surveyed in 1943; aerial photographs from 1942; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Powhatan County, Virginia",
+    "Goochland County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a341de4b00f54eb3d8997",
+    "urn:uuid:4a4675e3-b905-6d46-da33-6a52c4879c7d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.75 37.5,-77.75 37.625,-77.875 37.625,-77.875 37.5,-77.75 37.5))",
+  "dcat_bbox": "ENVELOPE(-77.875, -77.75, 37.625, 37.5)",
+  "dcat_centroid": "37.5625,-77.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-184974",
+    "usgs-htmc-184975",
+    "usgs-htmc-184976",
+    "usgs-htmc-184977",
+    "usgs-htmc-184978",
+    "usgs-htmc-187412"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Fine%20Creek%20Mills_184973_1943_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Fine%20Creek%20Mills_184973_1943_24000_geo.pdf\",\"label\":\"GeoPDF (10.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Fine%20Creek%20Mills_184973_1943_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Fine_Creek_Mills_184973_1943_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a341de4b00f54eb3d8997\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Fine%20Creek%20Mills_184973_1943_24000_tn.jpg\"}"
+}

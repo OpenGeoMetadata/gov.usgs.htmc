@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-464585",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Benson, AZ 1943",
+  "dct_alternative_sm": [
+    "Benson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Benson, Arizona, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Aerial photographs from 1935; printed in 1943.",
+    "Sheet size: 17.98 x 21.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1935 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Cochise County, Arizona",
+    "Pima County, Arizona",
+    "Santa Cruz County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c642eb4e4b0fe48cb37236e",
+    "urn:uuid:6c37a18f-78ed-7cde-5e13-a955b8c31bb8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110 31.5,-110 32,-110.5 32,-110.5 31.5,-110 31.5))",
+  "dcat_bbox": "ENVELOPE(-110.5, -110, 32, 31.5)",
+  "dcat_centroid": "31.75,-110.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315328",
+    "usgs-htmc-315329",
+    "usgs-htmc-464586",
+    "usgs-htmc-464587"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Benson_464585_1943_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Benson_464585_1943_125000_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Benson_464585_1943_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/125000/AZ_Benson_464585_1943_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c642eb4e4b0fe48cb37236e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/125000/AZ_Benson_464585_1943_125000_tn.jpg\"}"
+}

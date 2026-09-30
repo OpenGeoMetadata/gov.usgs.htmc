@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-277675",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Manton, MI 1983 (printed 1984)",
+  "dct_alternative_sm": [
+    "Manton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1983 edition of the Manton, Michigan, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1981; last revised in 1983; printed in 1984.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.8 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1983",
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "gbl_indexYear_im": [
+    1983
+  ],
+  "gbl_dateRange_drsim": [
+    "[1981 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Wexford County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4c4fe4b00f54eb402115",
+    "urn:uuid:fd739820-bbc2-ac8b-6f4d-95e423ad39a7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.375 44.375,-85.375 44.5,-85.5 44.5,-85.5 44.375,-85.375 44.375))",
+  "dcat_bbox": "ENVELOPE(-85.5, -85.375, 44.5, 44.375)",
+  "dcat_centroid": "44.4375,-85.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Manton_277675_1983_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/25000/MI_Manton_277675_1983_25000_geo.pdf\",\"label\":\"GeoPDF (12.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Manton_277675_1983_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/25000/MI_Manton_277675_1983_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4c4fe4b00f54eb402115\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/25000/MI_Manton_277675_1983_25000_tn.jpg\"}"
+}

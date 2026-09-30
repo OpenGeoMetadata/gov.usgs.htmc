@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-190494",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Edgewood, NM 1956 (printed 1979)",
+  "dct_alternative_sm": [
+    "Edgewood"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Edgewood, New Mexico, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1956; aerial photographs from 1953; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 17.3 x 21.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Fe County, New Mexico",
+    "Torrance County, New Mexico",
+    "Bernalillo County, New Mexico",
+    "Sandoval County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a380ae4b00f54eb3df6eb",
+    "urn:uuid:d47da7d5-5877-8ac6-9ecb-894b01c5d82c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-106 35,-106 35.25,-106.25 35.25,-106.25 35,-106 35))",
+  "dcat_bbox": "ENVELOPE(-106.25, -106, 35.25, 35)",
+  "dcat_centroid": "35.125,-106.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-190496",
+    "usgs-htmc-190498"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Edgewood_190494_1956_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/62500/NM_Edgewood_190494_1956_62500_geo.pdf\",\"label\":\"GeoPDF (7.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Edgewood_190494_1956_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/62500/NM_Edgewood_190494_1956_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a380ae4b00f54eb3df6eb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/62500/NM_Edgewood_190494_1956_62500_tn.jpg\"}"
+}

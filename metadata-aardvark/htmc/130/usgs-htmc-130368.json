@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-130368",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Lowville, NY 1913 (printed 1948)",
+  "dct_alternative_sm": [
+    "Lowville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1913 edition of the Lowville, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1911; printed in 1948.",
+    "Sheet size: 17.1 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Lewis County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33cfe4b00f54eb3d7ed5",
+    "urn:uuid:7d26594b-b9ee-80fa-ba1e-04eb4132b1f6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.25 43.75,-75.25 44,-75.5 44,-75.5 43.75,-75.25 43.75))",
+  "dcat_bbox": "ENVELOPE(-75.5, -75.25, 44, 43.75)",
+  "dcat_centroid": "43.875,-75.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130361",
+    "usgs-htmc-130362",
+    "usgs-htmc-130364",
+    "usgs-htmc-130366",
+    "usgs-htmc-144041",
+    "usgs-htmc-144043"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lowville_130368_1913_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Lowville_130368_1913_62500_geo.pdf\",\"label\":\"GeoPDF (7.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lowville_130368_1913_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Lowville_130368_1913_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33cfe4b00f54eb3d7ed5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Lowville_130368_1913_62500_tn.jpg\"}"
+}

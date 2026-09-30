@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-352146",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Sandwich, MA 1943",
+  "dct_alternative_sm": [
+    "Sandwich"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Sandwich, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1938; last revised in 1942.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Barnstable County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a9ce4b00f54eb3e39e0",
+    "urn:uuid:f74bfcef-b1b5-e709-2215-7311d1923864"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.375 41.6666667,-70.375 41.7916667,-70.5 41.7916667,-70.5 41.6666667,-70.375 41.6666667))",
+  "dcat_bbox": "ENVELOPE(-70.5, -70.375, 41.7916667, 41.6666667)",
+  "dcat_centroid": "41.7291667,-70.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350531",
+    "usgs-htmc-350532",
+    "usgs-htmc-350533",
+    "usgs-htmc-350534",
+    "usgs-htmc-350535",
+    "usgs-htmc-351275",
+    "usgs-htmc-351276",
+    "usgs-htmc-351277",
+    "usgs-htmc-352144",
+    "usgs-htmc-352145",
+    "usgs-htmc-352147",
+    "usgs-htmc-352149",
+    "usgs-htmc-463053",
+    "usgs-htmc-463054"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Sandwich_352146_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Sandwich_352146_1943_31680_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Sandwich_352146_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Sandwich_352146_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a9ce4b00f54eb3e39e0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Sandwich_352146_1943_31680_tn.jpg\"}"
+}

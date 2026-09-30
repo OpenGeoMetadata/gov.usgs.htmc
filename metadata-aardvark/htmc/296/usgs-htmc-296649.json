@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-296649",
+  "dct_title_s": "USGS 1:50000-scale Quadrangle for Chuckwalla Spring, CA 2002 (printed 2004)",
+  "dct_alternative_sm": [
+    "Chuckwalla Spring"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2002 edition of the Chuckwalla Spring, California, topographic map at 1:50,000 scale (15 x 15 minute series). Printed in 2004.",
+    "Variations: woodland tint. Sheet size: 22.7 x 29 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_dateRange_drsim": [
+    "[2002 TO 2004]"
+  ],
+  "dct_spatial_sm": [
+    "Imperial County, California",
+    "Riverside County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3858e4b00f54eb3dffd2",
+    "urn:uuid:d4fdf080-1266-f79a-8cce-c1d15a27d7b3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-115 33.25,-115 33.5,-115.25 33.5,-115.25 33.25,-115 33.25))",
+  "dcat_bbox": "ENVELOPE(-115.25, -115, 33.5, 33.25)",
+  "dcat_centroid": "33.375,-115.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-297100",
+    "usgs-htmc-297101",
+    "usgs-htmc-297102"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Chuckwalla%20Spring_296649_2002_50000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/50000/CA_Chuckwalla%20Spring_296649_2002_50000_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Chuckwalla%20Spring_296649_2002_50000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/50000/CA_Chuckwalla_Spring_296649_2002_50000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3858e4b00f54eb3dffd2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/50000/CA_Chuckwalla%20Spring_296649_2002_50000_tn.jpg\"}"
+}

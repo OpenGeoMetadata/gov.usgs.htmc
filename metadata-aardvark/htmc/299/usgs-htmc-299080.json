@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-299080",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Eagle Mountains, CA 1986",
+  "dct_alternative_sm": [
+    "Eagle Mountains"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1986 edition of the Eagle Mountains, California, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1973; last revised in 1986; printed in 1986.",
+    "Sheet size: 42.6 x 24.1 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Riverside County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4db2e4b00f54eb404613",
+    "urn:uuid:7881abbb-86e4-2f0c-e137-2dbc0def3c51"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-115 33.5,-115 34,-116 34,-116 33.5,-115 33.5))",
+  "dcat_bbox": "ENVELOPE(-116, -115, 34, 33.5)",
+  "dcat_centroid": "33.75,-115.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299079"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Eagle%20Mountains_299080_1986_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Eagle%20Mountains_299080_1986_100000_geo.pdf\",\"label\":\"GeoPDF (23.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Eagle%20Mountains_299080_1986_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/100000/CA_Eagle_Mountains_299080_1986_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4db2e4b00f54eb404613\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Eagle%20Mountains_299080_1986_100000_tn.jpg\"}"
+}

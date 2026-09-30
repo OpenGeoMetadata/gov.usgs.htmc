@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-505726",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for St Paul Park, MN 1967 (printed 1973)",
+  "dct_alternative_sm": [
+    "St Paul Park"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1967 edition of the St Paul Park, Minnesota, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1972; field checked in 1967; photo revised in 1972; printed in 1973.",
+    "Variations: woodland tint. Sheet size: 21.53 x 27.23 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "gbl_indexYear_im": [
+    1967
+  ],
+  "gbl_dateRange_drsim": [
+    "[1967 TO 1973]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Minnesota",
+    "Dakota County, Minnesota",
+    "Minnesota"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a481ee4b00f54eb3fad3e",
+    "urn:uuid:21e57821-54fe-e833-a6ee-963ab6eb3634"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.875 44.75,-92.875 44.875,-93 44.875,-93 44.75,-92.875 44.75))",
+  "dcat_bbox": "ENVELOPE(-93, -92.875, 44.875, 44.75)",
+  "dcat_centroid": "44.8125,-92.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-471551",
+    "usgs-htmc-505724",
+    "usgs-htmc-505725",
+    "usgs-htmc-505727",
+    "usgs-htmc-505728",
+    "usgs-htmc-805344",
+    "usgs-htmc-805882"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_St%20Paul%20Park_505726_1967_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_St%20Paul%20Park_505726_1967_24000_geo.pdf\",\"label\":\"GeoPDF (9.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_St%20Paul%20Park_505726_1967_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/24000/MN_St_Paul_Park_505726_1967_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a481ee4b00f54eb3fad3e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/24000/MN_St%20Paul%20Park_505726_1967_24000_tn.jpg\"}"
+}

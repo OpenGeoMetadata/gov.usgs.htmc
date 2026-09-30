@@ -1,0 +1,88 @@
+{
+  "id": "usgs-htmc-137803",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Cohoes, NY 1949",
+  "dct_alternative_sm": [
+    "Cohoes"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Cohoes, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey.",
+    "Variations: woodland tint. Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1949 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Rensselaer County, New York",
+    "Saratoga County, New York",
+    "Washington County, New York",
+    "Albany County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3322e4b00f54eb3d6698",
+    "urn:uuid:48ff4852-d5eb-18fd-aa33-a483f85aca91"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.5 42.75,-73.5 43,-73.75 43,-73.75 42.75,-73.5 42.75))",
+  "dcat_bbox": "ENVELOPE(-73.75, -73.5, 43, 42.75)",
+  "dcat_centroid": "42.875,-73.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-137799",
+    "usgs-htmc-137800",
+    "usgs-htmc-137802",
+    "usgs-htmc-137804",
+    "usgs-htmc-140533",
+    "usgs-htmc-140534",
+    "usgs-htmc-140535",
+    "usgs-htmc-140536",
+    "usgs-htmc-140537",
+    "usgs-htmc-140538",
+    "usgs-htmc-140539",
+    "usgs-htmc-140540",
+    "usgs-htmc-140541",
+    "usgs-htmc-140542",
+    "usgs-htmc-140543",
+    "usgs-htmc-140544"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Cohoes_137803_1949_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Cohoes_137803_1949_62500_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Cohoes_137803_1949_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Cohoes_137803_1949_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3322e4b00f54eb3d6698\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Cohoes_137803_1949_62500_tn.jpg\"}"
+}

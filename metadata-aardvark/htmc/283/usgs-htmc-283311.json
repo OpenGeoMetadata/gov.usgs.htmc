@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-283311",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Canyon City, OR 1955 (printed 1972)",
+  "dct_alternative_sm": [
+    "Canyon City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Canyon City, Oregon, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1953; field checked in 1955; last revised in 1970; printed in 1972.",
+    "Variations: woodland tint. Sheet size: 28.5 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1972]"
+  ],
+  "dct_spatial_sm": [
+    "Grant County, Oregon",
+    "Baker County, Oregon",
+    "Wheeler County, Oregon",
+    "Crook County, Oregon",
+    "Malheur County, Oregon",
+    "Harney County, Oregon",
+    "Union County, Oregon",
+    "Morrow County, Oregon",
+    "Umatilla County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5473e4b00f54eb411a20",
+    "urn:uuid:48c3bd1f-2348-6e17-9f92-d6ecbfa2c523"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 44,-118 45,-120 45,-120 44,-118 44))",
+  "dcat_bbox": "ENVELOPE(-120, -118, 45, 44)",
+  "dcat_centroid": "44.5,-119",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283308",
+    "usgs-htmc-283309",
+    "usgs-htmc-283310",
+    "usgs-htmc-283312",
+    "usgs-htmc-463261"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Canyon%20City_283311_1955_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Canyon%20City_283311_1955_250000_geo.pdf\",\"label\":\"GeoPDF (23.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Canyon%20City_283311_1955_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/250000/OR_Canyon_City_283311_1955_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5473e4b00f54eb411a20\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Canyon%20City_283311_1955_250000_tn.jpg\"}"
+}

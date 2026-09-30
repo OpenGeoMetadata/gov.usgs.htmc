@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-346404",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Garcon Point, FL 1970 (printed 1971)",
+  "dct_alternative_sm": [
+    "Garcon Point"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1970 edition of the Garcon Point, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1966; field checked in 1970; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 22.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_dateRange_drsim": [
+    "[1966 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Santa Rosa County, Florida",
+    "Escambia County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4116e4b00f54eb3ee80a",
+    "urn:uuid:1648118a-8d74-dd4a-1c1b-6d403726ccc7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87 30.375,-87 30.5,-87.125 30.5,-87.125 30.375,-87 30.375))",
+  "dcat_bbox": "ENVELOPE(-87.125, -87, 30.5, 30.375)",
+  "dcat_centroid": "30.4375,-87.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346401",
+    "usgs-htmc-346402",
+    "usgs-htmc-346403",
+    "usgs-htmc-346405",
+    "usgs-htmc-346406"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Garcon%20Point_346404_1970_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Garcon%20Point_346404_1970_24000_geo.pdf\",\"label\":\"GeoPDF (11.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Garcon%20Point_346404_1970_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_Garcon_Point_346404_1970_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4116e4b00f54eb3ee80a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_Garcon%20Point_346404_1970_24000_tn.jpg\"}"
+}

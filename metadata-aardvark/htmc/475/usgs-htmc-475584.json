@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-475584",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Punta Guayanes, PR 1960 (printed 1962)",
+  "dct_alternative_sm": [
+    "Punta Guayanes"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Punta Guayanes, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; aerial photographs from 1941; last revised in 1960; printed in 1962.",
+    "Variations: woodland tint. Sheet size: 29.27 x 32.62 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1962]"
+  ],
+  "dct_spatial_sm": [
+    "Yabucoa, Puerto Rico",
+    "Humacao, Puerto Rico",
+    "Maunabo, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/658f87dad34e3265ab14e523",
+    "urn:uuid:628a9e4b-5c43-d3fb-8952-35aa010c78f8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-65.75 18,-65.75 18.125,-65.875 18.125,-65.875 18,-65.75 18))",
+  "dcat_bbox": "ENVELOPE(-65.875, -65.75, 18.125, 18)",
+  "dcat_centroid": "18.0625,-65.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362212",
+    "usgs-htmc-362213",
+    "usgs-htmc-362214",
+    "usgs-htmc-362215",
+    "usgs-htmc-362216",
+    "usgs-htmc-362530",
+    "usgs-htmc-362531",
+    "usgs-htmc-362532",
+    "usgs-htmc-475585",
+    "usgs-htmc-475586"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2023-12-29T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Punta%20Guayanes_475584_1960_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Punta%20Guayanes_475584_1960_20000_geo.pdf\",\"label\":\"GeoPDF (13.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Punta%20Guayanes_475584_1960_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Punta_Guayanes_475584_1960_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/658f87dad34e3265ab14e523\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Punta%20Guayanes_475584_1960_20000_tn.jpg\"}"
+}

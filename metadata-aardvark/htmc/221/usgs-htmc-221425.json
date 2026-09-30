@@ -1,0 +1,96 @@
+{
+  "id": "usgs-htmc-221425",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Pittsburgh, PA 1954",
+  "dct_alternative_sm": [
+    "Pittsburgh"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Pittsburgh, Pennsylvania, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1941; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 30 x 22.7 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Indiana County, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Armstrong County, Pennsylvania",
+    "Clearfield County, Pennsylvania",
+    "Bedford County, Pennsylvania",
+    "Blair County, Pennsylvania",
+    "Somerset County, Pennsylvania",
+    "Huntingdon County, Pennsylvania",
+    "Butler County, Pennsylvania",
+    "Centre County, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Fulton County, Pennsylvania",
+    "Clarion County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2883e4b00f54eb3c556a",
+    "urn:uuid:2bb6e27e-896a-cc98-9197-e7e105348845"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78 40,-78 41,-80 41,-80 40,-78 40))",
+  "dcat_bbox": "ENVELOPE(-80, -78, 41, 40)",
+  "dcat_centroid": "40.5,-79",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-221426",
+    "usgs-htmc-221427",
+    "usgs-htmc-221428",
+    "usgs-htmc-221429",
+    "usgs-htmc-221430",
+    "usgs-htmc-221431",
+    "usgs-htmc-461956",
+    "usgs-htmc-461957",
+    "usgs-htmc-707521"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pittsburgh_221425_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/250000/PA_Pittsburgh_221425_1954_250000_geo.pdf\",\"label\":\"GeoPDF (19.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pittsburgh_221425_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/250000/PA_Pittsburgh_221425_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2883e4b00f54eb3c556a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/250000/PA_Pittsburgh_221425_1954_250000_tn.jpg\"}"
+}

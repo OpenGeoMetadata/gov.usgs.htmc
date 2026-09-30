@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-237261",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Moscow Mountain, ID 1960 (printed 1991)",
+  "dct_alternative_sm": [
+    "Moscow Mountain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Moscow Mountain, Idaho, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1982; field checked in 1960; photo inspected in 1975; photo revised in 1984; last revised in 1984; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1960 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Latah County, Idaho",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3900e4b00f54eb3e1229",
+    "urn:uuid:ba2cabf4-e34c-1a71-34c7-d4fc890dc5ed"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.75 46.75,-116.75 46.875,-116.875 46.875,-116.875 46.75,-116.75 46.75))",
+  "dcat_bbox": "ENVELOPE(-116.875, -116.75, 46.875, 46.75)",
+  "dcat_centroid": "46.8125,-116.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-237263",
+    "usgs-htmc-237264",
+    "usgs-htmc-237265",
+    "usgs-htmc-237266",
+    "usgs-htmc-237267"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Moscow%20Mountain_237261_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Moscow%20Mountain_237261_1960_24000_geo.pdf\",\"label\":\"GeoPDF (17.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Moscow%20Mountain_237261_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ID/24000/ID_Moscow_Mountain_237261_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3900e4b00f54eb3e1229\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Moscow%20Mountain_237261_1960_24000_tn.jpg\"}"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-463566",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Bettles, AK 1951 (printed 1952)",
+  "dct_alternative_sm": [
+    "Bettles"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Bettles, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey and the U.S. military. Printed in 1952.",
+    "Sheet size: 30.41 x 23.13 inches. Printed projection: Universal Transverse Mercator; horizontal datum: Astronomical. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5b939e9fe4b0702d0e82537b",
+    "urn:uuid:efde6dbd-4d2e-f2b7-0e5e-a5447b28921a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-150 66,-150 67,-153 67,-153 66,-150 66))",
+  "dcat_bbox": "ENVELOPE(-153, -150, 67, 66)",
+  "dcat_centroid": "66.5,-151.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360648",
+    "usgs-htmc-360649",
+    "usgs-htmc-360650",
+    "usgs-htmc-360651",
+    "usgs-htmc-360652",
+    "usgs-htmc-360653",
+    "usgs-htmc-360655",
+    "usgs-htmc-360656",
+    "usgs-htmc-360657",
+    "usgs-htmc-360658"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Bettles_463566_1951_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Bettles_463566_1951_250000_geo.pdf\",\"label\":\"GeoPDF (25.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Bettles_463566_1951_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Bettles_463566_1951_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5b939e9fe4b0702d0e82537b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Bettles_463566_1951_250000_tn.jpg\"}"
+}

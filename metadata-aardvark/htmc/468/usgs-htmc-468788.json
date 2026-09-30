@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-468788",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Coal City, IN 1948",
+  "dct_alternative_sm": [
+    "Coal City"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Coal City, Indiana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1938.",
+    "Sheet size: 21.93 x 26.77 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Owen County, Indiana",
+    "Clay County, Indiana",
+    "Greene County, Indiana",
+    "Indiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5db06dd5e4b0b0c58b56c2f8",
+    "urn:uuid:54200feb-f84a-7a95-1844-f1b5eef7bd5d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87 39.125,-87 39.25,-87.125 39.25,-87.125 39.125,-87 39.125))",
+  "dcat_bbox": "ENVELOPE(-87.125, -87, 39.25, 39.125)",
+  "dcat_centroid": "39.1875,-87.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-156772",
+    "usgs-htmc-159648",
+    "usgs-htmc-159649",
+    "usgs-htmc-159650",
+    "usgs-htmc-159651",
+    "usgs-htmc-159652",
+    "usgs-htmc-159653"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Coal%20City_468788_1948_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_Coal%20City_468788_1948_24000_geo.pdf\",\"label\":\"GeoPDF (9.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IN/IN_Coal%20City_468788_1948_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IN/24000/IN_Coal_City_468788_1948_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5db06dd5e4b0b0c58b56c2f8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IN/24000/IN_Coal%20City_468788_1948_24000_tn.jpg\"}"
+}

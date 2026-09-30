@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-336771",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Forest, MS 1921",
+  "dct_alternative_sm": [
+    "Forest"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1921 edition of the Forest, Mississippi, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1920.",
+    "Release: Advance. Sheet size: 22.6 x 27.6 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1921",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    1921
+  ],
+  "gbl_dateRange_drsim": [
+    "[1920 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Mississippi",
+    "Newton County, Mississippi",
+    "Mississippi"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f67e4b00f54eb4079dd",
+    "urn:uuid:35d011fc-51ae-f7f5-fbe0-eff15dcc3fb6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.25 32.25,-89.25 32.5,-89.5 32.5,-89.5 32.25,-89.25 32.25))",
+  "dcat_bbox": "ENVELOPE(-89.5, -89.25, 32.5, 32.25)",
+  "dcat_centroid": "32.375,-89.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-336905",
+    "usgs-htmc-336907",
+    "usgs-htmc-336908",
+    "usgs-htmc-336909",
+    "usgs-htmc-336910",
+    "usgs-htmc-470736"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Forest_336771_1921_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/48000/MS_Forest_336771_1921_48000_geo.pdf\",\"label\":\"GeoPDF (13.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Forest_336771_1921_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/48000/MS_Forest_336771_1921_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f67e4b00f54eb4079dd\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/48000/MS_Forest_336771_1921_48000_tn.jpg\"}"
+}

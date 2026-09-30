@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-242905",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Ohanapecosh Hot Springs, WA 1998 (printed 2003)",
+  "dct_alternative_sm": [
+    "Ohanapecosh Hot Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1998 edition of the Ohanapecosh Hot Springs, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Forest Service. Aerial photographs from 1998; last revised in 1998; printed in 2003.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1998
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2003]"
+  ],
+  "dct_spatial_sm": [
+    "Lewis County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2eb7e4b00f54eb3cf7ee",
+    "urn:uuid:cab98e1b-59e4-65d7-80ba-e0152bdd506d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.5 46.625,-121.5 46.75,-121.625 46.75,-121.625 46.625,-121.5 46.625))",
+  "dcat_bbox": "ENVELOPE(-121.625, -121.5, 46.75, 46.625)",
+  "dcat_centroid": "46.6875,-121.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-242904"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Ohanapecosh%20Hot%20Springs_242905_1998_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Ohanapecosh%20Hot%20Springs_242905_1998_24000_geo.pdf\",\"label\":\"GeoPDF (18.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Ohanapecosh%20Hot%20Springs_242905_1998_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Ohanapecosh_Hot_Springs_242905_1998_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2eb7e4b00f54eb3cf7ee\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Ohanapecosh%20Hot%20Springs_242905_1998_24000_tn.jpg\"}"
+}

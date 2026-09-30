@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-223876",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Oakdale, PA 1960 (printed 1990)",
+  "dct_alternative_sm": [
+    "Oakdale"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Oakdale, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1988; field checked in 1953; photo revised in 1990; last revised in 1990; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a343ae4b00f54eb3d8dd6",
+    "urn:uuid:8e2467a2-c891-3f19-e49f-d23c551c5fd7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.125 40.375,-80.125 40.5,-80.25 40.5,-80.25 40.375,-80.125 40.375))",
+  "dcat_bbox": "ENVELOPE(-80.25, -80.125, 40.5, 40.375)",
+  "dcat_centroid": "40.4375,-80.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-171530",
+    "usgs-htmc-171531",
+    "usgs-htmc-171532",
+    "usgs-htmc-171533",
+    "usgs-htmc-171535",
+    "usgs-htmc-223877",
+    "usgs-htmc-223879",
+    "usgs-htmc-461924"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Oakdale_223876_1960_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Oakdale_223876_1960_24000_geo.pdf\",\"label\":\"GeoPDF (15.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Oakdale_223876_1960_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Oakdale_223876_1960_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a343ae4b00f54eb3d8dd6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Oakdale_223876_1960_24000_tn.jpg\"}"
+}

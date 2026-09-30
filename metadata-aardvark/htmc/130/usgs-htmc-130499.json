@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-130499",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mc Keever, NY 1912 (printed 1937)",
+  "dct_alternative_sm": [
+    "Mc Keever"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1912 edition of the Mc Keever, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1910; printed in 1937.",
+    "Sheet size: 16.6 x 20.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "gbl_indexYear_im": [
+    1912
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "Herkimer County, New York",
+    "Lewis County, New York",
+    "Oneida County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33dce4b00f54eb3d80be",
+    "urn:uuid:73b95e50-5164-8608-15f4-14fe90d3e2e5"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75 43.5,-75 43.75,-75.25 43.75,-75.25 43.5,-75 43.5))",
+  "dcat_bbox": "ENVELOPE(-75.25, -75, 43.75, 43.5)",
+  "dcat_centroid": "43.625,-75.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130500",
+    "usgs-htmc-130503",
+    "usgs-htmc-130504",
+    "usgs-htmc-130505",
+    "usgs-htmc-130507",
+    "usgs-htmc-130508",
+    "usgs-htmc-144072",
+    "usgs-htmc-144074",
+    "usgs-htmc-144076",
+    "usgs-htmc-144077",
+    "usgs-htmc-144169"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Mc%20Keever_130499_1912_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Mc%20Keever_130499_1912_62500_geo.pdf\",\"label\":\"GeoPDF (8.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Mc%20Keever_130499_1912_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Mc_Keever_130499_1912_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33dce4b00f54eb3d80be\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Mc%20Keever_130499_1912_62500_tn.jpg\"}"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-243692",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Sherman Peak, WA 1948 (printed 1976)",
+  "dct_alternative_sm": [
+    "Sherman Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Sherman Peak, Washington, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Forest Service. Aerial photographs from 1944; field checked in 1948; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 17.1 x 22 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Ferry County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3cffe4b00f54eb3e7e3e",
+    "urn:uuid:c6515717-49f0-3cfd-540f-23bcef7732ab"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.25 48.5,-118.25 48.75,-118.5 48.75,-118.5 48.5,-118.25 48.5))",
+  "dcat_bbox": "ENVELOPE(-118.5, -118.25, 48.75, 48.5)",
+  "dcat_centroid": "48.625,-118.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-243693",
+    "usgs-htmc-243694",
+    "usgs-htmc-243695"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Sherman%20Peak_243692_1948_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Sherman%20Peak_243692_1948_62500_geo.pdf\",\"label\":\"GeoPDF (12.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Sherman%20Peak_243692_1948_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/62500/WA_Sherman_Peak_243692_1948_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3cffe4b00f54eb3e7e3e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/62500/WA_Sherman%20Peak_243692_1948_62500_tn.jpg\"}"
+}

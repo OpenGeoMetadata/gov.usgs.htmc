@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-302835",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Crows Landing, CA 1952 (printed 1981)",
+  "dct_alternative_sm": [
+    "Crows Landing"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Crows Landing, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1978; field checked in 1952; photo revised in 1980; last revised in 1980; printed in 1981.",
+    "Variations: planimetric. Sheet size: 22.2 x 27.1 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1981]"
+  ],
+  "dct_spatial_sm": [
+    "Stanislaus County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2c0fe4b00f54eb3cb387",
+    "urn:uuid:3579340a-3681-f758-109d-f208d41b7882"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121 37.375,-121 37.5,-121.125 37.5,-121.125 37.375,-121 37.375))",
+  "dcat_bbox": "ENVELOPE(-121.125, -121, 37.5, 37.375)",
+  "dcat_centroid": "37.4375,-121.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100406",
+    "usgs-htmc-289657",
+    "usgs-htmc-289658",
+    "usgs-htmc-289659",
+    "usgs-htmc-296030",
+    "usgs-htmc-296031",
+    "usgs-htmc-302834",
+    "usgs-htmc-465539"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crows%20Landing_302835_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Crows%20Landing_302835_1952_24000_geo.pdf\",\"label\":\"GeoPDF (6.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Crows%20Landing_302835_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Crows_Landing_302835_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2c0fe4b00f54eb3cb387\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Crows%20Landing_302835_1952_24000_tn.jpg\"}"
+}

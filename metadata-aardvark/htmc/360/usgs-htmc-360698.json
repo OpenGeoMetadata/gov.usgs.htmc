@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-360698",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Blying Sound, AK 1953 (printed 1982)",
+  "dct_alternative_sm": [
+    "Blying Sound"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Blying Sound, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series). Aerial photographs from 1978; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 30.4 x 23 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Kenai Peninsula, Alaska",
+    "Valdez-Cordova Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3a01e4b00f54eb3e29a9",
+    "urn:uuid:2d39738a-63cd-2b7e-fb72-7e6fbb37515c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-147 59,-147 60,-150 60,-150 59,-147 59))",
+  "dcat_bbox": "ENVELOPE(-150, -147, 60, 59)",
+  "dcat_centroid": "59.5,-148.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360689",
+    "usgs-htmc-360690",
+    "usgs-htmc-360691",
+    "usgs-htmc-360692",
+    "usgs-htmc-360693",
+    "usgs-htmc-360694",
+    "usgs-htmc-360695",
+    "usgs-htmc-360696",
+    "usgs-htmc-360697"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Blying%20Sound_360698_1953_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Blying%20Sound_360698_1953_250000_geo.pdf\",\"label\":\"GeoPDF (42.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Blying%20Sound_360698_1953_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Blying_Sound_360698_1953_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3a01e4b00f54eb3e29a9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Blying%20Sound_360698_1953_250000_tn.jpg\"}"
+}

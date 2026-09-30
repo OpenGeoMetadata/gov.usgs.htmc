@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-257769",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Cumberland, MD 1948 (printed 1950)",
+  "dct_alternative_sm": [
+    "Cumberland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Cumberland, Maryland, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1944; printed in 1950.",
+    "Variations: shaded relief. Sheet size: 33 x 24 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland",
+    "West Virginia",
+    "Pennsylvania",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a280fe4b00f54eb3c4be7",
+    "urn:uuid:897ef0cc-9585-7e39-8689-ccfa4c0c3d39"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78 39,-78 40,-80 40,-80 39,-78 39))",
+  "dcat_bbox": "ENVELOPE(-80, -78, 40, 39)",
+  "dcat_centroid": "39.5,-79",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-257770",
+    "usgs-htmc-257771",
+    "usgs-htmc-257773",
+    "usgs-htmc-257775",
+    "usgs-htmc-257776",
+    "usgs-htmc-461421",
+    "usgs-htmc-461423",
+    "usgs-htmc-461424",
+    "usgs-htmc-461425",
+    "usgs-htmc-461426",
+    "usgs-htmc-461592",
+    "usgs-htmc-707295"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Cumberland_257769_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/250000/MD_Cumberland_257769_1948_250000_geo.pdf\",\"label\":\"GeoPDF (24.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MD/MD_Cumberland_257769_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MD/250000/MD_Cumberland_257769_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a280fe4b00f54eb3c4be7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MD/250000/MD_Cumberland_257769_1948_250000_tn.jpg\"}"
+}

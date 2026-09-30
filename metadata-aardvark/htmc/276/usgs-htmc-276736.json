@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-276736",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Mt Clemens East, MI 1968 (printed 1984)",
+  "dct_alternative_sm": [
+    "Mt Clemens East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Mt Clemens East, Michigan, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1952; aerial photographs from 1982; field checked in 1968; photo revised in 1983; last revised in 1983; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Macomb County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a472ee4b00f54eb3f8de1",
+    "urn:uuid:c5f2a7ef-84db-6fb9-cd89-0887486b3ba6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.75 42.5,-82.75 42.625,-82.875 42.625,-82.875 42.5,-82.75 42.5))",
+  "dcat_bbox": "ENVELOPE(-82.875, -82.75, 42.625, 42.5)",
+  "dcat_centroid": "42.5625,-82.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-276733",
+    "usgs-htmc-276734",
+    "usgs-htmc-276735",
+    "usgs-htmc-277907",
+    "usgs-htmc-470917",
+    "usgs-htmc-470918"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Mt%20Clemens%20East_276736_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Mt%20Clemens%20East_276736_1968_24000_geo.pdf\",\"label\":\"GeoPDF (19.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Mt%20Clemens%20East_276736_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/24000/MI_Mt_Clemens_East_276736_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a472ee4b00f54eb3f8de1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Mt%20Clemens%20East_276736_1968_24000_tn.jpg\"}"
+}

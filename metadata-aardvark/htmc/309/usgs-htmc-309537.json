@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-309537",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Hannibal, IL 1932",
+  "dct_alternative_sm": [
+    "Hannibal"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1932 edition of the Hannibal, Illinois, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1928.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1932",
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "gbl_indexYear_im": [
+    1932
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1932]"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2388e4b00f54eb3bdc3b",
+    "urn:uuid:25392c5b-8803-9fd1-7d8b-c60c60a40dfb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-91.25 39.5,-91.25 39.75,-91.5 39.75,-91.5 39.5,-91.25 39.5))",
+  "dcat_bbox": "ENVELOPE(-91.5, -91.25, 39.75, 39.5)",
+  "dcat_centroid": "39.625,-91.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-324640",
+    "usgs-htmc-324948",
+    "usgs-htmc-324950",
+    "usgs-htmc-324951",
+    "usgs-htmc-324952",
+    "usgs-htmc-468473",
+    "usgs-htmc-507253"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/IL_Hannibal_309537_1932_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Hannibal_309537_1932_62500_geo.pdf\",\"label\":\"GeoPDF (4.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/IL_Hannibal_309537_1932_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/62500/IL_Hannibal_309537_1932_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2388e4b00f54eb3bdc3b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/62500/IL_Hannibal_309537_1932_62500_tn.jpg\"}"
+}

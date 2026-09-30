@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-249743",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Hayden Peak, UT 1903 (printed 1923)",
+  "dct_alternative_sm": [
+    "Hayden Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Hayden Peak, Utah, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1901; printed in 1923.",
+    "Sheet size: 16 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1923]"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a44b0e4b00f54eb3f4d4e",
+    "urn:uuid:3f9428fa-1c23-dc3c-b9c4-a6d3fb2fd7f3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.5 40.5,-110.5 41,-111 41,-111 40.5,-110.5 40.5))",
+  "dcat_bbox": "ENVELOPE(-111, -110.5, 41, 40.5)",
+  "dcat_centroid": "40.75,-110.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-249739",
+    "usgs-htmc-249740",
+    "usgs-htmc-249741",
+    "usgs-htmc-249742",
+    "usgs-htmc-249744",
+    "usgs-htmc-249745",
+    "usgs-htmc-249748"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Hayden%20Peak_249743_1903_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/125000/UT_Hayden%20Peak_249743_1903_125000_geo.pdf\",\"label\":\"GeoPDF (10.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Hayden%20Peak_249743_1903_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/125000/UT_Hayden_Peak_249743_1903_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a44b0e4b00f54eb3f4d4e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/125000/UT_Hayden%20Peak_249743_1903_125000_tn.jpg\"}"
+}

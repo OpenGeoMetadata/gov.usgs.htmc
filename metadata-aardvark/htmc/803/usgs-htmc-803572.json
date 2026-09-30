@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-803572",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Greenup, KY 1930 (printed 1940)",
+  "dct_alternative_sm": [
+    "Greenup"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1930 edition of the Greenup, Kentucky, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1926; printed in 1940.",
+    "Sheet size: 16.7 x 20.3 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1930",
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "gbl_indexYear_im": [
+    1930
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Ohio"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ebbe4b00f54eb406601",
+    "urn:uuid:93fc522b-2bed-54e2-912b-e31f7abdfc8b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.75 38.5,-82.75 38.75,-83 38.75,-83 38.5,-82.75 38.5))",
+  "dcat_bbox": "ENVELOPE(-83, -82.75, 38.75, 38.5)",
+  "dcat_centroid": "38.625,-82.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-708778",
+    "usgs-htmc-803570",
+    "usgs-htmc-803571",
+    "usgs-htmc-804178",
+    "usgs-htmc-804179"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Greenup_803572_1930_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Greenup_803572_1930_62500_geo.pdf\",\"label\":\"GeoPDF (8.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Greenup_803572_1930_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/62500/KY_Greenup_803572_1930_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ebbe4b00f54eb406601\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/62500/KY_Greenup_803572_1930_62500_tn.jpg\"}"
+}

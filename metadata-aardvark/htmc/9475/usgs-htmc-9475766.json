@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-9475766",
+  "dct_title_s": "USGS 1:21120-scale Quadrangle for Kiawah Island, SC 1918",
+  "dct_alternative_sm": [
+    "Kiawah Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1918 edition of the Kiawah Island, South Carolina, topographic map at 1:21,120 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1918.",
+    "Sheet size: 23.11 x 29.07 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1918",
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "gbl_indexYear_im": [
+    1918
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1918]"
+  ],
+  "dct_spatial_sm": [
+    "Charleston County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65efb7a0d34e140332983ca1",
+    "urn:uuid:9d49b6aa-70d6-2a75-c548-cd63b427536d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 32.5,-80 32.625,-80.125 32.625,-80.125 32.5,-80 32.5))",
+  "dcat_bbox": "ENVELOPE(-80.125, -80, 32.625, 32.5)",
+  "dcat_centroid": "32.5625,-80.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260679",
+    "usgs-htmc-261183",
+    "usgs-htmc-261184",
+    "usgs-htmc-261185",
+    "usgs-htmc-261186",
+    "usgs-htmc-261187"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-03-11T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Kiawah%20Island_9475766_1918_21120_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_Kiawah%20Island_9475766_1918_21120_geo.pdf\",\"label\":\"GeoPDF (2.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Kiawah%20Island_9475766_1918_21120_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/21120/SC_Kiawah_Island_9475766_1918_21120_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65efb7a0d34e140332983ca1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_Kiawah%20Island_9475766_1918_21120_tn.jpg\"}"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-252107",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Stinking Spring Creek 2 SE, UT 1953",
+  "dct_alternative_sm": [
+    "Stinking Spring Creek 2 SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Stinking Spring Creek 2 SE, Utah, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1951.",
+    "Release: Preliminary. Sheet size: 21.9 x 26.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1953]"
+  ],
+  "dct_spatial_sm": [
+    "Emery County, Utah",
+    "Utah"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a570fe4b00f54eb4140b7",
+    "urn:uuid:d07e30a3-d33a-0dfa-b935-7816160b9361"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110.75 38.75,-110.75 38.875,-110.875 38.875,-110.875 38.75,-110.75 38.75))",
+  "dcat_bbox": "ENVELOPE(-110.875, -110.75, 38.875, 38.75)",
+  "dcat_centroid": "38.8125,-110.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-251716",
+    "usgs-htmc-251717"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Stinking%20Spring%20Creek%202%20SE_252107_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Stinking%20Spring%20Creek%202%20SE_252107_1953_24000_geo.pdf\",\"label\":\"GeoPDF (13.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Stinking%20Spring%20Creek%202%20SE_252107_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/24000/UT_Stinking_Spring_Creek_2_SE_252107_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a570fe4b00f54eb4140b7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/24000/UT_Stinking%20Spring%20Creek%202%20SE_252107_1953_24000_tn.jpg\"}"
+}

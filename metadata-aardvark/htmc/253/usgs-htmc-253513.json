@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-253513",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Fayetteville, WV 1910 (printed 1921)",
+  "dct_alternative_sm": [
+    "Fayetteville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Fayetteville, West Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1908; printed in 1921.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Fayette County, West Virginia",
+    "Nicholas County, West Virginia",
+    "Kanawha County, West Virginia",
+    "West Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a26f1e4b00f54eb3c2ff7",
+    "urn:uuid:ead9ac3b-4d81-cc6e-1443-0717a0500950"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81 38,-81 38.25,-81.25 38.25,-81.25 38,-81 38))",
+  "dcat_bbox": "ENVELOPE(-81.25, -81, 38.25, 38)",
+  "dcat_centroid": "38.125,-81.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253221",
+    "usgs-htmc-253511",
+    "usgs-htmc-253512",
+    "usgs-htmc-253514",
+    "usgs-htmc-253515",
+    "usgs-htmc-253516",
+    "usgs-htmc-253517",
+    "usgs-htmc-253518",
+    "usgs-htmc-253519",
+    "usgs-htmc-253520",
+    "usgs-htmc-253521"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Fayetteville_253513_1910_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Fayetteville_253513_1910_62500_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Fayetteville_253513_1910_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/62500/WV_Fayetteville_253513_1910_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a26f1e4b00f54eb3c2ff7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Fayetteville_253513_1910_62500_tn.jpg\"}"
+}

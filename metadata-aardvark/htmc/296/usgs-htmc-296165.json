@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-296165",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Holt, CA 1913",
+  "dct_alternative_sm": [
+    "Holt"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1913 edition of the Holt, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1911.",
+    "Variations: woodland tint. Sheet size: 16.4 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "gbl_indexYear_im": [
+    1913
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1913]"
+  ],
+  "dct_spatial_sm": [
+    "San Joaquin County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5196e4b00f54eb40c099",
+    "urn:uuid:ce54e608-f9e2-cfd6-c086-6050277b471c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.375 37.875,-121.375 38,-121.5 38,-121.5 37.875,-121.375 37.875))",
+  "dcat_bbox": "ENVELOPE(-121.5, -121.375, 38, 37.875)",
+  "dcat_centroid": "37.9375,-121.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-100760",
+    "usgs-htmc-291378",
+    "usgs-htmc-291380",
+    "usgs-htmc-291381",
+    "usgs-htmc-291382",
+    "usgs-htmc-291383",
+    "usgs-htmc-296166"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Holt_296165_1913_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Holt_296165_1913_31680_geo.pdf\",\"label\":\"GeoPDF (5.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Holt_296165_1913_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Holt_296165_1913_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5196e4b00f54eb40c099\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Holt_296165_1913_31680_tn.jpg\"}"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-463336",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Eugene, OR 1992",
+  "dct_alternative_sm": [
+    "Eugene"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1992 edition of the Eugene, Oregon, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey and the Bureau of Land Management. Aerial photographs from 1975; last revised in 1980; printed in 1992.",
+    "Sheet size: 40.34 x 26.95 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Land Management"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Bureau of Land Management"
+  ],
+  "dct_issued_s": "1992",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "gbl_indexYear_im": [
+    1992
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1992]"
+  ],
+  "dct_spatial_sm": [
+    "Lane County, Oregon",
+    "Benton County, Oregon",
+    "Lincoln County, Oregon",
+    "Linn County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5b4dc170e4b06a6dd17defa9",
+    "urn:uuid:2161b788-733d-cf06-a1b9-81b6fe8b628d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-123 44,-123 44.5,-124 44.5,-124 44,-123 44))",
+  "dcat_bbox": "ENVELOPE(-124, -123, 44.5, 44)",
+  "dcat_centroid": "44.25,-123.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283075"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Eugene_463336_1992_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/100000/OR_Eugene_463336_1992_100000_geo.pdf\",\"label\":\"GeoPDF (36.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Eugene_463336_1992_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/100000/OR_Eugene_463336_1992_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5b4dc170e4b06a6dd17defa9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/100000/OR_Eugene_463336_1992_100000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-252549",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Uinta, UT 1885 (printed 1927)",
+  "dct_alternative_sm": [
+    "Uinta"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1885 edition of the Uinta, Utah, topographic map at 1:250,000 scale (1 x 1 degree series), published by the U.S. Geological Survey. Printed in 1927.",
+    "Sheet size: 16.54 x 20 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1885",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "gbl_indexYear_im": [
+    1885
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1927]"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Wyoming"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2358e4b00f54eb3bd8b8",
+    "urn:uuid:a561636a-8ca3-6bc1-1a01-6e81baa30967"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110 40,-110 41,-111 41,-111 40,-110 40))",
+  "dcat_bbox": "ENVELOPE(-111, -110, 41, 40)",
+  "dcat_centroid": "40.5,-110.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-252544",
+    "usgs-htmc-252545",
+    "usgs-htmc-252546",
+    "usgs-htmc-252547",
+    "usgs-htmc-252548"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Uinta_252549_1885_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/250000/UT_Uinta_252549_1885_250000_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/UT/UT_Uinta_252549_1885_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/UT/250000/UT_Uinta_252549_1885_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2358e4b00f54eb3bd8b8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/UT/250000/UT_Uinta_252549_1885_250000_tn.jpg\"}"
+}

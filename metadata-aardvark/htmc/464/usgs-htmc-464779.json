@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-464779",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Mesa, AZ 1957",
+  "dct_alternative_sm": [
+    "Mesa"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Mesa, Arizona, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Aerial photographs from 1953; field checked in 1954; printed in 1957.",
+    "Variations: woodland tint. Sheet size: 34.34 x 24.13 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Maricopa County, Arizona",
+    "Gila County, Arizona",
+    "Pinal County, Arizona",
+    "Graham County, Arizona",
+    "Navajo County, Arizona",
+    "Yavapai County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c8119abe4b0938824476120",
+    "urn:uuid:209beff5-f960-0c94-7f7c-45c67d23b71b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-110 33,-110 34,-112 34,-112 33,-110 33))",
+  "dcat_bbox": "ENVELOPE(-112, -110, 34, 33)",
+  "dcat_centroid": "33.5,-111",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315544",
+    "usgs-htmc-315545",
+    "usgs-htmc-315546",
+    "usgs-htmc-315547",
+    "usgs-htmc-315548",
+    "usgs-htmc-315549",
+    "usgs-htmc-315550"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Mesa_464779_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Mesa_464779_1957_250000_geo.pdf\",\"label\":\"GeoPDF (23.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Mesa_464779_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/250000/AZ_Mesa_464779_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c8119abe4b0938824476120\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/250000/AZ_Mesa_464779_1957_250000_tn.jpg\"}"
+}

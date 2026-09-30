@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-348063",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Pensacola, FL 1957 (printed 1979)",
+  "dct_alternative_sm": [
+    "Pensacola"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Pensacola, Florida, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. military. Aerial photographs from 1955; field checked in 1957; last revised in 1970; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 34 x 21.9 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a42bee4b00f54eb3f15f1",
+    "urn:uuid:a6501bd6-3926-77d7-31b2-d25688992e72"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86 30,-86 31,-88 31,-88 30,-86 30))",
+  "dcat_bbox": "ENVELOPE(-88, -86, 31, 30)",
+  "dcat_centroid": "30.5,-87",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-348062",
+    "usgs-htmc-348064",
+    "usgs-htmc-348066",
+    "usgs-htmc-467489"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Pensacola_348063_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/250000/FL_Pensacola_348063_1957_250000_geo.pdf\",\"label\":\"GeoPDF (21.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Pensacola_348063_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/250000/FL_Pensacola_348063_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a42bee4b00f54eb3f15f1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/250000/FL_Pensacola_348063_1957_250000_tn.jpg\"}"
+}

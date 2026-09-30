@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-282181",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Lebanon, OR 1911",
+  "dct_alternative_sm": [
+    "Lebanon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1911 edition of the Lebanon, Oregon, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1911.",
+    "Release: Advance. Sheet size: 15.5 x 21.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1911",
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    1911
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Linn County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a470be4b00f54eb3f8a33",
+    "urn:uuid:e404e6fb-ce56-192f-27d5-dfb692652cde"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.875 44.5,-122.875 44.625,-123 44.625,-123 44.5,-122.875 44.5))",
+  "dcat_bbox": "ENVELOPE(-123, -122.875, 44.625, 44.5)",
+  "dcat_centroid": "44.5625,-122.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-280491",
+    "usgs-htmc-280492",
+    "usgs-htmc-280493",
+    "usgs-htmc-280494"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Lebanon_282181_1911_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/31680/OR_Lebanon_282181_1911_31680_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Lebanon_282181_1911_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/31680/OR_Lebanon_282181_1911_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a470be4b00f54eb3f8a33\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/31680/OR_Lebanon_282181_1911_31680_tn.jpg\"}"
+}

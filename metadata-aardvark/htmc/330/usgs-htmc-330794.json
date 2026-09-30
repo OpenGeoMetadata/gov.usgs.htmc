@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-330794",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Windsor Locks, CT 1928",
+  "dct_alternative_sm": [
+    "Windsor Locks"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1928 edition of the Windsor Locks, Connecticut, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1928.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 20.8 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Hartford County, Connecticut",
+    "Connecticut"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50cde4b00f54eb40a829",
+    "urn:uuid:b35616aa-00a1-fa9a-d655-f39e744f51f0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.625 41.875,-72.625 42,-72.75 42,-72.75 41.875,-72.625 41.875))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.625, 42, 41.875)",
+  "dcat_centroid": "41.9375,-72.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-104845",
+    "usgs-htmc-461102",
+    "usgs-htmc-461103",
+    "usgs-htmc-461104",
+    "usgs-htmc-461105",
+    "usgs-htmc-461107",
+    "usgs-htmc-461108",
+    "usgs-htmc-461109"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Windsor%20Locks_330794_1928_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Windsor%20Locks_330794_1928_24000_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CT/CT_Windsor%20Locks_330794_1928_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CT/24000/CT_Windsor_Locks_330794_1928_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50cde4b00f54eb40a829\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CT/24000/CT_Windsor%20Locks_330794_1928_24000_tn.jpg\"}"
+}

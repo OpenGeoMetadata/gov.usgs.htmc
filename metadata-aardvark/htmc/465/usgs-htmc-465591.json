@@ -1,0 +1,87 @@
+{
+  "id": "usgs-htmc-465591",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for El Toro, CA 1935 (printed 1942)",
+  "dct_alternative_sm": [
+    "El Toro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1935 edition of the El Toro, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1932; printed in 1942.",
+    "Sheet size: 17.12 x 22.03 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1935",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "gbl_indexYear_im": [
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1942]"
+  ],
+  "dct_spatial_sm": [
+    "Orange County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d1495f9e4b0941bde5b709a",
+    "urn:uuid:a57b571c-b117-2baf-a0bb-90c9cec88bc6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-117.625 33.625,-117.625 33.75,-117.75 33.75,-117.75 33.625,-117.625 33.625))",
+  "dcat_bbox": "ENVELOPE(-117.75, -117.625, 33.75, 33.625)",
+  "dcat_centroid": "33.6875,-117.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-290281",
+    "usgs-htmc-290282",
+    "usgs-htmc-290283",
+    "usgs-htmc-290284",
+    "usgs-htmc-290285",
+    "usgs-htmc-290286",
+    "usgs-htmc-290287",
+    "usgs-htmc-290288",
+    "usgs-htmc-296073",
+    "usgs-htmc-296074",
+    "usgs-htmc-296075",
+    "usgs-htmc-303022",
+    "usgs-htmc-303023",
+    "usgs-htmc-303024",
+    "usgs-htmc-303025",
+    "usgs-htmc-303026",
+    "usgs-htmc-303027",
+    "usgs-htmc-303028"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Toro_465591_1935_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_El%20Toro_465591_1935_31680_geo.pdf\",\"label\":\"GeoPDF (5.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_El%20Toro_465591_1935_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_El_Toro_465591_1935_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d1495f9e4b0941bde5b709a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_El%20Toro_465591_1935_31680_tn.jpg\"}"
+}

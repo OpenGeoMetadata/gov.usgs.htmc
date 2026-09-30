@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-353975",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Anchorage B-7, AK 1960 (printed 1963)",
+  "dct_alternative_sm": [
+    "Anchorage B-7"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Anchorage B-7, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1957; last revised in 1962; printed in 1963.",
+    "Variations: woodland tint. Sheet size: 17.1 x 20.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1957 TO 1963]"
+  ],
+  "dct_spatial_sm": [
+    "Anchorage, Alaska",
+    "Matanuska-Susitna, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f8be4b00f54eb407eff",
+    "urn:uuid:0a45c3f7-14c7-3db2-5c69-a25cc3e19053"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-149.25 61.25,-149.25 61.5,-149.625 61.5,-149.625 61.25,-149.25 61.25))",
+  "dcat_bbox": "ENVELOPE(-149.625, -149.25, 61.5, 61.25)",
+  "dcat_centroid": "61.375,-149.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353974",
+    "usgs-htmc-353976",
+    "usgs-htmc-353977",
+    "usgs-htmc-361731"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Anchorage%20B-7_353975_1960_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Anchorage%20B-7_353975_1960_63360_geo.pdf\",\"label\":\"GeoPDF (13.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Anchorage%20B-7_353975_1960_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Anchorage_B7_353975_1960_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f8be4b00f54eb407eff\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Anchorage%20B-7_353975_1960_63360_tn.jpg\"}"
+}

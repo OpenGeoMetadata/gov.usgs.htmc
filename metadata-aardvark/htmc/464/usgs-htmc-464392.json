@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-464392",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Gadsden, AL 1960",
+  "dct_alternative_sm": [
+    "Gadsden"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1960 edition of the Gadsden, Alabama, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Field checked in 1956; printed in 1960.",
+    "Sheet size: 32.1 x 22.17 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1960",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "gbl_indexYear_im": [
+    1960
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1960]"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c13df1ee4b006c4f853691c",
+    "urn:uuid:162217d6-c1d1-584c-5af2-62ca42f6eb03"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86 34,-86 35,-88 35,-88 34,-86 34))",
+  "dcat_bbox": "ENVELOPE(-88, -86, 35, 34)",
+  "dcat_centroid": "34.5,-87",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-305915",
+    "usgs-htmc-305916",
+    "usgs-htmc-305917",
+    "usgs-htmc-305918",
+    "usgs-htmc-305919",
+    "usgs-htmc-464391"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Gadsden_464392_1960_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/250000/AL_Gadsden_464392_1960_250000_geo.pdf\",\"label\":\"GeoPDF (21.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Gadsden_464392_1960_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/250000/AL_Gadsden_464392_1960_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c13df1ee4b006c4f853691c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/250000/AL_Gadsden_464392_1960_250000_tn.jpg\"}"
+}

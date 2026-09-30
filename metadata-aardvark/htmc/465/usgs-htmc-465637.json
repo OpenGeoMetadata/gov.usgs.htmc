@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-465637",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Ferndale, CA 1959 (printed 1961)",
+  "dct_alternative_sm": [
+    "Ferndale"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Ferndale, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1959; aerial photographs from 1956; printed in 1961.",
+    "Variations: woodland tint. Sheet size: 16.93 x 21.19 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Humboldt County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5d149885e4b0941bde5b72a9",
+    "urn:uuid:626ba2d7-3b19-b54f-b23e-e0b909556f14"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124.25 40.5,-124.25 40.75,-124.5 40.75,-124.5 40.5,-124.25 40.5))",
+  "dcat_bbox": "ENVELOPE(-124.5, -124.25, 40.75, 40.5)",
+  "dcat_centroid": "40.625,-124.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-465431",
+    "usgs-htmc-465635",
+    "usgs-htmc-465638",
+    "usgs-htmc-465639",
+    "usgs-htmc-465640",
+    "usgs-htmc-465641"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Ferndale_465637_1959_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Ferndale_465637_1959_62500_geo.pdf\",\"label\":\"GeoPDF (5.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Ferndale_465637_1959_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Ferndale_465637_1959_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5d149885e4b0941bde5b72a9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Ferndale_465637_1959_62500_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-402437",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Las Animas, CO 1893 (printed 1908)",
+  "dct_alternative_sm": [
+    "Las Animas"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Las Animas, Colorado, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1889; printed in 1908.",
+    "Sheet size: 16.5 x 20.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Kiowa County, Colorado",
+    "Bent County, Colorado",
+    "Otero County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b59e4b00f54eb4004b3",
+    "urn:uuid:bb6e1279-6027-2bd4-0d5a-1b9817cf3bdc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103 38,-103 38.5,-103.5 38.5,-103.5 38,-103 38))",
+  "dcat_bbox": "ENVELOPE(-103.5, -103, 38.5, 38)",
+  "dcat_centroid": "38.25,-103.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-402435",
+    "usgs-htmc-402436",
+    "usgs-htmc-402438",
+    "usgs-htmc-402439",
+    "usgs-htmc-467047"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Las%20Animas_402437_1893_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Las%20Animas_402437_1893_125000_geo.pdf\",\"label\":\"GeoPDF (3.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Las%20Animas_402437_1893_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/125000/CO_Las_Animas_402437_1893_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b59e4b00f54eb4004b3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/125000/CO_Las%20Animas_402437_1893_125000_tn.jpg\"}"
+}

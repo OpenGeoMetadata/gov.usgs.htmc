@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-307814",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Highland Park, IL 1928 (printed 1948)",
+  "dct_alternative_sm": [
+    "Highland Park"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1928 edition of the Highland Park, Illinois, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1926; printed in 1948.",
+    "Sheet size: 21.9 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1928",
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    1928
+  ],
+  "gbl_dateRange_drsim": [
+    "[1926 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Cook County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a35ece4b00f54eb3dc509",
+    "urn:uuid:12f2c9a0-75f5-551b-54f4-caa2fe6091a6"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-87.75 42.125,-87.75 42.25,-87.875 42.25,-87.875 42.125,-87.75 42.125))",
+  "dcat_bbox": "ENVELOPE(-87.875, -87.75, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-87.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-307811",
+    "usgs-htmc-307812",
+    "usgs-htmc-307813",
+    "usgs-htmc-307815",
+    "usgs-htmc-307816",
+    "usgs-htmc-307817",
+    "usgs-htmc-307818",
+    "usgs-htmc-307819",
+    "usgs-htmc-307820",
+    "usgs-htmc-307821",
+    "usgs-htmc-468487"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Highland%20Park_307814_1928_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Highland%20Park_307814_1928_24000_geo.pdf\",\"label\":\"GeoPDF (13.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Highland%20Park_307814_1928_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/24000/IL_Highland_Park_307814_1928_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a35ece4b00f54eb3dc509\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Highland%20Park_307814_1928_24000_tn.jpg\"}"
+}

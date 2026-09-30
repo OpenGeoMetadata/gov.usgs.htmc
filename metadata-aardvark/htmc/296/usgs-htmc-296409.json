@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-296409",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Pentland, CA 1934",
+  "dct_alternative_sm": [
+    "Pentland"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1934 edition of the Pentland, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1931.",
+    "Sheet size: 16.4 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1934",
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "gbl_indexYear_im": [
+    1934
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1934]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a51e3e4b00f54eb40c901",
+    "urn:uuid:05b6065f-b6a0-bdc8-021e-b3c7ca53baf9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.25 35,-119.25 35.125,-119.375 35.125,-119.375 35,-119.25 35))",
+  "dcat_bbox": "ENVELOPE(-119.375, -119.25, 35.125, 35)",
+  "dcat_centroid": "35.0625,-119.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-101763",
+    "usgs-htmc-294048",
+    "usgs-htmc-294049",
+    "usgs-htmc-294050",
+    "usgs-htmc-296408",
+    "usgs-htmc-296410",
+    "usgs-htmc-466124"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Pentland_296409_1934_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Pentland_296409_1934_31680_geo.pdf\",\"label\":\"GeoPDF (6.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Pentland_296409_1934_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Pentland_296409_1934_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a51e3e4b00f54eb40c901\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Pentland_296409_1934_31680_tn.jpg\"}"
+}

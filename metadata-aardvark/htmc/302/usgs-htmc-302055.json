@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-302055",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Truckee, CA 1977 (printed 1978)",
+  "dct_alternative_sm": [
+    "Truckee"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1977 edition of the Truckee, California, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1973; last revised in 1977; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 37.8 x 27.3 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1977",
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_dateRange_drsim": [
+    "[1973 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4dd7e4b00f54eb404a7c",
+    "urn:uuid:9b70a36f-0829-0491-cc65-0c1bdb8c4ba7"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120 39,-120 39.5,-121 39.5,-121 39,-120 39))",
+  "dcat_bbox": "ENVELOPE(-121, -120, 39.5, 39)",
+  "dcat_centroid": "39.25,-120.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-302056"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Truckee_302055_1977_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Truckee_302055_1977_100000_geo.pdf\",\"label\":\"GeoPDF (42.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Truckee_302055_1977_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/100000/CA_Truckee_302055_1977_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4dd7e4b00f54eb404a7c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Truckee_302055_1977_100000_tn.jpg\"}"
+}

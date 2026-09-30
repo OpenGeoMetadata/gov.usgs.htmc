@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-463044",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Quabbin Reservoir, MA 1944",
+  "dct_alternative_sm": [
+    "Quabbin Reservoir"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Quabbin Reservoir, Massachusetts, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942.",
+    "Sheet size: 15.27 x 19.99 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Massachusetts",
+    "Worcester County, Massachusetts",
+    "Hampshire County, Massachusetts",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e5a509ce4b01d50924eabf8",
+    "urn:uuid:d2191674-b231-8e36-0691-f029c2023ab2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.25 42.375,-72.25 42.5,-72.375 42.5,-72.375 42.375,-72.25 42.375))",
+  "dcat_bbox": "ENVELOPE(-72.375, -72.25, 42.5, 42.375)",
+  "dcat_centroid": "42.4375,-72.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-350495",
+    "usgs-htmc-350496",
+    "usgs-htmc-351246",
+    "usgs-htmc-351247",
+    "usgs-htmc-352110",
+    "usgs-htmc-352111",
+    "usgs-htmc-352112",
+    "usgs-htmc-463043"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Quabbin%20Reservoir_463044_1944_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Quabbin%20Reservoir_463044_1944_31680_geo.pdf\",\"label\":\"GeoPDF (6.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Quabbin%20Reservoir_463044_1944_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/31680/MA_Quabbin_Reservoir_463044_1944_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e5a509ce4b01d50924eabf8\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/31680/MA_Quabbin%20Reservoir_463044_1944_31680_tn.jpg\"}"
+}

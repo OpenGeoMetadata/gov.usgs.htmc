@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-350655",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Tyngsboro, MA 1950 (printed 1958)",
+  "dct_alternative_sm": [
+    "Tyngsboro"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Tyngsboro, Massachusetts, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1944; last revised in 1950; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1944 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Massachusetts"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5338e4b00f54eb40f224",
+    "urn:uuid:a5fdda6d-b1c0-1460-a63f-6b1d30f8e9be"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.375 42.625,-71.375 42.75,-71.5 42.75,-71.5 42.625,-71.375 42.625))",
+  "dcat_bbox": "ENVELOPE(-71.5, -71.375, 42.75, 42.625)",
+  "dcat_centroid": "42.6875,-71.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-329700",
+    "usgs-htmc-329701",
+    "usgs-htmc-329702",
+    "usgs-htmc-329703",
+    "usgs-htmc-329704",
+    "usgs-htmc-350344",
+    "usgs-htmc-350345",
+    "usgs-htmc-350656",
+    "usgs-htmc-352267",
+    "usgs-htmc-352268",
+    "usgs-htmc-352269",
+    "usgs-htmc-352270",
+    "usgs-htmc-352271",
+    "usgs-htmc-352273",
+    "usgs-htmc-463099"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/MA_Tyngsboro_350655_1950_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Tyngsboro_350655_1950_24000_geo.pdf\",\"label\":\"GeoPDF (16.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/MA_Tyngsboro_350655_1950_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/24000/MA_Tyngsboro_350655_1950_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5338e4b00f54eb40f224\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/24000/MA_Tyngsboro_350655_1950_24000_tn.jpg\"}"
+}

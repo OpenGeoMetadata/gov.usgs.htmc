@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-301539",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Tejon Hills, CA 1933 (printed 1943)",
+  "dct_alternative_sm": [
+    "Tejon Hills"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1933 edition of the Tejon Hills, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1931; printed in 1943.",
+    "Sheet size: 16.6 x 22.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1933",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "gbl_indexYear_im": [
+    1933
+  ],
+  "gbl_dateRange_drsim": [
+    "[1931 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "Kern County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a520ee4b00f54eb40ce13",
+    "urn:uuid:ecebaeca-cdca-42ad-eda1-7b33e29c8082"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118.75 35,-118.75 35.125,-118.875 35.125,-118.875 35,-118.75 35))",
+  "dcat_bbox": "ENVELOPE(-118.875, -118.75, 35.125, 35)",
+  "dcat_centroid": "35.0625,-118.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-101251",
+    "usgs-htmc-296541",
+    "usgs-htmc-300823",
+    "usgs-htmc-300824",
+    "usgs-htmc-300825",
+    "usgs-htmc-466496"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tejon%20Hills_301539_1933_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Tejon%20Hills_301539_1933_31680_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tejon%20Hills_301539_1933_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Tejon_Hills_301539_1933_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a520ee4b00f54eb40ce13\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Tejon%20Hills_301539_1933_31680_tn.jpg\"}"
+}

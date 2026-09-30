@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-254691",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Paterson, NJ 1955 (printed 1967)",
+  "dct_alternative_sm": [
+    "Paterson"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Paterson, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1938; last revised in 1955; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Passaic County, New Jersey",
+    "Bergen County, New Jersey",
+    "Essex County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a254ce4b00f54eb3c0574",
+    "urn:uuid:c8fbd8f7-8816-d103-4286-169f34027efa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.125 40.875,-74.125 41,-74.25 41,-74.25 40.875,-74.125 40.875))",
+  "dcat_bbox": "ENVELOPE(-74.25, -74.125, 41, 40.875)",
+  "dcat_centroid": "40.9375,-74.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254690",
+    "usgs-htmc-254692",
+    "usgs-htmc-254693",
+    "usgs-htmc-254694",
+    "usgs-htmc-254695",
+    "usgs-htmc-254696",
+    "usgs-htmc-255061",
+    "usgs-htmc-255062",
+    "usgs-htmc-255063",
+    "usgs-htmc-255064"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Paterson_254691_1955_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Paterson_254691_1955_24000_geo.pdf\",\"label\":\"GeoPDF (16.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Paterson_254691_1955_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Paterson_254691_1955_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a254ce4b00f54eb3c0574\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Paterson_254691_1955_24000_tn.jpg\"}"
+}

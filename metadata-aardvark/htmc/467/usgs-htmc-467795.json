@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-467795",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Nottely Dam, GA 1988",
+  "dct_alternative_sm": [
+    "Nottely Dam"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1988 edition of the Nottely Dam, Georgia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1982; field checked in 1988; last revised in 1988; printed in 1988.",
+    "Variations: woodland tint. Sheet size: 21.73 x 27.01 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1988",
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "gbl_indexYear_im": [
+    1988
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1988]"
+  ],
+  "dct_spatial_sm": [
+    "Georgia",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e192a5fe4b0ecf25c5c2f79",
+    "urn:uuid:982d2fa2-c884-b823-390d-5956fc1a4ac8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84 34.875,-84 35,-84.125 35,-84.125 34.875,-84 34.875))",
+  "dcat_bbox": "ENVELOPE(-84.125, -84, 35, 34.875)",
+  "dcat_centroid": "34.9375,-84.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-246005",
+    "usgs-htmc-246006",
+    "usgs-htmc-246007",
+    "usgs-htmc-246008",
+    "usgs-htmc-246564",
+    "usgs-htmc-246565",
+    "usgs-htmc-246566"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Nottely%20Dam_467795_1988_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Nottely%20Dam_467795_1988_24000_geo.pdf\",\"label\":\"GeoPDF (14.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Nottely%20Dam_467795_1988_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/24000/GA_Nottely_Dam_467795_1988_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e192a5fe4b0ecf25c5c2f79\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/24000/GA_Nottely%20Dam_467795_1988_24000_tn.jpg\"}"
+}

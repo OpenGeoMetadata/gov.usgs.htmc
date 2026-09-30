@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-186510",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Richmond, VA 1964 (printed 1987)",
+  "dct_alternative_sm": [
+    "Richmond"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Richmond, Virginia, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1934; aerial photographs from 1984; photo revised in 1987; last revised in 1987; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Richmond, Virginia",
+    "Henrico County, Virginia",
+    "Hanover County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a35b9e4b00f54eb3dbea6",
+    "urn:uuid:de4f4732-c8ef-1887-a113-b33e96b44fde"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.375 37.5,-77.375 37.625,-77.5 37.625,-77.5 37.5,-77.375 37.5))",
+  "dcat_bbox": "ENVELOPE(-77.5, -77.375, 37.625, 37.5)",
+  "dcat_centroid": "37.5625,-77.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-186498",
+    "usgs-htmc-186500",
+    "usgs-htmc-186501",
+    "usgs-htmc-186502",
+    "usgs-htmc-186503",
+    "usgs-htmc-186504",
+    "usgs-htmc-186505",
+    "usgs-htmc-186506",
+    "usgs-htmc-186508",
+    "usgs-htmc-186509",
+    "usgs-htmc-186511",
+    "usgs-htmc-187558",
+    "usgs-htmc-187559"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Richmond_186510_1964_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Richmond_186510_1964_24000_geo.pdf\",\"label\":\"GeoPDF (19.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Richmond_186510_1964_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/24000/VA_Richmond_186510_1964_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a35b9e4b00f54eb3dbea6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/24000/VA_Richmond_186510_1964_24000_tn.jpg\"}"
+}

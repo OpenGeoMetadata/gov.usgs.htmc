@@ -1,0 +1,95 @@
+{
+  "id": "usgs-htmc-310166",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Decatur, IL 1958 (printed 1977)",
+  "dct_alternative_sm": [
+    "Decatur"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Decatur, Illinois, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey and the U.S. military. Aerial photographs from 1956; field checked in 1958; last revised in 1969; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 32 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Macon County, Illinois",
+    "Sangamon County, Illinois",
+    "Shelby County, Illinois",
+    "Christian County, Illinois",
+    "Montgomery County, Illinois",
+    "Macoupin County, Illinois",
+    "Coles County, Illinois",
+    "Douglas County, Illinois",
+    "Fayette County, Illinois",
+    "Cumberland County, Illinois",
+    "Moultrie County, Illinois",
+    "Effingham County, Illinois",
+    "Jasper County, Illinois",
+    "Piatt County, Illinois",
+    "Champaign County, Illinois",
+    "Menard County, Illinois",
+    "Logan County, Illinois",
+    "Morgan County, Illinois",
+    "Bond County, Illinois",
+    "Clark County, Illinois",
+    "Cass County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a361be4b00f54eb3dc9ab",
+    "urn:uuid:47d0e7b3-2ee5-a75b-81dd-27c9221b8a50"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-88 39,-88 40,-90 40,-90 39,-88 39))",
+  "dcat_bbox": "ENVELOPE(-90, -88, 40, 39)",
+  "dcat_centroid": "39.5,-89",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-310159",
+    "usgs-htmc-310164",
+    "usgs-htmc-310165",
+    "usgs-htmc-468418"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Decatur_310166_1958_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/250000/IL_Decatur_310166_1958_250000_geo.pdf\",\"label\":\"GeoPDF (21.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Decatur_310166_1958_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/250000/IL_Decatur_310166_1958_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a361be4b00f54eb3dc9ab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/250000/IL_Decatur_310166_1958_250000_tn.jpg\"}"
+}

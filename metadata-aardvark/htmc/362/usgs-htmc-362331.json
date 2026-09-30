@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-362331",
+  "dct_title_s": "USGS 1:30000-scale Quadrangle for Barceloneta, PR 1953 (printed 1954)",
+  "dct_alternative_sm": [
+    "Barceloneta"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Barceloneta, Puerto Rico, topographic map at 1:30,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1941; field checked in 1949; last revised in 1953; printed in 1954.",
+    "Variations: woodland tint. Sheet size: 19.8 x 21.7 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Barceloneta, Puerto Rico",
+    "Arecibo, Puerto Rico",
+    "Manatí, Puerto Rico",
+    "Florida, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2fcce4b00f54eb3d1565",
+    "urn:uuid:33d5a499-11dc-04f3-1328-a38036f56dc3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.5 18.375,-66.5 18.5,-66.625 18.5,-66.625 18.375,-66.5 18.375))",
+  "dcat_bbox": "ENVELOPE(-66.625, -66.5, 18.5, 18.375)",
+  "dcat_centroid": "18.4375,-66.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362031",
+    "usgs-htmc-362032",
+    "usgs-htmc-362033",
+    "usgs-htmc-362034",
+    "usgs-htmc-362329",
+    "usgs-htmc-362330",
+    "usgs-htmc-475453",
+    "usgs-htmc-475454",
+    "usgs-htmc-475455",
+    "usgs-htmc-475456"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Barceloneta_362331_1953_30000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Barceloneta_362331_1953_30000_geo.pdf\",\"label\":\"GeoPDF (9.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Barceloneta_362331_1953_30000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/30000/PR_Barceloneta_362331_1953_30000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2fcce4b00f54eb3d1565\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_Barceloneta_362331_1953_30000_tn.jpg\"}"
+}

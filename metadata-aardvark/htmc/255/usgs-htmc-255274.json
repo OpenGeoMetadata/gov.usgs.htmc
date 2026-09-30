@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-255274",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Morristown, NJ 1906 (printed 1912)",
+  "dct_alternative_sm": [
+    "Morristown"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1906 edition of the Morristown, New Jersey, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1887; last revised in 1903; printed in 1912.",
+    "Sheet size: 16.6 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    1906
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1912]"
+  ],
+  "dct_spatial_sm": [
+    "Morris County, New Jersey",
+    "Essex County, New Jersey",
+    "Passaic County, New Jersey",
+    "Bergen County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a261ce4b00f54eb3c18ab",
+    "urn:uuid:3484b412-e233-cb36-5f0d-6b19ac3fc407"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.25 40.75,-74.25 41,-74.5 41,-74.5 40.75,-74.25 40.75))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.25, 41, 40.75)",
+  "dcat_centroid": "40.875,-74.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-255268",
+    "usgs-htmc-255269",
+    "usgs-htmc-255270",
+    "usgs-htmc-255271",
+    "usgs-htmc-255272",
+    "usgs-htmc-255273",
+    "usgs-htmc-255275",
+    "usgs-htmc-255276",
+    "usgs-htmc-472450"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Morristown_255274_1906_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Morristown_255274_1906_62500_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Morristown_255274_1906_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/62500/NJ_Morristown_255274_1906_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a261ce4b00f54eb3c18ab\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/62500/NJ_Morristown_255274_1906_62500_tn.jpg\"}"
+}

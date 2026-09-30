@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-108372",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Gainesville, TX 1902 (printed 1954)",
+  "dct_alternative_sm": [
+    "Gainesville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1902 edition of the Gainesville, Texas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1902; printed in 1954.",
+    "Sheet size: 16.9 x 20.9 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3b3ee4b00f54eb3e4a15",
+    "urn:uuid:cc3f9158-96f9-9240-f2df-6beeb6f8667c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97 33.5,-97 34,-97.5 34,-97.5 33.5,-97 33.5))",
+  "dcat_bbox": "ENVELOPE(-97.5, -97, 34, 33.5)",
+  "dcat_centroid": "33.75,-97.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-108371",
+    "usgs-htmc-108373",
+    "usgs-htmc-128584",
+    "usgs-htmc-128620",
+    "usgs-htmc-128690"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Gainesville_108372_1902_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Gainesville_108372_1902_125000_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Gainesville_108372_1902_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/125000/TX_Gainesville_108372_1902_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3b3ee4b00f54eb3e4a15\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/125000/TX_Gainesville_108372_1902_125000_tn.jpg\"}"
+}

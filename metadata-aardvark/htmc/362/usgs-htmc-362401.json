@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-362401",
+  "dct_title_s": "USGS 1:30000-scale Quadrangle for El Yunque, PR 1946",
+  "dct_alternative_sm": [
+    "El Yunque"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the El Yunque, Puerto Rico, topographic map at 1:30,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 19.3 x 21.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1946]"
+  ],
+  "dct_spatial_sm": [
+    "Río Grande, Puerto Rico",
+    "Naguabo, Puerto Rico",
+    "Canóvanas, Puerto Rico",
+    "Luquillo, Puerto Rico",
+    "Las Piedras, Puerto Rico",
+    "Ceiba, Puerto Rico",
+    "Juncos, Puerto Rico",
+    "Fajardo, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2fe2e4b00f54eb3d17a3",
+    "urn:uuid:e94d58f3-c578-4c0a-1b25-3cfb4ed1e1cc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-65.75 18.25,-65.75 18.375,-65.875 18.375,-65.875 18.25,-65.75 18.25))",
+  "dcat_bbox": "ENVELOPE(-65.875, -65.75, 18.375, 18.25)",
+  "dcat_centroid": "18.3125,-65.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362103",
+    "usgs-htmc-362104",
+    "usgs-htmc-362105",
+    "usgs-htmc-362106",
+    "usgs-htmc-362400",
+    "usgs-htmc-362402",
+    "usgs-htmc-362403",
+    "usgs-htmc-362404",
+    "usgs-htmc-475478",
+    "usgs-htmc-475479"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_El%20Yunque_362401_1946_30000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_El%20Yunque_362401_1946_30000_geo.pdf\",\"label\":\"GeoPDF (12.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_El%20Yunque_362401_1946_30000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/30000/PR_El_Yunque_362401_1946_30000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2fe2e4b00f54eb3d17a3\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/30000/PR_El%20Yunque_362401_1946_30000_tn.jpg\"}"
+}

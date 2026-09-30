@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-163692",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bat Cave, NC 1947",
+  "dct_alternative_sm": [
+    "Bat Cave"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Bat Cave, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Field checked in 1946; printed in 1947.",
+    "Sheet size: 22 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Henderson County, North Carolina",
+    "Buncombe County, North Carolina",
+    "Rutherford County, North Carolina",
+    "Polk County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a512be4b00f54eb40b33c",
+    "urn:uuid:acf790ec-111c-d67b-2701-00a5b6e2c971"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-82.25 35.375,-82.25 35.5,-82.375 35.5,-82.375 35.375,-82.25 35.375))",
+  "dcat_bbox": "ENVELOPE(-82.375, -82.25, 35.5, 35.375)",
+  "dcat_centroid": "35.4375,-82.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161899",
+    "usgs-htmc-161900",
+    "usgs-htmc-161901",
+    "usgs-htmc-163689",
+    "usgs-htmc-163690",
+    "usgs-htmc-163691",
+    "usgs-htmc-163693",
+    "usgs-htmc-163694",
+    "usgs-htmc-163695"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Bat%20Cave_163692_1947_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Bat%20Cave_163692_1947_24000_geo.pdf\",\"label\":\"GeoPDF (14.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Bat%20Cave_163692_1947_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Bat_Cave_163692_1947_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a512be4b00f54eb40b33c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Bat%20Cave_163692_1947_24000_tn.jpg\"}"
+}

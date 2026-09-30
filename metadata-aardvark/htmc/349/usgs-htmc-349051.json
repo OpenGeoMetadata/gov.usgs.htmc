@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-349051",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for West Of Horseshoe Head, FL 1974 (printed 1993)",
+  "dct_alternative_sm": [
+    "West Of Horseshoe Head"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1974 edition of the West Of Horseshoe Head, Florida, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1974; aerial photographs from 1971; printed in 1993.",
+    "Variations: woodland tint, orthophotomap. Sheet size: 23 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1974",
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "gbl_indexYear_im": [
+    1974
+  ],
+  "gbl_dateRange_drsim": [
+    "[1971 TO 1993]"
+  ],
+  "dct_spatial_sm": [
+    "Collier County, Florida",
+    "Broward County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a43e5e4b00f54eb3f3726",
+    "urn:uuid:9ef7ba00-a59d-7c16-e825-5a1898ff3b9f"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.875 26,-80.875 26.125,-81 26.125,-81 26,-80.875 26))",
+  "dcat_bbox": "ENVELOPE(-81, -80.875, 26.125, 26)",
+  "dcat_centroid": "26.0625,-80.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-346061"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_West%20Of%20Horseshoe%20Head_349051_1974_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_West%20Of%20Horseshoe%20Head_349051_1974_24000_geo.pdf\",\"label\":\"GeoPDF (26.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_West%20Of%20Horseshoe%20Head_349051_1974_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/24000/FL_West_Of_Horseshoe_Head_349051_1974_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a43e5e4b00f54eb3f3726\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/24000/FL_West%20Of%20Horseshoe%20Head_349051_1974_24000_tn.jpg\"}"
+}

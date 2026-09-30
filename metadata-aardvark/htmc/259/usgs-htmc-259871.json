@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-259871",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for White Hall, AR 1970 (printed 1978)",
+  "dct_alternative_sm": [
+    "White Hall"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1970 edition of the White Hall, Arkansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; field checked in 1970; photo revised in 1975; printed in 1978.",
+    "Variations: woodland tint. Sheet size: 22 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1970",
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "gbl_indexYear_im": [
+    1970
+  ],
+  "gbl_dateRange_drsim": [
+    "[1970 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County, Arkansas",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2abae4b00f54eb3c9067",
+    "urn:uuid:afdae02d-9d4b-564e-ed64-b9fe01547655"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92 34.25,-92 34.375,-92.125 34.375,-92.125 34.25,-92 34.25))",
+  "dcat_bbox": "ENVELOPE(-92.125, -92, 34.375, 34.25)",
+  "dcat_centroid": "34.3125,-92.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-259869",
+    "usgs-htmc-259870",
+    "usgs-htmc-259872",
+    "usgs-htmc-259873",
+    "usgs-htmc-259874"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_White%20Hall_259871_1970_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_White%20Hall_259871_1970_24000_geo.pdf\",\"label\":\"GeoPDF (12.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AR/AR_White%20Hall_259871_1970_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AR/24000/AR_White_Hall_259871_1970_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2abae4b00f54eb3c9067\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AR/24000/AR_White%20Hall_259871_1970_24000_tn.jpg\"}"
+}

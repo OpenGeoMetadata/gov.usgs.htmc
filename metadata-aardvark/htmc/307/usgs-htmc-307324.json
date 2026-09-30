@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-307324",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Collinsville, IL 1954 (printed 1975)",
+  "dct_alternative_sm": [
+    "Collinsville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Collinsville, Illinois, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1932; aerial photographs from 1974; field checked in 1954; photo revised in 1974; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 22.1 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1932 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Madison County, Illinois",
+    "St. Clair County, Illinois",
+    "Illinois"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3562e4b00f54eb3db336",
+    "urn:uuid:7875a629-7dec-a1ca-c6b2-8a0e8a8091f0"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-89.875 38.625,-89.875 38.75,-90 38.75,-90 38.625,-89.875 38.625))",
+  "dcat_bbox": "ENVELOPE(-90, -89.875, 38.75, 38.625)",
+  "dcat_centroid": "38.6875,-89.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-307319",
+    "usgs-htmc-307320",
+    "usgs-htmc-307321",
+    "usgs-htmc-307322",
+    "usgs-htmc-307323",
+    "usgs-htmc-468405"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Collinsville_307324_1954_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Collinsville_307324_1954_24000_geo.pdf\",\"label\":\"GeoPDF (16.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/IL/IL_Collinsville_307324_1954_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/IL/24000/IL_Collinsville_307324_1954_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3562e4b00f54eb3db336\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/IL/24000/IL_Collinsville_307324_1954_24000_tn.jpg\"}"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "usgs-htmc-278736",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Grand Rapids, MI 1962",
+  "dct_alternative_sm": [
+    "Grand Rapids"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Grand Rapids, Michigan, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Field checked in 1958.",
+    "Variations: woodland tint. Sheet size: 30.5 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1962]"
+  ],
+  "dct_spatial_sm": [
+    "Kent County, Michigan",
+    "Jackson County, Michigan",
+    "Calhoun County, Michigan",
+    "Kalamazoo County, Michigan",
+    "Eaton County, Michigan",
+    "Barry County, Michigan",
+    "Ingham County, Michigan",
+    "Allegan County, Michigan",
+    "Ionia County, Michigan",
+    "Clinton County, Michigan",
+    "Van Buren County, Michigan",
+    "Shiawassee County, Michigan",
+    "Livingston County, Michigan",
+    "Ottawa County, Michigan",
+    "Washtenaw County, Michigan",
+    "Branch County, Michigan",
+    "Hillsdale County, Michigan",
+    "St. Joseph County, Michigan",
+    "Lenawee County, Michigan",
+    "Cass County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4725e4b00f54eb3f8cb5",
+    "urn:uuid:9aba2c59-7705-9fe5-82b1-04a4f612d88e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84 42,-84 43,-86 43,-86 42,-84 42))",
+  "dcat_bbox": "ENVELOPE(-86, -84, 43, 42)",
+  "dcat_centroid": "42.5,-85",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-278737",
+    "usgs-htmc-278738",
+    "usgs-htmc-470761",
+    "usgs-htmc-470762"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Grand%20Rapids_278736_1962_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/250000/MI_Grand%20Rapids_278736_1962_250000_geo.pdf\",\"label\":\"GeoPDF (23.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Grand%20Rapids_278736_1962_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/250000/MI_Grand_Rapids_278736_1962_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4725e4b00f54eb3f8cb5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/250000/MI_Grand%20Rapids_278736_1962_250000_tn.jpg\"}"
+}

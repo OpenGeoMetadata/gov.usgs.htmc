@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-263249",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Crowley Dam, MT 1986",
+  "dct_alternative_sm": [
+    "Crowley Dam"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1986 edition of the Crowley Dam, Montana, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; field checked in 1978; last revised in 1986; printed in 1986.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1986",
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1986]"
+  ],
+  "dct_spatial_sm": [
+    "Petroleum County, Montana",
+    "Musselshell County, Montana",
+    "Montana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2c50e4b00f54eb3cbb7f",
+    "urn:uuid:4e55e5cb-4a5f-f8bd-0bf0-e1e00d4214be"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-108.25 46.75,-108.25 46.875,-108.375 46.875,-108.375 46.75,-108.25 46.75))",
+  "dcat_bbox": "ENVELOPE(-108.375, -108.25, 46.875, 46.75)",
+  "dcat_centroid": "46.8125,-108.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Crowley%20Dam_263249_1986_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Crowley%20Dam_263249_1986_24000_geo.pdf\",\"label\":\"GeoPDF (14.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MT/MT_Crowley%20Dam_263249_1986_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MT/24000/MT_Crowley_Dam_263249_1986_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2c50e4b00f54eb3cbb7f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MT/24000/MT_Crowley%20Dam_263249_1986_24000_tn.jpg\"}"
+}

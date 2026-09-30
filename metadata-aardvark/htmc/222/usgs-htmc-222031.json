@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-222031",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Stockton, PA 1943",
+  "dct_alternative_sm": [
+    "Stockton"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1943 edition of the Stockton, Pennsylvania, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department.",
+    "Release: Advance. Variations: woodland tint. Sheet size: 17.9 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "gbl_indexYear_im": [
+    1943
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3652e4b00f54eb3dd104",
+    "urn:uuid:e6fa50b1-76a3-cc52-71d4-52e42837dc35"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.875 40.375,-74.875 40.5,-75 40.5,-75 40.375,-74.875 40.375))",
+  "dcat_bbox": "ENVELOPE(-75, -74.875, 40.5, 40.375)",
+  "dcat_centroid": "40.4375,-74.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254903",
+    "usgs-htmc-254904",
+    "usgs-htmc-254905",
+    "usgs-htmc-254906",
+    "usgs-htmc-255076",
+    "usgs-htmc-472492",
+    "usgs-htmc-472493"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/PA_Stockton_222031_1943_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Stockton_222031_1943_31680_geo.pdf\",\"label\":\"GeoPDF (7.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/PA_Stockton_222031_1943_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/31680/PA_Stockton_222031_1943_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3652e4b00f54eb3dd104\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Stockton_222031_1943_31680_tn.jpg\"}"
+}

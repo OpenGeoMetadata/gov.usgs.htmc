@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-361113",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Livengood, AK 1956 (printed 1977)",
+  "dct_alternative_sm": [
+    "Livengood"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Livengood, Alaska, topographic map at 1:250,000 scale (1 x 3 degree series), published by the U.S. Geological Survey. Surveyed in 1952; aerial photographs from 1975; last revised in 1977; printed in 1977.",
+    "Variations: shaded relief. Sheet size: 27.8 x 22.7 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1952 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Yukon-Koyukuk Census Area, Alaska",
+    "Fairbanks North Star, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3aaae4b00f54eb3e3b2b",
+    "urn:uuid:ccd9f6cf-2c9a-735f-6acc-d8f585ba4559"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 3 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-147 65,-147 66,-150 66,-150 65,-147 65))",
+  "dcat_bbox": "ENVELOPE(-150, -147, 66, 65)",
+  "dcat_centroid": "65.5,-148.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-361100",
+    "usgs-htmc-361101",
+    "usgs-htmc-361102",
+    "usgs-htmc-361103",
+    "usgs-htmc-361104",
+    "usgs-htmc-361106",
+    "usgs-htmc-361107",
+    "usgs-htmc-361108",
+    "usgs-htmc-361109",
+    "usgs-htmc-361110",
+    "usgs-htmc-361111",
+    "usgs-htmc-361112",
+    "usgs-htmc-361114",
+    "usgs-htmc-463910",
+    "usgs-htmc-464295"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Livengood_361113_1956_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Livengood_361113_1956_250000_geo.pdf\",\"label\":\"GeoPDF (52.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Livengood_361113_1956_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Livengood_361113_1956_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3aaae4b00f54eb3e3b2b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Livengood_361113_1956_250000_tn.jpg\"}"
+}

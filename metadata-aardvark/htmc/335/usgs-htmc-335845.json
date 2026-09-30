@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-335845",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Horseshoe Lake SE, MS 1975 (printed 1976)",
+  "dct_alternative_sm": [
+    "Horseshoe Lake SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1975 edition of the Horseshoe Lake SE, Mississippi, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; printed in 1976.",
+    "Variations: orthophotoquad. Sheet size: 21.5 x 26.9 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1975",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "gbl_indexYear_im": [
+    1975
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi",
+    "Arkansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49a2e4b00f54eb3fdab1",
+    "urn:uuid:9a95d443-8bd5-3862-1484-879a4395b9bb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.25 34.75,-90.25 34.875,-90.375 34.875,-90.375 34.75,-90.25 34.75))",
+  "dcat_bbox": "ENVELOPE(-90.375, -90.25, 34.875, 34.75)",
+  "dcat_centroid": "34.8125,-90.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-335844",
+    "usgs-htmc-336395",
+    "usgs-htmc-336396"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Horseshoe%20Lake%20SE_335845_1975_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Horseshoe%20Lake%20SE_335845_1975_24000_geo.pdf\",\"label\":\"GeoPDF (25.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MS/MS_Horseshoe%20Lake%20SE_335845_1975_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MS/24000/MS_Horseshoe_Lake_SE_335845_1975_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49a2e4b00f54eb3fdab1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MS/24000/MS_Horseshoe%20Lake%20SE_335845_1975_24000_tn.jpg\"}"
+}

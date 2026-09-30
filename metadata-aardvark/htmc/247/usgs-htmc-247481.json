@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-247481",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Hinesville, GA 1950",
+  "dct_alternative_sm": [
+    "Hinesville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the Hinesville, Georgia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1947; field checked in 1948.",
+    "Variations: woodland tint. Sheet size: 16.8 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "Liberty County, Georgia",
+    "Long County, Georgia",
+    "Bryan County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4480e4b00f54eb3f474c",
+    "urn:uuid:d92200fd-d32f-8963-7c6c-1fdf84abc7ab"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-81.5 31.75,-81.5 32,-81.75 32,-81.75 31.75,-81.5 31.75))",
+  "dcat_bbox": "ENVELOPE(-81.75, -81.5, 32, 31.75)",
+  "dcat_centroid": "31.875,-81.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247478",
+    "usgs-htmc-247479",
+    "usgs-htmc-247480",
+    "usgs-htmc-247482",
+    "usgs-htmc-467713",
+    "usgs-htmc-467714"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Hinesville_247481_1950_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Hinesville_247481_1950_62500_geo.pdf\",\"label\":\"GeoPDF (6.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Hinesville_247481_1950_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/62500/GA_Hinesville_247481_1950_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4480e4b00f54eb3f474c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/62500/GA_Hinesville_247481_1950_62500_tn.jpg\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-149179",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Oak Hill, TN 1968 (printed 1984)",
+  "dct_alternative_sm": [
+    "Oak Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1968 edition of the Oak Hill, Tennessee, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1968; photo revised in 1983; last revised in 1983; printed in 1984.",
+    "Variations: woodland tint. Sheet size: 22 x 27.5 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1968",
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "gbl_indexYear_im": [
+    1968
+  ],
+  "gbl_dateRange_drsim": [
+    "[1968 TO 1984]"
+  ],
+  "dct_spatial_sm": [
+    "Davidson County, Tennessee",
+    "Williamson County, Tennessee",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4259e4b00f54eb3f0995",
+    "urn:uuid:02e19cd7-3c63-66f5-ba48-21bc3e22869e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.75 36,-86.75 36.125,-86.875 36.125,-86.875 36,-86.75 36))",
+  "dcat_bbox": "ENVELOPE(-86.875, -86.75, 36.125, 36)",
+  "dcat_centroid": "36.0625,-86.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-148632",
+    "usgs-htmc-148633",
+    "usgs-htmc-148634",
+    "usgs-htmc-149175",
+    "usgs-htmc-149176",
+    "usgs-htmc-149177",
+    "usgs-htmc-149178"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Oak%20Hill_149179_1968_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Oak%20Hill_149179_1968_24000_geo.pdf\",\"label\":\"GeoPDF (18.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TN/TN_Oak%20Hill_149179_1968_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TN/24000/TN_Oak_Hill_149179_1968_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4259e4b00f54eb3f0995\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TN/24000/TN_Oak%20Hill_149179_1968_24000_tn.jpg\"}"
+}

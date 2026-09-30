@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-222387",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Warren, PA 1957 (printed 1976)",
+  "dct_alternative_sm": [
+    "Warren"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1957 edition of the Warren, Pennsylvania, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. military. Aerial photographs from 1956; field checked in 1957; photo revised in 1969; last revised in 1969; printed in 1976.",
+    "Variations: woodland tint. Sheet size: 32.1 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_publisher_sm": [
+    "United States. Armed Forces"
+  ],
+  "dct_issued_s": "1957",
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "gbl_indexYear_im": [
+    1957
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1976]"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2888e4b00f54eb3c55ef",
+    "urn:uuid:3fc31a68-2b9d-d688-8a93-4b8f304d8c1c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78 41,-78 42,-80 42,-80 41,-78 41))",
+  "dcat_bbox": "ENVELOPE(-80, -78, 42, 41)",
+  "dcat_centroid": "41.5,-79",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-222384",
+    "usgs-htmc-222385",
+    "usgs-htmc-222386",
+    "usgs-htmc-462043",
+    "usgs-htmc-462044",
+    "usgs-htmc-462058",
+    "usgs-htmc-462111"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Warren_222387_1957_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/250000/PA_Warren_222387_1957_250000_geo.pdf\",\"label\":\"GeoPDF (23.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Warren_222387_1957_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/250000/PA_Warren_222387_1957_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2888e4b00f54eb3c55ef\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/250000/PA_Warren_222387_1957_250000_tn.jpg\"}"
+}

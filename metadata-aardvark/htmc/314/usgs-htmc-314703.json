@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-314703",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Jacobs Lake, AZ 1953 (printed 1965)",
+  "dct_alternative_sm": [
+    "Jacobs Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Jacobs Lake, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1936; field checked in 1953; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 17 x 20.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1936 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Coconino County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a26fbe4b00f54eb3c317c",
+    "urn:uuid:77520cca-c0c5-5c48-4599-ee55c5dd8a99"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-112 36.5,-112 36.75,-112.25 36.75,-112.25 36.5,-112 36.5))",
+  "dcat_bbox": "ENVELOPE(-112.25, -112, 36.75, 36.5)",
+  "dcat_centroid": "36.625,-112.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-314275",
+    "usgs-htmc-314700",
+    "usgs-htmc-314701",
+    "usgs-htmc-314702",
+    "usgs-htmc-314704",
+    "usgs-htmc-464743"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Jacobs%20Lake_314703_1953_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Jacobs%20Lake_314703_1953_62500_geo.pdf\",\"label\":\"GeoPDF (8.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Jacobs%20Lake_314703_1953_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Jacobs_Lake_314703_1953_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a26fbe4b00f54eb3c317c\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Jacobs%20Lake_314703_1953_62500_tn.jpg\"}"
+}

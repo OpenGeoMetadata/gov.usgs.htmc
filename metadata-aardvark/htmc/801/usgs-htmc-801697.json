@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-801697",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Caldwell, KS 1889 (printed 1957)",
+  "dct_alternative_sm": [
+    "Caldwell"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1889 edition of the Caldwell, Kansas, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1889; printed in 1957.",
+    "Sheet size: 16.2 x 19.9 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1889",
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "gbl_indexYear_im": [
+    1889
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1957]"
+  ],
+  "dct_spatial_sm": [
+    "Sumner County, Kansas",
+    "Harper County, Kansas",
+    "Kingman County, Kansas",
+    "Sedgwick County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49c1e4b00f54eb3fde08",
+    "urn:uuid:c8a8bf7d-a94a-4964-7aed-bf28602edc61"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-97.5 37,-97.5 37.5,-98 37.5,-98 37,-97.5 37))",
+  "dcat_bbox": "ENVELOPE(-98, -97.5, 37.5, 37)",
+  "dcat_centroid": "37.25,-97.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-468936",
+    "usgs-htmc-801698",
+    "usgs-htmc-802084",
+    "usgs-htmc-802085",
+    "usgs-htmc-802086",
+    "usgs-htmc-802087",
+    "usgs-htmc-802088",
+    "usgs-htmc-802089",
+    "usgs-htmc-802090",
+    "usgs-htmc-802091",
+    "usgs-htmc-802094"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Caldwell_801697_1889_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Caldwell_801697_1889_125000_geo.pdf\",\"label\":\"GeoPDF (4.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Caldwell_801697_1889_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/125000/KS_Caldwell_801697_1889_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49c1e4b00f54eb3fde08\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/125000/KS_Caldwell_801697_1889_125000_tn.jpg\"}"
+}

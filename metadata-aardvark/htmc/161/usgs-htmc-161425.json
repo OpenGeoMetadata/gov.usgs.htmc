@@ -1,0 +1,77 @@
+{
+  "id": "usgs-htmc-161425",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Franklin, NC 1946 (printed 1947)",
+  "dct_alternative_sm": [
+    "Franklin"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1946 edition of the Franklin, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Tennessee Valley Authority. Field checked in 1946; printed in 1947.",
+    "Sheet size: 21.8 x 26.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1946",
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "gbl_indexYear_im": [
+    1946
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Macon County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5211e4b00f54eb40ce7f",
+    "urn:uuid:92ee450e-46d4-fb3c-80a2-30fb24a11723"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.375 35.125,-83.375 35.25,-83.5 35.25,-83.5 35.125,-83.375 35.125))",
+  "dcat_bbox": "ENVELOPE(-83.5, -83.375, 35.25, 35.125)",
+  "dcat_centroid": "35.1875,-83.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161420",
+    "usgs-htmc-161421",
+    "usgs-htmc-161422",
+    "usgs-htmc-161423",
+    "usgs-htmc-161424",
+    "usgs-htmc-161426",
+    "usgs-htmc-161427",
+    "usgs-htmc-161428"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Franklin_161425_1946_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Franklin_161425_1946_24000_geo.pdf\",\"label\":\"GeoPDF (12.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Franklin_161425_1946_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_Franklin_161425_1946_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5211e4b00f54eb40ce7f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Franklin_161425_1946_24000_tn.jpg\"}"
+}

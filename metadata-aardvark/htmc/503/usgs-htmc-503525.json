@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-503525",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Sheldon, WI 1947 (printed 1967)",
+  "dct_alternative_sm": [
+    "Sheldon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Sheldon, Wisconsin, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1945; field checked in 1947; printed in 1967.",
+    "Variations: woodland tint, planimetric. Sheet size: 21.54 x 27.24 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "Rusk County, Wisconsin",
+    "Taylor County, Wisconsin",
+    "Chippewa County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ac8e4b00f54eb3ff556",
+    "urn:uuid:f0b8ecd6-d724-17aa-62ef-03e928c4b25c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.75 45.25,-90.75 45.5,-91 45.5,-91 45.25,-90.75 45.25))",
+  "dcat_bbox": "ENVELOPE(-91, -90.75, 45.5, 45.25)",
+  "dcat_centroid": "45.375,-90.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-700271"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Sheldon_503525_1947_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Sheldon_503525_1947_48000_geo.pdf\",\"label\":\"GeoPDF (5.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Sheldon_503525_1947_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/48000/WI_Sheldon_503525_1947_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ac8e4b00f54eb3ff556\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Sheldon_503525_1947_48000_tn.jpg\"}"
+}

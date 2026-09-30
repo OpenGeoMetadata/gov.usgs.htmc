@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-300069",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for San Francisco South, CA 1956 (printed 1967)",
+  "dct_alternative_sm": [
+    "San Francisco South"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the San Francisco South, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1956; field checked in 1956; printed in 1967.",
+    "Variations: woodland tint. Sheet size: 25.3 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1956 TO 1967]"
+  ],
+  "dct_spatial_sm": [
+    "San Mateo County, California",
+    "San Francisco County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a341ce4b00f54eb3d8972",
+    "urn:uuid:58783357-0d64-d2cb-a3e9-2debd489fdc9"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.375 37.625,-122.375 37.75,-122.5 37.75,-122.5 37.625,-122.375 37.625))",
+  "dcat_bbox": "ENVELOPE(-122.5, -122.375, 37.75, 37.625)",
+  "dcat_centroid": "37.6875,-122.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-295007",
+    "usgs-htmc-295008",
+    "usgs-htmc-300066",
+    "usgs-htmc-300067",
+    "usgs-htmc-300068",
+    "usgs-htmc-300070",
+    "usgs-htmc-300071",
+    "usgs-htmc-300072",
+    "usgs-htmc-363066"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Francisco%20South_300069_1956_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_San%20Francisco%20South_300069_1956_24000_geo.pdf\",\"label\":\"GeoPDF (17.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Francisco%20South_300069_1956_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_San_Francisco_South_300069_1956_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a341ce4b00f54eb3d8972\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_San%20Francisco%20South_300069_1956_24000_tn.jpg\"}"
+}

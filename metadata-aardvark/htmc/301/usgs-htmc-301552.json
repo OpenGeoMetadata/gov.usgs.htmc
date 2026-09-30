@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-301552",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Vanguard, CA 1926 (printed 1938)",
+  "dct_alternative_sm": [
+    "Vanguard"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1926 edition of the Vanguard, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1924; printed in 1938.",
+    "Sheet size: 17 x 19.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1926",
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "gbl_indexYear_im": [
+    1926
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Kings County, California",
+    "Fresno County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5214e4b00f54eb40cf74",
+    "urn:uuid:3fe216c4-1e5a-5016-c540-8ba72add6987"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.875 36.25,-119.875 36.375,-120 36.375,-120 36.25,-119.875 36.25))",
+  "dcat_bbox": "ENVELOPE(-120, -119.875, 36.375, 36.25)",
+  "dcat_centroid": "36.3125,-119.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-102553",
+    "usgs-htmc-292270",
+    "usgs-htmc-296243",
+    "usgs-htmc-301110",
+    "usgs-htmc-301111",
+    "usgs-htmc-465898"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Vanguard_301552_1926_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Vanguard_301552_1926_31680_geo.pdf\",\"label\":\"GeoPDF (4.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Vanguard_301552_1926_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Vanguard_301552_1926_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5214e4b00f54eb40cf74\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Vanguard_301552_1926_31680_tn.jpg\"}"
+}

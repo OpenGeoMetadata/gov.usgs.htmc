@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-223744",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Penfield, PA 1993 (printed 1998)",
+  "dct_alternative_sm": [
+    "Penfield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1993 edition of the Penfield, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1993; field checked in 1959; photo inspected in 1993; printed in 1998.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_dateRange_drsim": [
+    "[1959 TO 1998]"
+  ],
+  "dct_spatial_sm": [
+    "Clearfield County, Pennsylvania",
+    "Elk County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a344be4b00f54eb3d90e7",
+    "urn:uuid:e7bf5d4c-1b4a-dbb2-4ddc-89e83f069167"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-78.5 41.125,-78.5 41.25,-78.625 41.25,-78.625 41.125,-78.5 41.125))",
+  "dcat_bbox": "ENVELOPE(-78.625, -78.5, 41.25, 41.125)",
+  "dcat_centroid": "41.1875,-78.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-171357",
+    "usgs-htmc-171358",
+    "usgs-htmc-171359",
+    "usgs-htmc-171360",
+    "usgs-htmc-223742"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Penfield_223744_1993_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Penfield_223744_1993_24000_geo.pdf\",\"label\":\"GeoPDF (13.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Penfield_223744_1993_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Penfield_223744_1993_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a344be4b00f54eb3d90e7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Penfield_223744_1993_24000_tn.jpg\"}"
+}

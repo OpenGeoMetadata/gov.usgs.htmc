@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-362029",
+  "dct_title_s": "USGS 1:20000-scale Quadrangle for Arecibo, PR 1964 (printed 1990)",
+  "dct_alternative_sm": [
+    "Arecibo"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1964 edition of the Arecibo, Puerto Rico, topographic map at 1:20,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1943; aerial photographs from 1977; photo revised in 1982; last revised in 1982; printed in 1990.",
+    "Variations: woodland tint. Sheet size: 29.1 x 32.3 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1964",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "gbl_indexYear_im": [
+    1964
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1990]"
+  ],
+  "dct_spatial_sm": [
+    "Arecibo, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a75e4b00f54eb3fed5b",
+    "urn:uuid:fe80653b-525e-4fce-b99c-8aee745e11fc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.625 18.375,-66.625 18.5,-66.75 18.5,-66.75 18.375,-66.625 18.375))",
+  "dcat_bbox": "ENVELOPE(-66.75, -66.625, 18.5, 18.375)",
+  "dcat_centroid": "18.4375,-66.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-362026",
+    "usgs-htmc-362027",
+    "usgs-htmc-362028",
+    "usgs-htmc-362030",
+    "usgs-htmc-362324",
+    "usgs-htmc-362325",
+    "usgs-htmc-362326",
+    "usgs-htmc-362327",
+    "usgs-htmc-362328",
+    "usgs-htmc-475451",
+    "usgs-htmc-475452"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Arecibo_362029_1964_20000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Arecibo_362029_1964_20000_geo.pdf\",\"label\":\"GeoPDF (21.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Arecibo_362029_1964_20000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/20000/PR_Arecibo_362029_1964_20000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a75e4b00f54eb3fed5b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/20000/PR_Arecibo_362029_1964_20000_tn.jpg\"}"
+}

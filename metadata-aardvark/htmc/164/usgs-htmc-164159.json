@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-164159",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Chapel Hill, NC 1947",
+  "dct_alternative_sm": [
+    "Chapel Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Chapel Hill, North Carolina, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey.",
+    "Variations: woodland tint. Sheet size: 16.9 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1947]"
+  ],
+  "dct_spatial_sm": [
+    "Orange County, North Carolina",
+    "Durham County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2be4e4b00f54eb3caec1",
+    "urn:uuid:036cd329-c780-cff6-79de-8605f57d50db"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79 35.875,-79 36,-79.125 36,-79.125 35.875,-79 35.875))",
+  "dcat_bbox": "ENVELOPE(-79.125, -79, 36, 35.875)",
+  "dcat_centroid": "35.9375,-79.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161079",
+    "usgs-htmc-164157",
+    "usgs-htmc-164158",
+    "usgs-htmc-164160",
+    "usgs-htmc-164161",
+    "usgs-htmc-164162",
+    "usgs-htmc-164163",
+    "usgs-htmc-164164"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Chapel%20Hill_164159_1947_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/31680/NC_Chapel%20Hill_164159_1947_31680_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Chapel%20Hill_164159_1947_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/31680/NC_Chapel_Hill_164159_1947_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2be4e4b00f54eb3caec1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/31680/NC_Chapel%20Hill_164159_1947_31680_tn.jpg\"}"
+}

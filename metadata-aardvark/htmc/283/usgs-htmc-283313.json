@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-283313",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Coos Bay, OR 1954",
+  "dct_alternative_sm": [
+    "Coos Bay"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1954 edition of the Coos Bay, Oregon, topographic map at 1:250,000 scale (2 x 1 degree series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1945; printed in 1954.",
+    "Variations: shaded relief. Sheet size: 18 x 38.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1954",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "gbl_indexYear_im": [
+    1954
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "Coos County, Oregon",
+    "Curry County, Oregon",
+    "Douglas County, Oregon",
+    "Lane County, Oregon",
+    "Josephine County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5474e4b00f54eb411a24",
+    "urn:uuid:cdf18e6d-8834-4391-2ef9-70f8f13a842a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "2 x 1 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 42,-124 44,-125 44,-125 42,-124 42))",
+  "dcat_bbox": "ENVELOPE(-125, -124, 44, 42)",
+  "dcat_centroid": "43,-124.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-283314",
+    "usgs-htmc-283315",
+    "usgs-htmc-283316"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Coos%20Bay_283313_1954_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Coos%20Bay_283313_1954_250000_geo.pdf\",\"label\":\"GeoPDF (19.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Coos%20Bay_283313_1954_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/250000/OR_Coos_Bay_283313_1954_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5474e4b00f54eb411a24\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/250000/OR_Coos%20Bay_283313_1954_250000_tn.jpg\"}"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-464037",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Pribilof Islands, AK 1948 (printed 1969)",
+  "dct_alternative_sm": [
+    "Pribilof Islands"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Pribilof Islands, Alaska, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Printed in 1969.",
+    "Variations: woodland tint, shaded relief. Sheet size: 22.46 x 21.93 inches. Printed projection: Polyconic; horizontal datum: Regional. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1948 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Aleutians West Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5bc1bfe4e4b0fc368eb8f325",
+    "urn:uuid:21ae3a3a-d267-722d-4c95-4f4140be1c01"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-169 56.4,-169 57.4,-171 57.4,-171 56.4,-169 56.4))",
+  "dcat_bbox": "ENVELOPE(-171, -169, 57.4, 56.4)",
+  "dcat_centroid": "56.9,-170",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-464034",
+    "usgs-htmc-464035",
+    "usgs-htmc-464038",
+    "usgs-htmc-464039",
+    "usgs-htmc-464041",
+    "usgs-htmc-464042",
+    "usgs-htmc-707842"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Pribilof%20Islands_464037_1948_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Pribilof%20Islands_464037_1948_250000_geo.pdf\",\"label\":\"GeoPDF (20.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Pribilof%20Islands_464037_1948_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/250000/AK_Pribilof_Islands_464037_1948_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5bc1bfe4e4b0fc368eb8f325\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/250000/AK_Pribilof%20Islands_464037_1948_250000_tn.jpg\"}"
+}

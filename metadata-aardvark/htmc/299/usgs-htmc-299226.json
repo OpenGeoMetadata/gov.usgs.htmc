@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-299226",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Big Trees, CA 1901 (printed 1948)",
+  "dct_alternative_sm": [
+    "Big Trees"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1901 edition of the Big Trees, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1891; printed in 1948.",
+    "Sheet size: 16.6 x 20.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1901",
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    1901
+  ],
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Tuolumne County, California",
+    "Calaveras County, California",
+    "Amador County, California",
+    "Alpine County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a5373e4b00f54eb40f971",
+    "urn:uuid:b30cf597-61a8-068e-a20d-7e3fb936b946"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120 38,-120 38.5,-120.5 38.5,-120.5 38,-120 38))",
+  "dcat_bbox": "ENVELOPE(-120.5, -120, 38.5, 38)",
+  "dcat_centroid": "38.25,-120.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299215",
+    "usgs-htmc-299216",
+    "usgs-htmc-299217",
+    "usgs-htmc-299218",
+    "usgs-htmc-299219",
+    "usgs-htmc-299220",
+    "usgs-htmc-299221",
+    "usgs-htmc-299222",
+    "usgs-htmc-299223",
+    "usgs-htmc-299224",
+    "usgs-htmc-299225"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Big%20Trees_299226_1901_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Big%20Trees_299226_1901_125000_geo.pdf\",\"label\":\"GeoPDF (10.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Big%20Trees_299226_1901_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Big_Trees_299226_1901_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a5373e4b00f54eb40f971\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Big%20Trees_299226_1901_125000_tn.jpg\"}"
+}

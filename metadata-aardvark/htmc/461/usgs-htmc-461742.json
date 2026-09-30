@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-461742",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Gettysburg, PA 1944",
+  "dct_alternative_sm": [
+    "Gettysburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Gettysburg, Pennsylvania, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department. Aerial photographs from 1943.",
+    "Variations: woodland tint. Sheet size: 16 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Adams County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3643e4b00f54eb3dcf02",
+    "urn:uuid:fbe62718-05bf-5456-46f5-264a843ecad1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.125 39.75,-77.125 39.875,-77.25 39.875,-77.25 39.75,-77.125 39.75))",
+  "dcat_bbox": "ENVELOPE(-77.25, -77.125, 39.875, 39.75)",
+  "dcat_centroid": "39.8125,-77.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170858",
+    "usgs-htmc-170859",
+    "usgs-htmc-170863",
+    "usgs-htmc-170864",
+    "usgs-htmc-170865",
+    "usgs-htmc-223105",
+    "usgs-htmc-223107",
+    "usgs-htmc-223108",
+    "usgs-htmc-461744"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Gettysburg_461742_1944_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Gettysburg_461742_1944_31680_geo.pdf\",\"label\":\"GeoPDF (6.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Gettysburg_461742_1944_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/31680/PA_Gettysburg_461742_1944_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3643e4b00f54eb3dcf02\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Gettysburg_461742_1944_31680_tn.jpg\"}"
+}

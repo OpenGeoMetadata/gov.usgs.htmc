@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-338006",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Jay Peak, VT 1925",
+  "dct_alternative_sm": [
+    "Jay Peak"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1925 edition of the Jay Peak, Vermont, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Army Corps of Engineers. Surveyed in 1923.",
+    "Sheet size: 15.35 x 20.71 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1925",
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    1925
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Vermont",
+    "Orleans County, Vermont",
+    "Lamoille County, Vermont",
+    "Vermont"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a41a3e4b00f54eb3ef8e1",
+    "urn:uuid:d93e1848-9254-3499-3a1c-3719679a5880"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.5 44.75,-72.5 45,-72.75 45,-72.75 44.75,-72.5 44.75))",
+  "dcat_bbox": "ENVELOPE(-72.75, -72.5, 45, 44.75)",
+  "dcat_centroid": "44.875,-72.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-338003",
+    "usgs-htmc-338004",
+    "usgs-htmc-338005",
+    "usgs-htmc-338007",
+    "usgs-htmc-338008",
+    "usgs-htmc-338009",
+    "usgs-htmc-338010",
+    "usgs-htmc-338011",
+    "usgs-htmc-338012",
+    "usgs-htmc-460031"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Jay%20Peak_338006_1925_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/62500/VT_Jay%20Peak_338006_1925_62500_geo.pdf\",\"label\":\"GeoPDF (10.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VT/VT_Jay%20Peak_338006_1925_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VT/62500/VT_Jay_Peak_338006_1925_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a41a3e4b00f54eb3ef8e1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VT/62500/VT_Jay%20Peak_338006_1925_62500_tn.jpg\"}"
+}

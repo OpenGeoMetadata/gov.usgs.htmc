@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-329910",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Portsmouth, NH 1952",
+  "dct_alternative_sm": [
+    "Portsmouth"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Portsmouth, New Hampshire, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the Army Map Service. Surveyed in 1944; aerial photographs from 1943; field checked in 1944; printed in 1952.",
+    "Variations: woodland tint. Sheet size: 20.3 x 28.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3837e4b00f54eb3dfc12",
+    "urn:uuid:9d6e6980-01c7-9e70-3b84-153a496b3cf4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-70.75 43,-70.75 43.125,-70.875 43.125,-70.875 43,-70.75 43))",
+  "dcat_bbox": "ENVELOPE(-70.875, -70.75, 43.125, 43)",
+  "dcat_centroid": "43.0625,-70.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-329761",
+    "usgs-htmc-329762",
+    "usgs-htmc-329763",
+    "usgs-htmc-329764"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Portsmouth_329910_1952_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/25000/NH_Portsmouth_329910_1952_25000_geo.pdf\",\"label\":\"GeoPDF (14.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Portsmouth_329910_1952_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/25000/NH_Portsmouth_329910_1952_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3837e4b00f54eb3dfc12\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/25000/NH_Portsmouth_329910_1952_25000_tn.jpg\"}"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-222448",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Weatherly, PA 1976 (printed 1979)",
+  "dct_alternative_sm": [
+    "Weatherly"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1976 edition of the Weatherly, Pennsylvania, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1976; printed in 1979.",
+    "Variations: orthophotomap. Sheet size: 21.9 x 26.7 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1976",
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "gbl_indexYear_im": [
+    1976
+  ],
+  "gbl_dateRange_drsim": [
+    "[1976 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Carbon County, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3585e4b00f54eb3db83f",
+    "urn:uuid:7bd3afb7-8413-e948-fe90-7b68456911c2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-75.75 40.875,-75.75 41,-75.875 41,-75.875 40.875,-75.75 40.875))",
+  "dcat_bbox": "ENVELOPE(-75.875, -75.75, 41, 40.875)",
+  "dcat_centroid": "40.9375,-75.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-222443",
+    "usgs-htmc-222444",
+    "usgs-htmc-222445",
+    "usgs-htmc-222446",
+    "usgs-htmc-222447",
+    "usgs-htmc-223618",
+    "usgs-htmc-223619",
+    "usgs-htmc-223621",
+    "usgs-htmc-462047"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Weatherly_222448_1976_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Weatherly_222448_1976_24000_geo.pdf\",\"label\":\"GeoPDF (22.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Weatherly_222448_1976_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/24000/PA_Weatherly_222448_1976_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3585e4b00f54eb3db83f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/24000/PA_Weatherly_222448_1976_24000_tn.jpg\"}"
+}

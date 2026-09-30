@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-123544",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Tyler, TX 1991",
+  "dct_alternative_sm": [
+    "Tyler"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1991 edition of the Tyler, Texas, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1988; last revised in 1991; printed in 1991.",
+    "Variations: woodland tint. Sheet size: 44 x 24 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1991",
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_dateRange_drsim": [
+    "[1988 TO 1991]"
+  ],
+  "dct_spatial_sm": [
+    "Smith County, Texas",
+    "Henderson County, Texas",
+    "Van Zandt County, Texas",
+    "Cherokee County, Texas",
+    "Anderson County, Texas",
+    "Texas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2e10e4b00f54eb3ceaa5",
+    "urn:uuid:c411f35a-33f3-7305-30fa-2a4fb72b9fef"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-95 32,-95 32.5,-96 32.5,-96 32,-95 32))",
+  "dcat_bbox": "ENVELOPE(-96, -95, 32.5, 32)",
+  "dcat_centroid": "32.25,-95.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123543"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Tyler_123544_1991_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/100000/TX_Tyler_123544_1991_100000_geo.pdf\",\"label\":\"GeoPDF (31.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/TX/TX_Tyler_123544_1991_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/TX/100000/TX_Tyler_123544_1991_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2e10e4b00f54eb3ceaa5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/TX/100000/TX_Tyler_123544_1991_100000_tn.jpg\"}"
+}

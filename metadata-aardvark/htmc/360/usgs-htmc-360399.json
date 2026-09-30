@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-360399",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Valdez D-7, AK 1993 (printed 2001)",
+  "dct_alternative_sm": [
+    "Valdez D-7"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1993 edition of the Valdez D-7, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1993; printed in 2001.",
+    "Variations: woodland tint. Sheet size: 18 x 21.4 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "gbl_dateRange_drsim": [
+    "[1993 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "Valdez-Cordova Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a571ee4b00f54eb4141ad",
+    "urn:uuid:fb922dfd-625b-84ca-9fd0-3d51eb44bbeb"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-146.25 61.75,-146.25 62,-146.625 62,-146.625 61.75,-146.25 61.75))",
+  "dcat_bbox": "ENVELOPE(-146.625, -146.25, 62, 61.75)",
+  "dcat_centroid": "61.875,-146.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-360400",
+    "usgs-htmc-360401",
+    "usgs-htmc-360402",
+    "usgs-htmc-360403",
+    "usgs-htmc-464281"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Valdez%20D-7_360399_1993_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Valdez%20D-7_360399_1993_63360_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Valdez%20D-7_360399_1993_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Valdez_D7_360399_1993_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a571ee4b00f54eb4141ad\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Valdez%20D-7_360399_1993_63360_tn.jpg\"}"
+}

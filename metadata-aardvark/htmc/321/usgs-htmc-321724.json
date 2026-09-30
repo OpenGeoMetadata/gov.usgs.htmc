@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-321724",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Lovelock, NV 1959",
+  "dct_alternative_sm": [
+    "Lovelock"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1959 edition of the Lovelock, Nevada, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the Army Map Service. Field checked in 1955; printed in 1959.",
+    "Variations: woodland tint. Sheet size: 32.7 x 22 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1959",
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "gbl_indexYear_im": [
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1955 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b1de4b00f54eb3ffd77",
+    "urn:uuid:6d007d5d-f445-c485-6a61-a171607d5a72"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-118 40,-118 41,-120 41,-120 40,-118 40))",
+  "dcat_bbox": "ENVELOPE(-120, -118, 41, 40)",
+  "dcat_centroid": "40.5,-119",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-321725",
+    "usgs-htmc-321726",
+    "usgs-htmc-321727",
+    "usgs-htmc-321728",
+    "usgs-htmc-321729",
+    "usgs-htmc-321730"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Lovelock_321724_1959_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/250000/NV_Lovelock_321724_1959_250000_geo.pdf\",\"label\":\"GeoPDF (20.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Lovelock_321724_1959_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/250000/NV_Lovelock_321724_1959_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b1de4b00f54eb3ffd77\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/250000/NV_Lovelock_321724_1959_250000_tn.jpg\"}"
+}

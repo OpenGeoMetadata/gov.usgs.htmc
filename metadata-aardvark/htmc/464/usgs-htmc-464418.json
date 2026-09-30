@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-464418",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hulaco, AL 1952",
+  "dct_alternative_sm": [
+    "Hulaco"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Hulaco, Alabama, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the Tennessee Valley Authority. Aerial photographs from 1946; field checked in 1949; printed in 1952.",
+    "Sheet size: 21.68 x 26.71 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "Tennessee Valley Authority"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1946 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Cullman County, Alabama",
+    "Marshall County, Alabama",
+    "Morgan County, Alabama",
+    "Blount County, Alabama",
+    "Alabama"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5c1d1162e4b0708288ca0ed7",
+    "urn:uuid:3f016925-abc4-b23b-d289-92148f3b1b74"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-86.5 34.25,-86.5 34.375,-86.625 34.375,-86.625 34.25,-86.5 34.25))",
+  "dcat_bbox": "ENVELOPE(-86.625, -86.5, 34.375, 34.25)",
+  "dcat_centroid": "34.3125,-86.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-304215",
+    "usgs-htmc-304216",
+    "usgs-htmc-304217",
+    "usgs-htmc-304218",
+    "usgs-htmc-304219"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Hulaco_464418_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Hulaco_464418_1952_24000_geo.pdf\",\"label\":\"GeoPDF (10.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AL/AL_Hulaco_464418_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AL/24000/AL_Hulaco_464418_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5c1d1162e4b0708288ca0ed7\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AL/24000/AL_Hulaco_464418_1952_24000_tn.jpg\"}"
+}

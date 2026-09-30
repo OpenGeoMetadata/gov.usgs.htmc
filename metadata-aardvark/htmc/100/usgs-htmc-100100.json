@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-100100",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bass Lake, CA 2004 (printed 2007)",
+  "dct_alternative_sm": [
+    "Bass Lake"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2004 edition of the Bass Lake, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1998; printed in 2007.",
+    "Variations: woodland tint. Sheet size: 21.5 x 26.8 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_dateRange_drsim": [
+    "[1998 TO 2007]"
+  ],
+  "dct_spatial_sm": [
+    "Madera County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a294ae4b00f54eb3c6846",
+    "urn:uuid:f5382369-cad8-c6f6-c950-791580a89e9a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-119.5 37.25,-119.5 37.375,-119.625 37.375,-119.625 37.25,-119.5 37.25))",
+  "dcat_bbox": "ENVELOPE(-119.625, -119.5, 37.375, 37.25)",
+  "dcat_centroid": "37.3125,-119.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-288238",
+    "usgs-htmc-302357"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bass%20Lake_100100_2004_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Bass%20Lake_100100_2004_24000_geo.pdf\",\"label\":\"GeoPDF (16.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Bass%20Lake_100100_2004_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/24000/CA_Bass_Lake_100100_2004_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a294ae4b00f54eb3c6846\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/24000/CA_Bass%20Lake_100100_2004_24000_tn.jpg\"}"
+}

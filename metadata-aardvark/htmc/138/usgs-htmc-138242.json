@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-138242",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Fleischmanns, NY 1945 (printed 1983)",
+  "dct_alternative_sm": [
+    "Fleischmanns"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1945 edition of the Fleischmanns, New York, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1981; field checked in 1945; photo revised in 1982; last revised in 1982; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1945",
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware County, New York",
+    "Greene County, New York",
+    "Ulster County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a472de4b00f54eb3f8da5",
+    "urn:uuid:99fa3498-3149-b7b2-a6cd-25790d7292c2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.5 42.125,-74.5 42.25,-74.625 42.25,-74.625 42.125,-74.5 42.125))",
+  "dcat_bbox": "ENVELOPE(-74.625, -74.5, 42.25, 42.125)",
+  "dcat_centroid": "42.1875,-74.5625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-138238",
+    "usgs-htmc-138239",
+    "usgs-htmc-138240",
+    "usgs-htmc-138241"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Fleischmanns_138242_1945_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Fleischmanns_138242_1945_24000_geo.pdf\",\"label\":\"GeoPDF (14.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Fleischmanns_138242_1945_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/24000/NY_Fleischmanns_138242_1945_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a472de4b00f54eb3f8da5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_Fleischmanns_138242_1945_24000_tn.jpg\"}"
+}

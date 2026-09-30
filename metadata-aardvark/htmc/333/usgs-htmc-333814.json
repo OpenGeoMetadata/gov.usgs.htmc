@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-333814",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Hahnville, LA 1936",
+  "dct_alternative_sm": [
+    "Hahnville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1936 edition of the Hahnville, Louisiana, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1934.",
+    "Release: Preliminary. Variations: woodland tint. Sheet size: 16.9 x 20.5 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1936",
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "gbl_indexYear_im": [
+    1936
+  ],
+  "gbl_dateRange_drsim": [
+    "[1934 TO 1936]"
+  ],
+  "dct_spatial_sm": [
+    "St. Charles Parish, Louisiana",
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a49d6e4b00f54eb3fe069",
+    "urn:uuid:71d47971-04ce-fc16-b779-e7bba1ea9979"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.375 29.875,-90.375 30,-90.5 30,-90.5 29.875,-90.375 29.875))",
+  "dcat_bbox": "ENVELOPE(-90.5, -90.375, 30, 29.875)",
+  "dcat_centroid": "29.9375,-90.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-332189",
+    "usgs-htmc-332190",
+    "usgs-htmc-332191",
+    "usgs-htmc-332192",
+    "usgs-htmc-332193",
+    "usgs-htmc-332194",
+    "usgs-htmc-332195",
+    "usgs-htmc-332196",
+    "usgs-htmc-332197",
+    "usgs-htmc-333816"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Hahnville_333814_1936_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Hahnville_333814_1936_31680_geo.pdf\",\"label\":\"GeoPDF (6.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/LA/LA_Hahnville_333814_1936_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/LA/31680/LA_Hahnville_333814_1936_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a49d6e4b00f54eb3fe069\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/LA/31680/LA_Hahnville_333814_1936_31680_tn.jpg\"}"
+}

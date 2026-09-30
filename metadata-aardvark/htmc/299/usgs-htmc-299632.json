@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-299632",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Sierraville, CA 1892",
+  "dct_alternative_sm": [
+    "Sierraville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the Sierraville, California, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1892.",
+    "Sheet size: 16.6 x 19.4 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1892]"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a53e1e4b00f54eb4108da",
+    "urn:uuid:f07a047b-8724-67b7-4f15-85f47455a27a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-120 39.5,-120 40,-120.5 40,-120.5 39.5,-120 39.5))",
+  "dcat_bbox": "ENVELOPE(-120.5, -120, 40, 39.5)",
+  "dcat_centroid": "39.75,-120.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299633",
+    "usgs-htmc-299634",
+    "usgs-htmc-299635",
+    "usgs-htmc-299636",
+    "usgs-htmc-299637",
+    "usgs-htmc-299638",
+    "usgs-htmc-302076",
+    "usgs-htmc-302077",
+    "usgs-htmc-302078",
+    "usgs-htmc-302079"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Sierraville_299632_1892_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Sierraville_299632_1892_125000_geo.pdf\",\"label\":\"GeoPDF (7.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Sierraville_299632_1892_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/125000/CA_Sierraville_299632_1892_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a53e1e4b00f54eb4108da\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/125000/CA_Sierraville_299632_1892_125000_tn.jpg\"}"
+}

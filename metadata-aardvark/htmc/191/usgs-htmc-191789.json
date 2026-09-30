@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-191789",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Owl Tank Canyon East, NM 1980",
+  "dct_alternative_sm": [
+    "Owl Tank Canyon East"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1980 edition of the Owl Tank Canyon East, New Mexico, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1974; field checked in 1975; last revised in 1980; printed in 1980.",
+    "Sheet size: 22 x 27 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1980",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "gbl_dateRange_drsim": [
+    "[1974 TO 1980]"
+  ],
+  "dct_spatial_sm": [
+    "Otero County, New Mexico",
+    "New Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3cc9e4b00f54eb3e77af",
+    "urn:uuid:1682f01d-4be7-53c7-9449-6d1a27db3e45"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.75 32.125,-105.75 32.25,-105.875 32.25,-105.875 32.125,-105.75 32.125))",
+  "dcat_bbox": "ENVELOPE(-105.875, -105.75, 32.25, 32.125)",
+  "dcat_centroid": "32.1875,-105.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Owl%20Tank%20Canyon%20East_191789_1980_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Owl%20Tank%20Canyon%20East_191789_1980_24000_geo.pdf\",\"label\":\"GeoPDF (7.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NM/NM_Owl%20Tank%20Canyon%20East_191789_1980_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NM/24000/NM_Owl_Tank_Canyon_East_191789_1980_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3cc9e4b00f54eb3e77af\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NM/24000/NM_Owl%20Tank%20Canyon%20East_191789_1980_24000_tn.jpg\"}"
+}

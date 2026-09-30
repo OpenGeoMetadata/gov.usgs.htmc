@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-475481",
+  "dct_title_s": "USGS 1:10000-scale Quadrangle for Fajardo NE, PR 1947 (printed 1948)",
+  "dct_alternative_sm": [
+    "Fajardo NE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1947 edition of the Fajardo NE, Puerto Rico, topographic map at 1:10,000 scale (3.75 x 3.75 minute series), published by the U.S. Geological Survey. Printed in 1948.",
+    "Sheet size: 30.74 x 31.99 inches. Printed projection: Polyconic; horizontal datum: Puerto Rico. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "gbl_indexYear_im": [
+    1947
+  ],
+  "gbl_dateRange_drsim": [
+    "[1947 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Fajardo, Puerto Rico",
+    "Luquillo, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/654d9d51d34ee4b6e05c30ad",
+    "urn:uuid:787f23e6-d5a7-5e5f-9b59-96aaa34daf10"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "3.75 x 3.75 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-65.625 18.3125,-65.625 18.375,-65.6875 18.375,-65.6875 18.3125,-65.625 18.3125))",
+  "dcat_bbox": "ENVELOPE(-65.6875, -65.625, 18.375, 18.3125)",
+  "dcat_centroid": "18.34375,-65.65625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2023-11-27T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Fajardo%20NE_475481_1947_10000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/10000/PR_Fajardo%20NE_475481_1947_10000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_Fajardo%20NE_475481_1947_10000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/10000/PR_Fajardo_NE_475481_1947_10000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/654d9d51d34ee4b6e05c30ad\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/10000/PR_Fajardo%20NE_475481_1947_10000_tn.jpg\"}"
+}

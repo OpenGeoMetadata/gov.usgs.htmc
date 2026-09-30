@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-466413",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Southern California Sheet No. 1, CA 1904 (printed 1907)",
+  "dct_alternative_sm": [
+    "Southern California Sheet No. 1"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1904 edition of the Southern California Sheet No. 1, California, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Surveyed in 1900; printed in 1907.",
+    "Sheet size: 32.83 x 19.82 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    1904
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1907]"
+  ],
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e148e0ae4b0ecf25c55b111",
+    "urn:uuid:51b13a5d-d7e5-0a24-b4fb-726a6e637af4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.5 33.5,-116.5 34.5,-118.5 34.5,-118.5 33.5,-116.5 33.5))",
+  "dcat_bbox": "ENVELOPE(-118.5, -116.5, 34.5, 33.5)",
+  "dcat_centroid": "34,-117.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299898",
+    "usgs-htmc-466408",
+    "usgs-htmc-466409",
+    "usgs-htmc-466410",
+    "usgs-htmc-466411",
+    "usgs-htmc-466414",
+    "usgs-htmc-466415"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Southern%20California%20Sheet%20No%201_466413_1904_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_Southern%20California%20Sheet%20No%201_466413_1904_250000_geo.pdf\",\"label\":\"GeoPDF (18.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Southern%20California%20Sheet%20No%201_466413_1904_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/250000/CA_Southern_California_Sheet_No_1_466413_1904_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e148e0ae4b0ecf25c55b111\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_Southern%20California%20Sheet%20No%201_466413_1904_250000_tn.jpg\"}"
+}

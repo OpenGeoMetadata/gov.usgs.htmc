@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-260676",
+  "dct_title_s": "USGS 1:21120-scale Quadrangle for James Island, SC 1919",
+  "dct_alternative_sm": [
+    "James Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the James Island, South Carolina, topographic map at 1:21,120 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1918; printed in 1919.",
+    "Variations: woodland tint. Sheet size: 25.9 x 29.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Charleston County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3f5ae4b00f54eb3eb6c9",
+    "urn:uuid:dc664059-1b86-16af-27db-51231c4c62fa"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79.875 32.625,-79.875 32.75,-80 32.75,-80 32.625,-79.875 32.625))",
+  "dcat_bbox": "ENVELOPE(-80, -79.875, 32.75, 32.625)",
+  "dcat_centroid": "32.6875,-79.9375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260677",
+    "usgs-htmc-261148",
+    "usgs-htmc-261149",
+    "usgs-htmc-261150",
+    "usgs-htmc-261151",
+    "usgs-htmc-261152",
+    "usgs-htmc-261153"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_James%20Island_260676_1919_21120_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_James%20Island_260676_1919_21120_geo.pdf\",\"label\":\"GeoPDF (18.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_James%20Island_260676_1919_21120_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/21120/SC_James_Island_260676_1919_21120_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3f5ae4b00f54eb3eb6c9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_James%20Island_260676_1919_21120_tn.jpg\"}"
+}

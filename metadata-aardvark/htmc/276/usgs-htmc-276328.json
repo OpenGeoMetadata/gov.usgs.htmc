@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-276328",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Highland Park, MI 1940",
+  "dct_alternative_sm": [
+    "Highland Park"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1940 edition of the Highland Park, Michigan, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1938.",
+    "Release: Preliminary. Variations: woodland tint. Sheet size: 21.9 x 26.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Wayne County, Michigan",
+    "Macomb County, Michigan",
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a46b5e4b00f54eb3f7f87",
+    "urn:uuid:9b276d7e-4e12-5795-9d17-c84e6e0540f3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83 42.375,-83 42.5,-83.125 42.5,-83.125 42.375,-83 42.375))",
+  "dcat_bbox": "ENVELOPE(-83.125, -83, 42.5, 42.375)",
+  "dcat_centroid": "42.4375,-83.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-276327",
+    "usgs-htmc-276329",
+    "usgs-htmc-276330",
+    "usgs-htmc-276331",
+    "usgs-htmc-276332",
+    "usgs-htmc-470804",
+    "usgs-htmc-470805",
+    "usgs-htmc-470806"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Highland%20Park_276328_1940_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Highland%20Park_276328_1940_24000_geo.pdf\",\"label\":\"GeoPDF (16.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MI/MI_Highland%20Park_276328_1940_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MI/24000/MI_Highland_Park_276328_1940_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a46b5e4b00f54eb3f7f87\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MI/24000/MI_Highland%20Park_276328_1940_24000_tn.jpg\"}"
+}

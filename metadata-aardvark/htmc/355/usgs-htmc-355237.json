@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-355237",
+  "dct_title_s": "USGS 1:63360-scale Quadrangle for Craig A-1, AK 1997 (printed 2000)",
+  "dct_alternative_sm": [
+    "Craig A-1"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1997 edition of the Craig A-1, Alaska, topographic map at 1:63,360 scale (15 x 15 minute series), published by the U.S. Geological Survey and the U.S. Forest Service. Aerial photographs from 1996; last revised in 1996; printed in 2000.",
+    "Variations: woodland tint. Sheet size: 18 x 21.5 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Forest Service"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_dateRange_drsim": [
+    "[1996 TO 2000]"
+  ],
+  "dct_spatial_sm": [
+    "Prince of Wales-Hyder Census Area, Alaska",
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a511be4b00f54eb40b170",
+    "urn:uuid:06969e84-a9b3-328f-4c08-6eed4ae81c0b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-132 55,-132 55.25,-132.3333333 55.25,-132.3333333 55,-132 55))",
+  "dcat_bbox": "ENVELOPE(-132.3333333, -132, 55.25, 55)",
+  "dcat_centroid": "55.125,-132.16666665",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-355233",
+    "usgs-htmc-355234",
+    "usgs-htmc-355235",
+    "usgs-htmc-355236"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Craig%20A-1_355237_1997_63360_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Craig%20A-1_355237_1997_63360_geo.pdf\",\"label\":\"GeoPDF (16.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AK/AK_Craig%20A-1_355237_1997_63360_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AK/63360/AK_Craig_A1_355237_1997_63360_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a511be4b00f54eb40b170\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AK/63360/AK_Craig%20A-1_355237_1997_63360_tn.jpg\"}"
+}

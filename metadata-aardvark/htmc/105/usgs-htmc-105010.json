@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-105010",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Caucomgomoc Lake West, ME 1989",
+  "dct_alternative_sm": [
+    "Caucomgomoc Lake West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1989 edition of the Caucomgomoc Lake West, Maine, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1985; field checked in 1986; last revised in 1989; printed in 1989.",
+    "Release: Provisional. Variations: woodland tint. Sheet size: 21.5 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1989",
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "gbl_indexYear_im": [
+    1989
+  ],
+  "gbl_dateRange_drsim": [
+    "[1985 TO 1989]"
+  ],
+  "dct_spatial_sm": [
+    "Piscataquis County, Maine",
+    "Somerset County, Maine",
+    "Maine"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4853e4b00f54eb3fb2fa",
+    "urn:uuid:67aba3aa-0231-4ad6-7813-2d508e6357a1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-69.625 46.125,-69.625 46.25,-69.75 46.25,-69.75 46.125,-69.625 46.125))",
+  "dcat_bbox": "ENVELOPE(-69.75, -69.625, 46.25, 46.125)",
+  "dcat_centroid": "46.1875,-69.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Caucomgomoc%20Lake%20West_105010_1989_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Caucomgomoc%20Lake%20West_105010_1989_24000_geo.pdf\",\"label\":\"GeoPDF (14.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ME/ME_Caucomgomoc%20Lake%20West_105010_1989_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ME/24000/ME_Caucomgomoc_Lake_West_105010_1989_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4853e4b00f54eb3fb2fa\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ME/24000/ME_Caucomgomoc%20Lake%20West_105010_1989_24000_tn.jpg\"}"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-254668",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Oceanville, NJ 1952 (printed 1969)",
+  "dct_alternative_sm": [
+    "Oceanville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1952 edition of the Oceanville, New Jersey, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Department of Commerce. Surveyed in 1950; aerial photographs from 1950; field checked in 1952; printed in 1969.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_publisher_sm": [
+    "United States. Department of Commerce"
+  ],
+  "dct_issued_s": "1952",
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "gbl_indexYear_im": [
+    1952
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1969]"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic County, New Jersey",
+    "Ocean County, New Jersey",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a253fe4b00f54eb3c045e",
+    "urn:uuid:ae2239a7-3dcd-c66f-76e5-7bde7027871a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-74.375 39.375,-74.375 39.5,-74.5 39.5,-74.5 39.375,-74.375 39.375))",
+  "dcat_bbox": "ENVELOPE(-74.5, -74.375, 39.5, 39.375)",
+  "dcat_centroid": "39.4375,-74.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-254669",
+    "usgs-htmc-254670",
+    "usgs-htmc-254671",
+    "usgs-htmc-254672"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Oceanville_254668_1952_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Oceanville_254668_1952_24000_geo.pdf\",\"label\":\"GeoPDF (15.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NJ/NJ_Oceanville_254668_1952_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NJ/24000/NJ_Oceanville_254668_1952_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a253fe4b00f54eb3c045e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NJ/24000/NJ_Oceanville_254668_1952_24000_tn.jpg\"}"
+}

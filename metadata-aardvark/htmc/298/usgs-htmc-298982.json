@@ -1,0 +1,86 @@
+{
+  "id": "usgs-htmc-298982",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Tamalpais, CA 1897 (printed 1905)",
+  "dct_alternative_sm": [
+    "Tamalpais"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Tamalpais, California, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1895; printed in 1905.",
+    "Sheet size: 16.6 x 19.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1895 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "Marin County, California",
+    "San Francisco County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a42b1e4b00f54eb3f1447",
+    "urn:uuid:b3cc9899-63cf-c6b5-e942-cfc9acc11ac4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.5 37.75,-122.5 38,-122.75 38,-122.75 37.75,-122.5 37.75))",
+  "dcat_bbox": "ENVELOPE(-122.75, -122.5, 38, 37.75)",
+  "dcat_centroid": "37.875,-122.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-298320",
+    "usgs-htmc-298321",
+    "usgs-htmc-298322",
+    "usgs-htmc-298980",
+    "usgs-htmc-298981",
+    "usgs-htmc-298983",
+    "usgs-htmc-298984",
+    "usgs-htmc-298985",
+    "usgs-htmc-298986",
+    "usgs-htmc-298987",
+    "usgs-htmc-298988",
+    "usgs-htmc-301787",
+    "usgs-htmc-301788",
+    "usgs-htmc-301789",
+    "usgs-htmc-301790",
+    "usgs-htmc-466008"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tamalpais_298982_1897_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Tamalpais_298982_1897_62500_geo.pdf\",\"label\":\"GeoPDF (8.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Tamalpais_298982_1897_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/62500/CA_Tamalpais_298982_1897_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a42b1e4b00f54eb3f1447\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/62500/CA_Tamalpais_298982_1897_62500_tn.jpg\"}"
+}

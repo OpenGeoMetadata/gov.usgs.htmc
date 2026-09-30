@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-467744",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Marietta, GA 1897",
+  "dct_alternative_sm": [
+    "Marietta"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Marietta, Georgia, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1888.",
+    "Sheet size: 17.16 x 20.66 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Paulding County, Georgia",
+    "Fulton County, Georgia",
+    "Douglas County, Georgia",
+    "Cobb County, Georgia",
+    "Carroll County, Georgia",
+    "Fayette County, Georgia",
+    "Coweta County, Georgia",
+    "Polk County, Georgia",
+    "Georgia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e17226ee4b0ecf25c59f170",
+    "urn:uuid:4f1d7221-a7ca-1173-7174-5a1adfe01fd8"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84.5 33.5,-84.5 34,-85 34,-85 33.5,-84.5 33.5))",
+  "dcat_bbox": "ENVELOPE(-85, -84.5, 34, 33.5)",
+  "dcat_centroid": "33.75,-84.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-247754",
+    "usgs-htmc-467741",
+    "usgs-htmc-467742",
+    "usgs-htmc-467743",
+    "usgs-htmc-467745",
+    "usgs-htmc-467746"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Marietta_467744_1897_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/125000/GA_Marietta_467744_1897_125000_geo.pdf\",\"label\":\"GeoPDF (7.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GA/GA_Marietta_467744_1897_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GA/125000/GA_Marietta_467744_1897_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e17226ee4b0ecf25c59f170\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GA/125000/GA_Marietta_467744_1897_125000_tn.jpg\"}"
+}

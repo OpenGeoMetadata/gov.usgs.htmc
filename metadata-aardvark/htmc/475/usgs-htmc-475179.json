@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-475179",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Binger, OK 1951 (printed 1952)",
+  "dct_alternative_sm": [
+    "Binger"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1951 edition of the Binger, Oklahoma, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1951; aerial photographs from 1942; field checked in 1951; printed in 1952.",
+    "Sheet size: 17.16 x 21.24 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1951",
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "gbl_indexYear_im": [
+    1951
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1952]"
+  ],
+  "dct_spatial_sm": [
+    "Caddo County, Oklahoma",
+    "Canadian County, Oklahoma",
+    "Oklahoma"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/67e4707dd34ee7f1422175be",
+    "urn:uuid:1acc2b2d-e0c7-1ed2-09e2-f4030457e621"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-98.25 35.25,-98.25 35.5,-98.5 35.5,-98.5 35.25,-98.25 35.25))",
+  "dcat_bbox": "ENVELOPE(-98.5, -98.25, 35.5, 35.25)",
+  "dcat_centroid": "35.375,-98.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-705433",
+    "usgs-htmc-800785"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2025-03-26T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"Unregistered\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/62500/OK_Binger_475179_1951_62500_geo.pdf\",\"label\":\"GeoPDF (7.7 MB)\"},{\"url\":\"Unregistered\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OK/62500/OK_Binger_475179_1951_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/67e4707dd34ee7f1422175be\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OK/62500/OK_Binger_475179_1951_62500_tn.jpg\"}"
+}

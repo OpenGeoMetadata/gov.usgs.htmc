@@ -1,0 +1,71 @@
+{
+  "id": "usgs-htmc-235314",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Bismark Mtn, ID 1973 (printed 1975)",
+  "dct_alternative_sm": [
+    "Bismark Mtn"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1973 edition of the Bismark Mtn, Idaho, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1972; field checked in 1973; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1973",
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "gbl_indexYear_im": [
+    1973
+  ],
+  "gbl_dateRange_drsim": [
+    "[1972 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "Idaho County, Idaho",
+    "Valley County, Idaho",
+    "Idaho"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a36d5e4b00f54eb3ddd40",
+    "urn:uuid:e7dd0dcd-a6b5-c30c-27f1-51c6c86209db"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-115.125 45.125,-115.125 45.25,-115.25 45.25,-115.25 45.125,-115.125 45.125))",
+  "dcat_bbox": "ENVELOPE(-115.25, -115.125, 45.25, 45.125)",
+  "dcat_centroid": "45.1875,-115.1875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-235313"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Bismark%20Mtn_235314_1973_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Bismark%20Mtn_235314_1973_24000_geo.pdf\",\"label\":\"GeoPDF (14.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/ID/ID_Bismark%20Mtn_235314_1973_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/ID/24000/ID_Bismark_Mtn_235314_1973_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a36d5e4b00f54eb3ddd40\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/ID/24000/ID_Bismark%20Mtn_235314_1973_24000_tn.jpg\"}"
+}

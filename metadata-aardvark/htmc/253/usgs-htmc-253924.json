@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-253924",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Wheeling, WV 1902 (printed 1920)",
+  "dct_alternative_sm": [
+    "Wheeling"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1902 edition of the Wheeling, West Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1901; printed in 1920.",
+    "Sheet size: 16.47 x 19.89 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1902",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "gbl_indexYear_im": [
+    1902
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Ohio",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2778e4b00f54eb3c3ec1",
+    "urn:uuid:0ea0a23a-20e7-de2e-8c13-a6ff7d9efddf"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.5 40,-80.5 40.25,-80.75 40.25,-80.75 40,-80.5 40))",
+  "dcat_bbox": "ENVELOPE(-80.75, -80.5, 40.25, 40)",
+  "dcat_centroid": "40.125,-80.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253920",
+    "usgs-htmc-253921",
+    "usgs-htmc-253922",
+    "usgs-htmc-253923",
+    "usgs-htmc-253925",
+    "usgs-htmc-253926",
+    "usgs-htmc-253927",
+    "usgs-htmc-253928",
+    "usgs-htmc-701626"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Wheeling_253924_1902_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Wheeling_253924_1902_62500_geo.pdf\",\"label\":\"GeoPDF (14.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Wheeling_253924_1902_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/62500/WV_Wheeling_253924_1902_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2778e4b00f54eb3c3ec1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Wheeling_253924_1902_62500_tn.jpg\"}"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-317845",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Oelrichs, NE 1900 (printed 1954)",
+  "dct_alternative_sm": [
+    "Oelrichs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1900 edition of the Oelrichs, Nebraska, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1893; printed in 1954.",
+    "Sheet size: 17 x 20.8 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1900",
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    1900
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1954]"
+  ],
+  "dct_spatial_sm": [
+    "South Dakota",
+    "Nebraska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4d2fe4b00f54eb4037fc",
+    "urn:uuid:d6c65917-61c2-1726-cde9-c382dcc11340"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-103 43,-103 43.5,-103.5 43.5,-103.5 43,-103 43))",
+  "dcat_bbox": "ENVELOPE(-103.5, -103, 43.5, 43)",
+  "dcat_centroid": "43.25,-103.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-344807",
+    "usgs-htmc-344808",
+    "usgs-htmc-344809",
+    "usgs-htmc-344810"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/NE_Oelrichs_317845_1900_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Oelrichs_317845_1900_125000_geo.pdf\",\"label\":\"GeoPDF (8.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SD/NE_Oelrichs_317845_1900_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NE/125000/NE_Oelrichs_317845_1900_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4d2fe4b00f54eb4037fc\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NE/125000/NE_Oelrichs_317845_1900_125000_tn.jpg\"}"
+}

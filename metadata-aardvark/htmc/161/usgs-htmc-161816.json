@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-161816",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Winston-Salem West, NC 1997 (printed 2001)",
+  "dct_alternative_sm": [
+    "Winston-Salem West"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1997 edition of the Winston-Salem West, North Carolina, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1950; aerial photographs from 1997; printed in 2001.",
+    "Variations: woodland tint. Sheet size: 21.9 x 26.7 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 2001]"
+  ],
+  "dct_spatial_sm": [
+    "Forsyth County, North Carolina",
+    "North Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a544be4b00f54eb41158d",
+    "urn:uuid:470b0505-435f-e63d-f39a-5720690e72af"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.25 36,-80.25 36.125,-80.375 36.125,-80.375 36,-80.25 36))",
+  "dcat_bbox": "ENVELOPE(-80.375, -80.25, 36.125, 36)",
+  "dcat_centroid": "36.0625,-80.3125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-161814",
+    "usgs-htmc-161815",
+    "usgs-htmc-164057",
+    "usgs-htmc-164058",
+    "usgs-htmc-164059",
+    "usgs-htmc-164060"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Winston-Salem%20West_161816_1997_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Winston-Salem%20West_161816_1997_24000_geo.pdf\",\"label\":\"GeoPDF (19.3 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NC/NC_Winston-Salem%20West_161816_1997_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NC/24000/NC_WinstonSalem_West_161816_1997_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a544be4b00f54eb41158d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NC/24000/NC_Winston-Salem%20West_161816_1997_24000_tn.jpg\"}"
+}

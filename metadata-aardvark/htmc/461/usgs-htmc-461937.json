@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-461937",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Townville, PA 1927",
+  "dct_alternative_sm": [
+    "Townville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1927 edition of the Townville, Pennsylvania, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1927.",
+    "Release: Advance. Sheet size: 20.9 x 27.8 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1927",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "gbl_indexYear_im": [
+    1927
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1927]"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Venango County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4654e4b00f54eb3f7947",
+    "urn:uuid:3d764782-48a1-68b1-7110-acd59b4a6b54"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79.75 41.5,-79.75 41.75,-80 41.75,-80 41.5,-79.75 41.5))",
+  "dcat_bbox": "ENVELOPE(-80, -79.75, 41.75, 41.5)",
+  "dcat_centroid": "41.625,-79.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-170051",
+    "usgs-htmc-222222",
+    "usgs-htmc-222223",
+    "usgs-htmc-222224",
+    "usgs-htmc-461936"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Townville_461937_1927_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/48000/PA_Townville_461937_1927_48000_geo.pdf\",\"label\":\"GeoPDF (14.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Townville_461937_1927_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/48000/PA_Townville_461937_1927_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4654e4b00f54eb3f7947\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/48000/PA_Townville_461937_1927_48000_tn.jpg\"}"
+}

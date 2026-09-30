@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-475670",
+  "dct_title_s": "USGS 1:10000-scale Quadrangle for San Juan SO, PR 1950",
+  "dct_alternative_sm": [
+    "San Juan SO"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1950 edition of the San Juan SO, Puerto Rico, topographic map at 1:10,000 scale (3.75 x 3.75 minute series), published by the U.S. Geological Survey.",
+    "Sheet size: 30.34 x 31.75 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1950",
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_dateRange_drsim": [
+    "[1950 TO 1950]"
+  ],
+  "dct_spatial_sm": [
+    "San Juan, Puerto Rico",
+    "Guaynabo, Puerto Rico",
+    "Bayamón, Puerto Rico",
+    "Cataño, Puerto Rico",
+    "Puerto Rico"
+  ],
+  "dct_language_sm": [
+    "spa"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65c1a10ed34ef4b119ca680e",
+    "urn:uuid:344e7391-5866-6479-0684-0344ec2e0a0b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "3.75 x 3.75 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-66.0625 18.375,-66.0625 18.4375,-66.125 18.4375,-66.125 18.375,-66.0625 18.375))",
+  "dcat_bbox": "ENVELOPE(-66.125, -66.0625, 18.4375, 18.375)",
+  "dcat_centroid": "18.40625,-66.09375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-02-05T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_San%20Juan%20SO_475670_1950_10000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/10000/PR_San%20Juan%20SO_475670_1950_10000_geo.pdf\",\"label\":\"GeoPDF (17.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PR/PR_San%20Juan%20SO_475670_1950_10000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PR/10000/PR_San_Juan_SO_475670_1950_10000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65c1a10ed34ef4b119ca680e\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PR/10000/PR_San%20Juan%20SO_475670_1950_10000_tn.jpg\"}"
+}

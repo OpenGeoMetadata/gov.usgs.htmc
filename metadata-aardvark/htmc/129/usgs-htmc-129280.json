@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-129280",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Sag Harbor, NY 1903 (printed 1961)",
+  "dct_alternative_sm": [
+    "Sag Harbor"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Sag Harbor, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Printed in 1961.",
+    "Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1961]"
+  ],
+  "dct_spatial_sm": [
+    "Suffolk County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3491e4b00f54eb3d9b28",
+    "urn:uuid:42764d39-085a-c0e2-91c9-855de309605a"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72.25 40.75,-72.25 41,-72.5 41,-72.5 40.75,-72.25 40.75))",
+  "dcat_bbox": "ENVELOPE(-72.5, -72.25, 41, 40.75)",
+  "dcat_centroid": "40.875,-72.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-129281",
+    "usgs-htmc-129282",
+    "usgs-htmc-148387",
+    "usgs-htmc-148388",
+    "usgs-htmc-148391",
+    "usgs-htmc-148392"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Sag%20Harbor_129280_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Sag%20Harbor_129280_1903_62500_geo.pdf\",\"label\":\"GeoPDF (5.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Sag%20Harbor_129280_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Sag_Harbor_129280_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3491e4b00f54eb3d9b28\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Sag%20Harbor_129280_1903_62500_tn.jpg\"}"
+}

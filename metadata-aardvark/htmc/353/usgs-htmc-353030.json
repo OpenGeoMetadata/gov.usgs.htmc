@@ -1,0 +1,83 @@
+{
+  "id": "usgs-htmc-353030",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Sheffield, MA 1897 (printed 1941)",
+  "dct_alternative_sm": [
+    "Sheffield"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Sheffield, Massachusetts, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1885; printed in 1941.",
+    "Sheet size: 15.7 x 19.7 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1941]"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2f25e4b00f54eb3d0428",
+    "urn:uuid:6c005302-225b-4325-5c8d-7d663f332e98"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.25 42,-73.25 42.25,-73.5 42.25,-73.5 42,-73.25 42))",
+  "dcat_bbox": "ENVELOPE(-73.5, -73.25, 42.25, 42)",
+  "dcat_centroid": "42.125,-73.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353017",
+    "usgs-htmc-353018",
+    "usgs-htmc-353019",
+    "usgs-htmc-353020",
+    "usgs-htmc-353021",
+    "usgs-htmc-353022",
+    "usgs-htmc-353023",
+    "usgs-htmc-353024",
+    "usgs-htmc-353025",
+    "usgs-htmc-353026",
+    "usgs-htmc-353027",
+    "usgs-htmc-353032",
+    "usgs-htmc-463058"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Sheffield_353030_1897_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Sheffield_353030_1897_62500_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MA/MA_Sheffield_353030_1897_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MA/62500/MA_Sheffield_353030_1897_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2f25e4b00f54eb3d0428\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MA/62500/MA_Sheffield_353030_1897_62500_tn.jpg\"}"
+}

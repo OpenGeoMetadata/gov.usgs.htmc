@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-232123",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Anthracite, CO 1893 (printed 1937)",
+  "dct_alternative_sm": [
+    "Anthracite"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1893 edition of the Anthracite, Colorado, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1888; last revised in 1912; printed in 1937.",
+    "Sheet size: 16.5 x 19.8 inches. Printed projection: Polyconic; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1893",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    1893
+  ],
+  "gbl_dateRange_drsim": [
+    "[1888 TO 1937]"
+  ],
+  "dct_spatial_sm": [
+    "Gunnison County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3d4ce4b00f54eb3e879d",
+    "urn:uuid:06ca1202-6044-4edf-4bf4-f3e9bc80c201"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-107 38.75,-107 39,-107.25 39,-107.25 38.75,-107 38.75))",
+  "dcat_bbox": "ENVELOPE(-107.25, -107, 39, 38.75)",
+  "dcat_centroid": "38.875,-107.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232117",
+    "usgs-htmc-232118",
+    "usgs-htmc-232119",
+    "usgs-htmc-232120",
+    "usgs-htmc-232121",
+    "usgs-htmc-232122",
+    "usgs-htmc-232124",
+    "usgs-htmc-402294",
+    "usgs-htmc-402298",
+    "usgs-htmc-402301",
+    "usgs-htmc-402303"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Anthracite_232123_1893_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Anthracite_232123_1893_62500_geo.pdf\",\"label\":\"GeoPDF (9.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_Anthracite_232123_1893_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/62500/CO_Anthracite_232123_1893_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3d4ce4b00f54eb3e879d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/62500/CO_Anthracite_232123_1893_62500_tn.jpg\"}"
+}

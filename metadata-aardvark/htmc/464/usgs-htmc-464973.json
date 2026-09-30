@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-464973",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Twin Buttes, AZ 1948",
+  "dct_alternative_sm": [
+    "Twin Buttes"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1948 edition of the Twin Buttes, Arizona, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1939.",
+    "Sheet size: 16.91 x 20.78 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1948",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Pima County, Arizona",
+    "Arizona"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5ca4f1e3e4b0b8a7f63584db",
+    "urn:uuid:45644a58-5580-3a06-d8d9-98b5d901ab4d"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-111 31.75,-111 32,-111.25 32,-111.25 31.75,-111 31.75))",
+  "dcat_bbox": "ENVELOPE(-111.25, -111, 32, 31.75)",
+  "dcat_centroid": "31.875,-111.125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-315138",
+    "usgs-htmc-315139",
+    "usgs-htmc-315140",
+    "usgs-htmc-315142",
+    "usgs-htmc-315143",
+    "usgs-htmc-315144",
+    "usgs-htmc-464903",
+    "usgs-htmc-464972",
+    "usgs-htmc-464974"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Twin%20Buttes_464973_1948_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Twin%20Buttes_464973_1948_62500_geo.pdf\",\"label\":\"GeoPDF (6.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/AZ/AZ_Twin%20Buttes_464973_1948_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/AZ/62500/AZ_Twin_Buttes_464973_1948_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5ca4f1e3e4b0b8a7f63584db\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/AZ/62500/AZ_Twin%20Buttes_464973_1948_62500_tn.jpg\"}"
+}

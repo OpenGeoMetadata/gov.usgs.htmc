@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-253819",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Richwood, WV 1923",
+  "dct_alternative_sm": [
+    "Richwood"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1923 edition of the Richwood, West Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1921.",
+    "Sheet size: 16.5 x 19.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1923",
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "gbl_indexYear_im": [
+    1923
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1923]"
+  ],
+  "dct_spatial_sm": [
+    "Greenbrier County, West Virginia",
+    "Nicholas County, West Virginia",
+    "West Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2752e4b00f54eb3c3ad2",
+    "urn:uuid:19a8f719-e164-0b72-edb9-a7612b3be708"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80.5 38,-80.5 38.25,-80.75 38.25,-80.75 38,-80.5 38))",
+  "dcat_bbox": "ENVELOPE(-80.75, -80.5, 38.25, 38)",
+  "dcat_centroid": "38.125,-80.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-253293",
+    "usgs-htmc-253294",
+    "usgs-htmc-253817",
+    "usgs-htmc-253818",
+    "usgs-htmc-253820",
+    "usgs-htmc-253821",
+    "usgs-htmc-253822",
+    "usgs-htmc-701362",
+    "usgs-htmc-701363",
+    "usgs-htmc-701364"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Richwood_253819_1923_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Richwood_253819_1923_62500_geo.pdf\",\"label\":\"GeoPDF (10.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WV/WV_Richwood_253819_1923_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WV/62500/WV_Richwood_253819_1923_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2752e4b00f54eb3c3ad2\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WV/62500/WV_Richwood_253819_1923_62500_tn.jpg\"}"
+}

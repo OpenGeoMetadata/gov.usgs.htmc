@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-122783",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Cannon Corners Station, NY 1977 (printed 1978)",
+  "dct_alternative_sm": [
+    "Cannon Corners Station"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1977 edition of the Cannon Corners Station, New York, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; printed in 1978.",
+    "Variations: woodland tint, orthophotomap. Sheet size: 19.5 x 22.4 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1977",
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "gbl_indexYear_im": [
+    1977
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1978]"
+  ],
+  "dct_spatial_sm": [
+    "Clinton County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a52c0e4b00f54eb40e409",
+    "urn:uuid:f9cc3a5b-ff90-0659-26cd-580bc2de87d4"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.75 44.9583333,-73.75 45.0583333,-73.875 45.0583333,-73.875 44.9583333,-73.75 44.9583333))",
+  "dcat_bbox": "ENVELOPE(-73.875, -73.75, 45.0583333, 44.9583333)",
+  "dcat_centroid": "45.0083333,-73.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Cannon%20Corners%20Station_122783_1977_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Cannon%20Corners%20Station_122783_1977_25000_geo.pdf\",\"label\":\"GeoPDF (15.1 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Cannon%20Corners%20Station_122783_1977_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/25000/NY_Cannon_Corners_Station_122783_1977_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a52c0e4b00f54eb40e409\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/25000/NY_Cannon%20Corners%20Station_122783_1977_25000_tn.jpg\"}"
+}

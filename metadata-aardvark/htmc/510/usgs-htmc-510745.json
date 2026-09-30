@@ -1,0 +1,68 @@
+{
+  "id": "usgs-htmc-510745",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Achilles SE, KS 1978 (printed 1979)",
+  "dct_alternative_sm": [
+    "Achilles SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1978 edition of the Achilles SE, Kansas, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1975; field checked in 1977; last revised in 1978; printed in 1979.",
+    "Variations: woodland tint. Sheet size: 20.72 x 26.76 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1978",
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_dateRange_drsim": [
+    "[1975 TO 1979]"
+  ],
+  "dct_spatial_sm": [
+    "Thomas County, Kansas",
+    "Rawlins County, Kansas",
+    "Kansas"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c2fe4b00f54eb3e64f1",
+    "urn:uuid:9a6ec0f9-6494-b813-032a-ef6785689a7e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-100.75 39.5,-100.75 39.625,-100.875 39.625,-100.875 39.5,-100.75 39.5))",
+  "dcat_bbox": "ENVELOPE(-100.875, -100.75, 39.625, 39.5)",
+  "dcat_centroid": "39.5625,-100.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Achilles%20SE_510745_1978_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Achilles%20SE_510745_1978_24000_geo.pdf\",\"label\":\"GeoPDF (6.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KS/KS_Achilles%20SE_510745_1978_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KS/24000/KS_Achilles_SE_510745_1978_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c2fe4b00f54eb3e64f1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KS/24000/KS_Achilles%20SE_510745_1978_24000_tn.jpg\"}"
+}

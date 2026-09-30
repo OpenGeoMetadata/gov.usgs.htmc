@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-123121",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Brooklyn, NY 1897 (printed 1959)",
+  "dct_alternative_sm": [
+    "Brooklyn"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1897 edition of the Brooklyn, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1897; printed in 1959.",
+    "Sheet size: 17 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1897",
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    1897
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a32d3e4b00f54eb3d5e6a",
+    "urn:uuid:9812d3b3-ebfb-54cf-f88a-a7eb1e6c392c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-73.75 40.5,-73.75 40.75,-74 40.75,-74 40.5,-73.75 40.5))",
+  "dcat_bbox": "ENVELOPE(-74, -73.75, 40.75, 40.5)",
+  "dcat_centroid": "40.625,-73.875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-123118",
+    "usgs-htmc-123119",
+    "usgs-htmc-123122",
+    "usgs-htmc-123126",
+    "usgs-htmc-139309",
+    "usgs-htmc-139311",
+    "usgs-htmc-139312",
+    "usgs-htmc-139313",
+    "usgs-htmc-139314",
+    "usgs-htmc-139316",
+    "usgs-htmc-139317",
+    "usgs-htmc-139318",
+    "usgs-htmc-139319",
+    "usgs-htmc-8033070",
+    "usgs-htmc-8033120",
+    "usgs-htmc-8033200"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Brooklyn_123121_1897_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Brooklyn_123121_1897_62500_geo.pdf\",\"label\":\"GeoPDF (8.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Brooklyn_123121_1897_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Brooklyn_123121_1897_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a32d3e4b00f54eb3d5e6a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Brooklyn_123121_1897_62500_tn.jpg\"}"
+}

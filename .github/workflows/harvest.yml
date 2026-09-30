@@ -1,0 +1,40 @@
+name: Daily Harvest
+
+on:
+  schedule:
+    # USGS regenerates the inventory at about 10:30 UTC; run once it has
+    - cron: "0 12 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "4.0"
+
+      - name: Run tests
+        run: for test in test/*_test.rb; do ruby "$test" || exit 1; done
+
+      - name: Run harvester
+        run: ruby harvester.rb
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A metadata-aardvark/
+          # The withdrawal log only exists once a map has left the inventory
+          if [ -f withdrawn.json ]; then git add withdrawn.json; fi
+          git diff --staged --quiet || git commit -m "Auto-update from daily harvest"
+          git push

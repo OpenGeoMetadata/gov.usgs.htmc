@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-321357",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Thirsty Canyon, NV 1966 (printed 1977)",
+  "dct_alternative_sm": [
+    "Thirsty Canyon"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the Thirsty Canyon, Nevada, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1964; field checked in 1966; printed in 1977.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.7 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1964 TO 1977]"
+  ],
+  "dct_spatial_sm": [
+    "Nye County, Nevada",
+    "Nevada"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4fe9e4b00f54eb408ab6",
+    "urn:uuid:1cf25629-eb0d-5538-cd7f-be41ab7d0c9c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116.5 37,-116.5 37.25,-116.75 37.25,-116.75 37,-116.5 37))",
+  "dcat_bbox": "ENVELOPE(-116.75, -116.5, 37.25, 37)",
+  "dcat_centroid": "37.125,-116.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-321358"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Thirsty%20Canyon_321357_1966_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/62500/NV_Thirsty%20Canyon_321357_1966_62500_geo.pdf\",\"label\":\"GeoPDF (5.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NV/NV_Thirsty%20Canyon_321357_1966_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NV/62500/NV_Thirsty_Canyon_321357_1966_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4fe9e4b00f54eb408ab6\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NV/62500/NV_Thirsty%20Canyon_321357_1966_62500_tn.jpg\"}"
+}

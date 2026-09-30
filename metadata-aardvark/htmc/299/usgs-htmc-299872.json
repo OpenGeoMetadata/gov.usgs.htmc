@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-299872",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for San Bernardino, CA 1966",
+  "dct_alternative_sm": [
+    "San Bernardino"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1966 edition of the San Bernardino, California, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers and the Army Map Service. Field checked in 1958; printed in 1966.",
+    "Variations: woodland tint. Sheet size: 32.1 x 22.3 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. Army Map Service"
+  ],
+  "dct_issued_s": "1966",
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "gbl_indexYear_im": [
+    1966
+  ],
+  "gbl_dateRange_drsim": [
+    "[1958 TO 1966]"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino County, California",
+    "Los Angeles County, California",
+    "Kern County, California",
+    "Riverside County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3c08e4b00f54eb3e60b1",
+    "urn:uuid:9b2b3b06-27b5-efcd-0578-08bad2e3abc2"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-116 34,-116 35,-118 35,-118 34,-116 34))",
+  "dcat_bbox": "ENVELOPE(-118, -116, 35, 34)",
+  "dcat_centroid": "34.5,-117",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-299869",
+    "usgs-htmc-299870",
+    "usgs-htmc-299871",
+    "usgs-htmc-299873",
+    "usgs-htmc-299874",
+    "usgs-htmc-466287"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Bernardino_299872_1966_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_San%20Bernardino_299872_1966_250000_geo.pdf\",\"label\":\"GeoPDF (20.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_San%20Bernardino_299872_1966_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/250000/CA_San_Bernardino_299872_1966_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3c08e4b00f54eb3e60b1\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/250000/CA_San%20Bernardino_299872_1966_250000_tn.jpg\"}"
+}

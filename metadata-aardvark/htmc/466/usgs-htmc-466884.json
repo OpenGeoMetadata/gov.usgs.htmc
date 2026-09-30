@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-466884",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for East Portal, CO 1958 (printed 1965)",
+  "dct_alternative_sm": [
+    "East Portal"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the East Portal, Colorado, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1953; field checked in 1958; printed in 1965.",
+    "Variations: woodland tint. Sheet size: 21.39 x 26.81 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1953 TO 1965]"
+  ],
+  "dct_spatial_sm": [
+    "Grand County, Colorado",
+    "Boulder County, Colorado",
+    "Gilpin County, Colorado",
+    "Colorado"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5df22a58e4b02caea0f95980",
+    "urn:uuid:b26cf254-507e-2812-0704-b18e3489c195"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-105.625 39.875,-105.625 40,-105.75 40,-105.75 39.875,-105.625 39.875))",
+  "dcat_bbox": "ENVELOPE(-105.75, -105.625, 40, 39.875)",
+  "dcat_centroid": "39.9375,-105.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-232891",
+    "usgs-htmc-232892",
+    "usgs-htmc-363648",
+    "usgs-htmc-450166",
+    "usgs-htmc-450167",
+    "usgs-htmc-450168",
+    "usgs-htmc-450169",
+    "usgs-htmc-450170",
+    "usgs-htmc-450171"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_East%20Portal_466884_1958_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_East%20Portal_466884_1958_24000_geo.pdf\",\"label\":\"GeoPDF (11.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CO/CO_East%20Portal_466884_1958_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CO/24000/CO_East_Portal_466884_1958_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5df22a58e4b02caea0f95980\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CO/24000/CO_East%20Portal_466884_1958_24000_tn.jpg\"}"
+}

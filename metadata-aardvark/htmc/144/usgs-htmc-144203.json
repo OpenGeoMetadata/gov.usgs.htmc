@@ -1,0 +1,81 @@
+{
+  "id": "usgs-htmc-144203",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Naples, NY 1903 (printed 1933)",
+  "dct_alternative_sm": [
+    "Naples"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1903 edition of the Naples, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1900; printed in 1933.",
+    "Sheet size: 16.6 x 20 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    1903
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1933]"
+  ],
+  "dct_spatial_sm": [
+    "Ontario County, New York",
+    "Steuben County, New York",
+    "Yates County, New York",
+    "Livingston County, New York",
+    "New York"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a33fce4b00f54eb3d850a",
+    "urn:uuid:cfd73461-badb-a0a9-0de2-e3cc4c81d323"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.25 42.5,-77.25 42.75,-77.5 42.75,-77.5 42.5,-77.25 42.5))",
+  "dcat_bbox": "ENVELOPE(-77.5, -77.25, 42.75, 42.5)",
+  "dcat_centroid": "42.625,-77.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130751",
+    "usgs-htmc-130753",
+    "usgs-htmc-130755",
+    "usgs-htmc-130760",
+    "usgs-htmc-144119",
+    "usgs-htmc-144120",
+    "usgs-htmc-144200",
+    "usgs-htmc-144201",
+    "usgs-htmc-144202"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Naples_144203_1903_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Naples_144203_1903_62500_geo.pdf\",\"label\":\"GeoPDF (10.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Naples_144203_1903_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/62500/NY_Naples_144203_1903_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a33fce4b00f54eb3d850a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/62500/NY_Naples_144203_1903_62500_tn.jpg\"}"
+}

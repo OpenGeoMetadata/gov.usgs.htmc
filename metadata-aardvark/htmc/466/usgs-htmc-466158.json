@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-466158",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Pleasant Grove, CA 1910",
+  "dct_alternative_sm": [
+    "Pleasant Grove"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1910 edition of the Pleasant Grove, California, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1908.",
+    "Sheet size: 16.98 x 20.95 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1910",
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    1910
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Placer County, California",
+    "Sutter County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e06537de4b0b207aa0b46c5",
+    "urn:uuid:839b9614-2d95-4109-8c3b-49554ce99113"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-121.375 38.75,-121.375 38.875,-121.5 38.875,-121.5 38.75,-121.375 38.75))",
+  "dcat_bbox": "ENVELOPE(-121.5, -121.375, 38.875, 38.75)",
+  "dcat_centroid": "38.8125,-121.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-294237",
+    "usgs-htmc-294238",
+    "usgs-htmc-294239",
+    "usgs-htmc-294240",
+    "usgs-htmc-296419"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Pleasant%20Grove_466158_1910_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Pleasant%20Grove_466158_1910_31680_geo.pdf\",\"label\":\"GeoPDF (5.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Pleasant%20Grove_466158_1910_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/31680/CA_Pleasant_Grove_466158_1910_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e06537de4b0b207aa0b46c5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/31680/CA_Pleasant%20Grove_466158_1910_31680_tn.jpg\"}"
+}

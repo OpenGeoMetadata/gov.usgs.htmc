@@ -1,0 +1,72 @@
+{
+  "id": "usgs-htmc-503302",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Holyoke, MN 1949",
+  "dct_alternative_sm": [
+    "Holyoke"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1949 edition of the Holyoke, Minnesota, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1945; field checked in 1947.",
+    "Variations: woodland tint. Sheet size: 21.53 x 27.23 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1949",
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "gbl_indexYear_im": [
+    1949
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1949]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a468de4b00f54eb3f7c69",
+    "urn:uuid:39457dc0-a6e2-52d7-8075-4ec1155e098b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-92.25 46.25,-92.25 46.5,-92.5 46.5,-92.5 46.25,-92.25 46.25))",
+  "dcat_bbox": "ENVELOPE(-92.5, -92.25, 46.5, 46.25)",
+  "dcat_centroid": "46.375,-92.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-471387",
+    "usgs-htmc-503301",
+    "usgs-htmc-503303"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Holyoke_503302_1949_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/48000/MN_Holyoke_503302_1949_48000_geo.pdf\",\"label\":\"GeoPDF (3.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MN/MN_Holyoke_503302_1949_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MN/48000/MN_Holyoke_503302_1949_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a468de4b00f54eb3f7c69\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MN/48000/MN_Holyoke_503302_1949_48000_tn.jpg\"}"
+}

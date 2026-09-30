@@ -1,0 +1,78 @@
+{
+  "id": "usgs-htmc-467516",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for St. Joseph Point, FL 1945",
+  "dct_alternative_sm": [
+    "St. Joseph Point"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1945 edition of the St. Joseph Point, Florida, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department.",
+    "Sheet size: 16.98 x 21.02 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1945",
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_dateRange_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Gulf County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5e5036cbe4b0ff554f72dcd5",
+    "urn:uuid:cebaeaf9-1b72-bc10-d210-d9b8d3c032af"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-85.375 29.75,-85.375 29.875,-85.5 29.875,-85.5 29.75,-85.375 29.75))",
+  "dcat_bbox": "ENVELOPE(-85.5, -85.375, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-85.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-348638",
+    "usgs-htmc-348639",
+    "usgs-htmc-348640",
+    "usgs-htmc-348641",
+    "usgs-htmc-503155"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_St%20Joseph%20Point_467516_1945_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/31680/FL_St%20Joseph%20Point_467516_1945_31680_geo.pdf\",\"label\":\"GeoPDF (3.5 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_St%20Joseph%20Point_467516_1945_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/31680/FL_St_Joseph_Point_467516_1945_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5e5036cbe4b0ff554f72dcd5\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/31680/FL_St%20Joseph%20Point_467516_1945_31680_tn.jpg\"}"
+}

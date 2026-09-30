@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-353298",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Hope Valley, RI 1953 (printed 1983)",
+  "dct_alternative_sm": [
+    "Hope Valley"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1953 edition of the Hope Valley, Rhode Island, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1942; aerial photographs from 1970; photo inspected in 1975; photo revised in 1970; last revised in 1953; printed in 1983.",
+    "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1953",
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "gbl_indexYear_im": [
+    1953
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1983]"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Rhode Island",
+    "Kent County, Rhode Island",
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3e3ee4b00f54eb3ea10d",
+    "urn:uuid:2283a529-50b8-5b07-cd08-4182254ea24b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.625 41.5,-71.625 41.625,-71.75 41.625,-71.75 41.5,-71.625 41.5))",
+  "dcat_bbox": "ENVELOPE(-71.75, -71.625, 41.625, 41.5)",
+  "dcat_centroid": "41.5625,-71.6875",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-353295",
+    "usgs-htmc-353296",
+    "usgs-htmc-353297",
+    "usgs-htmc-353299",
+    "usgs-htmc-353300",
+    "usgs-htmc-353301",
+    "usgs-htmc-353417",
+    "usgs-htmc-353418",
+    "usgs-htmc-353419",
+    "usgs-htmc-353420"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Hope%20Valley_353298_1953_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Hope%20Valley_353298_1953_24000_geo.pdf\",\"label\":\"GeoPDF (15.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/RI/RI_Hope%20Valley_353298_1953_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/RI/24000/RI_Hope_Valley_353298_1953_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3e3ee4b00f54eb3ea10d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/RI/24000/RI_Hope%20Valley_353298_1953_24000_tn.jpg\"}"
+}

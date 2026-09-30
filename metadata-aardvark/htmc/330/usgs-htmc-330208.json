@@ -1,0 +1,79 @@
+{
+  "id": "usgs-htmc-330208",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Mt. Chocorua, NH 1958 (printed 1971)",
+  "dct_alternative_sm": [
+    "Mt. Chocorua"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1958 edition of the Mt. Chocorua, New Hampshire, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Surveyed in 1928; last revised in 1958; printed in 1971.",
+    "Variations: woodland tint. Sheet size: 17 x 20.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1958",
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "gbl_indexYear_im": [
+    1958
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1971]"
+  ],
+  "dct_spatial_sm": [
+    "Carroll County, New Hampshire",
+    "Grafton County, New Hampshire",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a50e8e4b00f54eb40aaf0",
+    "urn:uuid:f25c3256-b01a-a4cb-9bb2-2de37e4dc535"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-71.25 43.75,-71.25 44,-71.5 44,-71.5 43.75,-71.25 43.75))",
+  "dcat_bbox": "ENVELOPE(-71.5, -71.25, 44, 43.75)",
+  "dcat_centroid": "43.875,-71.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-330203",
+    "usgs-htmc-330204",
+    "usgs-htmc-330205",
+    "usgs-htmc-330206",
+    "usgs-htmc-330207",
+    "usgs-htmc-330209",
+    "usgs-htmc-330210",
+    "usgs-htmc-330211",
+    "usgs-htmc-330212"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Mt%20Chocorua_330208_1958_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Mt%20Chocorua_330208_1958_62500_geo.pdf\",\"label\":\"GeoPDF (11.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NH/NH_Mt%20Chocorua_330208_1958_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NH/62500/NH_Mt_Chocorua_330208_1958_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a50e8e4b00f54eb40aaf0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NH/62500/NH_Mt%20Chocorua_330208_1958_62500_tn.jpg\"}"
+}

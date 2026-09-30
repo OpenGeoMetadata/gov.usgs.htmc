@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-130042",
+  "dct_title_s": "USGS 1:250000-scale Quadrangle for Lake Champlain, NY 1962 (printed 1975)",
+  "dct_alternative_sm": [
+    "Lake Champlain"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1962 edition of the Lake Champlain, New York, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Geological Survey. Aerial photographs from 1972; last revised in 1972; printed in 1975.",
+    "Variations: woodland tint. Sheet size: 28.9 x 22.1 inches. Printed projection: Transverse Mercator; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1962",
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1975]"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Vermont",
+    "New Hampshire"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ab5e4b00f54eb3c8fe9",
+    "urn:uuid:88c23f2f-2d48-4c1e-3790-7e86d3745d5e"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "1 x 2 degree"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-72 44,-72 45,-74 45,-74 44,-72 44))",
+  "dcat_bbox": "ENVELOPE(-74, -72, 45, 44)",
+  "dcat_centroid": "44.5,-73",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-130040",
+    "usgs-htmc-130041",
+    "usgs-htmc-130169",
+    "usgs-htmc-130170",
+    "usgs-htmc-130171",
+    "usgs-htmc-460071"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lake%20Champlain_130042_1962_250000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/250000/NY_Lake%20Champlain_130042_1962_250000_geo.pdf\",\"label\":\"GeoPDF (20.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/NY/NY_Lake%20Champlain_130042_1962_250000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/NY/250000/NY_Lake_Champlain_130042_1962_250000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ab5e4b00f54eb3c8fe9\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/250000/NY_Lake%20Champlain_130042_1962_250000_tn.jpg\"}"
+}

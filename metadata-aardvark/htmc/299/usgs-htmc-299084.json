@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-299084",
+  "dct_title_s": "USGS 1:100000-scale Quadrangle for Eureka, CA 1987",
+  "dct_alternative_sm": [
+    "Eureka"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1987 edition of the Eureka, California, topographic map at 1:100,000 scale (30 x 60 minute series), published by the U.S. Geological Survey. Aerial photographs from 1983; last revised in 1987; printed in 1987.",
+    "Variations: woodland tint. Sheet size: 39.5 x 27 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1987",
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "gbl_dateRange_drsim": [
+    "[1983 TO 1987]"
+  ],
+  "dct_spatial_sm": [
+    "Humboldt County, California",
+    "California"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4db3e4b00f54eb40462b",
+    "urn:uuid:1147486a-1a73-edfb-f5d0-6c8bdcc01e5b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 60 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 40.5,-124 41,-125 41,-125 40.5,-124 40.5))",
+  "dcat_bbox": "ENVELOPE(-125, -124, 41, 40.5)",
+  "dcat_centroid": "40.75,-124.5",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Eureka_299084_1987_100000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Eureka_299084_1987_100000_geo.pdf\",\"label\":\"GeoPDF (45.2 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/CA/CA_Eureka_299084_1987_100000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/CA/100000/CA_Eureka_299084_1987_100000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4db3e4b00f54eb40462b\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/CA/100000/CA_Eureka_299084_1987_100000_tn.jpg\"}"
+}

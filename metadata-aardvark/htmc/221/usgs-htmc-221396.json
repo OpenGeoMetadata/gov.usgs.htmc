@@ -1,0 +1,84 @@
+{
+  "id": "usgs-htmc-221396",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Pine Grove, PA 1955 (printed 1958)",
+  "dct_alternative_sm": [
+    "Pine Grove"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1955 edition of the Pine Grove, Pennsylvania, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey. Aerial photographs from 1942; field checked in 1944; printed in 1958.",
+    "Variations: woodland tint. Sheet size: 17 x 21 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1955",
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "gbl_indexYear_im": [
+    1955
+  ],
+  "gbl_dateRange_drsim": [
+    "[1942 TO 1958]"
+  ],
+  "dct_spatial_sm": [
+    "Schuylkill County, Pennsylvania",
+    "Berks County, Pennsylvania",
+    "Lebanon County, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4633e4b00f54eb3f76eb",
+    "urn:uuid:efc45c1b-1114-d89d-1595-0f2d4e5c5263"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-76.25 40.5,-76.25 40.75,-76.5 40.75,-76.5 40.5,-76.25 40.5))",
+  "dcat_bbox": "ENVELOPE(-76.5, -76.25, 40.75, 40.5)",
+  "dcat_centroid": "40.625,-76.375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-169939",
+    "usgs-htmc-169940",
+    "usgs-htmc-169941",
+    "usgs-htmc-169942",
+    "usgs-htmc-169943",
+    "usgs-htmc-169944",
+    "usgs-htmc-169945",
+    "usgs-htmc-221387",
+    "usgs-htmc-221388",
+    "usgs-htmc-221397",
+    "usgs-htmc-461912",
+    "usgs-htmc-461935"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pine%20Grove_221396_1955_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Pine%20Grove_221396_1955_62500_geo.pdf\",\"label\":\"GeoPDF (10.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Pine%20Grove_221396_1955_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/62500/PA_Pine_Grove_221396_1955_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4633e4b00f54eb3f76eb\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/62500/PA_Pine%20Grove_221396_1955_62500_tn.jpg\"}"
+}

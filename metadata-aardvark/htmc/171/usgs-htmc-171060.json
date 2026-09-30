@@ -1,0 +1,80 @@
+{
+  "id": "usgs-htmc-171060",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Iron Springs, PA 1944",
+  "dct_alternative_sm": [
+    "Iron Springs"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1944 edition of the Iron Springs, Pennsylvania, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department. Aerial photographs from 1943; printed in 1944.",
+    "Variations: woodland tint. Sheet size: 17.9 x 21.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1944",
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "gbl_indexYear_im": [
+    1944
+  ],
+  "gbl_dateRange_drsim": [
+    "[1943 TO 1944]"
+  ],
+  "dct_spatial_sm": [
+    "Adams County, Pennsylvania",
+    "Franklin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a3644e4b00f54eb3dcf30",
+    "urn:uuid:d0ec227d-94f3-8cf8-50a1-f553d4fb2aed"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-77.375 39.75,-77.375 39.875,-77.5 39.875,-77.5 39.75,-77.375 39.75))",
+  "dcat_bbox": "ENVELOPE(-77.5, -77.375, 39.875, 39.75)",
+  "dcat_centroid": "39.8125,-77.4375",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-171059",
+    "usgs-htmc-171061",
+    "usgs-htmc-171062",
+    "usgs-htmc-171063",
+    "usgs-htmc-171064",
+    "usgs-htmc-222899",
+    "usgs-htmc-222900",
+    "usgs-htmc-222901"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Iron%20Springs_171060_1944_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Iron%20Springs_171060_1944_31680_geo.pdf\",\"label\":\"GeoPDF (10.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/PA/PA_Iron%20Springs_171060_1944_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/PA/31680/PA_Iron_Springs_171060_1944_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a3644e4b00f54eb3dcf30\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/PA/31680/PA_Iron%20Springs_171060_1944_31680_tn.jpg\"}"
+}

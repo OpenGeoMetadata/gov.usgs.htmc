@@ -1,0 +1,67 @@
+{
+  "id": "usgs-htmc-462411",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Talofofo, GU 2000 (printed 2002)",
+  "dct_alternative_sm": [
+    "Talofofo"
+  ],
+  "dct_description_sm": [
+    "Scan of the 2000 edition of the Talofofo, Guam, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 2000; printed in 2002.",
+    "Variations: woodland tint. Sheet size: 21.6 x 26.6 inches. Printed projection: Universal Transverse Mercator; horizontal datum: NAD83. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "2000",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_dateRange_drsim": [
+    "[2000 TO 2002]"
+  ],
+  "dct_spatial_sm": [
+    "Guam, Guam",
+    "Guam"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4ab5e4b00f54eb3ff3a0",
+    "urn:uuid:5b16bfd6-b146-eccc-2fcd-445ecfca9f39"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((144.8 13.2916667,144.8 13.4166667,144.7 13.4166667,144.7 13.2916667,144.8 13.2916667))",
+  "dcat_bbox": "ENVELOPE(144.7, 144.8, 13.4166667, 13.2916667)",
+  "dcat_centroid": "13.3541667,144.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GU/GU_Talofofo_462411_2000_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GU/24000/GU_Talofofo_462411_2000_24000_geo.pdf\",\"label\":\"GeoPDF (11.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/GU/GU_Talofofo_462411_2000_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/GU/24000/GU_Talofofo_462411_2000_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4ab5e4b00f54eb3ff3a0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/GU/24000/GU_Talofofo_462411_2000_24000_tn.jpg\"}"
+}

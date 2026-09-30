@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-347326",
+  "dct_title_s": "USGS 1:25000-scale Quadrangle for Mallory Swamp SE, FL 1956",
+  "dct_alternative_sm": [
+    "Mallory Swamp SE"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1956 edition of the Mallory Swamp SE, Florida, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers and the War Department. Surveyed in 1954; aerial photographs from 1951; field checked in 1954; printed in 1956.",
+    "Variations: woodland tint. Sheet size: 21.9 x 28.8 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1956",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "gbl_indexYear_im": [
+    1956
+  ],
+  "gbl_dateRange_drsim": [
+    "[1951 TO 1956]"
+  ],
+  "dct_spatial_sm": [
+    "Dixie County, Florida",
+    "Lafayette County, Florida",
+    "Florida"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2ad8e4b00f54eb3c933a",
+    "urn:uuid:b54bc590-8ce2-e14c-eff4-674e7f4dfb39"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83 29.75,-83 29.875,-83.125 29.875,-83.125 29.75,-83 29.75))",
+  "dcat_bbox": "ENVELOPE(-83.125, -83, 29.875, 29.75)",
+  "dcat_centroid": "29.8125,-83.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-347323",
+    "usgs-htmc-347324",
+    "usgs-htmc-347325"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Mallory%20Swamp%20SE_347326_1956_25000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/25000/FL_Mallory%20Swamp%20SE_347326_1956_25000_geo.pdf\",\"label\":\"GeoPDF (21.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/FL/FL_Mallory%20Swamp%20SE_347326_1956_25000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/FL/25000/FL_Mallory_Swamp_SE_347326_1956_25000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2ad8e4b00f54eb3c933a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/FL/25000/FL_Mallory%20Swamp%20SE_347326_1956_25000_tn.jpg\"}"
+}

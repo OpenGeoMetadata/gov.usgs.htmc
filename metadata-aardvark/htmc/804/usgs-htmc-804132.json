@@ -1,0 +1,85 @@
+{
+  "id": "usgs-htmc-804132",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Beattyville, KY 1892 (printed 1905)",
+  "dct_alternative_sm": [
+    "Beattyville"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1892 edition of the Beattyville, Kentucky, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1890; printed in 1905.",
+    "Sheet size: 15.7 x 20.1 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1892",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    1892
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "Lee County, Kentucky",
+    "Powell County, Kentucky",
+    "Estill County, Kentucky",
+    "Menifee County, Kentucky",
+    "Wolfe County, Kentucky",
+    "Montgomery County, Kentucky",
+    "Breathitt County, Kentucky",
+    "Jackson County, Kentucky",
+    "Owsley County, Kentucky",
+    "Clark County, Kentucky",
+    "Bath County, Kentucky",
+    "Morgan County, Kentucky",
+    "Kentucky"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b4be4b00f54eb4002ed",
+    "urn:uuid:a7e542aa-c2c4-5ab3-9a7e-3cfd9ef4b7dc"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-83.5 37.5,-83.5 38,-84 38,-84 37.5,-83.5 37.5))",
+  "dcat_bbox": "ENVELOPE(-84, -83.5, 38, 37.5)",
+  "dcat_centroid": "37.75,-83.75",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804129",
+    "usgs-htmc-804130",
+    "usgs-htmc-804131",
+    "usgs-htmc-804133",
+    "usgs-htmc-804134"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Beattyville_804132_1892_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/125000/KY_Beattyville_804132_1892_125000_geo.pdf\",\"label\":\"GeoPDF (7.4 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Beattyville_804132_1892_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/125000/KY_Beattyville_804132_1892_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b4be4b00f54eb4002ed\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/125000/KY_Beattyville_804132_1892_125000_tn.jpg\"}"
+}

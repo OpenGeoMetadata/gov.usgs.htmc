@@ -1,0 +1,75 @@
+{
+  "id": "usgs-htmc-804338",
+  "dct_title_s": "USGS 1:125000-scale Quadrangle for Williamsburg, KY 1894 (printed 1910)",
+  "dct_alternative_sm": [
+    "Williamsburg"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1894 edition of the Williamsburg, Kentucky, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Geological Survey. Surveyed in 1887; printed in 1910.",
+    "Sheet size: 16.2 x 19.2 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "gbl_indexYear_im": [
+    1894
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Tennessee"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4b5ee4b00f54eb400549",
+    "urn:uuid:344d682a-c582-70d7-bb61-167faeb4eaa1"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "30 x 30 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-84 36.5,-84 37,-84.5 37,-84.5 36.5,-84 36.5))",
+  "dcat_bbox": "ENVELOPE(-84.5, -84, 37, 36.5)",
+  "dcat_centroid": "36.75,-84.25",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-804102",
+    "usgs-htmc-804337",
+    "usgs-htmc-804339",
+    "usgs-htmc-804340",
+    "usgs-htmc-804341",
+    "usgs-htmc-804342"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-18T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Williamsburg_804338_1894_125000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/125000/KY_Williamsburg_804338_1894_125000_geo.pdf\",\"label\":\"GeoPDF (4.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/KY/KY_Williamsburg_804338_1894_125000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/KY/125000/KY_Williamsburg_804338_1894_125000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4b5ee4b00f54eb400549\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/KY/125000/KY_Williamsburg_804338_1894_125000_tn.jpg\"}"
+}

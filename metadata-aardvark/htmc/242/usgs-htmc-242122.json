@@ -1,0 +1,70 @@
+{
+  "id": "usgs-htmc-242122",
+  "dct_title_s": "USGS 1:24000-scale Quadrangle for Macafee Hill, WA 1982",
+  "dct_alternative_sm": [
+    "Macafee Hill"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1982 edition of the Macafee Hill, Washington, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Aerial photographs from 1980; field checked in 1980; last revised in 1982; printed in 1982.",
+    "Variations: woodland tint. Sheet size: 22.1 x 27.1 inches. Printed projection: Lambert Conformal Conic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1982",
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "gbl_indexYear_im": [
+    1982
+  ],
+  "gbl_dateRange_drsim": [
+    "[1980 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Grays Harbor County, Washington",
+    "Washington"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a2dd6e4b00f54eb3ce474",
+    "urn:uuid:34b4aae6-fb62-0003-9e11-d933d697720b"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-124 47.25,-124 47.375,-124.125 47.375,-124.125 47.25,-124 47.25))",
+  "dcat_bbox": "ENVELOPE(-124.125, -124, 47.375, 47.25)",
+  "dcat_centroid": "47.3125,-124.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-242123"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Macafee%20Hill_242122_1982_24000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Macafee%20Hill_242122_1982_24000_geo.pdf\",\"label\":\"GeoPDF (9.7 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WA/WA_Macafee%20Hill_242122_1982_24000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WA/24000/WA_Macafee_Hill_242122_1982_24000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a2dd6e4b00f54eb3ce474\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WA/24000/WA_Macafee%20Hill_242122_1982_24000_tn.jpg\"}"
+}

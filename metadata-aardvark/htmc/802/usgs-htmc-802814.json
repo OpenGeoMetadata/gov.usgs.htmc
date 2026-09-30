@@ -1,0 +1,74 @@
+{
+  "id": "usgs-htmc-802814",
+  "dct_title_s": "USGS 1:48000-scale Quadrangle for Kennedy, WI 1945",
+  "dct_alternative_sm": [
+    "Kennedy"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1945 edition of the Kennedy, Wisconsin, topographic map at 1:48,000 scale (15 x 15 minute series), published by the U.S. Geological Survey. Field checked in 1941.",
+    "Release: Advance. Variations: woodland tint, planimetric. Sheet size: 18.26 x 27.28 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1945",
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "gbl_indexYear_im": [
+    1945
+  ],
+  "gbl_dateRange_drsim": [
+    "[1941 TO 1945]"
+  ],
+  "dct_spatial_sm": [
+    "Price County, Wisconsin",
+    "Sawyer County, Wisconsin",
+    "Ashland County, Wisconsin",
+    "Wisconsin"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4a9be4b00f54eb3ff13a",
+    "urn:uuid:0866e40c-e9dd-6840-d75d-f5e07f14b540"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-90.5 45.75,-90.5 46,-90.75 46,-90.75 45.75,-90.5 45.75))",
+  "dcat_bbox": "ENVELOPE(-90.75, -90.5, 46, 45.75)",
+  "dcat_centroid": "45.875,-90.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-503329",
+    "usgs-htmc-802812",
+    "usgs-htmc-802813"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Kennedy_802814_1945_48000_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Kennedy_802814_1945_48000_geo.pdf\",\"label\":\"GeoPDF (6.6 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/WI/WI_Kennedy_802814_1945_48000_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/WI/48000/WI_Kennedy_802814_1945_48000_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4a9be4b00f54eb3ff13a\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/WI/48000/WI_Kennedy_802814_1945_48000_tn.jpg\"}"
+}

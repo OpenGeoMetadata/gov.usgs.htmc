@@ -1,0 +1,82 @@
+{
+  "id": "usgs-htmc-9475764",
+  "dct_title_s": "USGS 1:21120-scale Quadrangle for Johns Island, SC 1919",
+  "dct_alternative_sm": [
+    "Johns Island"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1919 edition of the Johns Island, South Carolina, topographic map at 1:21,120 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the War Department. Surveyed in 1918.",
+    "Sheet size: 25.98 x 30.05 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
+    "United States. War Department"
+  ],
+  "dct_issued_s": "1919",
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "gbl_indexYear_im": [
+    1919
+  ],
+  "gbl_dateRange_drsim": [
+    "[1918 TO 1919]"
+  ],
+  "dct_spatial_sm": [
+    "Charleston County, South Carolina",
+    "South Carolina"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/65efb793d34e140332983c9d",
+    "urn:uuid:603213cd-28c6-084a-2f52-ab658c589ab3"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-80 32.75,-80 32.875,-80.125 32.875,-80.125 32.75,-80 32.75))",
+  "dcat_bbox": "ENVELOPE(-80.125, -80, 32.875, 32.75)",
+  "dcat_centroid": "32.8125,-80.0625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-260678",
+    "usgs-htmc-261164",
+    "usgs-htmc-261165",
+    "usgs-htmc-261166",
+    "usgs-htmc-261167",
+    "usgs-htmc-261168",
+    "usgs-htmc-261169",
+    "usgs-htmc-261170",
+    "usgs-htmc-9475765"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2024-03-11T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Johns%20Island_9475764_1919_21120_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_Johns%20Island_9475764_1919_21120_geo.pdf\",\"label\":\"GeoPDF (4.9 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/SC/SC_Johns%20Island_9475764_1919_21120_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/SC/21120/SC_Johns_Island_9475764_1919_21120_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/65efb793d34e140332983c9d\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/SC/21120/SC_Johns%20Island_9475764_1919_21120_tn.jpg\"}"
+}

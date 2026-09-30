@@ -1,0 +1,73 @@
+{
+  "id": "usgs-htmc-463282",
+  "dct_title_s": "USGS 1:62500-scale Quadrangle for Molalla, OR 1940",
+  "dct_alternative_sm": [
+    "Molalla"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1940 edition of the Molalla, Oregon, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers. Aerial photographs from 1939.",
+    "Release: Advance. Variations: woodland tint. Sheet size: 17.07 x 21.49 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_publisher_sm": [
+    "United States. Army. Corps of Engineers"
+  ],
+  "dct_issued_s": "1940",
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "gbl_dateRange_drsim": [
+    "[1939 TO 1940]"
+  ],
+  "dct_spatial_sm": [
+    "Clackamas County, Oregon",
+    "Marion County, Oregon",
+    "Oregon"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5bc5b47ee4b0fc368ebbb18f",
+    "urn:uuid:bf1ca88d-f738-2f03-de9e-4e08199f2573"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "15 x 15 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-122.5 45,-122.5 45.25,-122.75 45.25,-122.75 45,-122.5 45))",
+  "dcat_bbox": "ENVELOPE(-122.75, -122.5, 45.25, 45)",
+  "dcat_centroid": "45.125,-122.625",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-282721",
+    "usgs-htmc-282722",
+    "usgs-htmc-463284"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Molalla_463282_1940_62500_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Molalla_463282_1940_62500_geo.pdf\",\"label\":\"GeoPDF (9.0 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/OR/OR_Molalla_463282_1940_62500_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/OR/62500/OR_Molalla_463282_1940_62500_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5bc5b47ee4b0fc368ebbb18f\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/OR/62500/OR_Molalla_463282_1940_62500_tn.jpg\"}"
+}

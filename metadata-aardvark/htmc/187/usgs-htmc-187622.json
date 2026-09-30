@@ -1,0 +1,76 @@
+{
+  "id": "usgs-htmc-187622",
+  "dct_title_s": "USGS 1:31680-scale Quadrangle for Warm Springs Run, VA 1933",
+  "dct_alternative_sm": [
+    "Warm Springs Run"
+  ],
+  "dct_description_sm": [
+    "Scan of the 1933 edition of the Warm Springs Run, Virginia, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey. Surveyed in 1930.",
+    "Variations: woodland tint. Sheet size: 16.3 x 19.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dct_issued_s": "1933",
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "gbl_indexYear_im": [
+    1933
+  ],
+  "gbl_dateRange_drsim": [
+    "[1930 TO 1933]"
+  ],
+  "dct_spatial_sm": [
+    "Bath County, Virginia",
+    "Virginia"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "dct_identifier_sm": [
+    "https://www.sciencebase.gov/catalog/item/5a8a4f3ee4b00f54eb4075e0",
+    "urn:uuid:77428321-0449-5e21-200c-b504eea09b2c"
+  ],
+  "gbl_georeferenced_b": true,
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps",
+    "7.5 x 7.5 minute"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "locn_geometry": "POLYGON((-79.75 38,-79.75 38.125,-79.875 38.125,-79.875 38,-79.75 38))",
+  "dcat_bbox": "ENVELOPE(-79.875, -79.75, 38.125, 38)",
+  "dcat_centroid": "38.0625,-79.8125",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_relation_sm": [
+    "usgs-htmc-187120",
+    "usgs-htmc-187121",
+    "usgs-htmc-187122",
+    "usgs-htmc-187123",
+    "usgs-htmc-187124",
+    "usgs-htmc-187619",
+    "usgs-htmc-187623"
+  ],
+  "dct_rights_sm": [
+    "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/mark/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://github.com/cogeotiff/cog-spec\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Warm%20Springs%20Run_187622_1933_31680_geo.tif\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Warm%20Springs%20Run_187622_1933_31680_geo.pdf\",\"label\":\"GeoPDF (10.8 MB)\"},{\"url\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/VA/VA_Warm%20Springs%20Run_187622_1933_31680_geo.tif\",\"label\":\"GeoTIFF\"}],\"http://www.opengis.net/cat/csw/csdgm\":\"https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/VA/31680/VA_Warm_Springs_Run_187622_1933_31680_geo.xml\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5a8a4f3ee4b00f54eb4075e0\",\"http://schema.org/thumbnailUrl\":\"https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/VA/31680/VA_Warm%20Springs%20Run_187622_1933_31680_tn.jpg\"}"
+}
