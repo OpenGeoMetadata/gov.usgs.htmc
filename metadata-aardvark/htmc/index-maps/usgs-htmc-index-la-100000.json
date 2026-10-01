@@ -1,0 +1,62 @@
+{
+  "id": "usgs-htmc-index-la-100000",
+  "dct_title_s": "Index to USGS 1:100000-scale Quadrangles of Louisiana",
+  "dct_description_sm": [
+    "Outlines of the USGS topographic maps at 1:100,000 scale that cover Louisiana, from the Historical Topographic Map Collection: 67 maps of 43 sheets, dated 1982 to 1994.",
+    "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+  ],
+  "dct_temporal_sm": [
+    "1982-1994"
+  ],
+  "gbl_indexYear_im": [
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1994]"
+  ],
+  "dct_spatial_sm": [
+    "Louisiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoJSON",
+  "locn_geometry": "ENVELOPE(-95, -88, 33.5, 28.9)",
+  "dcat_bbox": "ENVELOPE(-95, -88, 33.5, 28.9)",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-20T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-la-100000.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-la-100000.geojson\",\"label\":\"GeoJSON (45 KB)\"}]}"
+}

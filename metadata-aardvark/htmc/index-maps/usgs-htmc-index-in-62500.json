@@ -1,0 +1,120 @@
+{
+  "id": "usgs-htmc-index-in-62500",
+  "dct_title_s": "Index to USGS 1:62500-scale Quadrangles of Indiana",
+  "dct_description_sm": [
+    "Outlines of the USGS topographic maps at 1:62,500 scale that cover Indiana, from the Historical Topographic Map Collection: 223 maps of 57 sheets, dated 1889 to 1959.",
+    "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+  ],
+  "dct_temporal_sm": [
+    "1889-1959"
+  ],
+  "gbl_indexYear_im": [
+    1889,
+    1890,
+    1891,
+    1892,
+    1893,
+    1894,
+    1895,
+    1896,
+    1897,
+    1898,
+    1899,
+    1900,
+    1901,
+    1902,
+    1903,
+    1904,
+    1905,
+    1906,
+    1907,
+    1908,
+    1909,
+    1910,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1920,
+    1921,
+    1922,
+    1923,
+    1924,
+    1925,
+    1926,
+    1927,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1935,
+    1936,
+    1937,
+    1938,
+    1939,
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949,
+    1950,
+    1951,
+    1952,
+    1953,
+    1954,
+    1955,
+    1956,
+    1957,
+    1958,
+    1959
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1959]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoJSON",
+  "locn_geometry": "ENVELOPE(-88.25, -84.75, 42, 37.75)",
+  "dcat_bbox": "ENVELOPE(-88.25, -84.75, 42, 37.75)",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-in-62500.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-in-62500.geojson\",\"label\":\"GeoJSON (0.2 MB)\"}]}"
+}

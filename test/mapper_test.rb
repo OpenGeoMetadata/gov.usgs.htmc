@@ -8,12 +8,12 @@ class MapperTest < Minitest::Test
   FIXTURE = File.join(__dir__, 'fixtures', 'historicaltopo.csv')
   ROWS = CSV.read(FIXTURE, headers: true, encoding: 'bom|utf-8').to_h { |row| [row['scan_id'], row.to_h] }
 
-  def map(scan_id, **options)
-    Mapper.map(ROWS.fetch(scan_id), **options)
+  def map(scan_id)
+    Mapper.map(ROWS.fetch(scan_id))
   end
 
   def test_bright_angel_record
-    record = map('314262', related_ids: %w[usgs-htmc-314255 usgs-htmc-314261])
+    record = map('314262')
 
     assert_equal 'usgs-htmc-314262', record['id']
     assert_equal 'USGS 1:48000-scale Quadrangle for Bright Angel, AZ 1906 (printed 1918)', record['dct_title_s']
@@ -37,7 +37,6 @@ class MapperTest < Minitest::Test
     assert_equal 'ENVELOPE(-112.25, -112, 36.25, 36)', record['dcat_bbox']
     assert_equal '36.125,-112.125', record['dcat_centroid']
     assert_equal ['usgs-htmc'], record['pcdm_memberOf_sm']
-    assert_equal %w[usgs-htmc-314255 usgs-htmc-314261], record['dct_relation_sm']
     assert_equal [
       'https://www.sciencebase.gov/catalog/item/5a8a3d3ee4b00f54eb3e85f2',
       'urn:uuid:77047488-e079-db9c-8bba-e60f41bc5f30'
@@ -58,6 +57,21 @@ class MapperTest < Minitest::Test
                  refs['http://www.opengis.net/cat/csw/csdgm']
     assert_equal 'https://www.sciencebase.gov/catalog/item/5a8a3d3ee4b00f54eb3e85f2', refs['http://schema.org/url']
     assert_equal "#{base}/PDF/AZ/48000/AZ_Bright%20Angel_314262_1906_48000_tn.jpg", refs['http://schema.org/thumbnailUrl']
+  end
+
+  # Corona and Vicinity's inventory row has "Unregistered" where its GeoTIFF URL belongs
+  def test_placeholder_links_are_left_out
+    refs = JSON.parse(map('363059')['dct_references_s'])
+
+    refute refs.key?('https://github.com/cogeotiff/cog-spec')
+    labels = refs['http://schema.org/downloadUrl'].map { |download| download['label'] }
+    assert_equal ['GeoPDF (9.7 MB)'], labels
+    refute_includes refs.to_json, 'Unregistered'
+  end
+
+  def test_geotiff_check
+    assert Mapper.geotiff?(ROWS['314262'])
+    refute Mapper.geotiff?(ROWS['363059'])
   end
 
   def test_title_has_no_printing_year_when_there_is_none_or_it_matches_the_edition
@@ -129,8 +143,13 @@ class MapperTest < Minitest::Test
     assert_equal ['Geological Survey (U.S.)', 'United States. Department of Commerce'], record['dct_publisher_sm']
   end
 
-  def test_relations_are_left_out_when_there_are_none
-    refute map('363059').key?('dct_relation_sm')
+  # Only typed relationships are kept: collection membership, but no generic "related to" links
+  def test_records_have_no_generic_relations
+    ROWS.each_key do |scan_id|
+      record = map(scan_id)
+      refute record.key?('dct_relation_sm'), "#{scan_id} has dct_relation_sm"
+      assert_equal ['usgs-htmc'], record['pcdm_memberOf_sm']
+    end
   end
 
   def test_every_record_has_the_required_fields
@@ -140,6 +159,91 @@ class MapperTest < Minitest::Test
         assert record[field], "#{scan_id} is missing #{field}"
       end
     end
+  end
+
+  def test_sheet
+    sheet = Mapper.sheet(ROWS['314262'])
+    base = 'https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo'
+
+    assert_equal 'Feature', sheet['type']
+    assert_equal({ 'type' => 'Polygon',
+                   'coordinates' => [[[-112, 36], [-112, 36.25], [-112.25, 36.25], [-112.25, 36], [-112, 36]]] },
+                 sheet['geometry'])
+    assert_equal({
+                   'label' => 'Bright Angel 1906 (printed 1918)', 'title' => 'Bright Angel', 'datePub' => '1906',
+                   'dateSurvey' => '1903', 'dateReprnt' => '1918', 'scale' => '1:48,000',
+                   'publisher' => 'U.S. Geological Survey', 'available' => true, 'recId' => 'usgs-htmc-314262',
+                   'websiteUrl' => 'https://www.sciencebase.gov/catalog/item/5a8a3d3ee4b00f54eb3e85f2',
+                   'download' => "#{base}/GeoTIFF/AZ/AZ_Bright%20Angel_314262_1906_48000_geo.tif",
+                   'thumbUrl' => "#{base}/PDF/AZ/48000/AZ_Bright%20Angel_314262_1906_48000_tn.jpg"
+                 }, sheet['properties'])
+  end
+
+  def test_sheet_without_a_later_printing_or_a_known_publisher
+    adjuntas = Mapper.sheet(ROWS['361920'])['properties']
+
+    assert_equal 'Adjuntas NE 1947', adjuntas['label']
+    refute adjuntas.key?('dateReprnt')
+    # Printed in the year of its edition
+    refute Mapper.sheet(ROWS['353820'])['properties'].key?('dateReprnt')
+    refute Mapper.sheet(ROWS['303144'])['properties'].key?('publisher')
+    assert_equal 'U.S. Army Corps of Engineers; Army Map Service',
+                 Mapper.sheet(ROWS['315497'])['properties']['publisher']
+  end
+
+  def test_index_map_states
+    assert_equal %w[AZ UT], Mapper.new(ROWS['315497']).index_map_states
+    # British Columbia gets no index map
+    assert_equal ['AK'], Mapper.new(ROWS['353820']).index_map_states
+    # No state_list, so just the primary state
+    assert_equal ['CA'], Mapper.new(ROWS['363059']).index_map_states
+  end
+
+  def test_geojson_geometry
+    assert_equal({ 'type' => 'MultiPolygon',
+                   'coordinates' => [[[[1, 2], [3, 4.5], [1, 2]]], [[[5, 6], [7, 8], [5, 6]]]] },
+                 Mapper.geojson_geometry('MULTIPOLYGON(((1 2,3 4.5,1 2)),((5 6,7 8,5 6)))'))
+    assert_equal [[[-89.375, 43], [-89.25, 43]]],
+                 Mapper.geojson_geometry('POLYGON((-89.37500000 43.00000000,-89.25 43))')['coordinates']
+    assert_nil Mapper.geojson_geometry('POINT(1 2)')
+    assert_nil Mapper.geojson_geometry(nil)
+  end
+
+  def test_index_map_record
+    url = 'https://example.com/usgs-htmc-index-az-48000.geojson'
+    record = Mapper.index_map(state: 'AZ', scale: '48000', maps: 4, sheets: 2, west: -112.25, east: -111.75,
+                              north: 36.25, south: 36.0, first_year: 1903, last_year: 1907, modified: '2022-11-17',
+                              url: url, bytes: 2_345)
+
+    assert_equal 'usgs-htmc-index-az-48000', record['id']
+    assert_equal 'Index to USGS 1:48000-scale Quadrangles of Arizona', record['dct_title_s']
+    assert_equal 'Outlines of the USGS topographic maps at 1:48,000 scale that cover Arizona, from the Historical ' \
+                 'Topographic Map Collection: 4 maps of 2 sheets, dated 1903 to 1907.',
+                 record['dct_description_sm'].first
+    assert_equal ['1903-1907'], record['dct_temporal_sm']
+    assert_equal [1903, 1904, 1905, 1906, 1907], record['gbl_indexYear_im']
+    assert_equal ['[1903 TO 1907]'], record['gbl_dateRange_drsim']
+    assert_equal ['Arizona'], record['dct_spatial_sm']
+    assert_equal ['Maps'], record['gbl_resourceClass_sm']
+    assert_equal ['Index maps', 'Topographic maps'], record['gbl_resourceType_sm']
+    assert_equal 'GeoJSON', record['dct_format_s']
+    assert_equal 'ENVELOPE(-112.25, -111.75, 36.25, 36)', record['dcat_bbox']
+    assert_equal ['usgs-htmc'], record['pcdm_memberOf_sm']
+    assert_equal ['https://creativecommons.org/publicdomain/zero/1.0/'], record['dct_license_sm']
+    assert_equal '2022-11-17T00:00:00Z', record['gbl_mdModified_dt']
+    assert_equal({ 'https://openindexmaps.org' => url,
+                   'http://schema.org/downloadUrl' => [{ 'url' => url, 'label' => 'GeoJSON (3 KB)' }] },
+                 JSON.parse(record['dct_references_s']))
+  end
+
+  def test_index_map_record_for_maps_of_a_single_year
+    record = Mapper.index_map(state: 'DE', scale: '24000', maps: 2, sheets: 2, west: -75.375, east: -75.125,
+                              north: 39.125, south: 39.0, first_year: 1949, last_year: 1949, modified: '2022-11-17',
+                              url: 'https://example.com/usgs-htmc-index-de-24000.geojson', bytes: 8_500_000)
+
+    assert_match(/Collection: 2 maps of 2 sheets, dated 1949\.\z/, record['dct_description_sm'].first)
+    assert_equal ['1949'], record['dct_temporal_sm']
+    assert_equal 'GeoJSON (8.5 MB)', JSON.parse(record['dct_references_s'])['http://schema.org/downloadUrl'][0]['label']
   end
 
   def test_collection_record

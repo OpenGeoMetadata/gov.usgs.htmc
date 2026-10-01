@@ -2,14 +2,21 @@ require 'json'
 require_relative 'places'
 
 # Maps one row of USGS's inventory of the Historical Topographic Map Collection (HTMC) to an OGM
-# Aardvark record, and builds the collection-level record every map is a member of.
+# Aardvark record, and builds the collection-level record every map is a member of. Also describes each
+# map as a sheet of an OpenIndexMaps index map, and builds the records for those index maps.
 class Mapper
   ID_PREFIX = 'usgs-htmc-'
+  INDEX_MAP_PREFIX = "#{ID_PREFIX}index-".freeze
   COLLECTION_ID = 'usgs-htmc'
   COLLECTION_URL = 'https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past'
   PROVIDER = 'U.S. Geological Survey'
   RIGHTS = 'USGS-authored or produced data and information are considered to be in the U.S. Public Domain.'
   PUBLIC_DOMAIN_MARK = 'https://creativecommons.org/publicdomain/mark/1.0/'
+
+  # Index maps are generated here rather than by USGS, so they carry this repository's own license
+  INDEX_MAP_RIGHTS = 'This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in ' \
+                     'the U.S. Public Domain.'
+  CC0 = 'https://creativecommons.org/publicdomain/zero/1.0/'
 
   # USGS's own description of the collection, from The National Map's dataset list
   COLLECTION_DESCRIPTION = [
@@ -57,14 +64,34 @@ class Mapper
 
   # Map a single inventory row to OGM Aardvark
   # @param row [Hash] one row of historicaltopo.csv, keyed by column name
-  # @param related_ids [Array<String>] ids of the other maps of the same GNIS cell
   # @return [Hash] mapped OGM Aardvark JSON
-  def self.map(row, related_ids: [])
-    new(row, related_ids: related_ids).map
+  def self.map(row)
+    new(row).map
   end
 
   def self.record_id(scan_id)
     "#{ID_PREFIX}#{scan_id}"
+  end
+
+  # The map's outline as a sheet of an OpenIndexMaps index map: a GeoJSON feature
+  def self.sheet(row)
+    new(row).sheet
+  end
+
+  # e.g. usgs-htmc-index-ca-24000, the index map of the 1:24,000-scale maps covering California
+  def self.index_map_id(state_code, scale)
+    "#{INDEX_MAP_PREFIX}#{state_code.downcase}-#{scale}"
+  end
+
+  # Whether a row has the GeoTIFF a record needs. For some maps the inventory has "Unregistered" in place
+  # of a GeoTIFF URL, and without a GeoTIFF there's nothing to preview.
+  def self.geotiff?(row)
+    link?(row['geotiff_url'])
+  end
+
+  # Whether a column holds a web address rather than a placeholder
+  def self.link?(field)
+    field.to_s.strip.start_with?('https://', 'http://')
   end
 
   # The collection-level record. Its extent, years and modification date summarize the whole inventory,
@@ -101,6 +128,52 @@ class Mapper
     )
   end
 
+  # The record for one index map: the maps at one scale that cover one U.S. state or territory. Like the
+  # collection record, it summarizes its maps, so it only changes when they do.
+  # @param maps [Integer] how many maps the index map outlines
+  # @param sheets [Integer] how many distinct outlines those maps have between them
+  # @param url [String] where the index map's GeoJSON is published
+  # @param bytes [Integer] the GeoJSON's size
+  def self.index_map(state:, scale:, maps:, sheets:, west:, east:, north:, south:, first_year:, last_year:, modified:,
+                     url:, bytes:)
+    place = Places.name(state)
+    envelope = format_envelope(west, east, north, south)
+    years = [first_year, last_year].compact.uniq
+    compact(
+      'id' => index_map_id(state, scale),
+      'dct_title_s' => "Index to USGS 1:#{scale}-scale Quadrangles of #{place}",
+      'dct_description_sm' => [
+        "Outlines of the USGS topographic maps at 1:#{grouped(scale)} scale that cover #{place}, from the Historical " \
+        "Topographic Map Collection: #{counted(maps, 'map')} of #{counted(sheets, 'sheet')}" \
+        "#{", dated #{years.join(' to ')}" if years.any?}.",
+        "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each " \
+        "outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+      ],
+      'dct_temporal_sm' => years.any? ? [years.join('-')] : nil,
+      'gbl_indexYear_im' => years.any? ? (years.first..years.last).to_a : nil,
+      'gbl_dateRange_drsim' => years.any? ? ["[#{years.first} TO #{years.last}]"] : nil,
+      'dct_spatial_sm' => [place],
+      'dct_language_sm' => ['eng'],
+      'schema_provider_s' => PROVIDER,
+      'gbl_resourceClass_sm' => ['Maps'],
+      'gbl_resourceType_sm' => ['Index maps', 'Topographic maps'],
+      'dcat_keyword_sm' => ['Historical Topographic Maps'],
+      'dct_format_s' => 'GeoJSON',
+      'locn_geometry' => envelope,
+      'dcat_bbox' => envelope,
+      'pcdm_memberOf_sm' => [COLLECTION_ID],
+      'dct_rights_sm' => [INDEX_MAP_RIGHTS],
+      'dct_license_sm' => [CC0],
+      'dct_accessRights_s' => 'Public',
+      'gbl_mdModified_dt' => "#{modified}T00:00:00Z",
+      'gbl_mdVersion_s' => 'Aardvark',
+      'dct_references_s' => {
+        'https://openindexmaps.org' => url,
+        'http://schema.org/downloadUrl' => [{ 'url' => url, 'label' => "GeoJSON (#{size_label(bytes)})" }]
+      }.to_json
+    )
+  end
+
   # Solr's ENVELOPE(west, east, north, south) syntax. west > east crosses the antimeridian.
   def self.format_envelope(west, east, north, south)
     "ENVELOPE(#{[west, east, north, south].map { |coordinate| format_coordinate(coordinate) }.join(', ')})"
@@ -111,16 +184,50 @@ class Mapper
     format('%.8f', Float(value)).sub(/0+\z/, '').sub(/\.\z/, '')
   end
 
+  # A coordinate as a JSON number, without the inventory's padding
+  def self.coordinate(value)
+    text = format_coordinate(value)
+    text.include?('.') ? Float(text) : Integer(text)
+  end
+
+  # GeoJSON for the inventory's WKT, which is always a POLYGON or MULTIPOLYGON; nil for anything else
+  def self.geojson_geometry(wkt)
+    type = { 'POLYGON' => 'Polygon', 'MULTIPOLYGON' => 'MultiPolygon' }[wkt.to_s[/\A\s*([A-Z]+)\s*\(/, 1]]
+    return nil unless type
+
+    # The parentheses nest just as GeoJSON's arrays do, so the WKT turns into them in place
+    nested = wkt.sub(/\A\s*[A-Z]+\s*/, '').gsub(/(-?[\d.]+)\s+(-?[\d.]+)/) do
+      "[#{coordinate(Regexp.last_match(1))},#{coordinate(Regexp.last_match(2))}]"
+    end
+    { 'type' => type, 'coordinates' => JSON.parse(nested.tr('()', '[]')) }
+  rescue JSON::ParserError, ArgumentError
+    nil
+  end
+
+  # 48000 -> "48,000"
+  def self.grouped(number)
+    number.to_s.gsub(/\B(?=(\d{3})+(?!\d))/, ',')
+  end
+
+  # e.g. "1 map", "2,879 sheets"
+  def self.counted(number, noun)
+    "#{grouped(number)} #{noun}#{'s' unless number == 1}"
+  end
+
+  # e.g. "8.0 MB", or "3 KB" for a small file
+  def self.size_label(bytes)
+    bytes >= 100_000 ? format('%.1f MB', bytes / 1_000_000.0) : "#{(bytes / 1000.0).ceil} KB"
+  end
+
   # Drop fields with nothing to say, so records don't carry empty strings or arrays
   def self.compact(record)
     record.reject { |_key, field| field.nil? || (field.respond_to?(:empty?) && field.empty?) }
   end
 
-  attr_reader :row, :related_ids
+  attr_reader :row
 
-  def initialize(row, related_ids: [])
+  def initialize(row)
     @row = row.to_h.transform_values { |field| field.to_s.strip }
-    @related_ids = related_ids
   end
 
   # Perform the metadata mapping to OGM Aardvark. Keys follow the order of GeoBlacklight's own records
@@ -151,7 +258,6 @@ class Mapper
       'dcat_bbox' => envelope,
       'dcat_centroid' => centroid,
       'pcdm_memberOf_sm' => [COLLECTION_ID],
-      'dct_relation_sm' => related_ids,
       'dct_rights_sm' => [RIGHTS],
       'dct_license_sm' => [PUBLIC_DOMAIN_MARK],
       'dct_accessRights_s' => 'Public',
@@ -161,12 +267,49 @@ class Mapper
     )
   end
 
+  # The map as a sheet of an OpenIndexMaps index map (https://openindexmaps.org/specification/1.0.0): its
+  # outline, and properties that tell it apart from the other editions and printings stacked on the same
+  # outline. The label is what viewers show on hover and above the sheet's details.
+  # @return [Hash] a GeoJSON feature
+  def sheet
+    {
+      'type' => 'Feature',
+      'properties' => self.class.compact(
+        'label' => [value('map_name'), value('date_on_map')].compact.join(' ') +
+                   (later_printing ? " (printed #{later_printing})" : ''),
+        'title' => value('map_name'),
+        'datePub' => value('date_on_map'),
+        'dateSurvey' => value('survey_year'),
+        'dateReprnt' => later_printing,
+        'scale' => "1:#{self.class.grouped(value('map_scale'))}",
+        'publisher' => publisher_codes.map { |code| PUBLISHERS[code].last.delete_prefix('the ') }.uniq.join('; '),
+        'available' => true,
+        'recId' => self.class.record_id(value('scan_id')),
+        'websiteUrl' => link('sciencebase_url'),
+        'download' => link('geotiff_url'),
+        'thumbUrl' => link('thumbnail_url')
+      ),
+      'geometry' => self.class.geojson_geometry(value('geom_wkt')) || bounding_polygon
+    }
+  end
+
+  # The U.S. states and territories the map covers, whose index maps it belongs in: those in state_list,
+  # plus the primary state, which state_list occasionally leaves out. Canada and Mexico get no index maps.
+  def index_map_states
+    (state_codes + list(Places.code(value('primary_state')))).select { |code| Places.us?(code) }.uniq
+  end
+
   private
 
   # A column's value, or nil when it's empty or the inventory's "not applicable" placeholder
   def value(key)
     field = row[key]
     field.nil? || field.empty? || field == 'NA' ? nil : field
+  end
+
+  # A link column's value, or nil when it holds a placeholder instead of a URL
+  def link(key)
+    value(key) if self.class.link?(row[key])
   end
 
   def list(*values)
@@ -179,8 +322,13 @@ class Mapper
   def title
     title = "USGS 1:#{value('map_scale')}-scale Quadrangle for #{value('map_name')}, " \
             "#{state_code} #{value('date_on_map')}"
+    later_printing ? "#{title} (printed #{later_printing})" : title
+  end
+
+  # The year this copy was printed, when that's later than the edition it's a printing of
+  def later_printing
     printed = value('imprint_year')
-    printed && printed != value('date_on_map') ? "#{title} (printed #{printed})" : title
+    printed unless printed == value('date_on_map')
   end
 
   # The primary state's code, which USGS uses in titles and file names
@@ -194,7 +342,7 @@ class Mapper
 
   def edition_paragraph
     sentence = "Scan of the #{value('date_on_map')} edition of the #{value('map_name')}, #{value('primary_state')}, " \
-               "topographic map at 1:#{grouped(value('map_scale'))} scale"
+               "topographic map at 1:#{self.class.grouped(value('map_scale'))} scale"
     sentence += " (#{series} series)" if series
     sentence += ", published by #{publisher_phrase}" if publisher_phrase
     [sentence + '.', production_sentence].compact.join(' ')
@@ -281,11 +429,18 @@ class Mapper
 
   # The ScienceBase item and the inventory's product UUID, which survives a rescan
   def identifiers
-    list(value('sciencebase_url'), value('product_inventory_uuid')&.then { |uuid| "urn:uuid:#{uuid}" })
+    list(link('sciencebase_url'), value('product_inventory_uuid')&.then { |uuid| "urn:uuid:#{uuid}" })
   end
 
   def envelope
     self.class.format_envelope(value('westbc'), value('eastbc'), value('northbc'), value('southbc'))
+  end
+
+  # The bounding box as a GeoJSON polygon, counterclockwise as GeoJSON prefers
+  def bounding_polygon
+    west, east, north, south = %w[westbc eastbc northbc southbc].map { |key| self.class.coordinate(value(key)) }
+    ring = [[west, south], [east, south], [east, north], [west, north], [west, south]]
+    { 'type' => 'Polygon', 'coordinates' => [ring] }
   end
 
   # "latitude,longitude" of the map's center
@@ -296,14 +451,14 @@ class Mapper
 
   def references
     downloads = [['product_url', "GeoPDF#{file_size}"], ['geotiff_url', 'GeoTIFF']].filter_map do |key, label|
-      { 'url' => value(key), 'label' => label } if value(key)
+      { 'url' => link(key), 'label' => label } if link(key)
     end
     self.class.compact(
-      'https://github.com/cogeotiff/cog-spec' => value('geotiff_url'),
+      'https://github.com/cogeotiff/cog-spec' => link('geotiff_url'),
       'http://schema.org/downloadUrl' => downloads,
-      'http://www.opengis.net/cat/csw/csdgm' => value('metadata_url'),
-      'http://schema.org/url' => value('sciencebase_url'),
-      'http://schema.org/thumbnailUrl' => value('thumbnail_url')
+      'http://www.opengis.net/cat/csw/csdgm' => link('metadata_url'),
+      'http://schema.org/url' => link('sciencebase_url'),
+      'http://schema.org/thumbnailUrl' => link('thumbnail_url')
     )
   end
 
@@ -311,10 +466,5 @@ class Mapper
   def file_size
     bytes = value('product_filesize')&.to_i
     bytes&.positive? ? format(' (%.1f MB)', bytes / 1_000_000.0) : ''
-  end
-
-  # 48000 -> "48,000"
-  def grouped(number)
-    number.to_s.gsub(/\B(?=(\d{3})+(?!\d))/, ',')
   end
 end

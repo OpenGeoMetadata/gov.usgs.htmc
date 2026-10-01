@@ -50,6 +50,11 @@ module Places
     CODES[name]
   end
 
+  # Whether a code is a U.S. state, the District of Columbia, or a territory
+  def self.us?(code)
+    US_STATES.key?(code) || US_TERRITORIES.key?(code)
+  end
+
   # County-level places for a map that lies within one U.S. state or territory, qualified by
   # that state so that e.g. the many Washington Counties stay distinct. The inventory gives
   # bare names, so the kind of unit is inferred from the state and the name's own suffix.

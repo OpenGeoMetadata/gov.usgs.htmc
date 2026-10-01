@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A metadata-aardvark/
+          git add -A metadata-aardvark/ index-maps/
           # The withdrawal log only exists once a map has left the inventory
           if [ -f withdrawn.json ]; then git add withdrawn.json; fi
           git diff --staged --quiet || git commit -m "Auto-update from daily harvest"

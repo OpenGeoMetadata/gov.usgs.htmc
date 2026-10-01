@@ -1,0 +1,58 @@
+{
+  "id": "usgs-htmc-index-pa-31680",
+  "dct_title_s": "Index to USGS 1:31680-scale Quadrangles of Pennsylvania",
+  "dct_description_sm": [
+    "Outlines of the USGS topographic maps at 1:31,680 scale that cover Pennsylvania, from the Historical Topographic Map Collection: 123 maps of 83 sheets, dated 1940 to 1948.",
+    "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+  ],
+  "dct_temporal_sm": [
+    "1940-1948"
+  ],
+  "gbl_indexYear_im": [
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948
+  ],
+  "gbl_dateRange_drsim": [
+    "[1940 TO 1948]"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoJSON",
+  "locn_geometry": "ENVELOPE(-78.5, -74.625, 41.75, 39.625)",
+  "dcat_bbox": "ENVELOPE(-78.5, -74.625, 41.75, 39.625)",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-pa-31680.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-pa-31680.geojson\",\"label\":\"GeoJSON (86 KB)\"}]}"
+}

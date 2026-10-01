@@ -54,16 +54,6 @@
   "pcdm_memberOf_sm": [
     "usgs-htmc"
   ],
-  "dct_relation_sm": [
-    "usgs-htmc-276692",
-    "usgs-htmc-276693",
-    "usgs-htmc-276694",
-    "usgs-htmc-276695",
-    "usgs-htmc-276697",
-    "usgs-htmc-277549",
-    "usgs-htmc-277947",
-    "usgs-htmc-471093"
-  ],
   "dct_rights_sm": [
     "USGS-authored or produced data and information are considered to be in the U.S. Public Domain."
   ],

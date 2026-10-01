@@ -1,0 +1,50 @@
+{
+  "id": "usgs-htmc-index-ak-50000",
+  "dct_title_s": "Index to USGS 1:50000-scale Quadrangles of Alaska",
+  "dct_description_sm": [
+    "Outlines of the USGS topographic maps at 1:50,000 scale that cover Alaska, from the Historical Topographic Map Collection: 30 maps of 30 sheets, dated 1962.",
+    "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+  ],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_dateRange_drsim": [
+    "[1962 TO 1962]"
+  ],
+  "dct_spatial_sm": [
+    "Alaska"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoJSON",
+  "locn_geometry": "ENVELOPE(-160.2, -142.2, 71.5, 69.75)",
+  "dcat_bbox": "ENVELOPE(-160.2, -142.2, 71.5, 69.75)",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-17T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-ak-50000.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-ak-50000.geojson\",\"label\":\"GeoJSON (22 KB)\"}]}"
+}

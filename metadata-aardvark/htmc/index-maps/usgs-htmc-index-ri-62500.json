@@ -1,0 +1,100 @@
+{
+  "id": "usgs-htmc-index-ri-62500",
+  "dct_title_s": "Index to USGS 1:62500-scale Quadrangles of Rhode Island",
+  "dct_description_sm": [
+    "Outlines of the USGS topographic maps at 1:62,500 scale that cover Rhode Island, from the Historical Topographic Map Collection: 154 maps of 15 sheets, dated 1885 to 1935.",
+    "Each map is outlined separately, so a sheet's editions and printings overlap, with the latest on top. Each outline gives the map's record ID and links to its GeoTIFF, thumbnail and ScienceBase page."
+  ],
+  "dct_temporal_sm": [
+    "1885-1935"
+  ],
+  "gbl_indexYear_im": [
+    1885,
+    1886,
+    1887,
+    1888,
+    1889,
+    1890,
+    1891,
+    1892,
+    1893,
+    1894,
+    1895,
+    1896,
+    1897,
+    1898,
+    1899,
+    1900,
+    1901,
+    1902,
+    1903,
+    1904,
+    1905,
+    1906,
+    1907,
+    1908,
+    1909,
+    1910,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1920,
+    1921,
+    1922,
+    1923,
+    1924,
+    1925,
+    1926,
+    1927,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1935
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1935]"
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "U.S. Geological Survey",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Index maps",
+    "Topographic maps"
+  ],
+  "dcat_keyword_sm": [
+    "Historical Topographic Maps"
+  ],
+  "dct_format_s": "GeoJSON",
+  "locn_geometry": "ENVELOPE(-72, -71, 42.25, 41)",
+  "dcat_bbox": "ENVELOPE(-72, -71, 42.25, 41)",
+  "pcdm_memberOf_sm": [
+    "usgs-htmc"
+  ],
+  "dct_rights_sm": [
+    "This index map is dedicated to the public domain under CC0 1.0. The maps it outlines are in the U.S. Public Domain."
+  ],
+  "dct_license_sm": [
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-ri-62500.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-ri-62500.geojson\",\"label\":\"GeoJSON (0.1 MB)\"}]}"
+}
