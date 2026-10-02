@@ -1,4 +1,4 @@
-# gov.usgs
+# gov.usgs.htmc
 
 This repository contains [OpenGeoMetadata Aardvark](https://opengeometadata.org/ogm-aardvark/) records for the U.S. Geological Survey's [Historical Topographic Map Collection](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past) (HTMC): scans of all scales and editions of the topographic maps USGS published from 1884 to 2006, about 186,000 maps.
 
