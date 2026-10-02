@@ -27,7 +27,7 @@ class Harvester
   WITHDRAWN_FILE = 'withdrawn.json'
 
   # Where the index map records say their GeoJSON is: INDEX_MAP_DIR, as GitHub serves it
-  INDEX_MAP_URL = 'https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc'
+  INDEX_MAP_URL = 'https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs.htmc/main/index-maps/htmc'
 
   WITHDRAWALS_SCHEMA = 'https://opengeometadata.org/schema/ogm-withdrawals-1.0.json'
 

@@ -106,5 +106,5 @@
   "dct_accessRights_s": "Public",
   "gbl_mdModified_dt": "2022-11-19T00:00:00Z",
   "gbl_mdVersion_s": "Aardvark",
-  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-nj-125000.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs/main/index-maps/htmc/usgs-htmc-index-nj-125000.geojson\",\"label\":\"GeoJSON (24 KB)\"}]}"
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs.htmc/main/index-maps/htmc/usgs-htmc-index-nj-125000.geojson\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://raw.githubusercontent.com/OpenGeoMetadata/gov.usgs.htmc/main/index-maps/htmc/usgs-htmc-index-nj-125000.geojson\",\"label\":\"GeoJSON (24 KB)\"}]}"
 }
