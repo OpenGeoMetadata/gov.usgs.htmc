@@ -5,18 +5,18 @@
     "Brunswick"
   ],
   "dct_description_sm": [
-    "Scan of the 1946 edition of the Brunswick, Georgia, topographic map at 1:250,000 scale (1 x 2 degree series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Surveyed in 1945; aerial photographs from 1944; printed in 1948.",
+    "Scan of the 1946 edition of the Brunswick, Georgia, topographic map at 1:250,000 scale (1 x 2 degree series), published by the Army Map Service, the War Department, and the U.S. Army Corps of Engineers. Surveyed in 1945; aerial photographs from 1944; printed in 1948.",
     "Variations: woodland tint, shaded relief, planimetric. Sheet size: 34.3 x 23.6 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1946",
   "dct_temporal_sm": [

@@ -5,21 +5,21 @@
     "Fox Mountain"
   ],
   "dct_description_sm": [
-    "Scan of the 1943 edition of the Fox Mountain, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, the Army Map Service, the War Department, and the U.S. Forest Service. Aerial photographs from 1942; printed in 1963.",
+    "Scan of the 1943 edition of the Fox Mountain, California, topographic map at 1:24,000 scale (7.5 x 7.5 minute series), published by the Army Map Service, the War Department, the U.S. Geological Survey, the U.S. Army Corps of Engineers, and the U.S. Forest Service. Aerial photographs from 1942; printed in 1963.",
     "Variations: woodland tint. Sheet size: 22 x 26.8 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.)",
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
     "United States. War Department",
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
     "United States. Forest Service"
   ],
   "dct_publisher_sm": [
-    "Geological Survey (U.S.)",
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
     "United States. War Department",
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers",
     "United States. Forest Service"
   ],
   "dct_issued_s": "1943",

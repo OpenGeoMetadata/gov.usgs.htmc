@@ -5,20 +5,20 @@
     "Monticello"
   ],
   "dct_description_sm": [
-    "Scan of the 1943 edition of the Monticello, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Geological Survey, the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Surveyed in 1909; aerial photographs from 1942; printed in 1961.",
+    "Scan of the 1943 edition of the Monticello, New York, topographic map at 1:62,500 scale (15 x 15 minute series), published by the Army Map Service, the War Department, the U.S. Geological Survey, and the U.S. Army Corps of Engineers. Surveyed in 1909; aerial photographs from 1942; printed in 1961.",
     "Sheet size: 16.83 x 20.76 inches. Printed projection: not stated; horizontal datum: not stated. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.)",
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "Geological Survey (U.S.)",
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "Geological Survey (U.S.)",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1943",
   "dct_temporal_sm": [

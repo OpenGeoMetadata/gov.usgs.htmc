@@ -5,18 +5,18 @@
     "Alsatia"
   ],
   "dct_description_sm": [
-    "Scan of the 1939 edition of the Alsatia, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Last revised in 1939; printed in 1957.",
+    "Scan of the 1939 edition of the Alsatia, Mississippi, topographic map at 1:62,500 scale (15 x 15 minute series), published by the Army Map Service, the War Department, and the U.S. Army Corps of Engineers. Last revised in 1939; printed in 1957.",
     "Variations: woodland tint. Sheet size: 17.9 x 21.7 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1939",
   "dct_temporal_sm": [

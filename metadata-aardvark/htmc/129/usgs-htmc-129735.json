@@ -5,18 +5,18 @@
     "Holmesville"
   ],
   "dct_description_sm": [
-    "Scan of the 1945 edition of the Holmesville, New York, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers, the War Department, and the Tennessee Valley Authority. Aerial photographs from 1942.",
+    "Scan of the 1945 edition of the Holmesville, New York, topographic map at 1:31,680 scale (7.5 x 7.5 minute series), published by the War Department, the Tennessee Valley Authority, and the U.S. Army Corps of Engineers. Aerial photographs from 1942.",
     "Variations: woodland tint. Sheet size: 17 x 21.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. War Department",
-    "Tennessee Valley Authority"
+    "Tennessee Valley Authority",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. War Department",
-    "Tennessee Valley Authority"
+    "Tennessee Valley Authority",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1945",
   "dct_temporal_sm": [

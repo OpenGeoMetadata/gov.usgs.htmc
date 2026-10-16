@@ -5,18 +5,18 @@
     "Pass-A-Grille"
   ],
   "dct_description_sm": [
-    "Scan of the 1949 edition of the Pass-A-Grille, Florida, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Printed in 1949.",
+    "Scan of the 1949 edition of the Pass-A-Grille, Florida, topographic map at 1:25,000 scale (7.5 x 7.5 minute series), published by the Army Map Service, the War Department, and the U.S. Army Corps of Engineers. Printed in 1949.",
     "Variations: woodland tint. Sheet size: 23 x 28.7 inches. Printed projection: Transverse Mercator; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1949",
   "dct_temporal_sm": [

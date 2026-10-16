@@ -5,18 +5,18 @@
     "Quinsigamond"
   ],
   "dct_description_sm": [
-    "Scan of the 1943 edition of the Quinsigamond, Massachusetts, topographic map at 1:125,000 scale (30 x 30 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Aerial photographs from 1938.",
+    "Scan of the 1943 edition of the Quinsigamond, Massachusetts, topographic map at 1:125,000 scale (30 x 30 minute series), published by the Army Map Service, the War Department, and the U.S. Army Corps of Engineers. Aerial photographs from 1938.",
     "Variations: woodland tint. Sheet size: 15.9 x 20.9 inches. Printed projection: Polyconic; horizontal datum: NAD27. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1943",
   "dct_temporal_sm": [

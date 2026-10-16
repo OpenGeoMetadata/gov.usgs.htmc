@@ -5,18 +5,18 @@
     "Covesville"
   ],
   "dct_description_sm": [
-    "Scan of the 1945 edition of the Covesville, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the U.S. Army Corps of Engineers, the Army Map Service, and the War Department. Aerial photographs from 1943.",
+    "Scan of the 1945 edition of the Covesville, Virginia, topographic map at 1:62,500 scale (15 x 15 minute series), published by the Army Map Service, the War Department, and the U.S. Army Corps of Engineers. Aerial photographs from 1943.",
     "Variations: woodland tint. Sheet size: 17.85 x 21.76 inches. Printed projection: Polyconic; horizontal datum: NAD. From the USGS Historical Topographic Map Collection."
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
-    "United States. Army. Corps of Engineers",
     "United States. Army Map Service",
-    "United States. War Department"
+    "United States. War Department",
+    "United States. Army. Corps of Engineers"
   ],
   "dct_issued_s": "1945",
   "dct_temporal_sm": [
