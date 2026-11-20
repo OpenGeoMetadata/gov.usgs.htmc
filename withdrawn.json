@@ -77527,6 +77527,11 @@
       "date": "2026-09-30",
       "reason": "quality",
       "note": "USGS's inventory no longer lists a GeoTIFF for this map."
+    },
+    {
+      "id": "usgs-htmc-303195",
+      "date": "2026-11-20",
+      "reason": "upstream-removed"
     }
   ]
 }
